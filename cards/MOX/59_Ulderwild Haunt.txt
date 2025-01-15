@@ -1,0 +1,1 @@
+﻿Ulderwild Haunt	U	rare	Creature – Spirit 	59	U	2U	FlashNEWLINEFlyingNEWLINEWhenever you cast a spell with flash or flying, draw a card, then discard a card.NEWLINEOther creatures you control with flash or flying get +1/+1.	2/2		normal	MOX		

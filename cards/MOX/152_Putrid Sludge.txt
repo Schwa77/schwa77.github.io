@@ -1,0 +1,1 @@
+﻿Putrid Sludge	G	uncommon	Creature – Ooze 	152	G	3G	When Putrid Sludge enters the battlefield, destroy up to one target artifact or enchantment.NEWLINENocturnal 1G (You may cast this spell for its nocturnal cost. If you do, it enters the battlefield tapped with a stun counter on it. Remove one instead of untapping.)	3/2		normal	MOX		https://www.artstation.com/artwork/8nwlO

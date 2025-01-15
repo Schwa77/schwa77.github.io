@@ -1,0 +1,1 @@
+﻿Carnivorous Seedling	G	common	Creature – Plant 	134	G	2G	Reap–3G: Put a +1/+1 counter on Carnivorous Seedling. (Activate this ability only once each turn and only as a sorcery. It costs 0 if a creature you controlled died this turn.)	3/2		normal	MOX		https://www.artstation.com/artwork/3qDPlY

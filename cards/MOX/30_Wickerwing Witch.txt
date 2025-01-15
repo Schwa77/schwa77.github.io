@@ -1,0 +1,1 @@
+﻿Wickerwing Witch	W	mythic	Creature – Human Warlock 	30	W	2WW	FlyingNEWLINEIf an ability of a creature you control with flying triggers, that ability triggers an additional time.	4/3		normal	MOX		

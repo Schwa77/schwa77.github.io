@@ -1,0 +1,1 @@
+﻿Dread Whispers	U	common	Instant	39	U	3UU	Draw three cards. Target player mills three cards.			normal	MOX		

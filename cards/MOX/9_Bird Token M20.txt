@@ -1,0 +1,1 @@
+﻿Bird Token (M20)	B	common	Token Creature – Bird 	9	B		FlyingNEWLINEThis creature can’t block.	1/1		token	MOX		https://www.artstation.com/artwork/L2nYBvNEWLINENEWLINE!exportname Bird Token (M20)

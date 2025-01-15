@@ -1,0 +1,1 @@
+﻿Bloodbirthed Crawler	R	common	Creature – Spider 	103	R	4R	ReachNEWLINEReap–4R: Bloodbirthed Crawler deals 2 damage to each opponent. (Activate this ability only once each turn and only as a sorcery. It costs 0 if a creature you controlled died this turn.)	4/3		normal	MOX		

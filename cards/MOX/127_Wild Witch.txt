@@ -1,0 +1,1 @@
+﻿Wild Witch	R	common	Creature – Human Warlock 	127	R	1R	Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)	2/1		normal	MOX		https://www.artstation.com/artwork/nYOkor

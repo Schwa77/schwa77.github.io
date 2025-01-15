@@ -1,0 +1,1 @@
+﻿Sporecap Warden	BG	uncommon	Creature – Fungus 	181	BG	2BG	When Sporecap Warden enters the battlefield, return target creature card from your graveyard to your hand. If it was put there from the battlefield this turn, instead return it to the battlefield tapped.NEWLINEIf Sporecap Warden would die, exile it instead.	3/3		normal	MOX		https://www.artstation.com/artwork/D5E8Rn

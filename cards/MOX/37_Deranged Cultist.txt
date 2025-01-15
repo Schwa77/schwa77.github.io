@@ -1,0 +1,1 @@
+﻿Deranged Cultist	U	common	Creature – Human Warlock 	37	U	2U	When Deranged Cultist dies, draw a card.NEWLINENocturnal U (You may cast this spell for its nocturnal cost. If you do, it enters the battlefield tapped with a stun counter on it. Remove one instead of untapping.)	2/2		normal	MOX		https://www.artstation.com/artwork/XKJQD

@@ -1,0 +1,1 @@
+﻿Wrapped in Spidersilk	U	uncommon	Enchantment – Aura 	64	U	U	Enchant creatureNEWLINEWhenever enchanted creature becomes tapped, put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)			normal	MOX		https://www.artstation.com/artwork/VQD2g

@@ -1,0 +1,1 @@
+﻿Knight of Autumn	WG	rare	Creature – Dryad Knight 	175	WG	1GW	When Knight of Autumn enters the battlefield, choose one –NEWLINE• Put two +1/+1 counters on Knight of Autumn.NEWLINE• Destroy target artifact or enchantment.NEWLINE• You gain 4 life.	2/1		normal	MOX		https://www.artstation.com/artwork/58lDRW

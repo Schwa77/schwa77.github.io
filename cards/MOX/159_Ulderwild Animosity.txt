@@ -1,0 +1,1 @@
+﻿Ulderwild Animosity	G	common	Sorcery	159	G	2G	Destroy target artifact, enchantment, or creature with flying. If it has mana value 3 or greater, you gain 2 life.			normal	MOX		https://www.artstation.com/artwork/lYoJa

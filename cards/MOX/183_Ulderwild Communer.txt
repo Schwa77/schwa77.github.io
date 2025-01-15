@@ -1,0 +1,1 @@
+﻿Ulderwild Communer	WG	uncommon	Creature – Human Druid 	183	WG	2GW	When Ulderwild Communer enters the battlefield, if you control an enchantment, create a 2/2 green Wolf creature token.NEWLINEWhenever an enchantment enters the battlefield under your control, create a 2/2 green Wolf creature token.	2/2		normal	MOX		https://www.artstation.com/artwork/5XJXVz

@@ -1,0 +1,1 @@
+﻿Bramblefiend	RG	rare	Creature – Treefolk 	166	RG	3RG	When Bramblefiend enters the battlefield, it fights up to one target creature.NEWLINENocturnal 1RG (You may cast this spell for its nocturnal cost. If you do, it enters the battlefield tapped with a stun counter on it. Remove one instead of untapping.)	4/3		normal	MOX		https://www.artstation.com/artwork/8eWL1E

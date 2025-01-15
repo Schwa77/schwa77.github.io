@@ -1,0 +1,1 @@
+﻿Lady Lurholme, Communer	U	rare	Legendary Creature – Human Wizard 	47	U	4U	Reap–3U: You may cast an instant or sorcery spell from your hand without paying its mana cost. (Activate this ability only once each turn and only as a sorcery. It costs 0 if a creature you controlled died this turn.)	4/4		normal	MOX		

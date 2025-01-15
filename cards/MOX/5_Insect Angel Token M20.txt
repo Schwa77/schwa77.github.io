@@ -1,0 +1,1 @@
+﻿Insect Angel Token (M20)	W	common	Token Creature – Insect Angel 	5	W		Flying, vigilance	4/4		token	MOX		!exportname Insect Angel Token (M20)

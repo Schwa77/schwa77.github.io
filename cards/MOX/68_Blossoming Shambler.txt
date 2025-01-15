@@ -1,0 +1,1 @@
+﻿Blossoming Shambler	B	uncommon	Creature – Zombie 	68	B	1B	When Blossoming Shambler dies, choose one–NEWLINE• Each opponent loses 1 life and you gain 1 life.NEWLINE• Return target creature card with mana value 1 or less from your graveyard to the battlefield.	2/2		normal	MOX		

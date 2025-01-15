@@ -1,0 +1,1 @@
+﻿Window Haunt	U	common	Creature – Spirit 	62	U	U	FlashNEWLINEFlyingNEWLINEWhen Window Haunt enters the battlefield, tap target creature you don’t control.	1/1		normal	MOX		https://www.artstation.com/artwork/wJz9N6

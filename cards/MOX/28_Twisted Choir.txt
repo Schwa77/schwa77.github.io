@@ -1,0 +1,1 @@
+﻿Twisted Choir	W	rare	Enchantment	28	W	W	1, Sacrifice a non-Cleric creature: Create a 1/1 white Cleric creature token with lifelink.NEWLINE3, Sacrifice three Clerics: Create a 4/4 white Insect Angel creature token with flying and vigilance.			normal	MOX		

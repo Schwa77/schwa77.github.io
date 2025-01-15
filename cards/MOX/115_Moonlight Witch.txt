@@ -1,0 +1,1 @@
+﻿Moonlight Witch	R	rare	Creature – Human Warlock 	115	R	3R	Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)NEWLINEReap–3R: Discard your hand, then draw two cards. (Activate this ability only once each turn as a sorcery. It costs 0 if a creature died this turn.)	3/3		normal	MOX		

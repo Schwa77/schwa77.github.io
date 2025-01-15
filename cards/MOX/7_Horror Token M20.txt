@@ -1,0 +1,1 @@
+﻿Horror Token (M20)	U	common	Token Creature – Horror 	7	U			*/*		token	MOX		!exportname Horror Token (M20)

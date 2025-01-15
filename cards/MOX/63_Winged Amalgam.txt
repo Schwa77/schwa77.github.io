@@ -1,0 +1,1 @@
+﻿Winged Amalgam	U	uncommon	Creature – Zombie Bird 	63	U	4UU	This spell costs 1 less to cast for each creature you control with flying.NEWLINEFlying	4/3		normal	MOX		

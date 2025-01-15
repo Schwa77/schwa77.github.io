@@ -1,0 +1,1 @@
+﻿Surula, Swarm's Song	G	rare	Legendary Creature – Spirit Bard 	156	G	5GG	TrampleNEWLINEWhenever another nontoken creature enters the battlefield under your control, create an X/X green Spirit creature token with trample, where X is that creature’s power.	7/7		normal	MOX		

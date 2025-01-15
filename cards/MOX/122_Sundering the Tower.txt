@@ -1,0 +1,1 @@
+﻿Sundering the Tower	R	common	Instant	122	R	XR	Sundering the Tower deals X damage to target creature or planeswalker.			normal	MOX		

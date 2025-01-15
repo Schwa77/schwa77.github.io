@@ -1,0 +1,1 @@
+﻿Aminatou's Gift		rare	Artifact – Equipment 	188	C	2	This spell costs 2 less to cast if you control a planeswalker.NEWLINEEquipped creature gets +2/+2.NEWLINEWhenever equipped creature attacks, for each kind of counter on target permanent, put another counter of that kind on it or remove one from it.NEWLINEEquip 2			normal	MOX		

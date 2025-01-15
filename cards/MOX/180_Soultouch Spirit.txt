@@ -1,0 +1,1 @@
+﻿Soultouch Spirit	UR	uncommon	Creature – Spirit 	180	UR	XUR	When Soultouch Spirit enters the battlefield, return target instant or sorcery with mana value less than or equal to the amount of mana spent to cast Soultouch Spirit from your graveyard to your hand.NEWLINEWhenever you cast your second spell each turn, scry 2.	2/1		normal	MOX		

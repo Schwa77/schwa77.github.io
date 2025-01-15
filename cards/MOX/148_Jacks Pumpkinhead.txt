@@ -1,0 +1,1 @@
+﻿Jack's Pumpkinhead	G	common	Creature – Plant 	148	G	3G	When Jack’s Pumpkinhead dies, put it on the bottom of its owner’s library, then return up to one target creature card from your graveyard to your hand.	3/3		normal	MOX		https://www.artstation.com/artwork/dOJAbK

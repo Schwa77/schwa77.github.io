@@ -1,0 +1,1 @@
+﻿Treasure Token (M20)		common	Token Artifact – Treasure 	25	C		T, Sacrifice this artifact: Add one mana of any color.			token	MOX		!exportname Treasure Token (M20)

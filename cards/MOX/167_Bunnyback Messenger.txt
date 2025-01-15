@@ -1,0 +1,1 @@
+﻿Bunnyback Messenger	WR	uncommon	Creature – Human Scout 	167	WR	2RW	HasteNEWLINEProwess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)NEWLINEWhenever you cast a noncreature spell, target creature you don’t control can’t block this turn.	3/2		normal	MOX		https://www.artstation.com/artwork/3XlNJ

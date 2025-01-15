@@ -1,0 +1,1 @@
+﻿Unknown Seas	U	rare	Enchantment	60	U	1UU	Whenever you cast a spell from exile, create an X/X blue Horror creature token, where X is that spell’s mana value.NEWLINESacrifice a creature: Target player mills cards equal to the sacrificed creature’s power.			normal	MOX		

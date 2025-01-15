@@ -1,0 +1,1 @@
+﻿Awakened Deus	U	rare	Creature – Leviathan Avatar 	33	U	6UU	When Awakened Deus enters the battlefield, return all non-Leviathan creatures to their owner’s hands.NEWLINENocturnal 4UU (You may cast this spell for its nocturnal cost. If you do, it enters the battlefield tapped with a stun counter on it. Remove one instead of untapping.)	6/5		normal	MOX		

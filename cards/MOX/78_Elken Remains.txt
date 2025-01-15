@@ -1,0 +1,1 @@
+﻿Elken Remains	B	common	Creature – Nightmare Elk 	78	B	4B	Reap–3B: Elken Remains gets +2/+0 and gains indestructible until end of turn. (Activate this ability only once each turn and only as a sorcery. It costs 0 if a creature you controlled died this turn.)	4/4		normal	MOX		https://www.artstation.com/artwork/4XooWl

@@ -1,0 +1,1 @@
+﻿Devastating Pyre	R	uncommon	Instant	107	R	2R	Devastating Pyre deals 2 damage to each creature. If you’ve cast two or more spells this turn, Devastating Pyre deals 2 damage to each creature you don’t control instead.			normal	MOX		

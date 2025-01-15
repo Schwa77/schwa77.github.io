@@ -1,0 +1,1 @@
+﻿Things in the Wake	G	rare	Enchantment	158	G	1GG	Whenever an opponent casts a noncreature spell, reveal the top card of your library. If it’s a creature card with mana value less than that spell’s mana value, put that card onto the battlefield under your control. Otherwise, you may put that card into your graveyard.			normal	MOX		https://www.artstation.com/artwork/woA0g

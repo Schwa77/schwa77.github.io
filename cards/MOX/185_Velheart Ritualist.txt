@@ -1,0 +1,1 @@
+﻿Velheart Ritualist	BR	uncommon	Creature – Human Warlock 	185	BR	BR	Reap–1BR: Put a +1/+1 counter on Velheart Ritualist. It deals 1 damage to each opponent. (Activate this ability only once each turn and only as a sorcery. It costs 0 if a creature you controlled died this turn.)	3/1		normal	MOX		https://www.artstation.com/artwork/eax5Jw

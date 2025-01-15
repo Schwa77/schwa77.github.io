@@ -1,0 +1,1 @@
+﻿Ooze Token (Old)	G	common	Token Creature – Ooze 	20	G			3/3		token	MOX		!exportname Ooze Token (Old)NEWLINENEWLINEhttps://www.artstation.com/artwork/Vgklmg

@@ -1,0 +1,1 @@
+﻿Druidic Summons	G	mythic	Enchantment	139	G	5GGG	Creatures you control have trample.NEWLINEAt the beginning of combat on your turn, put a might counter on target creature you control without one. It has base power and toughness 8/8 for as long as it has a might counter on it.			normal	MOX		

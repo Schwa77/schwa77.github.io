@@ -1,0 +1,1 @@
+﻿Obliterating Bolt	R	uncommon	Sorcery	117	R	1R	Obliterating Bolt deals 4 damage to target creature or planeswalker. If that creature or planeswalker would die this turn, exile it instead.			normal	MOX		

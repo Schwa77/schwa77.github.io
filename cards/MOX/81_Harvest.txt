@@ -1,0 +1,1 @@
+﻿Harvest	B	common	Instant	81	B	1B	As an additional cost to cast this spell, sacrifice a creature.NEWLINEDraw two cards. You gain life equal to the sacrificed creature’s mana value.			normal	MOX		https://www.artstation.com/artwork/eg1xJ

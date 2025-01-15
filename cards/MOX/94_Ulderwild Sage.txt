@@ -1,0 +1,1 @@
+﻿Ulderwild Sage	B	common	Creature – Elf Warlock 	94	B	1B	Reap – 3B: Each opponent loses 1 life and you gain 1 life. (Activate this ability only once each turn and only as a sorcery. It costs 0 if a creature you controlled died this turn.)	2/2		normal	MOX		https://www.artstation.com/artwork/Nyx6JN

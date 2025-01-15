@@ -1,0 +1,1 @@
+﻿Inquisitive Jackalope	G	common	Creature – Rabbit Elk 	147	G	2G	When Inquisitive Jackalope enters the battlefield, reveal the top five cards of your library. You may put an Aura or land card from among them into your hand. Put the rest on the bottom of your library in a random order.	1/2		normal	MOX		https://intothebear.artstation.com/projects/aXWzJ

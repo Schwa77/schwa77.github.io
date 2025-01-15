@@ -1,0 +1,1 @@
+﻿Rise from Rot	B	common	Instant	89	B	B	Target creature you control gains deathtouch until end of turn. When it dies this turn, create a 2/2 black Zombie creature token.			normal	MOX		https://www.artstation.com/artwork/9EzrDv

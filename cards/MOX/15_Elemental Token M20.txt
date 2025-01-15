@@ -1,0 +1,1 @@
+﻿Elemental Token (M20)	R	common	Token Creature – Elemental 	15	R		Haste	1/1		token	MOX		!exportname Elemental Token (M20)NEWLINENEWLINEhttps://www.artstation.com/artwork/LJxw

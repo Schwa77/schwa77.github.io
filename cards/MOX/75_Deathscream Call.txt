@@ -1,0 +1,1 @@
+﻿Deathscream Call	B	common	Sorcery	75	B	2B	Target opponent reveals their hand. You may choose a creature card from it. If you do, that player discards that card. If you don’t, return up to one target creature card from your graveyard to your hand.			normal	MOX		

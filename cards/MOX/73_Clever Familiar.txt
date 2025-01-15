@@ -1,0 +1,1 @@
+﻿Clever Familiar	B	common	Creature – Cat 	73	B	2B	When Clever Familiar enters the battlefield, you lose 1 life and you draw a card.NEWLINENocturnal B (You may cast this spell for its nocturnal cost. If you do, it enters the battlefield tapped with a stun counter on it. Remove one instead of untapping.)	2/1		normal	MOX		https://www.artstation.com/artwork/g2xybZ

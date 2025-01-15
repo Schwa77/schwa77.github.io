@@ -1,0 +1,1 @@
+﻿Harvest Festival	W	rare	Enchantment	13	W	2W	Whenever you attack, create a 1/1 white Human creature token that’s tapped and attacking.NEWLINESacrifice Harvest Festival: Return to the battlefield each creature card in your graveyard that was put there from the battlefield this turn if that creature also attacked this turn.			normal	MOX		

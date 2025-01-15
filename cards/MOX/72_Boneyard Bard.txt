@@ -1,0 +1,1 @@
+﻿Boneyard Bard	B	uncommon	Creature – Skeleton Bard 	72	B	3BB	MenaceNEWLINEReap–3B: Target opponent loses 3 life unless they discard a card or sacrifice a nonland permanent. (Activate this ability only once each turn and only as a sorcery. It costs 0 if a creature you controlled died this turn.)	4/5		normal	MOX		

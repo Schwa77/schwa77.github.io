@@ -1,0 +1,1 @@
+﻿Witch Hunter	R	common	Creature – Human Rogue 	128	R	2R	Whenever Witch Hunter attacks with another creature with power 4 or greater, Witch Hunter deals 1 damage to target player or planeswalker.	4/2		normal	MOX		https://www.artstation.com/artwork/3drvqv

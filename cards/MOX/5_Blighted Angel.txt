@@ -1,0 +1,1 @@
+﻿Blighted Angel	W	uncommon	Creature – Insect Angel 	5	W	1W	FlyingNEWLINEEach player can’t cast more than one noncreature spell each turn.	2/1		normal	MOX		

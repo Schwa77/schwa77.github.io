@@ -1,0 +1,1 @@
+﻿Sporechoke Myconid	G	common	Creature – Fungus 	155	G	1G	4G: Return Sporechoke Myconid from your graveyard to your hand.	3/1		normal	MOX		https://intothebear.artstation.com/projects/aXWzJ

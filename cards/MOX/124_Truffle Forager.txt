@@ -1,0 +1,1 @@
+﻿Truffle Forager	R	common	Creature – Dwarf Warlock 	124	R	R	First strikeNEWLINEWhenever you cast your second spell each turn, Truffle Forager deals 1 damage to each opponent and you scry 1.	1/1		normal	MOX		

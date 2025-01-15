@@ -1,0 +1,1 @@
+﻿Skeletal Inferno	R	uncommon	Creature – Skeleton 	120	R	2R	Trample, hasteNEWLINEWhenever Skeletal Inferno attacks, sacrifice it at end of combat.NEWLINENocturnal R (You may cast this spell for its nocturnal cost. If you do, it enters the battlefield tapped with a stun counter on it. Remove one instead of untapping.)	4/1		normal	MOX		

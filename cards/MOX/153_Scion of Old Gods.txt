@@ -1,0 +1,1 @@
+﻿Scion of Old Gods	G	common	Creature – Skeleton 	153	G	3G	When Scion of Old Gods enters the battlefield, if you control another creature with power 4 or greater, draw a card.	4/4		normal	MOX		

@@ -1,0 +1,1 @@
+﻿Horned Raven	B	uncommon	Creature – Bird 	83	B	3B	FlashNEWLINEFlyingNEWLINEWhen Horned Raven enters the battlefield, up to one target creature gets -2/-2 for each spell its controller has cast this turn.	2/2		normal	MOX		https://www.artstation.com/artwork/xJrrZE

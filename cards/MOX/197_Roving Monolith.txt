@@ -1,0 +1,1 @@
+﻿Roving Monolith		mythic	Artifact Creature – Golem 	197	C	3	X, T: Copy target spell you control with mana value X. You may choose new targets for the copy.NEWLINEX, T: Copy target activated or triggered ability you control from a source with mana value X. You may choose new targets for the copy.	2/2		normal	MOX		

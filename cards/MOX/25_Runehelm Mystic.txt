@@ -1,0 +1,1 @@
+﻿Runehelm Mystic	W	uncommon	Creature – Human Warlock 	25	W	3W	When Runehelm Mystic enters the battlefield, search your library for an Aura card, reveal it, put it into your hand, then shuffle.NEWLINEAura spells you cast cost 1 less to cast.	2/4		normal	MOX		

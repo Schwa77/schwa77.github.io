@@ -1,0 +1,1 @@
+﻿Embroiled in Conflict	R	uncommon	Sorcery	109	R	3RR	Target creature fights another target creature.NEWLINEEquinox 5RR (If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)			normal	MOX		

@@ -1,0 +1,1 @@
+﻿Spirit Token M20)	G	common	Token Creature – Spirit 	21	G		Trample	*/*		token	MOX		!exportname Spirit Token M20)

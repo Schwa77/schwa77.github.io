@@ -1,0 +1,1 @@
+﻿Shrine Guardian	G	common	Creature – Ouphe 	154	G	G	TrampleNEWLINEWhenever Shrine Guardian attacks with another creature with power 4 or greater, put a +1/+1 counter on Shrine Guardian.	1/1		normal	MOX		https://www.artstation.com/artwork/mVVXE

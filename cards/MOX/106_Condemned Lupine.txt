@@ -1,0 +1,1 @@
+﻿Condemned Lupine	R	rare	Creature – Wolf 	106	R	1R	As long as you’ve cast two or more spells this turn, Condemned Lupine has haste.NEWLINEWhenever you cast a spell from exile, put a +1/+1 counter on Condemned Lupine.	2/2		normal	MOX		

@@ -1,0 +1,1 @@
+﻿Devoted Aristocrat	B	uncommon	Creature – Human Noble 	76	B	2B	Whenever you create one or more tokens, you may sacrifice Devoted Aristocrat. If you do, create a 4/4 black Demon creature token with menace.	1/1		normal	MOX		https://cara.app/post/9ffd1a86-3698-4749-997a-c4b3f0252942

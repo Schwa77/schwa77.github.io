@@ -1,0 +1,1 @@
+﻿Bloodgorger Beetle	R	common	Creature – Insect Horror 	104	R	1R	Reap–2R: Bloodgorger Beetle gets +2/+0 until end of turn. (Activate this ability only once each turn and only as a sorcery. It costs 0 if a creature you controlled died this turn.)	2/2		normal	MOX		https://www.artstation.com/artwork/48Q0Ol

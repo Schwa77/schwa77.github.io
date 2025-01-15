@@ -1,0 +1,1 @@
+﻿Horde Encounter	B	common	Instant	82	B	2B	Create a 2/2 black Zombie creature token.NEWLINEEquinox 3B (If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)			normal	MOX		https://www.artstation.com/artwork/le9VJ

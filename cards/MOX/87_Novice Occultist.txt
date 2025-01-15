@@ -1,0 +1,1 @@
+﻿Novice Occultist	B	common	Creature – Human Wizard 	87	B	1B	When Novice Occultist dies, you draw a card and you lose 1 life.	1/2		normal	MOX		https://www.artstation.com/artwork/elx9PP

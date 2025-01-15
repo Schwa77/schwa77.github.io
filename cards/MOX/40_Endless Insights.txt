@@ -1,0 +1,1 @@
+﻿Endless Insights	U	mythic	Enchantment	40	U	3UU	Whenever you cast a spell for its alternate cost, copy that spell. You may choose new targets for the copy.			normal	MOX		

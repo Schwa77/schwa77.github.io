@@ -1,0 +1,1 @@
+﻿Awaken the Ulderwild	G	uncommon	Sorcery	131	G	2GG	Create a green Treefolk creature token with reach and “This creature’s power and toughness are each equal to the number of Forests you control.”NEWLINEEquinox 4GG (If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)			normal	MOX		

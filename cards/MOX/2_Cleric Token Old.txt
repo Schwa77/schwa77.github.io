@@ -1,0 +1,1 @@
+﻿Cleric Token (Old)	W	common	Token Creature – Cleric 	2	W		Lifelink	1/1		token	MOX		!exportname Cleric Token (Old)

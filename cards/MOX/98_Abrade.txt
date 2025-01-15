@@ -1,0 +1,1 @@
+﻿Abrade	R	common	Instant	98	R	1R	Choose one –NEWLINE• Abrade deals 3 damage to target creature.NEWLINE• Destroy target artifact.			normal	MOX		

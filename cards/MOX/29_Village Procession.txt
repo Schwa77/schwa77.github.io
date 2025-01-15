@@ -1,0 +1,1 @@
+﻿Village Procession	W	uncommon	Sorcery	29	W	1W	Put a +1/+1 counter on each creature you control.NEWLINEEquinox–Tap three untapped white creatures you control. (If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)			normal	MOX		

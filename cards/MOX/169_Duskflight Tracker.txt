@@ -1,0 +1,1 @@
+﻿Duskflight Tracker	WU	uncommon	Creature – Bird 	169	WU	2WU	FlyingNEWLINEWhen Duskflight Tracker enters the battlefield, look at the top X cards of your library, where X is the number of creatures you control with flying. Put one of those cards into your hand and the rest on the bottom of your library in a random order.	3/3		normal	MOX		

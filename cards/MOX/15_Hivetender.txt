@@ -1,0 +1,1 @@
+﻿Hivetender	W	uncommon	Creature – Human Cleric 	15	W	1W	Reap–3W: Create a 1/1 white Insect creature token with flying. (Activate this ability only once each turn and only as a sorcery. It costs 0 if a creature you controlled died this turn.)	2/2		normal	MOX		

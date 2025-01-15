@@ -1,0 +1,1 @@
+﻿Ritual Amalgam	WB	uncommon	Creature – Zombie 	178	WB	4WB	This spell costs 1 less to cast for each token you control.NEWLINEWhen Ritual Amalgam enters the battlefield, target opponent sacrifices a nontoken creature.	4/4		normal	MOX		

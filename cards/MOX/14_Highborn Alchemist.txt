@@ -1,0 +1,1 @@
+﻿Highborn Alchemist	W	uncommon	Creature – Human Artificer 	14	W	W	Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)NEWLINEWhenever Highborn Alchemist becomes the target of a spell you control, it gains lifelink until end of turn.	1/2		normal	MOX		
