@@ -1,0 +1,1 @@
+﻿Unfair Share	R	common	Sorcery	167	R	3R	Gain control of target creature or Vehicle until end of turn. Untap it. It gains haste until end of turn.NEWLINEPlunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)			normal	KRK		

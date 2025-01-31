@@ -1,0 +1,1 @@
+﻿Marquisian Sentry		uncommon	Artifact Creature – Soldier 	250	C	3	Whenever this creature enters or becomes tapped, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)	3/2		normal	KRK		

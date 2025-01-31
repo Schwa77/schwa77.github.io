@@ -1,0 +1,1 @@
+﻿Pilferer's Pouch		uncommon	Artifact	251	C	3	This artifact enters the battlefield tapped with three coin counters on it.NEWLINET, Remove a coin counter from This artifact: Plunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)			normal	KRK		https://www.artstation.com/artwork/4be9r1

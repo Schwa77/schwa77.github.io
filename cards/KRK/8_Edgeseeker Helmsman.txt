@@ -1,0 +1,1 @@
+﻿Edgeseeker Helmsman	W	common	Creature – Human Scout 	8	W	2W		3/2		adventure	KRK		Sailor's Salvo	W	Instant – Adventure 	W	W	Target creature gets +2/+0 until end of turn. (Then exile this card. You may cast the creature later from exile.)				

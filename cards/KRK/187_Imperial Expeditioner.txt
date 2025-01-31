@@ -1,0 +1,1 @@
+﻿Imperial Expeditioner	G	uncommon	Creature – Human Soldier 	187	G	2G	When this creature enters, create a 1/1 white Soldier creature token.NEWLINEThis creature gets +1/+1 for each creature you control.	0/0		normal	KRK		https://www.artstation.com/artwork/A9lrOe

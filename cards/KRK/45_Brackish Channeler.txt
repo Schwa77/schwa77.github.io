@@ -1,0 +1,1 @@
+﻿Brackish Channeler	U	common	Creature – Human Pirate 	45	U	4U	When this creature enters, return up to one target creature or artifact to its owner’s hand.	3/3		adventure	KRK		Trawl	U	Sorcery – Adventure 	U	2U	Create two 1/1 blue Fish creature tokens. (Then exile this card. You may cast the creature later from exile.)				https://www.artstation.com/artwork/g2qw4K

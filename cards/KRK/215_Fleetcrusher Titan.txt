@@ -1,0 +1,1 @@
+﻿Fleetcrusher Titan	BG	rare	Creature – Serpent 	215	BG	6BG	TrampleNEWLINEWhen this creature enters, destroy target nonland permanent you don’t control.NEWLINEWhen this creature dies, create two 4/4 green Serpent creature tokens with trample.	8/8		normal	KRK		https://www.deviantart.com/neisbeis/art/Water-colossus-212595151

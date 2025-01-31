@@ -1,0 +1,1 @@
+﻿Forgotten Chronicler	U	common	Creature – Spirit 	52	U	1U	DefenderNEWLINEAs long as you’ve cast a noncreature spell this turn, this creature can attack as though it didn’t have defender.	3/3		normal	KRK		https://www.pupperish.com/baby-mythical-creatures

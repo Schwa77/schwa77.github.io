@@ -1,0 +1,1 @@
+﻿Relic Recoverers	G	common	Creature – Human Scout 	200	G	3G	When this creature enters, plunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)	3/4		normal	KRK		https://www.artstation.com/artwork/oAbBPwNEWLINENEWLINEhttps://www.artstation.com/artwork/JeDKOR

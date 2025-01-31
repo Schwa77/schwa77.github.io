@@ -1,0 +1,1 @@
+﻿Octoplant	G	common	Creature – Plant Octopus 	197	G	2G	When this creature enters, look at the top three cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest into your graveyard.	2/2		normal	KRK		https://www.artstation.com/artwork/xJYJqE

@@ -1,0 +1,1 @@
+﻿Reefbed Hatchling	U	uncommon	Creature – Octopus 	65	U	U	5U, Sacrifice this creature: Reveal the top eight cards of your library. You may put a Kraken, Leviathan, Octopus, or Serpent card from among them onto the battlefield. Put the rest on the bottom of your library in a random order. Activate only as a sorcery.	0/4		normal	KRK		https://www.pupperish.com/baby-mythical-creatures

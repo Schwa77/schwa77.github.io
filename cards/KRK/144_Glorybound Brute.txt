@@ -1,0 +1,1 @@
+﻿Glorybound Brute	R	uncommon	Creature – Minotaur Pirate 	144	R	4R	Trample	5/4		adventure	KRK		Reckless Raiding	R	Instant – Adventure 	R	1R	Discard a card. If you do, draw two cards. (Then exile this card. You may cast the creature later from exile.)				https://pbs.twimg.com/media/EkPhG9OU4AAzMmm.jpg

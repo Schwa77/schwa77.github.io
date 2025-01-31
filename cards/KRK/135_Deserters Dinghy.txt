@@ -1,0 +1,1 @@
+﻿Deserter's Dinghy	R	uncommon	Artifact – Vehicle 	135	R	1R	Haste, menaceNEWLINEWhen this Vehicle enters, it becomes an artifact creature until end of turn.NEWLINECrew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)	3/1		normal	KRK		https://www.artstation.com/artwork/akWXX

@@ -1,0 +1,1 @@
+﻿Glorybound Scallywags	B	common	Creature – Human Pirate 	110	B	4BB	When this creature enters, target creature you don’t control gets -X/-X until end of turn, where X is the number of creatures you control.	3/2		normal	KRK		https://www.artstation.com/artwork/yX18

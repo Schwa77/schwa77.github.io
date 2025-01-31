@@ -1,0 +1,1 @@
+﻿Behemoth of World's End	G	mythic	Creature – Crocodile 	172	G	4GGG	This spell can’t be countered.NEWLINETrampleNEWLINEHexproof from non-Adventure sources (This creature can’t be the target of abilities or non-Adventure spells your opponents control.)	7/7		normal	KRK		https://www.artstation.com/artwork/Z5rK5w

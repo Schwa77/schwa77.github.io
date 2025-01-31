@@ -1,0 +1,1 @@
+﻿Dreadtide Deckhands	G	common	Creature – Zombie Pirate 	177	G	3G	When this creature enters, create a 2/2 black Zombie creature token.	2/2		normal	KRK		https://www.artstation.com/artwork/61gaW

@@ -1,0 +1,1 @@
+﻿Aureate Elemental		common	Artifact Creature – Elemental 	238	C	3	When this creature enters, scry 2.NEWLINEWhen this creature dies, draw a card.	2/2		normal	KRK		https://www.artstation.com/artwork/oAwVDO

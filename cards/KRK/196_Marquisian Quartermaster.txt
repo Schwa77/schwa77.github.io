@@ -1,0 +1,1 @@
+﻿Marquisian Quartermaster	G	common	Creature – Elf Soldier 	196	G	2G	VigilanceNEWLINET: Untap target basic land.	2/2		adventure	KRK		Steady Sailing	G	Sorcery – Adventure 	G	1G	Search your library for a basic land card, reveal it, put it into your hand, then shuffle. (Then exile this card. You may cast the creature later from exile.)				https://www.artstation.com/artwork/zPBzr2

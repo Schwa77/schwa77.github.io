@@ -1,0 +1,1 @@
+﻿Beachside Barter		rare	Artifact	239	C	3	1, T, Sacrifice an artifact: Create a 2/1 black Pirate creature token with “This creature can’t block.”NEWLINE1, T, Sacrifice a creature: Draw a card.NEWLINE1, T, Discard a card: Plunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)			normal	KRK		

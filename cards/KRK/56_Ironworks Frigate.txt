@@ -1,0 +1,1 @@
+﻿Ironworks Frigate	U	uncommon	Artifact – Vehicle 	56	U	1UU	VigilanceNEWLINEWhenever you cast a noncreature spell, you may have this Vehicle become an artifact creature until end of turn.NEWLINECrew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)	4/4		normal	KRK		

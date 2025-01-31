@@ -1,0 +1,1 @@
+﻿Savvy Duelist	R	common	Creature – Human Pirate 	161	R	3R	As long as it’s your turn, this creature has first strike.NEWLINEWhenever you cast an Adventure spell or a spell from exile, this creature deals 1 damage to target player or planeswalker.	3/2		normal	KRK		https://www.margawart.com/

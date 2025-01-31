@@ -1,0 +1,1 @@
+﻿Dragon-Eye Lookout	RG	rare	Creature – Human Pirate 	214	WUBRG	RG	First strikeNEWLINEWhenever this creature attacks, if you’ve spent WUBRG to cast spells this turn, create a 4/4 red Dragon creature token that’s tapped and attacking.	2/2		normal	KRK		https://www.deviantart.com/katemaxpaint/art/Observer-251868080

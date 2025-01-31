@@ -1,0 +1,1 @@
+﻿Azla's Rotcrew	B	common	Creature – Zombie Pirate 	90	B	3B	Menace	3/3		adventure	KRK		Serve Eternal	B	Sorcery – Adventure 	B	2B	Mill two cards. Create a 2/2 black Zombie creature token. (Then exile this card. You may cast the creature later from exile.)				

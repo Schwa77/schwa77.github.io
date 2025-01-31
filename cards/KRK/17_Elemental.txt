@@ -1,0 +1,1 @@
+﻿Elemental	G	common	Token Creature – Elemental 	17	G			3/3		token	KRK		!related Horizon Communer;

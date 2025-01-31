@@ -1,0 +1,1 @@
+﻿Breach the Surface	G	common	Instant	173	G	1G	Until end of turn, target creature gets +3/+3, gains trample, and becomes a Leviathan in addition to its other types.			normal	KRK		https://www.artstation.com/artwork/0n2OeK

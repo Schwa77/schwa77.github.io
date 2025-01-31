@@ -1,0 +1,1 @@
+﻿Davijan's Disciple	G	uncommon	Creature – Merfolk Druid 	176	G	1G	T: Add G.NEWLINE4G, T, Sacrifice this creature: Create a tapped 4/4 green Serpent creature token with trample.	1/1		normal	KRK		https://www.artstation.com/artwork/l60WJ

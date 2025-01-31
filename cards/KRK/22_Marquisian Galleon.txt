@@ -1,0 +1,1 @@
+﻿Marquisian Galleon	W	rare	Artifact – Vehicle 	22	W	2WW	Whenever this Vehicle attacks, return target nonland permanent with mana value 3 or less from your graveyard to the battlefield tapped.NEWLINECrew 3	6/6		normal	KRK		https://www.deviantart.com/tolyanmy/art/Battleship-Azov-401746088

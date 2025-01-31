@@ -1,0 +1,1 @@
+﻿Dreadtide Scrounger	B	uncommon	Creature – Zombie Pirate 	105	B	B	DeathtouchNEWLINE2B, Sacrifice another creature or artifact: You gain 1 life and you draw a card.	1/1		normal	KRK		https://www.artstation.com/artwork/lRrEOk

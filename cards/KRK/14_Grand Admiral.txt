@@ -1,0 +1,1 @@
+﻿Grand Admiral	W	mythic	Creature – Human Soldier 	14	W	W	ProwessNEWLINEWhen this creature dies, create an X/X colorless Vehicle artifact token with crew 1, where X is this creature’s power.	1/2		normal	KRK		

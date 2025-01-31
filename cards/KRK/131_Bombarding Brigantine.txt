@@ -1,0 +1,1 @@
+﻿Bombarding Brigantine	R	common	Artifact – Vehicle 	131	R	2R	When this Vehicle enters, it deals 2 damage to target player or planeswalker.NEWLINECrew 2  (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)	4/3		normal	KRK		https://www.artstation.com/artwork/oY3mW

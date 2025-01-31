@@ -1,0 +1,1 @@
+﻿Imperial Armorer	W	uncommon	Creature – Human Soldier 	16	W	3W	Whenever another creature enters the battlefield under your control, create a Weapon token and attach it to that creature. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip 2.)	2/2		normal	KRK		

@@ -1,0 +1,1 @@
+﻿Edgeseeker Flagship	G	rare	Artifact – Vehicle 	180	G	2G	This Vehicle can’t be blocked by creatures with power 2 or less.NEWLINEWhenever this Vehicle deals combat damage to a player or planeswalker, put a +1/+1 counter on this Vehicle and each creature that crewed it this turn.NEWLINECrew 2	4/4		normal	KRK		https://www.artstation.com/artwork/PAEKo

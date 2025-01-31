@@ -1,0 +1,1 @@
+﻿Arrogant Crewmate	B	common	Creature – Azra Pirate 	87	B	1B	When this creature dies, plunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)	2/1		normal	KRK		https://www.artstation.com/artwork/B1gg9

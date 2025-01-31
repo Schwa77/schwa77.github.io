@@ -1,0 +1,1 @@
+﻿Dreadtide Grunt	B	uncommon	Creature – Skeleton Pirate 	102	B	2B	1, Sacrifice a creature or artifact: Put a +1/+1 counter on this creature.	2/2		adventure	KRK		Death's Bounty	B	Instant – Adventure 	B	1B	Sacrifice a creature or artifact. When you do, draw two cards. (Then exile this card. You may cast the creature later from exile.)				https://www.artstation.com/artwork/93kv

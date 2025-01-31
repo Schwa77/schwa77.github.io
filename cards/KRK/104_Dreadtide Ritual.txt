@@ -1,0 +1,1 @@
+﻿Dreadtide Ritual	B	common	Instant	104	B	2B	Mill three cards, then you may put any number of creature cards from your graveyard on top of your library. (To mill three cards, put the top three cards of your library into your graveyard.)NEWLINEDraw a card.			normal	KRK		https://www.artstation.com/artwork/OvQRJ

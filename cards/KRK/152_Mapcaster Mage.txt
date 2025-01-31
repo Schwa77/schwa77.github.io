@@ -1,0 +1,1 @@
+﻿Mapcaster Mage	R	rare	Creature – Human Pirate Wizard 	152	R	1R	FlashNEWLINEWhen this creature enters, you may cast a copy of an Adventure spell from target permanent card with an Adventure in your graveyard. (You still pay its costs.)	3/1		normal	KRK		

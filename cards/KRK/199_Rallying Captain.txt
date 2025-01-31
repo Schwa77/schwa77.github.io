@@ -1,0 +1,1 @@
+﻿Rallying Captain	G	uncommon	Creature – Human Soldier 	199	G	3G	Creature tokens you control get +1/+1.	3/3		adventure	KRK		Reinforcements	G	Sorcery – Adventure 	G	G	Create a token that’s a copy of a token you control. (Then exile this card. You may cast the creature later from exile.)				https://www.pinterest.com/pin/964825920145100016/

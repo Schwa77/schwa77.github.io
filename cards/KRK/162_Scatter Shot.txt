@@ -1,0 +1,1 @@
+﻿Scatter Shot	R	uncommon	Artifact	162	R	2R	When this artifact enters, it deals 2 damage to each creature.NEWLINE2R, T, Sacrifice this artifact: This artifact deals 2 damage to each opponent and each planeswalker they control.			normal	KRK		

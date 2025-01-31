@@ -1,0 +1,1 @@
+﻿Shadowsail Pilferer	UB	uncommon	Creature – Lizard Pirate 	230	UB	UB	MenaceNEWLINEWhenever you draw your second card each turn, put a +1/+1 counter on this creature.	2/2		normal	KRK		Alt art: https://www.artstation.com/artwork/g55am

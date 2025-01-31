@@ -1,0 +1,1 @@
+﻿Kiora's Beckoning	G	common	Sorcery	191	G	2G	Choose one –NEWLINE• Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.NEWLINE• Search your library for a Kraken, Leviathan, Octopus, or Serpent card, reveal that card, put it into your hand, then shuffle.			normal	KRK		https://www.artstation.com/artwork/vQoJ3

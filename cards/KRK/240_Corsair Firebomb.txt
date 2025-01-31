@@ -1,0 +1,1 @@
+﻿Corsair Firebomb		uncommon	Artifact – Equipment 	240	C	1	Equipped creature gets +1/+1.NEWLINE4, T, Sacrifice this Equipment: It deals 3 damage to any target. This ability costs 4 less to activate if this Equipment is attached to a creature.NEWLINEEquip 2 (2: Attach to target creature you control. Equip only as a sorcery.)			normal	KRK		

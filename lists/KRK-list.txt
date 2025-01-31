@@ -1,0 +1,350 @@
+10_﻿Emperor Almicar
+44_Beyond the Horizon
+88_Avarice
+151_Malvo, Edgeseeker Admiral
+172_Behemoth of World's End
+14_Grand Admiral
+50_Davijan, Trenchbound Titan
+94_Curse of Siren's Song
+158_Rapacious Tyrant
+201_Rising Tide
+30_Restore Order
+57_Lilith, Seafaring Scribe
+109_Ghost-Blade Renegade
+128_Audra, Raucous Rallier
+175_Davijan's Awakening
+6_Dockside Warden
+55_Glorybound Seablade
+86_Alkar of the Floating Horde
+134_Charismatic Captain
+178_Dreadtide Hellraiser
+7_Druno, Marquisian Collector
+58_Lilith's Duplimancy
+93_Crimza Taal Infiltrator
+137_Firebrand Frigate
+180_Edgeseeker Flagship
+22_Marquisian Galleon
+61_Maelstrom Galleon
+98_Devour
+140_Free Harbor
+183_Gangplank Marauders
+31_Ria, Master Smith
+67_Saddled Scuttleback
+99_Dezan, Ironsoul Sell-Sword
+147_Hired Hand
+190_Kelpscale Serpent
+33_Spectral Sabers
+68_Shifting Sailor
+101_Dreadtide Flagship
+149_Jadon's Messenger
+192_Kiora's Coiler
+35_Starlight Wayfinder
+74_Thalassophobia
+103_Dreadtide Marauder
+152_Mapcaster Mage
+193_Maelstrom's Maw
+36_Tell No Tales
+80_Trenchlurker Titan
+111_Hunter's Ambition
+164_Tavern Gambler
+198_Octotyrant
+40_Veteran Cartographer
+83_Whelming Wave
+119_Raider's Remains
+135_Deserter's Dinghy
+176_Davijan's Disciple
+1_Almicar's Striker
+46_Brineborn Cutthroat
+89_Azla's Monstrosity
+138_Fleetfront Galleon
+179_Dry Land
+3_Crimza Taal Envoy
+51_Deep Sea Devastator
+100_Down With the Ship
+141_Frenetic Freebooter
+182_Fortunate Flotsam
+4_Deadeye Twinshots
+53_Ghostcrew Captain
+102_Dreadtide Grunt
+144_Glorybound Brute
+184_Glutton of Fool's Strait
+11_Encased in Glass
+56_Ironworks Frigate
+105_Dreadtide Scrounger
+146_Grottle Shell-Singer
+185_Great Wight
+12_Familiar's Foil
+63_The One That Got Away
+106_Drown
+148_Ironworks Shipwrights
+186_Horizon Communer
+16_Imperial Armorer
+65_Reefbed Hatchling
+107_Emperor's Executioner
+150_Macrawcodiles
+187_Imperial Expeditioner
+20_Maroon
+69_Shipwreck Colossus
+108_Forsaken Cutthroat
+153_Marooned Mutineer
+189_Intrepid Expedition
+21_Marquisian Commander
+72_Skysail Galleon
+113_Loose Cargo
+155_Partners in Crime
+194_Malvo's Quartermaster
+24_Marquisian Skyship
+75_Thieving Accomplice
+114_March of the Dreadtide
+156_Powder Monkeys
+199_Rallying Captain
+25_Novice Navigator
+78_Tidehunter Drake
+115_Marquisian Enforcer
+162_Scatter Shot
+203_Search Beyond the Empire
+29_Refurbish
+79_Trenchcaller Oracle
+125_What Lurks Beneath
+166_Twinshot Renegade
+204_Shipsinker Kraken
+42_Windrider Pelican
+81_Uncharted Wonders
+126_Zephyr Freebooter
+127_Abandon Ship
+168_Abyssal Behemoth
+2_Conscripted Duelist
+43_Aelython Renegade
+85_Aelython Outcast
+129_Audra's Vengeance
+169_Aelython Vanguard
+5_Deft Commodore
+45_Brackish Channeler
+87_Arrogant Crewmate
+130_Become the Storm
+170_Ancient Megalodon
+8_Edgeseeker Helmsman
+47_Corsair's Companion
+90_Azla's Rotcrew
+131_Bombarding Brigantine
+171_Beachcomber's Bane
+9_Edgeseeker's Valor
+48_Crimza Taal Smuggler
+91_Broker a Deal
+132_Cannonblast
+173_Breach the Surface
+13_Governor's Representative
+49_Daring Rebuttal
+92_Crimza Taal Headhunter
+133_Cannonpack Crewmate
+174_Curio Collector
+15_High and Dry
+52_Forgotten Chronicler
+95_Davijan's Curse
+136_Dishonorable Duel
+177_Dreadtide Deckhands
+17_Imperial Bombardiers
+54_Ghostly Galleon
+96_Dawson's Ire
+139_Flintlock Sharpshot
+181_Flourishing Reef
+18_Ironworks Seahawk
+59_Lost at Sea
+97_Deathless Conscription
+142_Gemseeker Grottle
+188_Inkforged Arsenal
+19_Landing Party
+60_Loyal Quartermaster
+104_Dreadtide Ritual
+143_Glittering Trove
+191_Kiora's Beckoning
+23_Marquisian Rescuers
+62_Man Overboard
+110_Glorybound Scallywags
+145_Glorybound Knaves
+195_Marquisian Crackdown
+26_Parry
+64_Opt
+112_Last Gasp
+154_Munitions Mage
+196_Marquisian Quartermaster
+27_Quickdraw
+66_Riptide Titan
+116_Mithril Grouper
+157_Pyrebeard Buccaneer
+197_Octoplant
+28_Rally the Isles
+70_Shipwreck Kraken
+117_No One Left Behind
+159_Razorfin
+200_Relic Recoverers
+32_Shipwrecked
+71_Shore Up
+118_Poach
+160_Rowdy Cannoneer
+202_Run Through
+34_Standard-Issue Blade
+73_Storm Coast Drakemaster
+120_Seabound Scavenger
+161_Savvy Duelist
+205_Sunken Spoils
+37_Tideweaver Gull
+76_Thirst for Knowledge
+121_Sewer Skulk
+163_Tavern Brawl
+206_Tavern Revelry
+38_Trade Route Navigator
+77_Tidal Visionary
+122_Shipwreck Revenant
+165_Trinket Merchant
+207_Tortun Cannoneers
+39_Treasure Hunter
+82_Welkin Tern
+123_Skyship Ambusher
+167_Unfair Share
+208_Trenchcaller Vassal
+41_Weathered Navigator
+84_Whirlpool
+124_Tandem Hirelings
+e
+e
+er
+er
+er
+er
+er
+221_Journey's Preparation
+217_Hemophage Hunter
+220_Jadon, Who Fells the Mighty
+214_Dragon-Eye Lookout
+219_Ingrid Farjalla
+233_Uncharted Horizons
+230_Shadowsail Pilferer
+226_Ravenous Wavekite
+234_Wavebreaker Brute
+232_Tortun Vanguard
+e
+e
+216_Glorybound Cutthroat
+211_Cheerful Quartermaster
+218_Imperial Musketeer
+er
+er
+er
+er
+er
+213_Dawson, Out for Blood
+215_Fleetcrusher Titan
+222_Kiora, Voice of the Deep
+228_Rum Guzzler
+227_Ruin Delvers
+225_Port Inspector
+209_Azla, Dreadtide Captain
+231_Ship-Scale Behemoth
+235_Wharf Rat
+223_Loyal Deckhand
+210_Captain's Orders
+e
+224_Mara, Benthozoologist
+212_Cunning Quartermaster
+e
+er
+er
+er
+er
+er
+229_Salazar, Glorybound Mate
+e
+e
+e
+e
+er
+er
+er
+er
+er
+244_The Glorybound
+261_Sword of Greed and Glory
+236_Affectionate Mimic
+239_Beachside Barter
+241_Cursed Coins
+245_Hellfire Dreadnought
+247_Ironworks Skysail
+249_M-80, Clockwork Captain
+254_Protean Schooner
+259_Stormforged Saber
+264_Wayfinder's Telescope
+237_Animated Hoard
+240_Corsair Firebomb
+246_Ironworks Arsenal
+248_Lantern of the Lost
+250_Marquisian Sentry
+251_Pilferer's Pouch
+252_Pillager's Flagship
+256_Salvaged Stomper
+257_Shoreline Beacon
+258_Spectral Sloop
+238_Aureate Elemental
+242_Expedition Map
+243_Glittering Spoils
+253_Pirate's Cutlass
+255_Rusted Mariner
+260_Sunken Casket
+262_Towering Dreadnought
+263_Voyager's Vessel
+e
+er
+er
+er
+er
+er
+265_Eye of the Eight Winds
+266_Gilded Cove
+e
+e
+e
+er
+er
+er
+er
+er
+267_Plains
+268_Island
+269_Swamp
+270_Mountain
+271_Forest
+er
+er
+er
+er
+er
+1t_Copy
+2t_Spirit Copy Token
+3t_Scout
+4t_Soldier
+5t_Soldier Army
+6t_Spirit
+7t_Drake
+8t_Fish
+9t_Kraken
+10t_Octopus
+11t_Tentacle
+12t_Pirate Token A (M20)
+13t_Pirate Token B (M20)
+14t_Pirate Token B (M20)
+15t_Zombie
+16t_Dragon
+17t_Elemental
+18t_Serpent
+19t_Shark
+20t_On An Adventure
+21t_Construct
+22t_Daring Adventures
+23t_Treasure
+24t_Vehicle
+25t_Weapon
+26t_Everywhere
+e
+e
+e
+e

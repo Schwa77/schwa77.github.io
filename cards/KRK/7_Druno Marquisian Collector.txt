@@ -1,0 +1,1 @@
+﻿Druno, Marquisian Collector	W	rare	Legendary Creature – Human Advisor 	7	W	2W	If an opponent would create one or more tokens, instead you and that player each create those tokens.NEWLINEIf an opponent would draw a card except the first one they draw in each of their draw steps, instead you both draw a card.	2/3		normal	KRK		

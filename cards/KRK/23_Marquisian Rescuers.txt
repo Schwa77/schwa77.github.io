@@ -1,0 +1,1 @@
+﻿Marquisian Rescuers	W	common	Creature – Human Soldier 	23	W	3W	FlashNEWLINEWhen this creature enters, you may return another target permanent you control to its owner’s hand.	3/3		normal	KRK		

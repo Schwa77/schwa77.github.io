@@ -1,0 +1,1 @@
+﻿Weapon		common	Token Artifact – Equipment 	25	C		Equipped creature gets +1/+1.NEWLINEEquip 2			token	KRK		https://www.deviantart.com/ronamis/art/Red-Hands-of-Daria-533250105NEWLINENEWLINE!related Imperial Armorer;Marquisian Commander;Novice Navigator;Quickdraw;Trade Route Navigator;Imperial Musketeer;Ironworks Arsenal;

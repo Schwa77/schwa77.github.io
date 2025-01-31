@@ -1,0 +1,1 @@
+﻿Rowdy Cannoneer	R	common	Creature – Azra Pirate 	160	R	2R	MenaceNEWLINE1, Sacrifice another creature or an artifact: This creature deals 1 damage to target player or planeswalker.	2/2		normal	KRK		https://static1.squarespace.com/static/6002e7276f0b7e66aaa0fcf8/t/60043a869db7573b5dccc6e5/1610889878080/zeitgeist_campaign_guide_5e.pdf

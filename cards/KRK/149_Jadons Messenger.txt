@@ -1,0 +1,1 @@
+﻿Jadon's Messenger	R	rare	Creature – Human Pirate 	149	R	2R	R, Sacrifice an artifact: Return target artifact card from your graveyard to the battlefield. That artifacts gains haste until end of turn and deals damage equal to its mana value to this creature.	3/3		normal	KRK		!article

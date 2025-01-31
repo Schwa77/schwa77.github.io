@@ -1,0 +1,1 @@
+﻿Aelython Vanguard	G	common	Creature – Merfolk Warrior 	169	G	3G		4/4		adventure	KRK		Siren's Song	G	Sorcery – Adventure 	G	1G	Put a +1/+1 counter on target creature. It must be blocked this turn if able. (Then exile this card. You may cast the creature later from exile.)				https://www.artstation.com/artwork/z6bmm

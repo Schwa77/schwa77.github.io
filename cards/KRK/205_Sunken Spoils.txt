@@ -1,0 +1,1 @@
+﻿Sunken Spoils	G	common	Sorcery	205	G	2G	Return up to one target permanent card from your graveyard to your hand.NEWLINEPlunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)			normal	KRK		https://www.artstation.com/artwork/g2nOP

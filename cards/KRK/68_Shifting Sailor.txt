@@ -1,0 +1,1 @@
+﻿Shifting Sailor	U	rare	Creature – Shapeshifter Pirate 	68	U	2U	You may have this creature enter as a copy of a creature or artifact you control.	0/0		adventure	KRK		Dastardly Heist	U	Instant – Adventure 	U	6UU	Gain control of target creature or artifact. (Then exile this card. You may cast the creature later from exile.)				

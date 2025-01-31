@@ -1,0 +1,1 @@
+﻿Imperial Bombardiers	W	common	Creature – Human Soldier 	17	W	5W	This spell costs 1 less to cast for each creature you control.NEWLINEVigilance	4/4		normal	KRK		https://www.artstation.com/artwork/PmQ5LL

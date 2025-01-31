@@ -1,0 +1,1 @@
+﻿Grottle Shell-Singer	R	uncommon	Creature – Goblin 	146	R	1R	At the beginning of your end step, if you cast a noncreature spell this turn, plunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)	2/2		normal	KRK		https://www.artstation.com/artwork/EVqwYK

@@ -1,0 +1,1 @@
+﻿Beachcomber's Bane	G	common	Creature – Plant 	171	G	2G	TrampleNEWLINEWhenever a permanent with an Adventure you control enters, put a +1/+1 counter on this creature. (It doesn’t need to have gone on the Adventure first.)	3/1		normal	KRK		https://www.artstation.com/artwork/elGEOJ?notification_id=6356004653

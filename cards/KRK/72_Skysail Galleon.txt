@@ -1,0 +1,1 @@
+﻿Skysail Galleon	U	uncommon	Artifact – Vehicle 	72	U	2U	FlyingNEWLINEWhenever this Vehicle deals combat damage to a player or planeswalker, draw a card.NEWLINECrew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)	2/3		normal	KRK		https://www.deviantart.com/luches/art/Athena-Skye-161562978

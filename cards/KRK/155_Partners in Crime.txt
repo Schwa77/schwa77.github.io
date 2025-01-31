@@ -1,0 +1,1 @@
+﻿Partners in Crime	R	uncommon	Enchantment	155	R	3R	When this enchantment enters, create two 2/1 black Pirate creature tokens with “This creature can’t block.” They gain haste until end of turn.NEWLINE3RR, Sacrifice this enchantment: Creatures you control get +2/+1 and gain trample until end of turn. Activate only as a sorcery.			normal	KRK		

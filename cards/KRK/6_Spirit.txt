@@ -1,0 +1,1 @@
+﻿Spirit	W	common	Token Creature – Spirit 	6	W		Flying	1/1		token	KRK		!related Conscripted Duelist;Spectral Sabers;Forsaken Cutthroat;

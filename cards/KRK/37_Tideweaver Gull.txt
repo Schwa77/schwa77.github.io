@@ -1,0 +1,1 @@
+﻿Tideweaver Gull	W	common	Creature – Bird 	37	W	W	FlyingNEWLINEWhenever this creature attacks, if you’ve cast a noncreature spell this turn, tap target creature or artifact.	1/1		normal	KRK		

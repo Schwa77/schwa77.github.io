@@ -1,0 +1,1 @@
+﻿Ruin Delvers	WR	rare	Creature – Human Scout 	227	WR	3RW	MenaceNEWLINEWhenever this creature attacks, you may put a creature card with mana value 3 or less from your hand or exiled on an Adventure onto the battlefield tapped and attacking. Return that creature to your hand at end of combat.	4/3		normal	KRK		

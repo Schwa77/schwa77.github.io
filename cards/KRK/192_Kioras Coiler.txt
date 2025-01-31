@@ -1,0 +1,1 @@
+﻿Kiora's Coiler	G	rare	Creature – Serpent 	192	G	3GG	TrampleNEWLINEWhenever another Kraken, Leviathan, Octopus, or Serpent enters the battlefield under your control, this creature fights up to one target creature. 	6/6		normal	KRK		

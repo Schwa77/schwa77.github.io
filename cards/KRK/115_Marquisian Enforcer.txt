@@ -1,0 +1,1 @@
+﻿Marquisian Enforcer	B	uncommon	Creature – Human Soldier 	115	B	1B	4B, Exile this card from your graveyard: Create a tapped 4/4 green Serpent creature token with trample.	2/2		normal	KRK		https://www.artstation.com/artwork/Wv8y

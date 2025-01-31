@@ -1,0 +1,1 @@
+﻿Tortun Vanguard	WG	rare	Creature – Turtle Soldier 	232	WG	1GW	VigilanceNEWLINEAt the beginning of combat on your turn, up to one target token you control becomes a 3/3 green and white Soldier creature with vigilance until end of turn.	3/3		normal	KRK		https://elderscrolls.fandom.com/wiki/Seasoned_Captain

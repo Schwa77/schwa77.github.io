@@ -1,0 +1,1 @@
+﻿Cannonpack Crewmate	R	common	Creature – Human Pirate 	133	R	3R	Reach	4/2		adventure	KRK		Fiery Barrage	R	Sorcery – Adventure 	R	1R	Fiery Barrage deals 1 damage to each creature you don’t control. (Then exile this card. You may cast the creature later from exile.)				https://www.artstation.com/artwork/xmRRr

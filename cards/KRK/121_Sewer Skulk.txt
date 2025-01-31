@@ -1,0 +1,1 @@
+﻿Sewer Skulk	B	common	Creature – Lizard Rogue 	121	B	1B	2, T, Sacrifice a creature or discard a creature card: Draw a card.	2/2		normal	KRK		https://www.artstation.com/artwork/v2JAgY

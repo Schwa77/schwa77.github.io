@@ -1,0 +1,1 @@
+﻿Curio Collector	G	common	Creature – Human Scout 	174	G	1G	When this creature enters or dies, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)	3/1		normal	KRK		https://www.artstation.com/artwork/61lgxNEWLINENEWLINE!check

@@ -1,0 +1,1 @@
+﻿Quickdraw	W	common	Instant	27	W	1W	Quickdraw deals 2 damage to target attacking or blocking creature. Create a Weapon token. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip 2.)			normal	KRK		https://www.pinterest.com/pin/964825920144899239/

@@ -1,0 +1,1 @@
+﻿Loyal Deckhand	WR	uncommon	Creature – Human Scout 	223	WR	1RW	Whenever you cast an instant or sorcery spell, create a 1/1 white Scout creature token with lifelink.	3/2		normal	KRK		https://www.artstation.com/artwork/rARwEm

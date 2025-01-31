@@ -1,0 +1,1 @@
+﻿Become the Storm	R	common	Sorcery	130	R	2R	This spell costs 2 less to cast if you control a creature with an Adventure.NEWLINEBecome the Storm deals 3 damage to any target.			normal	KRK		https://wingbuffet.tumblr.com/post/623210907025260544/your-innate-magic-comes-from-the-power-of
