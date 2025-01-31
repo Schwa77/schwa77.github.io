@@ -1,5 +1,6 @@
 ﻿[CustomCards]
-	[	{
+	[
+		{
 			"name": "Candlelight Hexcrafter",
 			"rarity": "common",
 			"mana_cost": "{W}",
@@ -2328,211 +2329,210 @@
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MOX-files/img/5_Insect Angel Token (M20).png"
 			}
-		},
-		]
-	[RareSlot(1)]
-	2 Flowering Wight
-		2 Archangel Tinea
-		2 A New Day Rises
-		2 Harvest Festival
-		2 Ominous Lepiseraph
-		2 Worldsong Conductor
-		2 Twisted Choir
-		2 Awakened Deus
-		2 Lady Lurholme, Communer
-		2 Faceless Form
-		2 Pallbearer's Lament
-		2 Cult Following
-		2 Voracia, Dreamstalker
-		2 All-Seeing Lurker
-		2 Nightmare Whispers
-		2 Nightshroud Steed
-		2 Lifeblood Ritual
-		2 Autumnal Wish
-		2 Encroaching Convergence
-		2 Prossa, Midnight Flame
-		2 Jack's Ire
-		2 Dusklight Frolicking
-		2 Starscape Phoenix
-		2 Condemned Lupine
-		2 Moonlight Witch
-		2 Horizon Eater
-		2 Consuming Slimetide
-		2 Convergence Thaumaturge
-		2 Surula, Swarm's Song
-		2 Portal Summoning
-		2 Things in the Wake
-		2 Deeptomb Caller
-		2 Bramblefiend
-		2 Visions of Devastation
-		2 Knight of Autumn
-		2 Madeline, the Lifestitcher
-		2 Vecri, Plague Alchemist
-		2 Aminatou's Gift
-		2 Wickermoon Scion
-		2 Creeping Cabin
-		2 Raven Roosts
-		2 Aviomancer
-		2 Unknown Seas
-		2 Mossy Ulderhulk
-		2 Repentant Wanderer
-		2 Autumn's Bounty
-		2 Witherweep, Thallid Herald
-		2 Bonehewn Geistkiln
-		2 Bloom Surge
-		2 Ulderwild Haunt
-		2 Hooded Amalgam
-		2 Bitterbone Horror
-		1 Endless Insights
-		1 Pactweaver Regent
-		1 Sleepwalk
-		1 Approach the Eye
-		1 Druidic Summons
-		1 Eldritch Deluge
-		1 Adler, Midnight Architect
-		1 Aminatou, Loreweaver
-		1 Flayed Hellkite
-		1 Jack, the Exterminator
-		1 Roving Monolith
-		1 Melancholy
-		1 Quarrel
-		1 Growth
-		1 Forgiveness
-		1 Fright
-		1 Ronwena, Great Witch
-		1 Terran, Witch Killer
-		1 Wickerwing Witch
-		1 June, Cursed and Hunted
-		[UncommonSlot(3)]
-	9 Village Procession
-		9 Shackled Straw
-		9 Hallow Statue
-		9 Sporecap Warden
-		9 Eldritch Investigator
-		9 Ulderwild Communer
-		9 Velheart Ritualist
-		9 Grizzled Woodsman
-		9 Bunnyback Messenger
-		9 Avian Familiar
-		9 Soultouch Spirit
-		9 Ritual Amalgam
-		9 Duskflight Tracker
-		9 Blighted Angel
-		9 Hivetender
-		9 Archon of Life's Return
-		9 Rallying Hero
-		9 Seal Away
-		9 Runehelm Mystic
-		9 Highborn Alchemist
-		9 Great One's Nest
-		9 Murktown Hunter
-		9 Winged Amalgam
-		9 Lurholme Diviner
-		9 Ulderwild Conductor
-		9 Chained Phantom
-		9 Wrapped in Spidersilk
-		9 Thoughtgrind
-		9 Repeating Replication
-		9 Blossoming Shambler
-		9 Velheart Novitiate
-		9 Vampire of Oblation
-		9 Devoted Aristocrat
-		9 Horned Raven
-		9 Boneyard Bard
-		9 Scared of the Dark
-		9 Blow Away Dreams
-		9 Bog Brew
-		9 Lurholme Embershaper
-		9 Massacre Dragon
-		9 Apprentice's Discovery
-		9 Ulderwild Guardian
-		9 Devastating Pyre
-		9 Skeletal Inferno
-		9 Witchflame
-		9 Embroiled in Conflict
-		9 Hungering Shroom
-		9 Tender Vitalist
-		9 Putrid Sludge
-		9 Ulderwild Cartographer
-		9 Orchard Caretaker
-		9 Haunted Gravesite
-		9 Great Witch's Boon
-		9 Awaken the Ulderwild
-		9 Fatespinning
-		9 Infested Hearse
-		9 Stoneskin Gargoyle
-		9 Harvester's Scythe
-		9 Dance of the Dryads
-		9 Obliterating Bolt
-		[CommonSlot(10)]
-	30 Candlelight Hexcrafter
-		30 Curious Spirit
-		30 Repel the Vile
-		30 Tarnahm Brightbearer
-		30 Dread Whispers
-		30 Tarnahm Shadow
-		30 Determined Congregation
-		30 Aminatou's Familiar
-		30 Outlands Envoy
-		30 Prized Longhorn
-		30 Astral Researcher
-		30 Life Beckoner
-		30 Lost in the Stars
-		30 World's Wings
-		30 Gilded Travel
-		30 Twine of Creation
-		30 Window Haunt
-		30 Orb-Bound Seer
-		30 Deranged Cultist
-		30 Gaping Revenant
-		30 Haunting Watcher
-		30 Phantom Butler
-		30 Syncopate
-		30 Chilling Sight
-		30 Discover the Reliquary
-		30 Kiss of Frost
-		30 Vanish
-		30 Doomed Survivor
-		30 Novice Occultist
-		30 Ulderwild Sage
-		30 Horde Encounter
-		30 Clever Familiar
-		30 Boglurker Thallid
-		30 Elken Remains
-		30 Segmented Terror
-		30 Feed the Swarm
-		30 Deathscream Call
-		30 Rise from Rot
-		30 Harvest
-		30 Truffle Forager
-		30 Bloodgorger Beetle
-		30 Wild Witch
-		30 Leafcrown Elk
-		30 Tomebound Apprentice
-		30 Witch Hunter
-		30 Blightarrow Archer
-		30 Bloodbirthed Crawler
-		30 Sundering the Tower
-		30 Twisted Temptation
-		30 Candlelight Ritual
-		30 Narrow Exit
-		30 Abrade
-		30 Shrine Guardian
-		30 Civic Gardener
-		30 Sporechoke Myconid
-		30 Carnivorous Seedling
-		30 Scion of Old Gods
-		30 Jack's Pumpkinhead
-		30 Ulderwild Recluse
-		30 Gnarled Ironroot
-		30 Inquisitive Jackalope
-		30 Bountiful Orchard
-		30 Ulderwild Animosity
-		30 Ulderwild Clash
-		30 Barkskin Blessing
-		30 Haunt-Drawn Carriage
-		30 Prophetic Prism
-		30 Makeshift Wings
-		30 Shambling Harvester
-		30 Lurholme Sickle
-		
+		}
+	]
+[RareSlot(1)]
+2 Flowering Wight
+2 Archangel Tinea
+2 A New Day Rises
+2 Harvest Festival
+2 Ominous Lepiseraph
+2 Worldsong Conductor
+2 Twisted Choir
+2 Awakened Deus
+2 Lady Lurholme, Communer
+2 Faceless Form
+2 Pallbearer's Lament
+2 Cult Following
+2 Voracia, Dreamstalker
+2 All-Seeing Lurker
+2 Nightmare Whispers
+2 Nightshroud Steed
+2 Lifeblood Ritual
+2 Autumnal Wish
+2 Encroaching Convergence
+2 Prossa, Midnight Flame
+2 Jack's Ire
+2 Dusklight Frolicking
+2 Starscape Phoenix
+2 Condemned Lupine
+2 Moonlight Witch
+2 Horizon Eater
+2 Consuming Slimetide
+2 Convergence Thaumaturge
+2 Surula, Swarm's Song
+2 Portal Summoning
+2 Things in the Wake
+2 Deeptomb Caller
+2 Bramblefiend
+2 Visions of Devastation
+2 Knight of Autumn
+2 Madeline, the Lifestitcher
+2 Vecri, Plague Alchemist
+2 Aminatou's Gift
+2 Wickermoon Scion
+2 Creeping Cabin
+2 Raven Roosts
+2 Aviomancer
+2 Unknown Seas
+2 Mossy Ulderhulk
+2 Repentant Wanderer
+2 Autumn's Bounty
+2 Witherweep, Thallid Herald
+2 Bonehewn Geistkiln
+2 Bloom Surge
+2 Ulderwild Haunt
+2 Hooded Amalgam
+2 Bitterbone Horror
+1 Endless Insights
+1 Pactweaver Regent
+1 Sleepwalk
+1 Approach the Eye
+1 Druidic Summons
+1 Eldritch Deluge
+1 Adler, Midnight Architect
+1 Aminatou, Loreweaver
+1 Flayed Hellkite
+1 Jack, the Exterminator
+1 Roving Monolith
+1 Melancholy
+1 Quarrel
+1 Growth
+1 Forgiveness
+1 Fright
+1 Ronwena, Great Witch
+1 Terran, Witch Killer
+1 Wickerwing Witch
+1 June, Cursed and Hunted
+[UncommonSlot(3)]
+9 Village Procession
+9 Shackled Straw
+9 Hallow Statue
+9 Sporecap Warden
+9 Eldritch Investigator
+9 Ulderwild Communer
+9 Velheart Ritualist
+9 Grizzled Woodsman
+9 Bunnyback Messenger
+9 Avian Familiar
+9 Soultouch Spirit
+9 Ritual Amalgam
+9 Duskflight Tracker
+9 Blighted Angel
+9 Hivetender
+9 Archon of Life's Return
+9 Rallying Hero
+9 Seal Away
+9 Runehelm Mystic
+9 Highborn Alchemist
+9 Great One's Nest
+9 Murktown Hunter
+9 Winged Amalgam
+9 Lurholme Diviner
+9 Ulderwild Conductor
+9 Chained Phantom
+9 Wrapped in Spidersilk
+9 Thoughtgrind
+9 Repeating Replication
+9 Blossoming Shambler
+9 Velheart Novitiate
+9 Vampire of Oblation
+9 Devoted Aristocrat
+9 Horned Raven
+9 Boneyard Bard
+9 Scared of the Dark
+9 Blow Away Dreams
+9 Bog Brew
+9 Lurholme Embershaper
+9 Massacre Dragon
+9 Apprentice's Discovery
+9 Ulderwild Guardian
+9 Devastating Pyre
+9 Skeletal Inferno
+9 Witchflame
+9 Embroiled in Conflict
+9 Hungering Shroom
+9 Tender Vitalist
+9 Putrid Sludge
+9 Ulderwild Cartographer
+9 Orchard Caretaker
+9 Haunted Gravesite
+9 Great Witch's Boon
+9 Awaken the Ulderwild
+9 Fatespinning
+9 Infested Hearse
+9 Stoneskin Gargoyle
+9 Harvester's Scythe
+9 Dance of the Dryads
+9 Obliterating Bolt
+[CommonSlot(10)]
+30 Candlelight Hexcrafter
+30 Curious Spirit
+30 Repel the Vile
+30 Tarnahm Brightbearer
+30 Dread Whispers
+30 Tarnahm Shadow
+30 Determined Congregation
+30 Aminatou's Familiar
+30 Outlands Envoy
+30 Prized Longhorn
+30 Astral Researcher
+30 Life Beckoner
+30 Lost in the Stars
+30 World's Wings
+30 Gilded Travel
+30 Twine of Creation
+30 Window Haunt
+30 Orb-Bound Seer
+30 Deranged Cultist
+30 Gaping Revenant
+30 Haunting Watcher
+30 Phantom Butler
+30 Syncopate
+30 Chilling Sight
+30 Discover the Reliquary
+30 Kiss of Frost
+30 Vanish
+30 Doomed Survivor
+30 Novice Occultist
+30 Ulderwild Sage
+30 Horde Encounter
+30 Clever Familiar
+30 Boglurker Thallid
+30 Elken Remains
+30 Segmented Terror
+30 Feed the Swarm
+30 Deathscream Call
+30 Rise from Rot
+30 Harvest
+30 Truffle Forager
+30 Bloodgorger Beetle
+30 Wild Witch
+30 Leafcrown Elk
+30 Tomebound Apprentice
+30 Witch Hunter
+30 Blightarrow Archer
+30 Bloodbirthed Crawler
+30 Sundering the Tower
+30 Twisted Temptation
+30 Candlelight Ritual
+30 Narrow Exit
+30 Abrade
+30 Shrine Guardian
+30 Civic Gardener
+30 Sporechoke Myconid
+30 Carnivorous Seedling
+30 Scion of Old Gods
+30 Jack's Pumpkinhead
+30 Ulderwild Recluse
+30 Gnarled Ironroot
+30 Inquisitive Jackalope
+30 Bountiful Orchard
+30 Ulderwild Animosity
+30 Ulderwild Clash
+30 Barkskin Blessing
+30 Haunt-Drawn Carriage
+30 Prophetic Prism
+30 Makeshift Wings
+30 Shambling Harvester
+30 Lurholme Sickle
