@@ -1,1 +1,0 @@
-﻿Glorybound Cutthroat	BR	uncommon	Creature – Human Pirate 	216	BR	1BR	This creature can’t block.NEWLINEWhenever you sacrifice another creature or an artifact, put a +1/+1 counter on this creature.NEWLINE3BR, Sacrifice this creature: It deals damage equal to its power to any target.	2/2		normal	KRK		https://www.artstation.com/artwork/oOnX1w

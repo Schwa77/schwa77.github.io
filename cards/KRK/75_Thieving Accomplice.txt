@@ -1,1 +1,0 @@
-﻿Thieving Accomplice	U	uncommon	Creature – Bird Pirate 	75	U	2UU	FlyingNEWLINEWhen this creature enters, gain control of target artifact until this creature leaves the battlefield.	2/2		normal	KRK		

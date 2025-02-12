@@ -1,1 +1,0 @@
-﻿Ronwena, Great Witch	UB	mythic	Legendary Creature – Human Warlock 	179	UB	1UB	Instant and sorcery spells you cast from your hand have equinox. The equinox cost is equal to that card’s mana cost plus sacrifice a creature. (Whenever you cast a spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)	3/3		normal	MOX		

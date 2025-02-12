@@ -1,1 +1,0 @@
-﻿Forsaken Cutthroat	B	uncommon	Creature – Human Pirate 	108	B	2B	DeathtouchNEWLINEWhenever you sacrifice a creature or artifact, create a 1/1 white Spirit creature token with flying. This ability triggers only once per turn.	2/2		normal	KRK		https://www.artstation.com/artwork/Bm48z6NEWLINENEWLINEhttps://www.artstation.com/artwork/8BlanQ?collection_id=940409

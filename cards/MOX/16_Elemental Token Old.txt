@@ -1,1 +1,0 @@
-﻿Elemental Token (Old)	R	common	Token Creature – Elemental 	16	R		Haste	1/1		token	MOX		!exportname Elemental Token (Old)

@@ -1,1 +1,0 @@
-﻿Treasure Token (Old)		common	Token Artifact – Treasure 	26	C		T, Sacrifice this artifact: Add one mana of any color.			token	MOX		!exportname Treasure Token (Old)

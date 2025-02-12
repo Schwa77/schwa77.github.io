@@ -1,1 +1,0 @@
-﻿Gilded Travel	W	common	Enchantment – Aura 	11	W	2W	FlashNEWLINEEnchant creatureNEWLINEWhen Gilded Travel enters the battlefield, enchanted creature gains indestructible until end of turn.NEWLINEEnchanted creature gets +2/+2.			normal	MOX		

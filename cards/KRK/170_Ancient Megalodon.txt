@@ -1,1 +1,0 @@
-﻿Ancient Megalodon	G	common	Creature – Leviathan Shark 	170	G	5GG	This creature can’t be blocked by more than one creature.	6/6		adventure	KRK		Chum Trail	G	Sorcery – Adventure 	G	3G	Create a 3/3 green Shark creature token. (Then exile this card. You may cast the creature later from exile.)				

@@ -1,1 +1,0 @@
-﻿Almicar's Striker	W	uncommon	Creature – Human Soldier 	1	W	W		2/1		adventure	KRK		Back in Action	W	Sorcery – Adventure 	W	3W	Return target nonland permanent card with mana value 3 or less from your graveyard to the battlefield. (Then exile this card. You may cast the creature later from exile.)				https://www.artstation.com/artwork/w6KNg

@@ -1,1 +1,0 @@
-﻿Port Inspector	WB	rare	Creature – Human Soldier 	225	WB	WB	Whenever a creature or artifact an opponent controls is put into a graveyard from the battlefield, create a 1/1 white Soldier creature token. This ability triggers only once per turn.	2/2		normal	KRK		https://www.artstation.com/artwork/14x2oL

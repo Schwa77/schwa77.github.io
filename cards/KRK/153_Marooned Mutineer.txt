@@ -1,1 +1,0 @@
-﻿Marooned Mutineer	R	uncommon	Creature – Human Pirate 	153	R	R	This creature can’t block.NEWLINEThis creature has haste as long as you control an artifact.	2/1		normal	KRK		https://www.artstation.com/artwork/aRNgqJ

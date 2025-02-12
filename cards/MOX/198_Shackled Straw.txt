@@ -1,1 +1,0 @@
-﻿Shackled Straw		uncommon	Artifact Creature – Scarecrow 	198	C	3	DefenderNEWLINEWhenever a player attacks you or a planeswalker you control with flying, Shackled Straw can attack as though it didn’t have defender until the beginning of your next end step.	3/3		normal	MOX		https://www.artstation.com/artwork/GlbLa

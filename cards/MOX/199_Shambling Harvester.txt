@@ -1,1 +1,0 @@
-﻿Shambling Harvester		common	Artifact Creature – Scarecrow 	199	C	2	Reap–4: Shambling Harvester gets +2/+2 until end of turn. (Activate this ability only once each turn and only as a sorcery. It costs 0 if a creature you controlled died this turn.)	2/1		normal	MOX		https://www.artstation.com/artwork/k4dq5y

@@ -1,1 +1,0 @@
-﻿Crimza Taal Smuggler	U	common	Creature – Human Pirate 	48	U	2U	As long as you’ve drawn two or more cards this turn, this creature can’t be blocked.	2/2		adventure	KRK		Pickpocket	U	Sorcery – Adventure 	U	U	Draw a card, then discard a card. (Then exile this card. You may cast the creature later from exile.)				

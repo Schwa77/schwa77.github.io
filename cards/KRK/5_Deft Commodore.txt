@@ -1,1 +1,0 @@
-﻿Deft Commodore	W	common	Creature – Human Soldier 	5	W	4W	When this creature enters, creatures you control get +1/+0 until end of turn.	3/3		adventure	KRK		Rally the Sailors	W	Sorcery – Adventure 	W	2W	Create two 1/1 white Soldier creature tokens. (Then exile this card. You may cast the creature later from exile.)				

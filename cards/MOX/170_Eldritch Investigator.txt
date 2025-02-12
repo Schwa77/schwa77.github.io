@@ -1,1 +1,0 @@
-﻿Eldritch Investigator	UG	uncommon	Creature – Human Rogue 	170	UG	GU	T: Untap another target permanent not named Eldritch Investigator.	2/2		normal	MOX		

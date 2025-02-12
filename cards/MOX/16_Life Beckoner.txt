@@ -1,1 +1,0 @@
-﻿Life Beckoner	W	common	Creature – Vampire 	16	W	4W	FlyingNEWLINEWhen Life Beckoner enters the battlefield, you gain 1 life for each creature you control with flying.	3/3		normal	MOX		https://www.artstation.com/artwork/Y8m96

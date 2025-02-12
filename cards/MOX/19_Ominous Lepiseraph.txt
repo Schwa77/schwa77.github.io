@@ -1,1 +1,0 @@
-﻿Ominous Lepiseraph	W	rare	Creature – Insect Angel 	19	W	3WW	FlyingNEWLINEWhenever you attack, put a +1/+1 counter on each other creature with flying you control.	4/4		normal	MOX		

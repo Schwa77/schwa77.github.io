@@ -1,1 +1,0 @@
-﻿Massacre Dragon	R	uncommon	Creature – Dragon 	114	R	4RR	FlyingNEWLINEReap–1R: Massacre Dragon deals 1 damage to any target. (Activate this ability only once each turn and only as a sorcery. It costs 0 if a creature you controlled died this turn.)	4/4		normal	MOX		

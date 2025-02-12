@@ -1,1 +1,0 @@
-﻿Stormforged Saber		rare	Artifact – Equipment 	259	C	4	Equipped creature has flying.NEWLINEWhenever equipped creature attacks, you may exile target nonland card from your graveyard with mana value less than its power. If you do, you may cast a copy of that card without paying its mana cost.NEWLINEEquip 3			normal	KRK		https://www.deviantart.com/windmaker/art/Buoyancy-479877486

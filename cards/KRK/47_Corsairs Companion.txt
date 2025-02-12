@@ -1,1 +1,0 @@
-﻿Corsair's Companion	U	common	Creature – Drake 	47	U	3U	FlyingNEWLINEWhenever this creature becomes tapped, another target creature or Vehicle you control gains flying until end of turn.	3/2		normal	KRK		https://www.artstation.com/artwork/bR3XG

@@ -1,1 +1,0 @@
-﻿Maelstrom Galleon	U	rare	Artifact – Vehicle 	61	U	2U	FlyingNEWLINEOther Vehicles you control have flying.NEWLINECrew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)	3/3		normal	KRK		https://www.artstation.com/artwork/49kBLW

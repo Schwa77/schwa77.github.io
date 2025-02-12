@@ -1,1 +1,0 @@
-﻿Cunning Quartermaster	UR	uncommon	Creature – Azra Pirate 	212	UR	1UR	When this creature enters, search your library for a Vehicle card, reveal it, and put it into your hand. Then shuffle.NEWLINEWhenever this creature crews a Vehicle, that Vehicle gets +1/+1 and gains trample until end of turn.	3/1		normal	KRK		https://www.josuhernaiz.com/projects/zGy5d?album_id=196

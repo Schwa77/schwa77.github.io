@@ -1,1 +1,0 @@
-﻿Hired Hand	R	rare	Creature – Monkey Pirate 	147	R	R	First strike, hasteNEWLINEWhenever this creature deals combat damage to a player or planeswalker, if you spent mana from a Treasure to cast a spell this turn, create a 2/1 black Pirate creature token with “This creature can’t block.”	1/1		normal	KRK		https://www.deviantart.com/pindurski/art/A-penny-for-a-pound-of-gold-736845335

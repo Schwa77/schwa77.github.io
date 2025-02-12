@@ -1,1 +1,0 @@
-﻿Affectionate Mimic		rare	Artifact Creature – Treasure Shapeshifter 	236	C	2	T, Sacrifice this creature: Add one mana of any color.NEWLINEIf you would create one or more tokens, you may instead create that many tokens that are copies of this creature, except they don’t have this ability.	2/2		normal	KRK		

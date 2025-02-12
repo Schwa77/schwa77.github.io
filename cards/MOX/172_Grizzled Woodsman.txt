@@ -1,1 +1,0 @@
-﻿Grizzled Woodsman	RG	uncommon	Creature – Human Warrior 	172	RG	RG	Whenever a creature with power 4 or greater enters the battlefield under your control, put a +1/+1 counter on Grizzled Woodsman. It gains trample until end of turn.	2/2		normal	MOX		https://www.artstation.com/artwork/wa8zY

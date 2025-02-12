@@ -1,1 +1,0 @@
-﻿Ulderwild Clash	G	common	Instant	161	G	2G	This spell costs 2 less to cast if it targets a creature you control with power 4 or greater.NEWLINETarget creature you control deals damage equal to its power to target creature you don’t control.			normal	MOX		https://www.artstation.com/artwork/3daOKY?collection_id=617720

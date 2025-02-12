@@ -1,1 +1,0 @@
-﻿Lilith's Duplimancy	U	rare	Instant	58	U	2UU	Copy target spell, then return that spell to its owner’s hand. You may choose new targets for the copy. (Copying an Adventure doesn’t cause a creature to go on an Adventure. A copy of a permanent spell becomes a token.)			normal	KRK		

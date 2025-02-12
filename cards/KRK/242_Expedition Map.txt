@@ -1,1 +1,0 @@
-﻿Expedition Map		common	Artifact	242	C	1	2, T, Sacrifice this artifact: Search your library for a land card, reveal it, put it into your hand, then shuffle.			normal	KRK		https://www.inprnt.com/gallery/margaw/the-adventure-begins/NEWLINENEWLINE!reprintNEWLINENEWLINE!article

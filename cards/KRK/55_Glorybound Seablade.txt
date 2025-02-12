@@ -1,1 +1,0 @@
-﻿Glorybound Seablade	U	rare	Creature – Human Pirate 	55	U	1U	Landlubbers can’t block Pirates.NEWLINEWhenever one or more Pirates you control deals combat damage to a player who controls a Landlubber, draw a card.NEWLINE1: Target creature becomes a Landlubber until end of turn.	2/1		normal	KRK		https://www.artstation.com/artwork/3o9ZWD

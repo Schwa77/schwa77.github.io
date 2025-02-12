@@ -1,1 +1,0 @@
-﻿Tortun Cannoneers	G	common	Creature – Turtle Soldier 	207	G	4G	Vigilance, reach	4/4		adventure	KRK		Aim True	G	Instant – Adventure 	G	2G	Target creature gets +2/+2 and gains reach until end of turn. Untap it. (Then exile this card. You may cast the creature later from exile.)				https://www.deviantart.com/camsykes/art/Darter-Monkey-502878528NEWLINENEWLINE!check

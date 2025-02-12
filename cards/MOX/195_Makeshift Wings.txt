@@ -1,1 +1,0 @@
-﻿Makeshift Wings		common	Artifact – Equipment 	195	C	2	When Makeshift Wings enters the battlefield, attach it to target creature you control.NEWLINEEquipped creature gets +1/+0 and has flying.NEWLINEEquip 2			normal	MOX		https://www.pinterest.com/pin/165225880072213261/

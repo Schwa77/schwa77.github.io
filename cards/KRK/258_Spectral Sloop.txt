@@ -1,1 +1,0 @@
-﻿Spectral Sloop		uncommon	Artifact – Vehicle 	258	C	4	VigilanceNEWLINEWhenever this creature deals combat damage to a player or planeswalker, create a tapped 2/2 black Zombie creature token.NEWLINECrew 2	4/4		normal	KRK		https://www.artstation.com/artwork/qgL6P

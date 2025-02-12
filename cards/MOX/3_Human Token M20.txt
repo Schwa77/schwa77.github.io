@@ -1,1 +1,0 @@
-﻿Human Token (M20)	W	common	Token Creature – Human 	3	W			1/1		token	MOX		!exportname Human Token (M20)

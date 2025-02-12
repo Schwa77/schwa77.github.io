@@ -1,1 +1,0 @@
-﻿Great One's Nest	W	uncommon	Enchantment	12	W	3W	Creatures you control with flying get +1/+1.NEWLINECreatures without flying can’t attack unless their controllers pays 1 for each of those creatures.			normal	MOX		

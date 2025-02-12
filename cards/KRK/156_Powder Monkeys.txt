@@ -1,1 +1,0 @@
-﻿Powder Monkeys	R	uncommon	Creature – Monkey Pirate 	156	R	2R	When this creature enters, choose one–NEWLINE• It deals 1 damage to any target.NEWLINE• Destroy target artifact.	2/1		normal	KRK		https://www.artstation.com/artwork/6aAxL6

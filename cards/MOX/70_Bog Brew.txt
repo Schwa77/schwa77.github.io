@@ -1,1 +1,0 @@
-﻿Bog Brew	B	uncommon	Sorcery	70	B	B	Return target creature card from your graveyard to your hand.NEWLINEEquinox 1B (If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)			normal	MOX		

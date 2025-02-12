@@ -1,1 +1,0 @@
-﻿Glittering Spoils		common	Artifact	243	C	3	When this artifact enters, you may draw a card. If you do, discard a card.NEWLINET: Add one mana of any color.			normal	KRK		

@@ -1,1 +1,0 @@
-﻿Human Warlock Token (M20)	R	common	Token Creature – Human Warlock 	17	R		Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)	1/1		token	MOX		!exportname Human Warlock Token (M20)NEWLINENEWLINEhttps://www.oliviahintz.com/keyleth

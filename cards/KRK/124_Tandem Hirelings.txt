@@ -1,1 +1,0 @@
-﻿Tandem Hirelings	B	common	Creature – Human Pirate 	124	B	2B	MenaceNEWLINEWhen this creature enters, create a 2/1 black Pirate creature token with “This creature can’t block.”	2/2		normal	KRK		https://www.artstation.com/artwork/NxvEdz

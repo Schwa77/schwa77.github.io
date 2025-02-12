@@ -1,1 +1,0 @@
-﻿Trenchlurker Titan	U	rare	Creature – Serpent 	80	U	4UU	Ward 4NEWLINEThis creature can’t be blocked by Pirates or Vehicles.	6/6		adventure	KRK		Here Be Monsters	U	Instant – Adventure 	U	2U	Return target spell to its owner’s hand. (Then exile this card. You may cast the creature later from exile.)				

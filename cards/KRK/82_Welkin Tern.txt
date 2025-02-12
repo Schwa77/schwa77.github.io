@@ -1,1 +1,0 @@
-﻿Welkin Tern	U	common	Creature – Bird 	82	U	1U	FlyingNEWLINEThis creature can block only creatures with flying.	2/1		normal	KRK		

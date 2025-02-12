@@ -1,1 +1,0 @@
-﻿Maelstrom's Maw	G	rare	Enchantment	193	G	2GG	When this enchantment enters, create a 4/4 green Serpent creature token with trample.NEWLINEWhenever you cast a Kraken, Leviathan, Octopus, or Serpent spell, you may return this enchantment to its owner’s hand.			normal	KRK		https://www.artstation.com/artwork/ELw9eN?collection_id=940412

@@ -1,1 +1,0 @@
-﻿Shoreline Beacon		uncommon	Artifact	257	C	2	When this artifact enters the battlefield, draw a card.NEWLINE4, T: Target artifact or creature can’t be blocked this turn. If that permanent is a Vehicle, you may have it become a creature until end of turn.			normal	KRK		https://www.artstation.com/artwork/4bPwQn

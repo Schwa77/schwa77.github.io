@@ -1,1 +1,0 @@
-﻿Munitions Mage	R	common	Creature – Human Pirate 	154	R	1R	HasteNEWLINEThis creature can’t block.	2/1		adventure	KRK		Broadside	R	Sorcery – Adventure 	R	R	Target creature can’t block this turn. (Then exile this card. You may cast the creature later from exile.)				

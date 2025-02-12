@@ -1,1 +1,0 @@
-﻿Melancholy	U	mythic	Creature – Incarnation 	49	U	3UU	FlashNEWLINEWhen Melancholy enters the battlefield, return target spell or nonland permanent to its owner’s hand.NEWLINENocturnal UUU (You may cast this spell for its nocturnal cost. If you do, it enters the battlefield tapped with a stun counter on it. Remove one instead of untapping.)	3/3		normal	MOX		

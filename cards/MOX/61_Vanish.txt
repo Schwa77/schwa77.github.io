@@ -1,1 +1,0 @@
-﻿Vanish	U	common	Instant	61	U	3U	This spell costs 2 less to cast if it targets a creature you control.NEWLINEReturn target nonland permanent to its owner’s hand.NEWLINEDraw a card.			normal	MOX		

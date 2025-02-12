@@ -1,1 +1,0 @@
-﻿Cheerful Quartermaster	RG	uncommon	Creature – Elf Pirate 	211	RG	1RG	HasteNEWLINEWhenever a creature with an Adventure you control enters, that creature gets +1/+0 and gains haste until end of turn. (It doesn’t need to have gone on the Adventure first.)	3/3		normal	KRK		https://shadowcoreillustration.blogspot.com/search?q=skull+%26+shackles

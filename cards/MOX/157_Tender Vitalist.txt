@@ -1,1 +1,0 @@
-﻿Tender Vitalist	G	uncommon	Creature – Elf Druid 	157	G	2G	T: Add one mana of any color.NEWLINENocturnal G (You may cast this spell for its nocturnal cost. If you do, it enters the battlefield tapped with a stun counter on it. Remove one instead of untapping.)	2/2		normal	MOX		https://twitter.com/HannalahB/status/1748733680745402845/photo/2

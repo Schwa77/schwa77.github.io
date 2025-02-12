@@ -1,1 +1,0 @@
-﻿Barkskin Blessing	G	common	Enchantment – Aura 	132	G	G	FlashNEWLINEEnchant creatureNEWLINEWhen Barkskin Blessing enters the battlefield, enchanted creature gets +2/+2 until end of turn.NEWLINEEnchanted creature has trample.			normal	MOX		https://www.artstation.com/artwork/NG0Yv1

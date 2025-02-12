@@ -1,1 +1,0 @@
-﻿Ulderwild Conductor	U	uncommon	Creature – Human Warlock 	58	U	2U	Whenever you cast a spell during an opponent’s turn, create a 1/1 white Insect creature token with flying.	1/4		normal	MOX		https://www.artstation.com/artwork/vJK6QY

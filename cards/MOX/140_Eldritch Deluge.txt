@@ -1,1 +1,0 @@
-﻿Eldritch Deluge	G	mythic	Instant	140	G	XG	Reveal the top X cards of your library. For each artifact, creature, or land card revealed this way, if it has mana value X or less, put it onto the battlefield tapped with a stun counter on it. Put the rest on the bottom of your library in a random order.			normal	MOX		

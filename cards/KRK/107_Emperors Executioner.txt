@@ -1,1 +1,0 @@
-﻿Emperor's Executioner	B	uncommon	Creature – Human Soldier 	107	B	1B	FlashNEWLINEThis creature can’t block.	3/1		adventure	KRK		Find Guilty	B	Instant – Adventure 	B	2B	Each opponent sacrifices a creature or planeswalker of their choice. (Then exile this card. You may cast the creature later from exile.)				

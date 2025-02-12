@@ -1,1 +1,0 @@
-﻿Avian Familiar	UB	uncommon	Creature – Bird 	165	UB	UB	FlashNEWLINEFlyingNEWLINEWhen Avian Familiar enters the battlefield during an opponent’s turn or whenever you cast a spell during an opponent’s turn, each opponent loses 1 life and you gain 1 life.	1/1		normal	MOX		

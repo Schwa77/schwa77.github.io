@@ -1,1 +1,0 @@
-﻿Candlelight Hexcrafter	W	common	Creature – Human Cleric 	6	W	W	LifelinkNEWLINE2W, T: Tap target creature.	1/1		normal	MOX		

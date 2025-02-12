@@ -1,1 +1,0 @@
-﻿Stoneskin Gargoyle		uncommon	Artifact Creature – Gargoyle 	200	C	6	Flying, defenderNEWLINEReap–4: Stoneskin Gargoyle can attack this turn as though it didn’t have defender. (Activate this ability only once each turn and only as a sorcery. It costs 0 if a creature you controlled died this turn.)	4/4		normal	MOX		https://www.artstation.com/triximity

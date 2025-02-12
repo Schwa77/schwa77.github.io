@@ -1,1 +1,0 @@
-﻿Bonehewn Geistkiln		rare	Artifact	189	C	1	X, T: Put X charge counters on Bonehewn Geistkiln.NEWLINET, Remove X charge counters from Bonehewn Geistkiln: Return target creature card with mana value X from your graveyard to the battlefield with a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)			normal	MOX		

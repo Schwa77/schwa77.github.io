@@ -1,1 +1,0 @@
-﻿Flourishing Reef	G	common	Enchantment – Aura 	181	G	G	Enchant landNEWLINEWhen this Aura enters the battlefield, create a 1/1 blue Fish creature token.NEWLINEEnchanted land has “T: Add one mana of any color.”			normal	KRK		https://www.artstation.com/artwork/wJnNQ6

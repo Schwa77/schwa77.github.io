@@ -1,1 +1,0 @@
-﻿Loose Cargo	B	uncommon	Artifact	113	B	B	When this artifact enters, each opponent discards a card.NEWLINE3BB, Sacrifice this artifact: Create two 2/1 black Pirate creature tokens with “This creature can’t block.”			normal	KRK		https://www.artstation.com/artwork/68BLo0

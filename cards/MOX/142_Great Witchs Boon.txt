@@ -1,1 +1,0 @@
-﻿Great Witch's Boon	G	uncommon	Enchantment – Aura 	142	G	2G	Enchant creatureNEWLINEWhen Great Witch’s Boon enters the battlefield, tap enchanted creature and put a stun counter on it.NEWLINEEnchanted creature gets +4/+4 and has trample.			normal	MOX		https://www.artstation.com/artwork/RWBnO

@@ -1,1 +1,0 @@
-﻿Doomed Survivor	B	common	Creature – Human Rogue 	77	B	B	MenaceNEWLINE2B, Exile Doomed Survivor from your graveyard: Create a tapped 2/2 black Zombie creature token.	1/1		normal	MOX		https://www.artstation.com/artwork/w9qk9

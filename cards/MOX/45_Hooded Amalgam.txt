@@ -1,1 +1,0 @@
-﻿Hooded Amalgam	U	rare	Creature – Zombie 	45	U	U	X, T, Sacrifice another creature: Create an X/X blue Horror creature token. X can’t be 0. Activate only as a sorcery.	1/1		normal	MOX		

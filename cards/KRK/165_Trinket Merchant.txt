@@ -1,1 +1,0 @@
-﻿Trinket Merchant	R	common	Creature – Human Merchant 	165	R	2R	When this creature enters, plunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)	2/2		normal	KRK		https://www.artstation.com/artwork/0n2Gne

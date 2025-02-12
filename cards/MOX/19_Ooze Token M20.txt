@@ -1,1 +1,0 @@
-﻿Ooze Token (M20)	G	common	Token Creature – Ooze 	19	G			3/3		token	MOX		!exportname Ooze Token (M20)NEWLINENEWLINEhttps://www.artstation.com/artwork/Vgklmg

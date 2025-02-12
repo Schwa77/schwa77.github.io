@@ -1,1 +1,0 @@
-﻿Twinshot Renegade	R	uncommon	Creature – Human Pirate 	166	R	3R	When this creature enters, plunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)NEWLINEWhenever you sacrifice a permanent, you may have this creature deal 1 damage to any target. Do this only once per turn.	3/3		normal	KRK		

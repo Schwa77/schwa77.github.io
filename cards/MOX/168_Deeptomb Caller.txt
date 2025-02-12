@@ -1,1 +1,0 @@
-﻿Deeptomb Caller	UB	rare	Creature – Human Warlock 	168	UB	UB	Whenever you discard an instant card or a card with flash, exile it from your graveyard. You may cast that card this turn.NEWLINET: Draw a card, then discard a card.	1/1		normal	MOX		

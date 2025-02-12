@@ -1,1 +1,0 @@
-﻿Lurholme Embershaper	R	uncommon	Creature – Human Wizard 	113	R	1R	Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)NEWLINEWhenever you cast your second spell each turn, create a 1/1 red Elemental creature token with haste.	2/1		normal	MOX		https://www.artstation.com/artwork/rRAnJJ

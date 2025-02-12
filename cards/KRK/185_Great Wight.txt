@@ -1,1 +1,0 @@
-﻿Great Wight	G	uncommon	Creature – Zombie Shark 	185	G	4G	This creature can’t be blocked by creatures with power 2 or less.NEWLINEThis creature enters with a number of +1/+1 counters on it equal to the greatest power among creature cards in your graveyard.	2/2		normal	KRK		https://www.artstation.com/artwork/0qEOKNEWLINENEWLINE!rework

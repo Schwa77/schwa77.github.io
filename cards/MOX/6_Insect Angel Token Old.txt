@@ -1,1 +1,0 @@
-﻿Insect Angel Token (Old)	W	common	Token Creature – Insect Angel 	6	W		Flying, vigilance	4/4		token	MOX		!exportname Insect Angel Token (Old)

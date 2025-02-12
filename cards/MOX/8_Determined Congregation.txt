@@ -1,1 +1,0 @@
-﻿Determined Congregation	W	common	Sorcery	8	W	1W	Create two 1/1 white Human creature tokens. If a creature died this turn, create three of those tokens instead.			normal	MOX		

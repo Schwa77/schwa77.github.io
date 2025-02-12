@@ -1,1 +1,0 @@
-﻿Tomebound Apprentice	R	common	Creature – Human Warlock 	123	R	2R	Tomebound Apprentice has haste as long as you’ve cast two or more spells this turn.	3/2		normal	MOX		https://www.artstation.com/artwork/rzkJ5

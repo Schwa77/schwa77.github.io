@@ -1,1 +1,0 @@
-﻿Autumnal Wish	R	rare	Sorcery	101	R	1R	As an additional cost to cast this spell, sacrifice a creature.NEWLINEYou may play a card you own from outside the game this turn. If that card has mana value less than the sacrificed creature’s mana value, you may cast it without paying its mana cost.			normal	MOX		

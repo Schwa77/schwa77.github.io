@@ -1,1 +1,0 @@
-﻿Sunken Casket		common	Artifact	260	C	1	When this artifact is put into a graveyard from the battlefield, create a tapped 2/2 black Zombie creature token.NEWLINE6, T, Sacrifice this artifact: Target creature gets -6/-6 until end of turn.			normal	KRK		https://www.artstation.com/artwork/A9lGOW

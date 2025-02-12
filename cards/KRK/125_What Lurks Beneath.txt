@@ -1,1 +1,0 @@
-﻿What Lurks Beneath	B	uncommon	Enchantment	125	B	1B	When this enchantment enters, you may return target creature card from your graveyard to your hand.NEWLINE3BB, Sacrifice this enchantment: Return target creature card from your graveyard to the battlefield. It can’t block this turn.			normal	KRK		https://www.artstation.com/artwork/L2l1Ov

@@ -1,1 +1,0 @@
-﻿Boglurker Thallid	B	common	Creature – Fungus 	71	B	3B	2, Sacrifice a creature: Put a +1/+1 counter on Boglurker Thallid. It gains indestructible until end of turn. Activate only as a sorcery.	3/3		normal	MOX		https://www.artstation.com/artwork/xJLg0E

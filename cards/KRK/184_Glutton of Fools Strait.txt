@@ -1,1 +1,0 @@
-﻿Glutton of Fool's Strait	G	uncommon	Creature – Serpent 	184	G	4GG	TrampleNEWLINEOther Krakens, Leviathans, Octopuses, and Serpents you control have trample.	6/6		normal	KRK		

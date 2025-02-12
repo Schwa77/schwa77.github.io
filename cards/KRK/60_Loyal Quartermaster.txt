@@ -1,1 +1,0 @@
-﻿Loyal Quartermaster	U	common	Creature – Human Pirate 	60	U	U	2U: Draw a card, then discard a card.	1/1		normal	KRK		https://www.artstation.com/artwork/2RKY?collection_id=940409

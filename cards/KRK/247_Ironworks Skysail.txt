@@ -1,1 +1,0 @@
-﻿Ironworks Skysail		rare	Artifact – Vehicle 	247	C	1	Flying, vigilanceNEWLINEAs long as you control three or more artifacts, this Vehicle is an artifact creature.NEWLINECrew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)	2/2		normal	KRK		https://www.artstation.com/artwork/oARDdB

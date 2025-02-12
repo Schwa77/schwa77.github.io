@@ -1,1 +1,0 @@
-﻿Gaping Revenant	U	common	Creature – Spirit 	43	U	3U	FlyingNEWLINENocturnal 1U (You may cast this spell for its nocturnal cost. If you do, it enters the battlefield tapped with a stun counter on it. Remove one instead of untapping.)	3/1		normal	MOX		

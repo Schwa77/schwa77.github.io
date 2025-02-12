@@ -1,1 +1,0 @@
-﻿Frenetic Freebooter	R	uncommon	Creature – Human Pirate 	141	R	3R	Menace	3/3		adventure	KRK		Good Fortune	R	Sorcery – Adventure 	R	1R	Plunder. (Create a Treasure token, or sacrifice an artifact to draw a card. Then exile this card. You may cast the creature later from exile.)				https://www.artstation.com/artwork/LeAbar

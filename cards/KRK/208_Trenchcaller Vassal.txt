@@ -1,1 +1,0 @@
-﻿Trenchcaller Vassal	G	common	Creature – Merfolk Druid 	208	G	1G	T: Add G. When you spend this mana to cast a Kraken, Leviathan, Octopus, or Serpent spell, put a +1/+1 counter on this creature.	1/1		normal	KRK		

@@ -1,1 +1,0 @@
-﻿Crimza Taal Headhunter	B	common	Creature – Azra Rogue 	92	B	2B	Deathtouch	2/2		adventure	KRK		Shank	B	Sorcery – Adventure 	B	B	Target creature gets -1/-1 until end of turn. (Then exile this card. You may cast the creature later from exile.)				https://www.artstation.com/artwork/xgbyW

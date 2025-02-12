@@ -1,1 +1,0 @@
-﻿Flintlock Sharpshot	R	common	Creature – Human Pirate 	139	R	1R	Whenever this creature becomes tapped, it deals 1 damage to target player or planeswalker. 	2/1		normal	KRK		https://www.artstation.com/artwork/QWEd

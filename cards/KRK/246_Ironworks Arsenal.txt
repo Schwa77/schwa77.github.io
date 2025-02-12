@@ -1,1 +1,0 @@
-﻿Ironworks Arsenal		uncommon	Artifact	246	C	3	This artifact with three arms counters on it.NEWLINET, Remove an arms counter from this artifact: Create a Weapon token. You may attach it to up to one target creature. Activate only as a sorcery. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip 2.)			normal	KRK		hhttps://www.artstation.com/artwork/59gEA

@@ -1,1 +1,0 @@
-﻿Horror Token (Old)	U	common	Token Creature – Horror 	8	U			*/*		token	MOX		!exportname Horror Token (Old)

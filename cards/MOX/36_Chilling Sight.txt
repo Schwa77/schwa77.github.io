@@ -1,1 +1,0 @@
-﻿Chilling Sight	U	common	Enchantment – Aura 	36	U	1U	Enchant creatureNEWLINEWhen Chilling Sight enters the battlefield, if you’ve cast two or more spells this turn, tap enchanted creature.NEWLINEEnchanted creature doesn’t untap during its controller’s untap step.			normal	MOX		https://www.artstation.com/artwork/RY3gaE

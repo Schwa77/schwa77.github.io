@@ -1,1 +1,0 @@
-﻿Rallying Hero	W	uncommon	Creature – Human Soldier 	22	W	1W	Creature tokens you control get +1/+1 and have protection from Nightmares. (This creature can’t be blocked, targeted or dealt damage by Nightmares..)	1/1		normal	MOX		

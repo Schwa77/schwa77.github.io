@@ -1,1 +1,0 @@
-﻿Jack's Ire	R	rare	Sorcery	111	R	R	Jack’s Ire deals 2 damage to any target.NEWLINEWhenever you cast a spell from exile, you may pay 1R. If you do, return Jack’s Ire from your graveyard to your hand.			normal	MOX		

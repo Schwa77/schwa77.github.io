@@ -1,1 +1,0 @@
-﻿Crimza Taal Infiltrator	B	rare	Creature – Halfling Pirate 	93	B	2B	DeathtouchNEWLINEAt the beginning of your end step, you lose 1 life and plunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)	2/2		normal	KRK		https://witcher.fandom.com/wiki/Bincy_Blumerholdt?file=Gwent_cardart_syndicate_Bincy_Blumerholdt.png

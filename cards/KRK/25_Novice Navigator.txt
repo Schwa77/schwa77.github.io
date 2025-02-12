@@ -1,1 +1,0 @@
-﻿Novice Navigator	W	uncommon	Creature – Human Scout 	25	W	1W	When this creature enters, create a 1/1 white Soldier creature token and a Weapon token. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip 2.)	1/1		normal	KRK		https://www.artstation.com/artwork/qDxve

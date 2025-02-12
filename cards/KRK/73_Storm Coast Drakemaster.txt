@@ -1,1 +1,0 @@
-﻿Storm Coast Drakemaster	U	common	Creature – Human Pirate 	73	U	2U	When this creature enters, create a 1/1 blue Drake creature token with flying.	1/3		normal	KRK		https://geekynerfherder.blogspot.com/2021/05/artist-spotlight-art-of-lie-setiawan.html

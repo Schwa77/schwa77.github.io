@@ -1,1 +1,0 @@
-﻿Inkforged Arsenal	G	common	Enchantment – Aura 	188	G	G	Enchant creatureNEWLINEEnchanted creature has trample.NEWLINE4G: Put a +1/+1 counter on enchanted creature.			normal	KRK		https://www.artstation.com/artwork/2xN38x

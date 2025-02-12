@@ -1,1 +1,0 @@
-﻿Aelython Renegade	U	common	Creature – Merfolk Pirate 	43	U	2U	When this creature enters, plunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)	1/3		normal	KRK		https://www.artstation.com/artwork/8NZ9R

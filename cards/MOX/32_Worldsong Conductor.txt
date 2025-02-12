@@ -1,1 +1,0 @@
-﻿Worldsong Conductor	W	rare	Creature – Human Shaman 	32	W	W	1W, T, Sacrifice an enchantment: Return target enchantment card from your graveyard to the battlefield. Activate only as a sorcery.	1/1		normal	MOX		

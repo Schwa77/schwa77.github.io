@@ -1,1 +1,0 @@
-﻿Approach the Eye	R	mythic	Enchantment	100	R	2R	You don’t lose unspent red mana as steps and phases end.NEWLINEAt the beginning of your upkeep, Approach the Eye deals 1 damage to you for each unspent red mana you have.NEWLINESacrifice a creature: Add R.			normal	MOX		

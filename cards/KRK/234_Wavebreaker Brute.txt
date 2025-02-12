@@ -1,1 +1,0 @@
-﻿Wavebreaker Brute	RG	rare	Creature – Giant 	234	RG	3RG	Vigilance, trample	5/5		adventure	KRK		Risky Venture	RG	Sorcery – Adventure 	RG	RG	Discard a card, then draw a card. You may put a land card from your hand onto the battlefield. (Then exile this card. You may cast the creature later from exile.)				

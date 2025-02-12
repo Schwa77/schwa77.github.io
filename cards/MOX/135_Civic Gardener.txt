@@ -1,1 +1,0 @@
-﻿Civic Gardener	G	common	Creature – Human Citizen 	135	G	1G	Whenever Civic Gardener attacks, untap target creature or land.	2/2		normal	MOX		https://www.artstation.com/artwork/XnaVPY

@@ -1,1 +1,0 @@
-﻿Ulderwild Recluse	G	common	Creature – Spider 	162	G	4G	Vigilance, reachNEWLINENocturnal 2G (You may cast this spell for its nocturnal cost. If you do, it enters the battlefield tapped with a stun counter on it. Remove one instead of untapping.)	4/4		normal	MOX		https://www.artstation.com/artwork/3oBLv

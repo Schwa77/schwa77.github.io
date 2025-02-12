@@ -1,1 +1,0 @@
-﻿Wharf Rat	UR	rare	Creature – Azra Pirate 	235	UR	2UR	At the beginning of combat on your turn, you may put a Vehicle card from your hand onto the battlefield. It gains haste. Sacrifice it at the beginning of the next end step.	4/2		normal	KRK		

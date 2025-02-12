@@ -1,1 +1,0 @@
-﻿Cannonblast	R	common	Instant	132	R	4R	Cannonblast deals 5 damage to target creature or planeswalker. If you controlled a Vehicle as you cast this spell, excess damage is dealt to that creature’s or planeswalker’s controller.			normal	KRK		https://www.artstation.com/artwork/bZwPE

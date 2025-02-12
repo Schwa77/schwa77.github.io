@@ -1,1 +1,0 @@
-﻿Ironworks Shipwrights	R	uncommon	Creature – Human Artificer 	148	R	2R	Artifact creatures you control get +1/+0.	3/1		adventure	KRK		Wrought to War	R	Sorcery – Adventure 	R	1R	Target artifact you control becomes a 4/4 artifact creature until end of turn. (Then exile this card. You may cast the creature later from exile.)				https://www.pinterest.com/pin/746964288203823989/

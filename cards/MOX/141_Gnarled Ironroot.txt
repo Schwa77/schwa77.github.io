@@ -1,1 +1,0 @@
-﻿Gnarled Ironroot	G	common	Creature – Treefolk 	141	G	5GG	TrampleNEWLINENocturnal 3GG (You may cast this spell for its nocturnal cost. If you do, it enters the battlefield tapped with a stun counter on it. Remove one instead of untapping.)	6/6		normal	MOX		https://www.artstation.com/artwork/G8BeZ3

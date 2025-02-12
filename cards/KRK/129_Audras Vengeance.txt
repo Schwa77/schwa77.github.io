@@ -1,1 +1,0 @@
-﻿Audra's Vengeance	R	common	Instant	129	R	2R	Creatures you control get +2/+0 until end of turn. Creatures you control with Adventures gain trample until end of turn.			normal	KRK		

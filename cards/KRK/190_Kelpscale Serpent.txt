@@ -1,1 +1,0 @@
-﻿Kelpscale Serpent	G	rare	Creature – Plant Serpent 	190	G	1G	T: Untap another target permanent.	2/1		adventure	KRK		Tidal Terror	G	Sorcery – Adventure 	G	XG	Create an X/X blue Kraken creature token. (Then exile this card. You may cast the creature later from exile.)				https://www.deviantart.com/m-hugo/art/Seadragon-202670748

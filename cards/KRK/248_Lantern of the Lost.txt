@@ -1,1 +1,0 @@
-﻿Lantern of the Lost		uncommon	Artifact	248	C	1	When this artifact enters, exile target card from a graveyard.NEWLINE1, T, Exile this artifact: Exile all cards from all graveyards, then draw a card.			normal	KRK		https://www.artstation.com/artwork/ba63Xo

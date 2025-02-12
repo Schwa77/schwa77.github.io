@@ -1,1 +1,0 @@
-﻿Bird Token (Old)	B	common	Token Creature – Bird 	10	B		FlyingNEWLINEThis creature can’t block.	1/1		token	MOX		https://www.artstation.com/artwork/L2nYBvNEWLINENEWLINE!exportname Bird Token (Old)

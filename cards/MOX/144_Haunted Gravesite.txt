@@ -1,1 +1,0 @@
-﻿Haunted Gravesite	G	uncommon	Enchantment	144	G	G	Whenever you cast an enchantment spell, put a +1/+1 counter on target creature you control.NEWLINE3G: Another target enchantment you control becomes a 4/4 green Spirit creature in addition to its other types.			normal	MOX		

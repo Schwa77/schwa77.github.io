@@ -1,1 +1,0 @@
-﻿Curious Spirit	W	common	Creature – Spirit 	7	W	2W	FlyingNEWLINEWhen Curious Spirit enters the battlefield, choose one–NEWLINE• Create a 1/1 white Human creature token.NEWLINE• Choose target permanent in your graveyard that was put there from the battlefield this turn. Return that card to your hand.	2/2		normal	MOX		

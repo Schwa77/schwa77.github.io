@@ -1,1 +1,0 @@
-﻿Outlands Envoy	W	common	Creature – Dwarf Warlock 	20	W	2W	When Outlands Envoy enters the battlefield, choose one–NEWLINE• Return target Aura card from your graveyard to your hand.NEWLINE• Target creature you control gets +2/+2 until end of turn.	2/2		normal	MOX		https://www.artstation.com/artwork/n0xGY1

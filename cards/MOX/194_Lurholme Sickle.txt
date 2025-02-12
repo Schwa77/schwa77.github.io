@@ -1,1 +1,0 @@
-﻿Lurholme Sickle		common	Artifact – Equipment 	194	C	2	When Lurholme Sickle enters the battlefield, search your library for a basic land card, reveal it, put it into your hand, then shuffle.NEWLINEEquipped creature gets +1/+1.NEWLINEEquip 2.			normal	MOX		https://www.artstation.com/artwork/ybkvQJ

@@ -1,1 +1,0 @@
-﻿Starlight Wayfinder	W	rare	Creature – Angel 	35	W	3WW	Flying, vigilance	4/4		adventure	KRK		Spiritual Voyage	W	Instant – Adventure 	W	1W	Return to the battlefield target nonland permanent card in your graveyard that was put there from the battlefield this turn. (Then exile this card. You may cast the creature later from exile.)				

@@ -1,1 +1,0 @@
-﻿Phantom Butler	U	common	Creature – Spirit 	53	U	3U	When Phantom Butler enters the battlefield, if you’ve cast two or more spells this turn, put up to one target instant or sorcery card from your graveyard on top of your library.	3/4		normal	MOX		

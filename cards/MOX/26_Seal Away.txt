@@ -1,1 +1,0 @@
-﻿Seal Away	W	uncommon	Enchantment	26	W	1W	FlashNEWLINEWhen Seal Away enters the battlefield, exile target tapped creature an opponent controls until Seal Away leaves the battlefield.			normal	MOX		

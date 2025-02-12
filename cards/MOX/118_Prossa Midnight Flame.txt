@@ -1,1 +1,0 @@
-﻿Prossa, Midnight Flame	R	rare	Legendary Creature – Dragon Warlock 	118	R	2R	FlyingNEWLINER: Prossa, Midnight Flame gets +1/+0 for each spell you’ve cast this turn. When its power becomes 12 this way, you may exile the top half of your library, rounded down. You may play those cards this turn.	2/2		normal	MOX		

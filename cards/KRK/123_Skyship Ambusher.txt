@@ -1,1 +1,0 @@
-﻿Skyship Ambusher	B	common	Creature – Human Pirate 	123	B	2B	FlashNEWLINEFlyingNEWLINEWhen this creature enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)	2/1		normal	KRK		https://www.deviantart.com/thedurrrrian/art/Sky-Pirates-Arrr-mada-442485277

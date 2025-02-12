@@ -1,1 +1,0 @@
-﻿Repel the Vile	W	common	Instant	23	W	3W	Choose one –NEWLINE• Exile target creature with power 4 or greater.NEWLINE• Exile target enchantment.			normal	MOX		

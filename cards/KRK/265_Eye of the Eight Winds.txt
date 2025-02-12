@@ -1,1 +1,0 @@
-﻿Eye of the Eight Winds		rare	Land	265	C		T: Add C.NEWLINET: Add one mana of any color. Spend this mana only to cast Kraken, Leviathan, Octopus, or Serpent spells.NEWLINE8: This land becomes an 8/8 Octopus creature until end of turn.			normal	KRK		

@@ -1,1 +1,0 @@
-﻿Haunting Watcher	U	common	Creature – Nightmare 	44	U	4U	Reap–4UU: Haunting Watcher can’t be blocked this turn. (Activate this ability only once each turn and only as a sorcery. It costs 0 if a creature you controlled died this turn.)	4/4		normal	MOX		https://www.artstation.com/artwork/aYNN30

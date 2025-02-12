@@ -1831,13 +1831,13 @@
 			}
 		},
 		{
-			"name": "Seabound Scavenger",
+			"name": "Seabound Wraith",
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Spirit Pirate ",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/120_Seabound Scavenger.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/120_Seabound Wraith.png"
 			}
 		},
 		{
@@ -3180,7 +3180,7 @@
 30 Tandem Hirelings
 30 Shipwreck Revenant
 30 Azla's Rotcrew
-30 Seabound Scavenger
+30 Seabound Wraith
 30 Glorybound Scallywags
 30 Poach
 30 Last Gasp

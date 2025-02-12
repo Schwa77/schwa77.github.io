@@ -1,1 +1,0 @@
-﻿Blightarrow Archer	R	common	Creature – Human Archer 	102	R	3R	Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)NEWLINEAs long as it’s your turn, Blightarrow Archer has first strike.	3/2		normal	MOX		https://www.artstation.com/artwork/bP3An

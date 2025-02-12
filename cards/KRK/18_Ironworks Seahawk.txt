@@ -1,1 +1,0 @@
-﻿Ironworks Seahawk	W	common	Artifact Creature – Bird 	18	W	2W	FlyingNEWLINEArtifact spells you cast cost 1 less to cast.NEWLINEEquip abilities you activate cost 1 less to activate.	2/2		normal	KRK		

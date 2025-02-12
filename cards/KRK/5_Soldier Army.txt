@@ -1,1 +1,0 @@
-﻿Soldier Army	W	common	Token Creature – Soldier Army 	5	W		This creature gets +1/+1 for each creature you control.	0/0		token	KRK		

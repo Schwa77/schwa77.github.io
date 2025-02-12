@@ -1,1 +1,0 @@
-﻿Pillager's Flagship		uncommon	Artifact – Vehicle 	252	C	2	Whenever this Vehicle deals combat damage to a player or planeswalker, plunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)NEWLINECrew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)	3/2		normal	KRK		

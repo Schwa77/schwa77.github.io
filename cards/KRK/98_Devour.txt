@@ -1,1 +1,0 @@
-﻿Devour	B	rare	Sorcery	98	B	3BB	Choose a creature you control. Each other creature gets -X/-X until end of turn, where X is the chosen creature’s power.			normal	KRK		https://www.artstation.com/artwork/9moRkW

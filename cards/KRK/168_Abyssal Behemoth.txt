@@ -1,1 +1,0 @@
-﻿Abyssal Behemoth	G	common	Creature – Kraken 	168	G	5G	This spell costs 1 less to cast for each creature card in your graveyard.NEWLINEWhen this creature enters, you gain 4 life.	5/5		normal	KRK		https://www.artstation.com/artwork/eg9eJ

@@ -1,1 +1,0 @@
-﻿Tavern Revelry	G	common	Instant	206	G	G	Target permanent gains hexproof until end of turn. Prevent all damage that would be dealt to it this turn.			normal	KRK		https://www.artstation.com/artwork/zGNRL

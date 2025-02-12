@@ -1,1 +1,0 @@
-﻿Candlelight Ritual	R	common	Sorcery	105	R	1R	You may discard a card. If you do, draw two cards.NEWLINEEquinox 3R (If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)			normal	MOX		

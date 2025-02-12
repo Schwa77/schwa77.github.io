@@ -1,1 +1,0 @@
-﻿Chained Phantom	U	uncommon	Creature – Spirit 	35	U	U	FlyingNEWLINEChained Phantom enters the battlefield tapped with three stun counters on it. (If it would become untapped, remove a stun counter from it instead.)NEWLINEWhenever you cast a spell during an opponent’s turn, untap Chained Phantom.	3/3		normal	MOX		

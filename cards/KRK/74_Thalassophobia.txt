@@ -1,1 +1,0 @@
-﻿Thalassophobia	U	rare	Enchantment	74	U	2U	When this enchantment enters, draw a card.NEWLINEWhenever you draw a card, create a tapped 1/1 blue Tentacle creature token.NEWLINESacrifice this enchantment and eight Tentacles: Search your library for a Kraken, Leviathan, Octopus, or Serpent creature card and put it onto the battlefield, then shuffle.			normal	KRK		!article

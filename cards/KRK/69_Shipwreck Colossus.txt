@@ -1,1 +1,0 @@
-﻿Shipwreck Colossus	U	uncommon	Artifact Creature – Giant 	69	U	4U	VigilanceNEWLINEWhenever another artifact you control enters, put a +1/+1 counter on this creature.	3/3		normal	KRK		

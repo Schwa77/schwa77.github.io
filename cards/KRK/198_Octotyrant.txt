@@ -1,1 +1,0 @@
-﻿Octotyrant	G	rare	Creature – Octopus 	198	G	6GG	When this creature enters, create eight 1/1 blue Tentacle creature tokens.	8/8		normal	KRK		https://www.artstation.com/artwork/mO318

@@ -1,1 +1,0 @@
-﻿Lost in the Stars	W	common	Enchantment – Aura 	17	W	1W	Enchant creatureNEWLINEEnchanted creature can’t attack or block.NEWLINEWhenever you attack with three or more creatures, destroy enchanted creature.			normal	MOX		

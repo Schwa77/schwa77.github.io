@@ -1,1 +1,0 @@
-﻿Trade Route Navigator	W	common	Creature – Human Merchant 	38	W	3W	When this creature enters, create a Weapon token, then you may attach it to another target creature you control. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip 2.)	3/3		normal	KRK		https://www.artstation.com/artwork/o2A8gqNEWLINENEWLINE!feeb

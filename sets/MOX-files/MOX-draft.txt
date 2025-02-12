@@ -2021,46 +2021,6 @@
 			}
 		},
 		{
-			"name": "Treasure Token (Old)",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact — Treasure ",
-			"collector_number": "26",
-			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MOX-files/img/26_Treasure Token (Old).png"
-			}
-		},
-		{
-			"name": "Insect Angel Token (Old)",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Insect Angel ",
-			"collector_number": "6",
-			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MOX-files/img/6_Insect Angel Token (Old).png"
-			}
-		},
-		{
-			"name": "Spirit Token Old)",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Spirit ",
-			"collector_number": "22",
-			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MOX-files/img/22_Spirit Token Old).png"
-			}
-		},
-		{
-			"name": "Horror Token (Old)",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Horror ",
-			"collector_number": "8",
-			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MOX-files/img/8_Horror Token (Old).png"
-			}
-		},
-		{
 			"name": "Plains",
 			"rarity": "common",
 			"mana_cost": "",
@@ -2111,163 +2071,73 @@
 			}
 		},
 		{
-			"name": "Cleric Token (Old)",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Cleric ",
-			"collector_number": "2",
-			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MOX-files/img/2_Cleric Token (Old).png"
-			}
-		},
-		{
-			"name": "Cleric Token (M20)",
+			"name": "Cleric",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Cleric ",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MOX-files/img/1_Cleric Token (M20).png"
+				"en": "https://schwa77.github.io/sets/MOX-files/img/1_Cleric.png"
 			}
 		},
 		{
-			"name": "Human Token (Old)",
+			"name": "Human",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Human ",
-			"collector_number": "4",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MOX-files/img/4_Human Token (Old).png"
+				"en": "https://schwa77.github.io/sets/MOX-files/img/2_Human.png"
 			}
 		},
 		{
-			"name": "Human Token (M20)",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Human ",
-			"collector_number": "3",
-			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MOX-files/img/3_Human Token (M20).png"
-			}
-		},
-		{
-			"name": "Bird Token (Old)",
+			"name": "Bird",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Bird ",
-			"collector_number": "10",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MOX-files/img/10_Bird Token (Old).png"
+				"en": "https://schwa77.github.io/sets/MOX-files/img/5_Bird.png"
 			}
 		},
 		{
-			"name": "Bird Token (M20)",
+			"name": "Zombie",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Bird ",
+			"type": "Token Creature — Zombie ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MOX-files/img/7_Zombie.png"
+			}
+		},
+		{
+			"name": "Elemental",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MOX-files/img/8_Elemental.png"
+			}
+		},
+		{
+			"name": "Human Warlock",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human Warlock ",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MOX-files/img/9_Bird Token (M20).png"
+				"en": "https://schwa77.github.io/sets/MOX-files/img/9_Human Warlock.png"
 			}
 		},
 		{
-			"name": "Demon (Old)",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Demon ",
-			"collector_number": "12",
-			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MOX-files/img/12_Demon (Old).png"
-			}
-		},
-		{
-			"name": "Zombie Token (Old)",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Zombie ",
-			"collector_number": "14",
-			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MOX-files/img/14_Zombie Token (Old).png"
-			}
-		},
-		{
-			"name": "Zombie Token (M20)",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Zombie ",
-			"collector_number": "13",
-			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MOX-files/img/13_Zombie Token (M20).png"
-			}
-		},
-		{
-			"name": "Elemental Token (Old)",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Elemental ",
-			"collector_number": "16",
-			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MOX-files/img/16_Elemental Token (Old).png"
-			}
-		},
-		{
-			"name": "Elemental Token (M20)",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Elemental ",
-			"collector_number": "15",
-			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MOX-files/img/15_Elemental Token (M20).png"
-			}
-		},
-		{
-			"name": "Human Warlock Token (Old)",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Human Warlock ",
-			"collector_number": "18",
-			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MOX-files/img/18_Human Warlock Token (Old).png"
-			}
-		},
-		{
-			"name": "Human Warlock Token (M20)",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Human Warlock ",
-			"collector_number": "17",
-			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MOX-files/img/17_Human Warlock Token (M20).png"
-			}
-		},
-		{
-			"name": "Ooze Token (Old)",
+			"name": "Ooze",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Ooze ",
-			"collector_number": "20",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MOX-files/img/20_Ooze Token (Old).png"
-			}
-		},
-		{
-			"name": "Ooze Token (M20)",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Ooze ",
-			"collector_number": "19",
-			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MOX-files/img/19_Ooze Token (M20).png"
-			}
-		},
-		{
-			"name": "Wolf Token (Old)",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Wolf ",
-			"collector_number": "24",
-			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MOX-files/img/24_Wolf Token (Old).png"
+				"en": "https://schwa77.github.io/sets/MOX-files/img/10_Ooze.png"
 			}
 		},
 		{
@@ -2275,29 +2145,29 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Wolf ",
-			"collector_number": "23",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MOX-files/img/23_Wolf Token (M20).png"
+				"en": "https://schwa77.github.io/sets/MOX-files/img/12_Wolf Token (M20).png"
 			}
 		},
 		{
-			"name": "Treasure Token (M20)",
+			"name": "Treasure",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure ",
-			"collector_number": "25",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MOX-files/img/25_Treasure Token (M20).png"
+				"en": "https://schwa77.github.io/sets/MOX-files/img/13_Treasure.png"
 			}
 		},
 		{
-			"name": "Horror Token (M20)",
+			"name": "Horror",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Horror ",
-			"collector_number": "7",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MOX-files/img/7_Horror Token (M20).png"
+				"en": "https://schwa77.github.io/sets/MOX-files/img/4_Horror.png"
 			}
 		},
 		{
@@ -2305,29 +2175,29 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Demon ",
-			"collector_number": "11",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MOX-files/img/11_Demon (M20).png"
+				"en": "https://schwa77.github.io/sets/MOX-files/img/6_Demon (M20).png"
 			}
 		},
 		{
-			"name": "Spirit Token M20)",
+			"name": "Spirit",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Spirit ",
-			"collector_number": "21",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MOX-files/img/21_Spirit Token M20).png"
+				"en": "https://schwa77.github.io/sets/MOX-files/img/11_Spirit.png"
 			}
 		},
 		{
-			"name": "Insect Angel Token (M20)",
+			"name": "Insect Angel",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Insect Angel ",
-			"collector_number": "5",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MOX-files/img/5_Insect Angel Token (M20).png"
+				"en": "https://schwa77.github.io/sets/MOX-files/img/3_Insect Angel.png"
 			}
 		}
 	]

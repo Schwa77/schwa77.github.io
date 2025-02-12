@@ -1,1 +1,0 @@
-﻿Ghost-Blade Renegade	B	mythic	Creature – Human Pirate 	109	B	1BB	Ward–Pay 3 life.NEWLINEWhenever another nontoken Pirate you control dies, create a token that’s a copy of it, except it’s a 1/1 Spirit in addition to its other types and gains flying.	3/3		normal	KRK		https://www.instagram.com/p/CXuLACnPGK0/?hl=en

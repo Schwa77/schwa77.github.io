@@ -1,1 +1,0 @@
-﻿Hungering Shroom	G	uncommon	Creature – Fungus 	146	G	3GG	TrampleNEWLINEReap–4G: Put two +1/+1 counters on Hungering Shroom. (Activate this ability only once each turn and only as a sorcery. It costs 0 if a creature you controlled died this turn.)	5/5		normal	MOX		

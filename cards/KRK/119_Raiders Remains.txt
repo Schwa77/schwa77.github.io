@@ -1,1 +1,0 @@
-﻿Raider's Remains	B	rare	Creature – Skeleton Pirate 	119	B	B	This creature can’t block.NEWLINEYou may cast this card as an Adventure from your graveyard. (You may play it from exile later.)	2/1		adventure	KRK		Death's Toll	B	Sorcery – Adventure 	B	1B	Target player loses 1 life and you gain 1 life. (Then exile this card. You may cast the creature later from exile.)				raiders

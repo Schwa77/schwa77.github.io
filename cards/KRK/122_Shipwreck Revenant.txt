@@ -1,1 +1,0 @@
-﻿Shipwreck Revenant	B	common	Creature – Spirit 	122	B	3B	LifelinkNEWLINEWhenever you draw your second card each turn, each opponent loses 2 life and you gain 2 life.	2/4		normal	KRK		https://www.artstation.com/artwork/lRrEOk

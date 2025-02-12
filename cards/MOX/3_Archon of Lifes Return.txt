@@ -1,1 +1,0 @@
-﻿Archon of Life's Return	W	uncommon	Creature – Archon 	3	W	2W	FlyingNEWLINEWhen Archon of Life’s Return enters the battlefield, choose target permanent card with mana value 3 or less in your graveyard. You may play that card this turn.	2/2		normal	MOX		

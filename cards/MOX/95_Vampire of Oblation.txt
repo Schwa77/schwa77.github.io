@@ -1,1 +1,0 @@
-﻿Vampire of Oblation	B	uncommon	Creature – Vampire 	95	B	3B	When Vampire of Oblation enters the battlefield, each player sacrifices a creature.NEWLINENocturnal 1B (You may cast this spell for its nocturnal cost. If you do, it enters the battlefield tapped with a stun counter on it. Remove one instead of untapping.)	3/2		normal	MOX		https://www.artstation.com/artwork/L39k2v

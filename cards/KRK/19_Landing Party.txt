@@ -1,1 +1,0 @@
-﻿Landing Party	W	common	Creature – Human Scout 	19	W	1W	Lifelink	2/2		normal	KRK		

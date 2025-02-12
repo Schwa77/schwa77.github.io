@@ -1,1 +1,0 @@
-﻿Parry	W	common	Instant	26	W	W	Target creature you control gets +2/+2 until end of turn. If you control an artifact, it also gains first strike until end of turn.			normal	KRK		https://www.deviantart.com/rhineville/art/Warfare-451404030

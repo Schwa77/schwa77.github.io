@@ -1,1 +1,0 @@
-﻿Deep Sea Devastator	U	uncommon	Creature – Leviathan 	51	U	4UU	This creature can’t be blocked except by Krakens, Leviathans, Octopuses, and Serpents.NEWLINEWhen this creature enters if you control another Kraken, Leviathan, Octopus, or Serpent, you may return target creature or Vehicle to its owner’s hand.	4/4		normal	KRK		https://www.artstation.com/artwork/8l0BmE
