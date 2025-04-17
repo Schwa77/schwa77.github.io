@@ -6,6 +6,7 @@ import json
 import image_flip
 import card_edge_trimmer
 import list_to_list
+import print_draft_file
 import print_html_for_index
 import print_html_for_search
 import print_html_for_preview
@@ -13,6 +14,7 @@ import print_html_for_card
 import print_html_for_set
 import print_html_for_sets_page
 import print_html_for_deckbuilder
+
 
 import markdown
 
@@ -69,6 +71,17 @@ def portCustomFiles(custom_dir, export_dir):
 			shutil.copy(entry.path, os.path.join(export_dir, entry.name))
 			print(os.path.join(export_dir, entry.name) + ' added')
 
+def removeStaleFiles(set_dir):
+	filesToRemove = [ 'structure.json', 'preview-order.json' ]
+	for entry in os.scandir(set_dir):
+		#CE: ignore default or generated files
+		if entry.name in [ '.DS_Store', '__pycache__', 'README.md' ]:
+			continue
+		s_dir = os.path.join(set_dir, entry.name)
+		for set_entry in os.scandir(s_dir):
+			if set_entry.name in filesToRemove:
+				os.remove(set_entry)
+
 #CE: legacy file removal
 for entry in os.scandir('.'):
 	if '-spoiler' in entry.name:
@@ -88,11 +101,13 @@ for entry in os.scandir('lists'):
 	if entry.name != 'README.md' and os.path.isfile(entry):
 		os.remove(entry)
 
+#CE: remove stale files from set directories
+removeStaleFiles('sets')
+
 #CE: copy the entire custom tree
 portCustomFiles('custom', '')
 
 #F: sort them
-
 set_codes.sort()
 
 #F: then call a previously defined function, which...
@@ -107,6 +122,12 @@ for code in set_codes:
 	set_dir = code + '-files'
 	with open(os.path.join('sets', code + '-files', code + '.json'), encoding='utf-8-sig') as f:
 		raw = json.load(f)
+	if 'draft_structure' in raw and not raw['draft_structure'] == 'none':
+		try:
+			print_draft_file.generateFile(code)
+			print('Generated draft file for {0}.'.format(code))
+		except:
+			print('Unable to generate draft file for {0}.'.format(code))
 	trimmed = raw['trimmed']
 	if trimmed == 'n':
 		raw['trimmed'] = 'y'
