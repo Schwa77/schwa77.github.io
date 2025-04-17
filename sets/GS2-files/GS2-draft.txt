@@ -438,7 +438,7 @@
 9 Scheming Confidants
 9 Spoils of the Arena
 9 Tormenting Tribune
-[CommonSlot(10)]
+[CommonSlot(8)]
 30 Sylvan Ranger
 30 Cragheart Marauder
 30 Arena Gladiator
