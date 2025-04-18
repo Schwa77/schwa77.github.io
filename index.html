@@ -213,19 +213,23 @@
 										<div class="set-group"></div>
 							<div class="preview-container">
 		<div class="set-icon-container">
-									<a href="GS2-spoiler"><div class="set-icon"><img src="sets/GS2-files/icon.png" title="Global Series 2"></img></div>
+									<a href="previews/GS2"><div class="set-icon"><img src="sets/GS2-files/icon.png" title="Global Series 2"></img></div>
 									<div class="set-icon-name">Global Series 2</div></a>
 								</div>
 				<div class="set-icon-container">
-									<a href="KRK-spoiler"><div class="set-icon"><img src="sets/KRK-files/icon.png" title="Seas of Krakonos"></img></div>
+									<a href="previews/JPK"><div class="set-icon"><img src="sets/JPK-files/icon.png" title="Pokémon Trainer Jumpstart"></img></div>
+									<div class="set-icon-name">Pokémon Trainer Jumpstart</div></a>
+								</div>
+				<div class="set-icon-container">
+									<a href="previews/KRK"><div class="set-icon"><img src="sets/KRK-files/icon.png" title="Seas of Krakonos"></img></div>
 									<div class="set-icon-name">Seas of Krakonos</div></a>
 								</div>
 				<div class="set-icon-container">
-									<a href="MOX-spoiler"><div class="set-icon"><img src="sets/MOX-files/icon.png" title="Midnight Omens of Xogoa"></img></div>
+									<a href="previews/MOX"><div class="set-icon"><img src="sets/MOX-files/icon.png" title="Midnight Omens of Xogoa"></img></div>
 									<div class="set-icon-name">Midnight Omens of Xogoa</div></a>
 								</div>
 				<div class="set-icon-container">
-									<a href="MRV-spoiler"><div class="set-icon"><img src="sets/MRV-files/icon.png" title="Marvel Comics: The Cosmic Cube"></img></div>
+									<a href="previews/MRV"><div class="set-icon"><img src="sets/MRV-files/icon.png" title="Marvel Comics: The Cosmic Cube"></img></div>
 									<div class="set-icon-name">Marvel Comics: The Cosmic Cube</div></a>
 								</div>
 									</div>
@@ -296,12 +300,17 @@
 				const card_stats = card_list_cleaned[cotd];
 
 				const a = document.createElement("a");
-				let card_name = card_stats.card_name;
-				for (const char of specialchars)
-				{
-					card_name = card_name.replaceAll(char, "");
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: card_stats.set,
+					num: card_stats.number,
+					name: card_stats.card_name
 				}
-				a.href = '/cards/' + card_stats.set + '/' + card_stats.number + '_' + card_name;
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+				a.href = url;
 
 				const img = document.createElement("img");
 				img.id = "cotd";
@@ -393,18 +402,26 @@
 			}
 
 			function search() {
-				window.location = ("search?search=" + document.getElementById("search").value);
+				const url = new URL('search', window.location.origin);
+				url.searchParams.append('search', document.getElementById("search").value);
+				window.location.href = url;
 			}
 
 			function randomCard() {
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
-				let card_name = card_list_arrayified[i].card_name;
-				for (const char of specialchars)
-				{
-					card_name = card_name.replaceAll(char, "");
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
 				}
 
-				window.location = ('/cards/' + card_list_arrayified[i].set + '/' + card_list_arrayified[i].number + '_' + card_name);
+				window.location.href = url;
 			}
 		</script>
 	</body>
