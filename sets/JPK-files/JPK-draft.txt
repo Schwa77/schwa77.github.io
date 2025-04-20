@@ -178,7 +178,7 @@
 9 Bellowing Bulwark
 9 Fossil Deposit
 9 Shieldback Snapper
-[CommonSlot(8)]
+[CommonSlot(10)]
 30 Thriving Grove
 30 Seafloor Scrounger
 30 Hatch
