@@ -221,23 +221,13 @@
 			}
 		},
 		{
-			"name": "Jawa Junk Dealer",
-			"rarity": "rare",
-			"mana_cost": "{1}{R}",
-			"type": "Creature — Alien Artificer ",
-			"collector_number": "23",
-			"image_uris": {
-				"en": "https://schwa77.github.io/sets/STW-files/img/23_Jawa Junk Dealer.png"
-			}
-		},
-		{
 			"name": "Ravenous Rancor",
 			"rarity": "common",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Beast ",
-			"collector_number": "24",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/STW-files/img/24_Ravenous Rancor.png"
+				"en": "https://schwa77.github.io/sets/STW-files/img/23_Ravenous Rancor.png"
 			}
 		},
 		{
@@ -245,9 +235,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "25",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/STW-files/img/25_Reprogram.png"
+				"en": "https://schwa77.github.io/sets/STW-files/img/24_Reprogram.png"
 			}
 		},
 		{
@@ -255,9 +245,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "26",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/STW-files/img/26_Shoot First.png"
+				"en": "https://schwa77.github.io/sets/STW-files/img/25_Shoot First.png"
 			}
 		},
 		{
@@ -271,23 +261,13 @@
 			}
 		},
 		{
-			"name": "Trench Run",
-			"rarity": "rare",
-			"mana_cost": "{1}{U}{R}",
-			"type": "Enchantment",
-			"collector_number": "40",
-			"image_uris": {
-				"en": "https://schwa77.github.io/sets/STW-files/img/40_Trench Run.png"
-			}
-		},
-		{
 			"name": "Tusken Raiders",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Alien Warrior ",
-			"collector_number": "27",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/STW-files/img/27_Tusken Raiders.png"
+				"en": "https://schwa77.github.io/sets/STW-files/img/26_Tusken Raiders.png"
 			}
 		},
 		{
@@ -295,9 +275,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Ewok Archer ",
-			"collector_number": "28",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/STW-files/img/28_Chirpa's Archer.png"
+				"en": "https://schwa77.github.io/sets/STW-files/img/27_Chirpa's Archer.png"
 			}
 		},
 		{
@@ -305,9 +285,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Lizard ",
-			"collector_number": "29",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/STW-files/img/29_Lumbering Dewback.png"
+				"en": "https://schwa77.github.io/sets/STW-files/img/28_Lumbering Dewback.png"
 			}
 		},
 		{
@@ -315,9 +295,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Yeti ",
-			"collector_number": "30",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/STW-files/img/30_Territorial Wampa.png"
+				"en": "https://schwa77.github.io/sets/STW-files/img/29_Territorial Wampa.png"
 			}
 		},
 		{
@@ -325,9 +305,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "32",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/STW-files/img/32_Unruly Brawl.png"
+				"en": "https://schwa77.github.io/sets/STW-files/img/31_Unruly Brawl.png"
 			}
 		},
 		{
@@ -335,9 +315,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "33",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/STW-files/img/33_Whispers of Endor.png"
+				"en": "https://schwa77.github.io/sets/STW-files/img/32_Whispers of Endor.png"
 			}
 		},
 		{
@@ -345,9 +325,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Creature — Wookiee Warrior ",
-			"collector_number": "34",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/STW-files/img/34_Wookiee Guerrilla.png"
+				"en": "https://schwa77.github.io/sets/STW-files/img/33_Wookiee Guerrilla.png"
 			}
 		},
 		{
@@ -371,23 +351,13 @@
 			}
 		},
 		{
-			"name": "On The Frontlines",
-			"rarity": "rare",
-			"mana_cost": "{1}{R}{W}",
-			"type": "Enchantment",
-			"collector_number": "38",
-			"image_uris": {
-				"en": "https://schwa77.github.io/sets/STW-files/img/38_On The Frontlines.png"
-			}
-		},
-		{
 			"name": "Rebellion X-Wing",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Artifact — Vehicle ",
-			"collector_number": "39",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/STW-files/img/39_Rebellion X-Wing.png"
+				"en": "https://schwa77.github.io/sets/STW-files/img/40_Rebellion X-Wing.png"
 			}
 		},
 		{
@@ -485,9 +455,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Ewok Shaman ",
-			"collector_number": "31",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/STW-files/img/31_Tree-Village Elder.png"
+				"en": "https://schwa77.github.io/sets/STW-files/img/30_Tree-Village Elder.png"
 			}
 		},
 		{
@@ -499,16 +469,43 @@
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/STW-files/img/8_Do or Do Not.png"
 			}
+		},
+		{
+			"name": "Imperial TIE Fighter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/STW-files/img/38_Imperial TIE Fighter.png"
+			}
+		},
+		{
+			"name": "Beskar Duelist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Human Mercenary ",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/STW-files/img/34_Beskar Duelist.png"
+			}
+		},
+		{
+			"name": "One With the Force",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/STW-files/img/39_One With the Force.png"
+			}
 		}
 	]
 [RareSlot(1)]
 2 Battlefront Medic
 2 Admiral Ackbar
 2 Might of the Empire
-2 Jawa Junk Dealer
-2 Trench Run
 2 Wookiee Guerrilla
-2 On The Frontlines
 2 Imperial Star Destroyer
 2 Boba Fett
 [UncommonSlot(3)]
@@ -521,6 +518,9 @@
 9 Imperial Technician
 9 Rebellion X-Wing
 9 Plasma Rifle
+9 Imperial TIE Fighter
+9 Beskar Duelist
+9 One With the Force
 [CommonSlot(10)]
 30 Echo Defender
 30 Flight Commander
