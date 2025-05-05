@@ -1,7 +1,7 @@
 ﻿{
     "name": "Star Wars Miniset",
     "formats": "",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "png",
     "cards": [
         {
@@ -904,6 +904,5 @@
             "artist": "Raymond Swanland",
             "notes": "https://raymondswanland.com/star-wars-gallery"
         }
-    ],
-    "version": 1
+    ]
 }
