@@ -154,7 +154,7 @@
 			"name": "Snowspeeder Ace",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Alien Rebel Pilot ",
+			"type": "Creature — Human Rebel Pilot ",
 			"collector_number": "13",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/STW-files/img/13_Snowspeeder Ace.png"
