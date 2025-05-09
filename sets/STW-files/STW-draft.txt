@@ -499,6 +499,56 @@
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/STW-files/img/39_One With the Force.png"
 			}
+		},
+		{
+			"name": "Army",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Army ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/STW-files/img/1_Army.png"
+			}
+		},
+		{
+			"name": "Rebel",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Rebel ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/STW-files/img/2_Rebel.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/STW-files/img/5_Treasure.png"
+			}
+		},
+		{
+			"name": "Ewok",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Ewok ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/STW-files/img/3_Ewok.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/STW-files/img/4_Food.png"
+			}
 		}
 	]
 [RareSlot(1)]

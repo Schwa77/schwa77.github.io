@@ -164,6 +164,8 @@
 		<img class="preload-hidden" src="/sets/JPK-files/icon.png" />
 		<img class="preload-hidden" src="/sets/STW-files/icon.png" />
 		<img class="preload-hidden" src="/sets/MRV-files/icon.png" />
+		<img class="preload-hidden" id="bg" src="/sets/STW-files/bg.png" />
+		
 		<div class="header">
 		<div class="search-grid">
 			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
@@ -278,6 +280,16 @@
 			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="token" class="anchor"></div>
+			<div class="container"><img alt="/sets\STW-files\img\4t_Food.png" id="4t_Food" data-flag="@X" onclick="openSidebar('4t_Food',false)"></div>
+			<div class="container"><img alt="/sets\STW-files\img\5t_Treasure.png" id="5t_Treasure" data-flag="@X" onclick="openSidebar('5t_Treasure',false)"></div>
+			<div class="container"><img alt="/sets\STW-files\img\1t_Army.png" id="1t_Army" data-flag="@X" onclick="openSidebar('1t_Army',false)"></div>
+			<div class="container"><img alt="/sets\STW-files\img\2t_Rebel.png" id="2t_Rebel" data-flag="@X" onclick="openSidebar('2t_Rebel',false)"></div>
+			<div class="container"><img alt="/sets\STW-files\img\3t_Ewok.png" id="3t_Ewok" data-flag="@X" onclick="openSidebar('3t_Ewok',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 	</div>
 </div>
@@ -324,7 +336,7 @@
 		}
 		while (images_loaded.includes(false));
 
-		
+		document.body.style.backgroundImage = 'url(' + document.getElementById("bg").src + ')';
 		loadImages();
 	});
 
