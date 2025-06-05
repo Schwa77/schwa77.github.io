@@ -1,7 +1,7 @@
 ﻿{
     "name": "Marvel Comics: The Cosmic Cube",
     "formats": "",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "png",
     "cards": [
         {
@@ -7636,7 +7636,7 @@
             "cost": "",
             "rules_text": "",
             "flavor_text": "[i][/i]",
-            "pt": "",
+            "pt": "1/1",
             "special_text": "",
             "shape": "token",
             "set": "MRV",
