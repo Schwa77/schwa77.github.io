@@ -1,10 +1,10 @@
-ï»¿[CustomCards]
+[CustomCards]
 	[
 		{
 			"name": "Alfheim",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land â€” Mountain Forest ",
+			"type": "Legendary Land — Mountain Forest",
 			"collector_number": "305",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/305_Alfheim.png"
@@ -12,7 +12,7 @@
 		},
 		{
 			"name": "Armor Workshop",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "306",
@@ -22,9 +22,9 @@
 		},
 		{
 			"name": "Asgard",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land â€” Island Mountain ",
+			"type": "Legendary Land — Island Mountain",
 			"collector_number": "307",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/307_Asgard.png"
@@ -32,7 +32,7 @@
 		},
 		{
 			"name": "Asteroid M",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "308",
@@ -42,9 +42,9 @@
 		},
 		{
 			"name": "Atlantis",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land â€” Forest Island ",
+			"type": "Legendary Land — Forest Island",
 			"collector_number": "309",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/309_Atlantis.png"
@@ -52,9 +52,9 @@
 		},
 		{
 			"name": "Attilan",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land â€” Plains Island ",
+			"type": "Legendary Land — Plains Island",
 			"collector_number": "310",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/310_Attilan.png"
@@ -62,9 +62,9 @@
 		},
 		{
 			"name": "Avengers Mansion",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land â€” Forest Plains ",
+			"type": "Legendary Land — Forest Plains",
 			"collector_number": "311",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/311_Avengers Mansion.png"
@@ -72,9 +72,9 @@
 		},
 		{
 			"name": "Baxter Building",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land â€” Plains Island ",
+			"type": "Legendary Land — Plains Island",
 			"collector_number": "312",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/312_Baxter Building.png"
@@ -82,7 +82,7 @@
 		},
 		{
 			"name": "Bifrost",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "313",
@@ -92,9 +92,9 @@
 		},
 		{
 			"name": "Blue Area of the Moon",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land â€” Island Swamp ",
+			"type": "Legendary Land — Island Swamp",
 			"collector_number": "314",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/314_Blue Area of the Moon.png"
@@ -102,7 +102,7 @@
 		},
 		{
 			"name": "Collector's Museum",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "315",
@@ -112,7 +112,7 @@
 		},
 		{
 			"name": "The Daily Bugle",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "316",
@@ -122,9 +122,9 @@
 		},
 		{
 			"name": "Danger Room",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land â€” Island Mountain ",
+			"type": "Legendary Land — Island Mountain",
 			"collector_number": "317",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/317_Danger Room.png"
@@ -132,9 +132,9 @@
 		},
 		{
 			"name": "Dark Dimension",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land â€” Swamp Mountain ",
+			"type": "Legendary Land — Swamp Mountain",
 			"collector_number": "318",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/318_Dark Dimension.png"
@@ -142,7 +142,7 @@
 		},
 		{
 			"name": "Earth-616",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "319",
@@ -152,7 +152,7 @@
 		},
 		{
 			"name": "Essex Laboratory",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "320",
@@ -162,7 +162,7 @@
 		},
 		{
 			"name": "Friendly Neighborhood",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "321",
@@ -172,7 +172,7 @@
 		},
 		{
 			"name": "Genosha",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "322",
@@ -182,9 +182,9 @@
 		},
 		{
 			"name": "Hell's Kitchen",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land â€” Mountain Plains ",
+			"type": "Legendary Land — Mountain Plains",
 			"collector_number": "324",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/324_Hell's Kitchen.png"
@@ -192,7 +192,7 @@
 		},
 		{
 			"name": "HYDRA Stronghold",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "325",
@@ -202,9 +202,9 @@
 		},
 		{
 			"name": "Jotunheim",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land â€” Island Swamp ",
+			"type": "Legendary Land — Island Swamp",
 			"collector_number": "326",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/326_Jotunheim.png"
@@ -212,7 +212,7 @@
 		},
 		{
 			"name": "Kamar-Taj",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "327",
@@ -222,7 +222,7 @@
 		},
 		{
 			"name": "Klyntar Homeworld",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "328",
@@ -232,9 +232,9 @@
 		},
 		{
 			"name": "Knowhere",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land â€” Plains Swamp ",
+			"type": "Legendary Land — Plains Swamp",
 			"collector_number": "329",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/329_Knowhere.png"
@@ -242,7 +242,7 @@
 		},
 		{
 			"name": "Krakoa",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "330",
@@ -252,7 +252,7 @@
 		},
 		{
 			"name": "Hala",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "323",
@@ -262,7 +262,7 @@
 		},
 		{
 			"name": "K'un-Lun",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "331",
@@ -272,9 +272,9 @@
 		},
 		{
 			"name": "Latveria",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land â€” Swamp Forest ",
+			"type": "Legendary Land — Swamp Forest",
 			"collector_number": "332",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/332_Latveria.png"
@@ -282,9 +282,9 @@
 		},
 		{
 			"name": "Limbo",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land â€” Swamp Mountain ",
+			"type": "Legendary Land — Swamp Mountain",
 			"collector_number": "333",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/333_Limbo.png"
@@ -292,7 +292,7 @@
 		},
 		{
 			"name": "Madripoor",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "334",
@@ -302,9 +302,9 @@
 		},
 		{
 			"name": "Midgard",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land â€” Plains Island ",
+			"type": "Legendary Land — Plains Island",
 			"collector_number": "335",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/335_Midgard.png"
@@ -312,7 +312,7 @@
 		},
 		{
 			"name": "Muir Island",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "336",
@@ -322,9 +322,9 @@
 		},
 		{
 			"name": "Muspelheim",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land â€” Swamp Mountain ",
+			"type": "Legendary Land — Swamp Mountain",
 			"collector_number": "337",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/337_Muspelheim.png"
@@ -332,9 +332,9 @@
 		},
 		{
 			"name": "Negative Zone",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land â€” Swamp Forest ",
+			"type": "Legendary Land — Swamp Forest",
 			"collector_number": "338",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/338_Negative Zone.png"
@@ -342,7 +342,7 @@
 		},
 		{
 			"name": "Nexus of All Realities",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "339",
@@ -352,9 +352,9 @@
 		},
 		{
 			"name": "Nidavellir",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land â€” Mountain Plains ",
+			"type": "Legendary Land — Mountain Plains",
 			"collector_number": "340",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/340_Nidavellir.png"
@@ -362,9 +362,9 @@
 		},
 		{
 			"name": "Niffleheim",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land â€” Forest Island ",
+			"type": "Legendary Land — Forest Island",
 			"collector_number": "341",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/341_Niffleheim.png"
@@ -372,9 +372,9 @@
 		},
 		{
 			"name": "Oscorp Industries",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land â€” Forest Island ",
+			"type": "Legendary Land — Forest Island",
 			"collector_number": "342",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/342_Oscorp Industries.png"
@@ -382,9 +382,9 @@
 		},
 		{
 			"name": "The Raft",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land â€” Plains Swamp ",
+			"type": "Legendary Land — Plains Swamp",
 			"collector_number": "343",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/343_The Raft.png"
@@ -392,7 +392,7 @@
 		},
 		{
 			"name": "Ravencroft Institute",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "344",
@@ -402,9 +402,9 @@
 		},
 		{
 			"name": "Roxxon Energy Corporation",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land â€” Island Swamp ",
+			"type": "Legendary Land — Island Swamp",
 			"collector_number": "345",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/345_Roxxon Energy Corporation.png"
@@ -412,7 +412,7 @@
 		},
 		{
 			"name": "SHIELD Headquarters",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "346",
@@ -422,9 +422,9 @@
 		},
 		{
 			"name": "Sakaaran Arena",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land â€” Mountain Forest ",
+			"type": "Legendary Land — Mountain Forest",
 			"collector_number": "347",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/347_Sakaaran Arena.png"
@@ -432,9 +432,9 @@
 		},
 		{
 			"name": "Sanctum Sanctorum",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land â€” Mountain Plains ",
+			"type": "Legendary Land — Mountain Plains",
 			"collector_number": "348",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/348_Sanctum Sanctorum.png"
@@ -442,7 +442,7 @@
 		},
 		{
 			"name": "Savage Land",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "349",
@@ -452,9 +452,9 @@
 		},
 		{
 			"name": "Stark Tower",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land â€” Island Mountain ",
+			"type": "Legendary Land — Island Mountain",
 			"collector_number": "350",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/350_Stark Tower.png"
@@ -462,7 +462,7 @@
 		},
 		{
 			"name": "Subterranea",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "351",
@@ -472,9 +472,9 @@
 		},
 		{
 			"name": "Svartalfheim",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land â€” Swamp Forest ",
+			"type": "Legendary Land — Swamp Forest",
 			"collector_number": "352",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/352_Svartalfheim.png"
@@ -482,7 +482,7 @@
 		},
 		{
 			"name": "Symkaria",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "353",
@@ -492,7 +492,7 @@
 		},
 		{
 			"name": "Utopia",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "354",
@@ -502,9 +502,9 @@
 		},
 		{
 			"name": "Valhalla",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land â€” Plains Swamp ",
+			"type": "Legendary Land — Plains Swamp",
 			"collector_number": "355",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/355_Valhalla.png"
@@ -512,9 +512,9 @@
 		},
 		{
 			"name": "Vanaheim",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land â€” Forest Plains ",
+			"type": "Legendary Land — Forest Plains",
 			"collector_number": "356",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/356_Vanaheim.png"
@@ -522,9 +522,9 @@
 		},
 		{
 			"name": "Wakanda",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land â€” Mountain Forest ",
+			"type": "Legendary Land — Mountain Forest",
 			"collector_number": "357",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/357_Wakanda.png"
@@ -532,7 +532,7 @@
 		},
 		{
 			"name": "Weapon X Facility",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "358",
@@ -542,9 +542,9 @@
 		},
 		{
 			"name": "Xavier's School for Gifted Youngsters",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land â€” Forest Plains ",
+			"type": "Legendary Land — Forest Plains",
 			"collector_number": "359",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/359_Xavier's School for Gifted Youngsters.png"
@@ -552,7 +552,7 @@
 		},
 		{
 			"name": "Yancy Street",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "360",
@@ -562,9 +562,9 @@
 		},
 		{
 			"name": "Invisible Woman",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{W}",
-			"type": "Legendary Creature â€” Human Warrior ",
+			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "27",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/27_Invisible Woman.png"
@@ -572,9 +572,9 @@
 		},
 		{
 			"name": "Black Knight",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
-			"type": "Legendary Creature â€” Human Knight ",
+			"type": "Legendary Creature — Human Knight",
 			"collector_number": "12",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/12_Black Knight.png"
@@ -582,9 +582,9 @@
 		},
 		{
 			"name": "Falcon",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
-			"type": "Legendary Creature â€” Human Warrior ",
+			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "18",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/18_Falcon.png"
@@ -592,9 +592,9 @@
 		},
 		{
 			"name": "Moon Knight",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
-			"type": "Legendary Creature â€” Human Mercenary ",
+			"type": "Legendary Creature — Human Mercenary",
 			"collector_number": "34",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/34_Moon Knight.png"
@@ -602,9 +602,9 @@
 		},
 		{
 			"name": "Shang-Chi",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
-			"type": "Legendary Creature â€” Human Warrior ",
+			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "43",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/43_Shang-Chi.png"
@@ -612,9 +612,9 @@
 		},
 		{
 			"name": "Magik",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
-			"type": "Legendary Creature â€” Mutant Wizard ",
+			"type": "Legendary Creature — Mutant Wizard",
 			"collector_number": "32",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/32_Magik.png"
@@ -622,9 +622,9 @@
 		},
 		{
 			"name": "Valkyrie",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
-			"type": "Legendary Creature â€” God Warrior ",
+			"type": "Legendary Creature — God Warrior",
 			"collector_number": "49",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/49_Valkyrie.png"
@@ -632,9 +632,9 @@
 		},
 		{
 			"name": "Havok",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
-			"type": "Legendary Creature â€” Mutant Warrior ",
+			"type": "Legendary Creature — Mutant Warrior",
 			"collector_number": "23",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/23_Havok.png"
@@ -642,9 +642,9 @@
 		},
 		{
 			"name": "Iron Fist",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
-			"type": "Legendary Creature â€” Human Monk ",
+			"type": "Legendary Creature — Human Monk",
 			"collector_number": "28",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/28_Iron Fist.png"
@@ -652,7 +652,7 @@
 		},
 		{
 			"name": "Banish to Limbo",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Enchantment",
 			"collector_number": "10",
@@ -662,9 +662,9 @@
 		},
 		{
 			"name": "Founding of the Four",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
-			"type": "Enchantment â€” Saga ",
+			"type": "Enchantment — Saga",
 			"collector_number": "20",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/20_Founding of the Four.png"
@@ -672,7 +672,7 @@
 		},
 		{
 			"name": "Journey into Mystery",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Enchantment",
 			"collector_number": "29",
@@ -682,9 +682,9 @@
 		},
 		{
 			"name": "A Living Legend Rises",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
-			"type": "Enchantment â€” Saga ",
+			"type": "Enchantment — Saga",
 			"collector_number": "31",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/31_A Living Legend Rises.png"
@@ -692,7 +692,7 @@
 		},
 		{
 			"name": "SHIELD Deployment",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
 			"collector_number": "40",
@@ -702,9 +702,9 @@
 		},
 		{
 			"name": "Anti-Venom",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{W}",
-			"type": "Legendary Creature â€” Symbiote ",
+			"type": "Legendary Creature — Symbiote",
 			"collector_number": "8",
 			"back": {
 				"name": "",
@@ -719,9 +719,9 @@
 		},
 		{
 			"name": "Captain America",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{W}",
-			"type": "Legendary Creature â€” Human Soldier ",
+			"type": "Legendary Creature — Human Soldier",
 			"collector_number": "16",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/16_Captain America.png"
@@ -729,7 +729,7 @@
 		},
 		{
 			"name": "Fist of Khonshu",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Enchantment",
 			"collector_number": "19",
@@ -739,9 +739,9 @@
 		},
 		{
 			"name": "Heimdall, the All-Seeing",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
-			"type": "Legendary Creature â€” God Warrior ",
+			"type": "Legendary Creature — God Warrior",
 			"collector_number": "24",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/24_Heimdall, the All-Seeing.png"
@@ -749,9 +749,9 @@
 		},
 		{
 			"name": "Khonshu, God of the Moon",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
-			"type": "Legendary Planeswalker â€” Khonshu ",
+			"type": "Legendary Planeswalker — Khonshu",
 			"collector_number": "30",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/30_Khonshu, God of the Moon.png"
@@ -759,9 +759,9 @@
 		},
 		{
 			"name": "Peni Parker",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{W}",
-			"type": "Legendary Creature â€” Human Artificer ",
+			"type": "Legendary Creature — Human Artificer",
 			"collector_number": "37",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/37_Peni Parker.png"
@@ -769,9 +769,9 @@
 		},
 		{
 			"name": "Adam Warlock",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
-			"type": "Legendary Planeswalker â€” Adam ",
+			"type": "Legendary Planeswalker — Adam",
 			"collector_number": "5",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/5_Adam Warlock.png"
@@ -779,7 +779,7 @@
 		},
 		{
 			"name": "Astral Projection",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Instant",
 			"collector_number": "9",
@@ -789,7 +789,7 @@
 		},
 		{
 			"name": "Blind Justice",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
 			"collector_number": "13",
@@ -799,7 +799,7 @@
 		},
 		{
 			"name": "Fractured Multiverse",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Instant",
 			"collector_number": "21",
@@ -809,7 +809,7 @@
 		},
 		{
 			"name": "Suit Up",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{X}{W}",
 			"type": "Sorcery",
 			"collector_number": "46",
@@ -819,9 +819,9 @@
 		},
 		{
 			"name": "Vibranium Shield",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
-			"type": "Legendary Artifact â€” Equipment ",
+			"type": "Legendary Artifact — Equipment",
 			"collector_number": "50",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/50_Vibranium Shield.png"
@@ -829,9 +829,9 @@
 		},
 		{
 			"name": "Hank McCoy",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
-			"type": "Legendary Creature â€” Mutant Artificer ",
+			"type": "Legendary Creature — Mutant Artificer",
 			"collector_number": "63",
 			"back": {
 				"name": "",
@@ -846,9 +846,9 @@
 		},
 		{
 			"name": "Psylocke",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{U}",
-			"type": "Legendary Creature â€” Mutant Ninja ",
+			"type": "Legendary Creature — Mutant Ninja",
 			"collector_number": "81",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/81_Psylocke.png"
@@ -856,9 +856,9 @@
 		},
 		{
 			"name": "Wiccan",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
-			"type": "Legendary Creature â€” Mutant Wizard ",
+			"type": "Legendary Creature — Mutant Wizard",
 			"collector_number": "97",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/97_Wiccan.png"
@@ -866,9 +866,9 @@
 		},
 		{
 			"name": "Lockjaw",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
-			"type": "Legendary Creature â€” Alien Dog ",
+			"type": "Legendary Creature — Alien Dog",
 			"collector_number": "69",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/69_Lockjaw.png"
@@ -876,9 +876,9 @@
 		},
 		{
 			"name": "Jessica Jones",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
-			"type": "Legendary Creature â€” Human Advisor ",
+			"type": "Legendary Creature — Human Advisor",
 			"collector_number": "67",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/67_Jessica Jones.png"
@@ -886,9 +886,9 @@
 		},
 		{
 			"name": "Mister Fantastic",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
-			"type": "Legendary Creature â€” Human Artificer ",
+			"type": "Legendary Creature — Human Artificer",
 			"collector_number": "74",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/74_Mister Fantastic.png"
@@ -896,9 +896,9 @@
 		},
 		{
 			"name": "Mystique",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
-			"type": "Legendary Creature â€” Mutant Rogue ",
+			"type": "Legendary Creature — Mutant Rogue",
 			"collector_number": "78",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/78_Mystique.png"
@@ -906,9 +906,9 @@
 		},
 		{
 			"name": "Shadowcat",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
-			"type": "Legendary Creature â€” Mutant Warrior ",
+			"type": "Legendary Creature — Mutant Warrior",
 			"collector_number": "87",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/87_Shadowcat.png"
@@ -916,9 +916,9 @@
 		},
 		{
 			"name": "Tinkerer",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
-			"type": "Legendary Creature â€” Human Artificer ",
+			"type": "Legendary Creature — Human Artificer",
 			"collector_number": "91",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/91_Tinkerer.png"
@@ -926,9 +926,9 @@
 		},
 		{
 			"name": "Loki, God of Mischief",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{U}{U}",
-			"type": "Legendary Creature â€” Giant Warlock ",
+			"type": "Legendary Creature — Giant Warlock",
 			"collector_number": "70",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/70_Loki, God of Mischief.png"
@@ -936,9 +936,9 @@
 		},
 		{
 			"name": "Mysterio",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{U}",
-			"type": "Legendary Creature â€” Human Artificer ",
+			"type": "Legendary Creature — Human Artificer",
 			"collector_number": "76",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/76_Mysterio.png"
@@ -946,9 +946,9 @@
 		},
 		{
 			"name": "Chameleon",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
-			"type": "Legendary Creature â€” Human Shapeshifter ",
+			"type": "Legendary Creature — Human Shapeshifter",
 			"collector_number": "59",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/59_Chameleon.png"
@@ -956,9 +956,9 @@
 		},
 		{
 			"name": "Vision",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{U}{U}",
-			"type": "Legendary Artifact Creature â€” Warrior ",
+			"type": "Legendary Artifact Creature — Warrior",
 			"collector_number": "95",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/95_Vision.png"
@@ -966,9 +966,9 @@
 		},
 		{
 			"name": "Namor",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{U}{U}{U}",
-			"type": "Legendary Creature â€” Merfolk Mutant Noble ",
+			"type": "Legendary Creature — Merfolk Mutant Noble",
 			"collector_number": "79",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/79_Namor.png"
@@ -976,9 +976,9 @@
 		},
 		{
 			"name": "Wasp",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{U}",
-			"type": "Legendary Creature â€” Human Warrior ",
+			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "96",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/96_Wasp.png"
@@ -986,7 +986,7 @@
 		},
 		{
 			"name": "Ocksperimentation",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "80",
@@ -996,7 +996,7 @@
 		},
 		{
 			"name": "Think",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Instant",
 			"collector_number": "90",
@@ -1006,7 +1006,7 @@
 		},
 		{
 			"name": "Absolute Zero",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "52",
@@ -1016,7 +1016,7 @@
 		},
 		{
 			"name": "Astonishing Discovery",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Instant",
 			"collector_number": "54",
@@ -1026,7 +1026,7 @@
 		},
 		{
 			"name": "Imperius Rex",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{X}{U}{U}",
 			"type": "Instant",
 			"collector_number": "65",
@@ -1036,7 +1036,7 @@
 		},
 		{
 			"name": "SHIELD Insight",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment",
 			"collector_number": "83",
@@ -1046,7 +1046,7 @@
 		},
 		{
 			"name": "Two Steps Ahead",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{X}{U}",
 			"type": "Instant",
 			"collector_number": "92",
@@ -1056,7 +1056,7 @@
 		},
 		{
 			"name": "Cerebro",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Artifact",
 			"collector_number": "58",
@@ -1066,7 +1066,7 @@
 		},
 		{
 			"name": "Change the Future",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
 			"collector_number": "60",
@@ -1076,9 +1076,9 @@
 		},
 		{
 			"name": "Days of Future Past",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
-			"type": "Enchantment â€” Saga ",
+			"type": "Enchantment — Saga",
 			"collector_number": "61",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/61_Days of Future Past.png"
@@ -1086,7 +1086,7 @@
 		},
 		{
 			"name": "Mystic Arts",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
 			"collector_number": "77",
@@ -1096,9 +1096,9 @@
 		},
 		{
 			"name": "The Ancient One",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
-			"type": "Legendary Planeswalker â€” Yao ",
+			"type": "Legendary Planeswalker — Yao",
 			"collector_number": "53",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/53_The Ancient One.png"
@@ -1106,7 +1106,7 @@
 		},
 		{
 			"name": "Variant Edition",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Sorcery",
 			"collector_number": "93",
@@ -1116,7 +1116,7 @@
 		},
 		{
 			"name": "Vigorous Research",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
 			"collector_number": "94",
@@ -1126,9 +1126,9 @@
 		},
 		{
 			"name": "Kang the Conqueror",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
-			"type": "Legendary Planeswalker â€” Kang ",
+			"type": "Legendary Planeswalker — Kang",
 			"collector_number": "68",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/68_Kang the Conqueror.png"
@@ -1136,9 +1136,9 @@
 		},
 		{
 			"name": "Secret Invasion",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
-			"type": "Enchantment â€” Saga ",
+			"type": "Enchantment — Saga",
 			"collector_number": "86",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/86_Secret Invasion.png"
@@ -1146,7 +1146,7 @@
 		},
 		{
 			"name": "Might of Seven Seas",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Sorcery",
 			"collector_number": "73",
@@ -1156,7 +1156,7 @@
 		},
 		{
 			"name": "World of Metal",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Artifact",
 			"collector_number": "98",
@@ -1166,7 +1166,7 @@
 		},
 		{
 			"name": "Maniacal Meddling",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Instant",
 			"collector_number": "72",
@@ -1176,9 +1176,9 @@
 		},
 		{
 			"name": "Rescue Armor",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
-			"type": "Legendary Artifact â€” Equipment ",
+			"type": "Legendary Artifact — Equipment",
 			"collector_number": "82",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/82_Rescue Armor.png"
@@ -1186,9 +1186,9 @@
 		},
 		{
 			"name": "Supreme Intelligence",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{U}{U}",
-			"type": "Legendary Planeswalker â€” Supremor ",
+			"type": "Legendary Planeswalker — Supremor",
 			"collector_number": "89",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/89_Supreme Intelligence.png"
@@ -1196,9 +1196,9 @@
 		},
 		{
 			"name": "Scorn",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
-			"type": "Legendary Artifact Creature â€” Symbiote ",
+			"type": "Legendary Artifact Creature — Symbiote",
 			"collector_number": "84",
 			"back": {
 				"name": "",
@@ -1213,9 +1213,9 @@
 		},
 		{
 			"name": "Elektra",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{B}",
-			"type": "Legendary Creature â€” Human Ninja ",
+			"type": "Legendary Creature — Human Ninja",
 			"collector_number": "114",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/114_Elektra.png"
@@ -1223,9 +1223,9 @@
 		},
 		{
 			"name": "Johnny Blaze",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{B}",
-			"type": "Legendary Creature â€” Human Pilot ",
+			"type": "Legendary Creature — Human Pilot",
 			"collector_number": "120",
 			"back": {
 				"name": "",
@@ -1240,9 +1240,9 @@
 		},
 		{
 			"name": "Klaw",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{B}",
-			"type": "Legendary Creature â€” Human Rogue ",
+			"type": "Legendary Creature — Human Rogue",
 			"collector_number": "123",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/123_Klaw.png"
@@ -1250,9 +1250,9 @@
 		},
 		{
 			"name": "Black Cat",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
-			"type": "Legendary Creature â€” Human Rogue ",
+			"type": "Legendary Creature — Human Rogue",
 			"collector_number": "101",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/101_Black Cat.png"
@@ -1260,9 +1260,9 @@
 		},
 		{
 			"name": "Gamora",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
-			"type": "Legendary Creature â€” Alien Assassin ",
+			"type": "Legendary Creature — Alien Assassin",
 			"collector_number": "115",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/115_Gamora.png"
@@ -1270,9 +1270,9 @@
 		},
 		{
 			"name": "Vulture",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{B}{B}",
-			"type": "Legendary Creature â€” Human Rogue ",
+			"type": "Legendary Creature — Human Rogue",
 			"collector_number": "144",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/144_Vulture.png"
@@ -1280,9 +1280,9 @@
 		},
 		{
 			"name": "Mojo",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{B}{B}",
-			"type": "Legendary Creature â€” Alien Warlock ",
+			"type": "Legendary Creature — Alien Warlock",
 			"collector_number": "130",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/130_Mojo.png"
@@ -1290,9 +1290,9 @@
 		},
 		{
 			"name": "Morbius",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{B}{B}",
-			"type": "Legendary Creature â€” Vampire ",
+			"type": "Legendary Creature — Vampire",
 			"collector_number": "133",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/133_Morbius.png"
@@ -1300,9 +1300,9 @@
 		},
 		{
 			"name": "Bullseye",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
-			"type": "Legendary Creature â€” Human Assassin ",
+			"type": "Legendary Creature — Human Assassin",
 			"collector_number": "103",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/103_Bullseye.png"
@@ -1310,9 +1310,9 @@
 		},
 		{
 			"name": "Norman Osborn",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
-			"type": "Legendary Creature â€” Human Advisor ",
+			"type": "Legendary Creature — Human Advisor",
 			"collector_number": "135",
 			"back": {
 				"name": "",
@@ -1327,9 +1327,9 @@
 		},
 		{
 			"name": "Kingpin",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
-			"type": "Legendary Creature â€” Human Advisor ",
+			"type": "Legendary Creature — Human Advisor",
 			"collector_number": "122",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/122_Kingpin.png"
@@ -1337,9 +1337,9 @@
 		},
 		{
 			"name": "Doctor Doom",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{B}{B}",
-			"type": "Legendary Creature â€” Human Warlock ",
+			"type": "Legendary Creature — Human Warlock",
 			"collector_number": "110",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/110_Doctor Doom.png"
@@ -1347,9 +1347,9 @@
 		},
 		{
 			"name": "Man-Thing",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{B}{B}",
-			"type": "Legendary Creature â€” Plant Horror ",
+			"type": "Legendary Creature — Plant Horror",
 			"collector_number": "126",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/126_Man-Thing.png"
@@ -1357,9 +1357,9 @@
 		},
 		{
 			"name": "Omega Red",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{B}{B}",
-			"type": "Legendary Creature â€” Mutant Mercenary ",
+			"type": "Legendary Creature — Mutant Mercenary",
 			"collector_number": "136",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/136_Omega Red.png"
@@ -1367,9 +1367,9 @@
 		},
 		{
 			"name": "Hela, Goddess of Death",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{B}{B}{B}",
-			"type": "Legendary Creature â€” God ",
+			"type": "Legendary Creature — God",
 			"collector_number": "116",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/116_Hela, Goddess of Death.png"
@@ -1377,9 +1377,9 @@
 		},
 		{
 			"name": "Hobgoblin",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
-			"type": "Legendary Creature â€” Goblin Rogue ",
+			"type": "Legendary Creature — Goblin Rogue",
 			"collector_number": "117",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/117_Hobgoblin.png"
@@ -1387,9 +1387,9 @@
 		},
 		{
 			"name": "Venom",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
-			"type": "Legendary Creature â€” Symbiote ",
+			"type": "Legendary Creature — Symbiote",
 			"collector_number": "143",
 			"back": {
 				"name": "",
@@ -1404,9 +1404,9 @@
 		},
 		{
 			"name": "Mephisto",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{B}{B}",
-			"type": "Legendary Planeswalker â€” Mephisto ",
+			"type": "Legendary Planeswalker — Mephisto",
 			"collector_number": "129",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/129_Mephisto.png"
@@ -1414,7 +1414,7 @@
 		},
 		{
 			"name": "Media Persecution",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
 			"collector_number": "128",
@@ -1424,7 +1424,7 @@
 		},
 		{
 			"name": "Master Plan",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Enchantment",
 			"collector_number": "127",
@@ -1434,7 +1434,7 @@
 		},
 		{
 			"name": "Deal with the Devil",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
 			"collector_number": "107",
@@ -1444,7 +1444,7 @@
 		},
 		{
 			"name": "Hunt to Extinction",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{B}{B}",
 			"type": "Sorcery",
 			"collector_number": "119",
@@ -1454,9 +1454,9 @@
 		},
 		{
 			"name": "The Hunger Spreads",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{X}{B}{B}",
-			"type": "Enchantment â€” Saga ",
+			"type": "Enchantment — Saga",
 			"collector_number": "118",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/118_The Hunger Spreads.png"
@@ -1464,7 +1464,7 @@
 		},
 		{
 			"name": "Bargain in Blood",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Sorcery",
 			"collector_number": "100",
@@ -1474,7 +1474,7 @@
 		},
 		{
 			"name": "Criminal Empire",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
 			"collector_number": "106",
@@ -1484,7 +1484,7 @@
 		},
 		{
 			"name": "Summon the Horsemen",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{X}{B}{B}{B}",
 			"type": "Sorcery",
 			"collector_number": "141",
@@ -1494,9 +1494,9 @@
 		},
 		{
 			"name": "Cannonball",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{R}",
-			"type": "Legendary Creature â€” Mutant Warrior ",
+			"type": "Legendary Creature — Mutant Warrior",
 			"collector_number": "150",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/150_Cannonball.png"
@@ -1504,9 +1504,9 @@
 		},
 		{
 			"name": "Electro",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{R}",
-			"type": "Legendary Creature â€” Human Rogue ",
+			"type": "Legendary Creature — Human Rogue",
 			"collector_number": "161",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/161_Electro.png"
@@ -1514,9 +1514,9 @@
 		},
 		{
 			"name": "Shocker",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{R}",
-			"type": "Legendary Creature â€” Human Mercenary ",
+			"type": "Legendary Creature — Human Mercenary",
 			"collector_number": "186",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/186_Shocker.png"
@@ -1524,9 +1524,9 @@
 		},
 		{
 			"name": "Bucky Barnes",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
-			"type": "Legendary Creature â€” Human Soldier ",
+			"type": "Legendary Creature — Human Soldier",
 			"collector_number": "149",
 			"back": {
 				"name": "",
@@ -1541,9 +1541,9 @@
 		},
 		{
 			"name": "Jubilee",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
-			"type": "Legendary Creature â€” Mutant Warrior ",
+			"type": "Legendary Creature — Mutant Warrior",
 			"collector_number": "174",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/174_Jubilee.png"
@@ -1551,9 +1551,9 @@
 		},
 		{
 			"name": "Rocket Raccoon",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
-			"type": "Legendary Creature â€” Raccoon Pirate ",
+			"type": "Legendary Creature — Raccoon Pirate",
 			"collector_number": "184",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/184_Rocket Raccoon.png"
@@ -1561,9 +1561,9 @@
 		},
 		{
 			"name": "Deadpool",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{R}",
-			"type": "Legendary Creature â€” Mutant Mercenary ",
+			"type": "Legendary Creature — Mutant Mercenary",
 			"collector_number": "157",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/157_Deadpool.png"
@@ -1571,9 +1571,9 @@
 		},
 		{
 			"name": "General Ross",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
-			"type": "Legendary Creature â€” Human Soldier ",
+			"type": "Legendary Creature — Human Soldier",
 			"collector_number": "168",
 			"back": {
 				"name": "",
@@ -1588,9 +1588,9 @@
 		},
 		{
 			"name": "Human Torch",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{R}",
-			"type": "Legendary Creature â€” Human Warrior ",
+			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "173",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/173_Human Torch.png"
@@ -1598,9 +1598,9 @@
 		},
 		{
 			"name": "Star-Lord",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{R}",
-			"type": "Legendary Creature â€” Human Alien Pirate ",
+			"type": "Legendary Creature — Human Alien Pirate",
 			"collector_number": "188",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/188_Star-Lord.png"
@@ -1608,9 +1608,9 @@
 		},
 		{
 			"name": "Gwenpool",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
-			"type": "Legendary Creature â€” Human Mercenary ",
+			"type": "Legendary Creature — Human Mercenary",
 			"collector_number": "169",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/169_Gwenpool.png"
@@ -1618,9 +1618,9 @@
 		},
 		{
 			"name": "Storm",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
-			"type": "Legendary Creature â€” Mutant Warrior ",
+			"type": "Legendary Creature — Mutant Warrior",
 			"collector_number": "189",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/189_Storm.png"
@@ -1628,9 +1628,9 @@
 		},
 		{
 			"name": "Captain Marvel",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{R}{R}",
-			"type": "Legendary Creature â€” Alien Soldier ",
+			"type": "Legendary Creature — Alien Soldier",
 			"collector_number": "151",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/151_Captain Marvel.png"
@@ -1638,9 +1638,9 @@
 		},
 		{
 			"name": "Drax the Destroyer",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{R}",
-			"type": "Legendary Creature â€” Alien Warrior ",
+			"type": "Legendary Creature — Alien Warrior",
 			"collector_number": "160",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/160_Drax the Destroyer.png"
@@ -1648,9 +1648,9 @@
 		},
 		{
 			"name": "Maximus the Mad",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
-			"type": "Legendary Creature â€” Alien Artificer ",
+			"type": "Legendary Creature — Alien Artificer",
 			"collector_number": "178",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/178_Maximus the Mad.png"
@@ -1658,9 +1658,9 @@
 		},
 		{
 			"name": "Dragon Man",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{R}{R}",
-			"type": "Legendary Artifact Creature â€” Dragon ",
+			"type": "Legendary Artifact Creature — Dragon",
 			"collector_number": "159",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/159_Dragon Man.png"
@@ -1668,7 +1668,7 @@
 		},
 		{
 			"name": "Berserker Rage",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Instant",
 			"collector_number": "147",
@@ -1678,7 +1678,7 @@
 		},
 		{
 			"name": "Hellfire Chains",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
 			"collector_number": "171",
@@ -1688,7 +1688,7 @@
 		},
 		{
 			"name": "Optic Blast",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Instant",
 			"collector_number": "180",
@@ -1698,7 +1698,7 @@
 		},
 		{
 			"name": "A Day Unlike Any Other",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
 			"collector_number": "156",
@@ -1708,9 +1708,9 @@
 		},
 		{
 			"name": "Mjolnir",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
-			"type": "Legendary Artifact â€” Equipment ",
+			"type": "Legendary Artifact — Equipment",
 			"collector_number": "179",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/179_Mjolnir.png"
@@ -1718,9 +1718,9 @@
 		},
 		{
 			"name": "Age of Ultron",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{R}{R}",
-			"type": "Enchantment â€” Saga ",
+			"type": "Enchantment — Saga",
 			"collector_number": "146",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/146_Age of Ultron.png"
@@ -1728,9 +1728,9 @@
 		},
 		{
 			"name": "Cyttorak",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
-			"type": "Legendary Planeswalker â€” Cyttorak ",
+			"type": "Legendary Planeswalker — Cyttorak",
 			"collector_number": "155",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/155_Cyttorak.png"
@@ -1738,7 +1738,7 @@
 		},
 		{
 			"name": "Fatal Attractions",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "164",
@@ -1748,9 +1748,9 @@
 		},
 		{
 			"name": "Phoenix Force",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{R}{R}",
-			"type": "Legendary Planeswalker â€” Phoenix ",
+			"type": "Legendary Planeswalker — Phoenix",
 			"collector_number": "181",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/181_Phoenix Force.png"
@@ -1758,9 +1758,9 @@
 		},
 		{
 			"name": "Hell Cycle",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
-			"type": "Legendary Artifact â€” Vehicle ",
+			"type": "Legendary Artifact — Vehicle",
 			"collector_number": "170",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/170_Hell Cycle.png"
@@ -1768,9 +1768,9 @@
 		},
 		{
 			"name": "Hulkbuster Armor",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{R}",
-			"type": "Legendary Artifact â€” Equipment ",
+			"type": "Legendary Artifact — Equipment",
 			"collector_number": "172",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/172_Hulkbuster Armor.png"
@@ -1778,9 +1778,9 @@
 		},
 		{
 			"name": "Crystal",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{G}",
-			"type": "Legendary Creature â€” Alien Noble ",
+			"type": "Legendary Creature — Alien Noble",
 			"collector_number": "199",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/199_Crystal.png"
@@ -1788,9 +1788,9 @@
 		},
 		{
 			"name": "Absorbing Man",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
-			"type": "Legendary Creature â€” Human Rogue ",
+			"type": "Legendary Creature — Human Rogue",
 			"collector_number": "194",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/194_Absorbing Man.png"
@@ -1798,9 +1798,9 @@
 		},
 		{
 			"name": "Lizard",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
-			"type": "Legendary Creature â€” Lizard Rogue ",
+			"type": "Legendary Creature — Lizard Rogue",
 			"collector_number": "216",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/216_Lizard.png"
@@ -1808,9 +1808,9 @@
 		},
 		{
 			"name": "Sandman",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
-			"type": "Legendary Creature â€” Elemental Rogue ",
+			"type": "Legendary Creature — Elemental Rogue",
 			"collector_number": "226",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/226_Sandman.png"
@@ -1818,9 +1818,9 @@
 		},
 		{
 			"name": "Squirrel Girl",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
-			"type": "Legendary Creature â€” Human Squirrel ",
+			"type": "Legendary Creature — Human Squirrel",
 			"collector_number": "233",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/233_Squirrel Girl.png"
@@ -1828,9 +1828,9 @@
 		},
 		{
 			"name": "Tigra",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
-			"type": "Legendary Creature â€” Cat Warrior ",
+			"type": "Legendary Creature — Cat Warrior",
 			"collector_number": "236",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/236_Tigra.png"
@@ -1838,9 +1838,9 @@
 		},
 		{
 			"name": "Hawkeye",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
-			"type": "Legendary Creature â€” Human Archer ",
+			"type": "Legendary Creature — Human Archer",
 			"collector_number": "207",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/207_Hawkeye.png"
@@ -1848,9 +1848,9 @@
 		},
 		{
 			"name": "Rogue",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}{G}",
-			"type": "Legendary Creature â€” Mutant Rogue ",
+			"type": "Legendary Creature — Mutant Rogue",
 			"collector_number": "224",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/224_Rogue.png"
@@ -1858,9 +1858,9 @@
 		},
 		{
 			"name": "Sabretooth",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}{G}",
-			"type": "Legendary Creature â€” Mutant Berserker ",
+			"type": "Legendary Creature — Mutant Berserker",
 			"collector_number": "225",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/225_Sabretooth.png"
@@ -1868,9 +1868,9 @@
 		},
 		{
 			"name": "Gorilla-Man",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Legendary Creature â€” Ape Mercenary ",
+			"type": "Legendary Creature — Ape Mercenary",
 			"collector_number": "205",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/205_Gorilla-Man.png"
@@ -1878,9 +1878,9 @@
 		},
 		{
 			"name": "Groot",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Legendary Creature â€” Alien Treefolk ",
+			"type": "Legendary Creature — Alien Treefolk",
 			"collector_number": "206",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/206_Groot.png"
@@ -1888,9 +1888,9 @@
 		},
 		{
 			"name": "Luke Cage",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Legendary Creature â€” Human Mercenary ",
+			"type": "Legendary Creature — Human Mercenary",
 			"collector_number": "217",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/217_Luke Cage.png"
@@ -1898,9 +1898,9 @@
 		},
 		{
 			"name": "Abomination",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{G}{G}",
-			"type": "Legendary Creature â€” Giant Mercenary ",
+			"type": "Legendary Creature — Giant Mercenary",
 			"collector_number": "193",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/193_Abomination.png"
@@ -1908,9 +1908,9 @@
 		},
 		{
 			"name": "Colossus",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{G}{G}",
-			"type": "Legendary Creature â€” Mutant Warrior ",
+			"type": "Legendary Creature — Mutant Warrior",
 			"collector_number": "197",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/197_Colossus.png"
@@ -1918,9 +1918,9 @@
 		},
 		{
 			"name": "Kraven the Hunter",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{G}{G}",
-			"type": "Legendary Creature â€” Human Ranger ",
+			"type": "Legendary Creature — Human Ranger",
 			"collector_number": "214",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/214_Kraven the Hunter.png"
@@ -1928,9 +1928,9 @@
 		},
 		{
 			"name": "Thing",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{G}{G}",
-			"type": "Legendary Creature â€” Golem Warrior ",
+			"type": "Legendary Creature — Golem Warrior",
 			"collector_number": "235",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/235_Thing.png"
@@ -1938,9 +1938,9 @@
 		},
 		{
 			"name": "Snowbird",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{G}",
-			"type": "Legendary Creature â€” Demigod ",
+			"type": "Legendary Creature — Demigod",
 			"collector_number": "231",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/231_Snowbird.png"
@@ -1948,9 +1948,9 @@
 		},
 		{
 			"name": "Scorpion",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
-			"type": "Legendary Creature â€” Human Rogue ",
+			"type": "Legendary Creature — Human Rogue",
 			"collector_number": "228",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/228_Scorpion.png"
@@ -1958,7 +1958,7 @@
 		},
 		{
 			"name": "Seismic Shifting",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
 			"collector_number": "229",
@@ -1968,9 +1968,9 @@
 		},
 		{
 			"name": "Toxin",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Legendary Creature â€” Symbiote ",
+			"type": "Legendary Creature — Symbiote",
 			"collector_number": "237",
 			"back": {
 				"name": "",
@@ -1985,9 +1985,9 @@
 		},
 		{
 			"name": "Red Ghost",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{G}{G}",
-			"type": "Legendary Creature â€” Human Rogue ",
+			"type": "Legendary Creature — Human Rogue",
 			"collector_number": "222",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/222_Red Ghost.png"
@@ -1995,9 +1995,9 @@
 		},
 		{
 			"name": "Rhino",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{G}{G}",
-			"type": "Legendary Creature â€” Human Berserker ",
+			"type": "Legendary Creature — Human Berserker",
 			"collector_number": "223",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/223_Rhino.png"
@@ -2005,9 +2005,9 @@
 		},
 		{
 			"name": "Ego the Living Planet",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{5}{G}{G}",
-			"type": "Legendary Planeswalker â€” Ego ",
+			"type": "Legendary Planeswalker — Ego",
 			"collector_number": "200",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/200_Ego the Living Planet.png"
@@ -2015,9 +2015,9 @@
 		},
 		{
 			"name": "An Incredible Transformation",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{G}",
-			"type": "Enchantment â€” Saga ",
+			"type": "Enchantment — Saga",
 			"collector_number": "211",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/211_An Incredible Transformation.png"
@@ -2025,7 +2025,7 @@
 		},
 		{
 			"name": "Flowers of Krakoa",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Enchantment",
 			"collector_number": "204",
@@ -2035,7 +2035,7 @@
 		},
 		{
 			"name": "Origin Story",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
 			"collector_number": "220",
@@ -2045,7 +2045,7 @@
 		},
 		{
 			"name": "Plot Armor",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Instant",
 			"collector_number": "221",
@@ -2055,7 +2055,7 @@
 		},
 		{
 			"name": "Terrigen Mists",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Enchantment",
 			"collector_number": "234",
@@ -2065,20 +2065,19 @@
 		},
 		{
 			"name": "Great Power",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
 			"collector_number": "239",
-			"layout": "split",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/239_Great Power.png"
 			}
 		},
 		{
 			"name": "Savage Land Expedition",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
-			"type": "Enchantment â€” Aura ",
+			"type": "Enchantment — Aura",
 			"collector_number": "227",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/227_Savage Land Expedition.png"
@@ -2086,7 +2085,7 @@
 		},
 		{
 			"name": "Endless Possibilities",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
 			"collector_number": "202",
@@ -2096,9 +2095,9 @@
 		},
 		{
 			"name": "Kraven's Last Hunt",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
-			"type": "Enchantment â€” Saga ",
+			"type": "Enchantment — Saga",
 			"collector_number": "215",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/215_Kraven's Last Hunt.png"
@@ -2106,7 +2105,7 @@
 		},
 		{
 			"name": "Flora Colossus",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
 			"collector_number": "203",
@@ -2116,9 +2115,9 @@
 		},
 		{
 			"name": "Maestro",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Legendary Planeswalker â€” Banner ",
+			"type": "Legendary Planeswalker — Banner",
 			"collector_number": "218",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/218_Maestro.png"
@@ -2126,9 +2125,9 @@
 		},
 		{
 			"name": "Contest of Champions",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{G}{G}",
-			"type": "Enchantment â€” Saga ",
+			"type": "Enchantment — Saga",
 			"collector_number": "198",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/198_Contest of Champions.png"
@@ -2136,9 +2135,9 @@
 		},
 		{
 			"name": "Deathlok",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{X}",
-			"type": "Legendary Artifact Creature â€” Soldier ",
+			"type": "Legendary Artifact Creature — Soldier",
 			"collector_number": "288",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/288_Deathlok.png"
@@ -2146,9 +2145,9 @@
 		},
 		{
 			"name": "Machine Man",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}",
-			"type": "Legendary Artifact Creature â€” Soldier ",
+			"type": "Legendary Artifact Creature — Soldier",
 			"collector_number": "296",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/296_Machine Man.png"
@@ -2156,9 +2155,9 @@
 		},
 		{
 			"name": "MODOK",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}",
-			"type": "Legendary Artifact Creature â€” Artificer ",
+			"type": "Legendary Artifact Creature — Artificer",
 			"collector_number": "295",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/295_MODOK.png"
@@ -2166,9 +2165,9 @@
 		},
 		{
 			"name": "Warlock",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}",
-			"type": "Legendary Artifact Creature â€” Shapeshifter ",
+			"type": "Legendary Artifact Creature — Shapeshifter",
 			"collector_number": "304",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/304_Warlock.png"
@@ -2176,9 +2175,9 @@
 		},
 		{
 			"name": "Master Mold",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{5}",
-			"type": "Legendary Artifact Creature â€” Robot ",
+			"type": "Legendary Artifact Creature — Robot",
 			"collector_number": "297",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/297_Master Mold.png"
@@ -2186,9 +2185,9 @@
 		},
 		{
 			"name": "Black Vortex",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{5}",
-			"type": "Legendary Artifact ",
+			"type": "Legendary Artifact",
 			"collector_number": "283",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/283_Black Vortex.png"
@@ -2196,7 +2195,7 @@
 		},
 		{
 			"name": "Casket of Ancient Winters",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact",
 			"collector_number": "284",
@@ -2206,7 +2205,7 @@
 		},
 		{
 			"name": "Cosmic Cube",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact",
 			"collector_number": "285",
@@ -2216,7 +2215,7 @@
 		},
 		{
 			"name": "Crimson Gem of Cyttorak",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact",
 			"collector_number": "286",
@@ -2226,7 +2225,7 @@
 		},
 		{
 			"name": "Darkhold",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact",
 			"collector_number": "287",
@@ -2236,7 +2235,7 @@
 		},
 		{
 			"name": "Eye of Agamotto",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact",
 			"collector_number": "289",
@@ -2246,7 +2245,7 @@
 		},
 		{
 			"name": "Gamma Experiment",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{X}",
 			"type": "Artifact",
 			"collector_number": "290",
@@ -2256,7 +2255,7 @@
 		},
 		{
 			"name": "Infinity Gems",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact",
 			"collector_number": "292",
@@ -2266,9 +2265,9 @@
 		},
 		{
 			"name": "Iron Man Armor",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}",
-			"type": "Legendary Artifact â€” Equipment ",
+			"type": "Legendary Artifact — Equipment",
 			"collector_number": "293",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/293_Iron Man Armor.png"
@@ -2276,7 +2275,7 @@
 		},
 		{
 			"name": "Jade Tiger Amulet",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact",
 			"collector_number": "294",
@@ -2286,9 +2285,9 @@
 		},
 		{
 			"name": "Muramasa Blade",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}",
-			"type": "Legendary Artifact â€” Equipment ",
+			"type": "Legendary Artifact — Equipment",
 			"collector_number": "298",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/298_Muramasa Blade.png"
@@ -2296,9 +2295,9 @@
 		},
 		{
 			"name": "Soulsword",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}",
-			"type": "Legendary Artifact â€” Equipment ",
+			"type": "Legendary Artifact — Equipment",
 			"collector_number": "300",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/300_Soulsword.png"
@@ -2306,7 +2305,7 @@
 		},
 		{
 			"name": "Staff of One",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact",
 			"collector_number": "301",
@@ -2316,7 +2315,7 @@
 		},
 		{
 			"name": "Super Soldier Serum",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact",
 			"collector_number": "302",
@@ -2326,9 +2325,9 @@
 		},
 		{
 			"name": "Adamantium Skeleton",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}",
-			"type": "Legendary Artifact â€” Equipment ",
+			"type": "Legendary Artifact — Equipment",
 			"collector_number": "281",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/281_Adamantium Skeleton.png"
@@ -2336,9 +2335,9 @@
 		},
 		{
 			"name": "Galactus, Devourer of Worlds",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{8}",
-			"type": "Legendary Planeswalker â€” Galactus ",
+			"type": "Legendary Planeswalker — Galactus",
 			"collector_number": "1",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/1_Galactus, Devourer of Worlds.png"
@@ -2346,9 +2345,9 @@
 		},
 		{
 			"name": "Silver Surfer",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{5}",
-			"type": "Legendary Creature â€” Alien Scout ",
+			"type": "Legendary Creature — Alien Scout",
 			"collector_number": "2",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/2_Silver Surfer.png"
@@ -2356,9 +2355,9 @@
 		},
 		{
 			"name": "Uatu the Watcher",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}",
-			"type": "Legendary Planeswalker â€” Uatu ",
+			"type": "Legendary Planeswalker — Uatu",
 			"collector_number": "4",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/4_Uatu the Watcher.png"
@@ -2366,9 +2365,9 @@
 		},
 		{
 			"name": "Annihilus",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{G}",
-			"type": "Legendary Creature â€” Alien Insect ",
+			"type": "Legendary Creature — Alien Insect",
 			"collector_number": "241",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/241_Annihilus.png"
@@ -2376,9 +2375,9 @@
 		},
 		{
 			"name": "Ant-Man",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{G}{U}",
-			"type": "Legendary Creature â€” Human Artificer ",
+			"type": "Legendary Creature — Human Artificer",
 			"collector_number": "242",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/242_Ant-Man.png"
@@ -2386,9 +2385,9 @@
 		},
 		{
 			"name": "Apocalypse",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{B}{G}",
-			"type": "Legendary Planeswalker â€” Apocalypse ",
+			"type": "Legendary Planeswalker — Apocalypse",
 			"collector_number": "243",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/243_Apocalypse.png"
@@ -2396,7 +2395,7 @@
 		},
 		{
 			"name": "Avengers Assemble",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{X}{G}{W}",
 			"type": "Instant",
 			"collector_number": "244",
@@ -2406,9 +2405,9 @@
 		},
 		{
 			"name": "Black Widow",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
-			"type": "Legendary Creature â€” Human Assassin ",
+			"type": "Legendary Creature — Human Assassin",
 			"collector_number": "56",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/56_Black Widow.png"
@@ -2416,7 +2415,7 @@
 		},
 		{
 			"name": "Bring to Balance",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Sorcery",
 			"collector_number": "247",
@@ -2426,9 +2425,9 @@
 		},
 		{
 			"name": "Civil War",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{W}",
-			"type": "Enchantment â€” Saga ",
+			"type": "Enchantment — Saga",
 			"collector_number": "249",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/249_Civil War.png"
@@ -2436,9 +2435,9 @@
 		},
 		{
 			"name": "Cloak and Dagger",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{B}",
-			"type": "Legendary Creature â€” Human Mercenary ",
+			"type": "Legendary Creature — Human Mercenary",
 			"collector_number": "250",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/250_Cloak and Dagger.png"
@@ -2446,9 +2445,9 @@
 		},
 		{
 			"name": "The Collector",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}{U}",
-			"type": "Legendary Planeswalker â€” Collector ",
+			"type": "Legendary Planeswalker — Collector",
 			"collector_number": "251",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/251_The Collector.png"
@@ -2456,9 +2455,9 @@
 		},
 		{
 			"name": "Cyclops",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{W}",
-			"type": "Legendary Creature â€” Mutant Warrior ",
+			"type": "Legendary Creature — Mutant Warrior",
 			"collector_number": "253",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/253_Cyclops.png"
@@ -2466,7 +2465,7 @@
 		},
 		{
 			"name": "Delusions of Grandeur",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Instant",
 			"collector_number": "254",
@@ -2476,9 +2475,9 @@
 		},
 		{
 			"name": "Doctor Strange",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{U}",
-			"type": "Legendary Creature â€” Human Wizard ",
+			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "255",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/255_Doctor Strange.png"
@@ -2486,9 +2485,9 @@
 		},
 		{
 			"name": "Emma Frost",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{U}{B}",
-			"type": "Legendary Creature â€” Mutant Rogue ",
+			"type": "Legendary Creature — Mutant Rogue",
 			"collector_number": "256",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/256_Emma Frost.png"
@@ -2496,9 +2495,9 @@
 		},
 		{
 			"name": "The Grandmaster",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{U}",
-			"type": "Legendary Planeswalker â€” Grandmaster ",
+			"type": "Legendary Planeswalker — Grandmaster",
 			"collector_number": "258",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/258_The Grandmaster.png"
@@ -2506,9 +2505,9 @@
 		},
 		{
 			"name": "Hulk",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{5}{R}{G}",
-			"type": "Legendary Creature â€” Giant Berserker ",
+			"type": "Legendary Creature — Giant Berserker",
 			"collector_number": "259",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/259_Hulk.png"
@@ -2516,9 +2515,9 @@
 		},
 		{
 			"name": "Magneto",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{U}{R}",
-			"type": "Legendary Creature â€” Mutant Rogue ",
+			"type": "Legendary Creature — Mutant Rogue",
 			"collector_number": "261",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/261_Magneto.png"
@@ -2526,9 +2525,9 @@
 		},
 		{
 			"name": "Nightcrawler",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{U}",
-			"type": "Legendary Creature â€” Mutant Warrior ",
+			"type": "Legendary Creature — Mutant Warrior",
 			"collector_number": "264",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/264_Nightcrawler.png"
@@ -2536,9 +2535,9 @@
 		},
 		{
 			"name": "Nightmare",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{U}{B}",
-			"type": "Legendary Planeswalker â€” Nightmare ",
+			"type": "Legendary Planeswalker — Nightmare",
 			"collector_number": "265",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/265_Nightmare.png"
@@ -2546,9 +2545,9 @@
 		},
 		{
 			"name": "Rise of the Phoenix",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{R}",
-			"type": "Enchantment â€” Saga ",
+			"type": "Enchantment — Saga",
 			"collector_number": "269",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/269_Rise of the Phoenix.png"
@@ -2556,9 +2555,9 @@
 		},
 		{
 			"name": "Sebastian Shaw",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{B}",
-			"type": "Legendary Creature â€” Mutant Noble ",
+			"type": "Legendary Creature — Mutant Noble",
 			"collector_number": "270",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/270_Sebastian Shaw.png"
@@ -2566,9 +2565,9 @@
 		},
 		{
 			"name": "Spider-Woman",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}{W}",
-			"type": "Legendary Creature â€” Human Spider Warrior ",
+			"type": "Legendary Creature — Human Spider Warrior",
 			"collector_number": "274",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/274_Spider-Woman.png"
@@ -2576,9 +2575,9 @@
 		},
 		{
 			"name": "Thanos, the Mad Titan",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2/W}{2/U}{2/B}{2/R}{2/G}",
-			"type": "Legendary Planeswalker â€” Thanos ",
+			"type": "Legendary Planeswalker — Thanos",
 			"collector_number": "275",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/275_Thanos, the Mad Titan.png"
@@ -2586,9 +2585,9 @@
 		},
 		{
 			"name": "Thor, God of Thunder",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{5}{R}{W}",
-			"type": "Legendary Creature â€” God Warrior ",
+			"type": "Legendary Creature — God Warrior",
 			"collector_number": "276",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/276_Thor, God of Thunder.png"
@@ -2596,9 +2595,9 @@
 		},
 		{
 			"name": "Tony Stark",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{R}",
-			"type": "Legendary Creature â€” Human Artificer ",
+			"type": "Legendary Creature — Human Artificer",
 			"collector_number": "277",
 			"back": {
 				"name": "",
@@ -2613,9 +2612,9 @@
 		},
 		{
 			"name": "Wolverine",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{R}{G}",
-			"type": "Legendary Creature â€” Mutant Berserker ",
+			"type": "Legendary Creature — Mutant Berserker",
 			"collector_number": "278",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/278_Wolverine.png"
@@ -2623,9 +2622,9 @@
 		},
 		{
 			"name": "America Chavez",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{R}{W}",
-			"type": "Legendary Planeswalker â€” America ",
+			"type": "Legendary Planeswalker — America",
 			"collector_number": "240",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/240_America Chavez.png"
@@ -2633,9 +2632,9 @@
 		},
 		{
 			"name": "Baron Mordo",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{X}{U}{B}",
-			"type": "Legendary Creature â€” Human Warlock ",
+			"type": "Legendary Creature — Human Warlock",
 			"collector_number": "245",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/245_Baron Mordo.png"
@@ -2643,9 +2642,9 @@
 		},
 		{
 			"name": "Odin, the All-Father",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{W}",
-			"type": "Legendary Planeswalker â€” Odin ",
+			"type": "Legendary Planeswalker — Odin",
 			"collector_number": "266",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/266_Odin, the All-Father.png"
@@ -2653,9 +2652,9 @@
 		},
 		{
 			"name": "Punisher",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{R}",
-			"type": "Legendary Creature â€” Human Mercenary ",
+			"type": "Legendary Creature — Human Mercenary",
 			"collector_number": "268",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/268_Punisher.png"
@@ -2663,9 +2662,9 @@
 		},
 		{
 			"name": "Monkey Business",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
-			"type": "Enchantment â€” Aura ",
+			"type": "Enchantment — Aura",
 			"collector_number": "132",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/132_Monkey Business.png"
@@ -2673,9 +2672,9 @@
 		},
 		{
 			"name": "Iceman",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
-			"type": "Legendary Creature â€” Mutant Warrior ",
+			"type": "Legendary Creature — Mutant Warrior",
 			"collector_number": "64",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/64_Iceman.png"
@@ -2683,9 +2682,9 @@
 		},
 		{
 			"name": "Black Bolt",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
-			"type": "Legendary Creature â€” Alien Noble ",
+			"type": "Legendary Creature — Alien Noble",
 			"collector_number": "11",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/11_Black Bolt.png"
@@ -2693,7 +2692,7 @@
 		},
 		{
 			"name": "Flame On",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Instant",
 			"collector_number": "165",
@@ -2703,9 +2702,9 @@
 		},
 		{
 			"name": "Knull",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
-			"type": "Legendary Planeswalker â€” Knull ",
+			"type": "Legendary Planeswalker — Knull",
 			"collector_number": "124",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/124_Knull.png"
@@ -2713,9 +2712,9 @@
 		},
 		{
 			"name": "Dormammu",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
-			"type": "Legendary Planeswalker â€” Dormammu ",
+			"type": "Legendary Planeswalker — Dormammu",
 			"collector_number": "112",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/112_Dormammu.png"
@@ -2723,9 +2722,9 @@
 		},
 		{
 			"name": "Onslaught",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
-			"type": "Legendary Planeswalker â€” Onslaught ",
+			"type": "Legendary Planeswalker — Onslaught",
 			"collector_number": "137",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/137_Onslaught.png"
@@ -2733,9 +2732,9 @@
 		},
 		{
 			"name": "Domino",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{R}",
-			"type": "Legendary Creature â€” Mutant Mercenary ",
+			"type": "Legendary Creature — Mutant Mercenary",
 			"collector_number": "158",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/158_Domino.png"
@@ -2743,9 +2742,9 @@
 		},
 		{
 			"name": "Carnage",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
-			"type": "Legendary Creature â€” Symbiote ",
+			"type": "Legendary Creature — Symbiote",
 			"collector_number": "152",
 			"back": {
 				"name": "",
@@ -2760,7 +2759,7 @@
 		},
 		{
 			"name": "Fortune Favors the Bold",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
 			"collector_number": "166",
@@ -2770,9 +2769,9 @@
 		},
 		{
 			"name": "Quicksilver",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{R}",
-			"type": "Legendary Creature â€” Mutant Warrior ",
+			"type": "Legendary Creature — Mutant Warrior",
 			"collector_number": "183",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/183_Quicksilver.png"
@@ -2780,9 +2779,9 @@
 		},
 		{
 			"name": "Black Panther",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}{G}",
-			"type": "Legendary Creature â€” Human Noble ",
+			"type": "Legendary Creature — Human Noble",
 			"collector_number": "195",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/195_Black Panther.png"
@@ -2790,7 +2789,7 @@
 		},
 		{
 			"name": "Invocation of Bast",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
 			"collector_number": "213",
@@ -2800,9 +2799,9 @@
 		},
 		{
 			"name": "Super-Skrull",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{X}",
-			"type": "Legendary Creature â€” Alien Shapeshifter ",
+			"type": "Legendary Creature — Alien Shapeshifter",
 			"collector_number": "3",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/3_Super-Skrull.png"
@@ -2810,9 +2809,9 @@
 		},
 		{
 			"name": "Pyro",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
-			"type": "Legendary Creature â€” Mutant Rogue ",
+			"type": "Legendary Creature — Mutant Rogue",
 			"collector_number": "182",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/182_Pyro.png"
@@ -2820,9 +2819,9 @@
 		},
 		{
 			"name": "Bishop",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
-			"type": "Legendary Creature â€” Mutant Soldier ",
+			"type": "Legendary Creature — Mutant Soldier",
 			"collector_number": "148",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/148_Bishop.png"
@@ -2830,9 +2829,9 @@
 		},
 		{
 			"name": "Edwin Jarvis",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
-			"type": "Legendary Creature â€” Human Advisor ",
+			"type": "Legendary Creature — Human Advisor",
 			"collector_number": "17",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/17_Edwin Jarvis.png"
@@ -2840,9 +2839,9 @@
 		},
 		{
 			"name": "Juggernaut",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{R}{R}",
-			"type": "Legendary Creature â€” Human Avatar ",
+			"type": "Legendary Creature — Human Avatar",
 			"collector_number": "175",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/175_Juggernaut.png"
@@ -2850,9 +2849,9 @@
 		},
 		{
 			"name": "Sentry",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{W}{W}",
-			"type": "Legendary Creature â€” Human Warrior ",
+			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "42",
 			"back": {
 				"name": "",
@@ -2867,9 +2866,9 @@
 		},
 		{
 			"name": "Peter Parker",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
-			"type": "Legendary Creature â€” Human Artificer ",
+			"type": "Legendary Creature — Human Artificer",
 			"collector_number": "38",
 			"back": {
 				"name": "",
@@ -2884,9 +2883,9 @@
 		},
 		{
 			"name": "Surtur",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{R}{R}",
-			"type": "Legendary Planeswalker â€” Surtur ",
+			"type": "Legendary Planeswalker — Surtur",
 			"collector_number": "190",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/190_Surtur.png"
@@ -2894,9 +2893,9 @@
 		},
 		{
 			"name": "Matt Murdock",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
-			"type": "Legendary Creature â€” Human Advisor ",
+			"type": "Legendary Creature — Human Advisor",
 			"collector_number": "33",
 			"back": {
 				"name": "",
@@ -2911,9 +2910,9 @@
 		},
 		{
 			"name": "Silver Samurai",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
-			"type": "Legendary Creature â€” Mutant Samurai ",
+			"type": "Legendary Creature — Mutant Samurai",
 			"collector_number": "187",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/187_Silver Samurai.png"
@@ -2921,9 +2920,9 @@
 		},
 		{
 			"name": "Ultron",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{8}",
-			"type": "Legendary Artifact Creature â€” Robot ",
+			"type": "Legendary Artifact Creature — Robot",
 			"collector_number": "303",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/303_Ultron.png"
@@ -2931,9 +2930,9 @@
 		},
 		{
 			"name": "Jean Grey",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{R}",
-			"type": "Legendary Creature â€” Mutant Warrior ",
+			"type": "Legendary Creature — Mutant Warrior",
 			"collector_number": "260",
 			"back": {
 				"name": "",
@@ -2948,9 +2947,9 @@
 		},
 		{
 			"name": "Angel",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
-			"type": "Legendary Creature â€” Mutant Warrior ",
+			"type": "Legendary Creature — Mutant Warrior",
 			"collector_number": "7",
 			"back": {
 				"name": "",
@@ -2965,9 +2964,9 @@
 		},
 		{
 			"name": "Hulkling",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{G}",
-			"type": "Legendary Creature â€” Alien Shapeshifter ",
+			"type": "Legendary Creature — Alien Shapeshifter",
 			"collector_number": "209",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/209_Hulkling.png"
@@ -2975,9 +2974,9 @@
 		},
 		{
 			"name": "Elsa Bloodstone",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}{G}",
-			"type": "Legendary Creature â€” Human Ranger ",
+			"type": "Legendary Creature — Human Ranger",
 			"collector_number": "201",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/201_Elsa Bloodstone.png"
@@ -2985,9 +2984,9 @@
 		},
 		{
 			"name": "Cable",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
-			"type": "Legendary Creature â€” Mutant Soldier ",
+			"type": "Legendary Creature — Mutant Soldier",
 			"collector_number": "57",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/57_Cable.png"
@@ -2995,7 +2994,7 @@
 		},
 		{
 			"name": "All Gods Must Die",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Sorcery",
 			"collector_number": "6",
@@ -3005,7 +3004,7 @@
 		},
 		{
 			"name": "Devour",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Sorcery",
 			"collector_number": "109",
@@ -3015,7 +3014,7 @@
 		},
 		{
 			"name": "Clobber",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
 			"collector_number": "196",
@@ -3025,9 +3024,9 @@
 		},
 		{
 			"name": "Blink",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{W}",
-			"type": "Legendary Creature â€” Mutant Nomad ",
+			"type": "Legendary Creature — Mutant Nomad",
 			"collector_number": "14",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/14_Blink.png"
@@ -3035,9 +3034,9 @@
 		},
 		{
 			"name": "Spider-Ham",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{G}",
-			"type": "Legendary Creature â€” Boar Spider Warrior ",
+			"type": "Legendary Creature — Boar Spider Warrior",
 			"collector_number": "232",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/232_Spider-Ham.png"
@@ -3045,7 +3044,7 @@
 		},
 		{
 			"name": "Into the Cosmos",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
 			"collector_number": "212",
@@ -3055,9 +3054,9 @@
 		},
 		{
 			"name": "HERBIE",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}",
-			"type": "Legendary Artifact Creature â€” Robot ",
+			"type": "Legendary Artifact Creature — Robot",
 			"collector_number": "291",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/291_HERBIE.png"
@@ -3065,9 +3064,9 @@
 		},
 		{
 			"name": "Champion of the Universe",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{R}",
-			"type": "Legendary Planeswalker â€” Champion ",
+			"type": "Legendary Planeswalker — Champion",
 			"collector_number": "153",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/153_Champion of the Universe.png"
@@ -3075,7 +3074,7 @@
 		},
 		{
 			"name": "Purge the Occult",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
 			"collector_number": "39",
@@ -3085,7 +3084,7 @@
 		},
 		{
 			"name": "Spider-Sense",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Instant",
 			"collector_number": "45",
@@ -3095,9 +3094,9 @@
 		},
 		{
 			"name": "Spider-Man Noir",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
-			"type": "Legendary Creature â€” Human Spider Advisor ",
+			"type": "Legendary Creature — Human Spider Advisor",
 			"collector_number": "140",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/140_Spider-Man Noir.png"
@@ -3105,7 +3104,7 @@
 		},
 		{
 			"name": "Gates of Valhalla",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Enchantment",
 			"collector_number": "22",
@@ -3115,7 +3114,7 @@
 		},
 		{
 			"name": "Fastball Special",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
 			"collector_number": "163",
@@ -3125,7 +3124,7 @@
 		},
 		{
 			"name": "Hunter's Trail",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
 			"collector_number": "210",
@@ -3135,9 +3134,9 @@
 		},
 		{
 			"name": "Banshee",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
-			"type": "Legendary Creature â€” Mutant Warrior ",
+			"type": "Legendary Creature — Mutant Warrior",
 			"collector_number": "55",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/55_Banshee.png"
@@ -3145,9 +3144,9 @@
 		},
 		{
 			"name": "Wrecking Crew",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{G}{G}",
-			"type": "Legendary Creature â€” Human Rogue ",
+			"type": "Legendary Creature — Human Rogue",
 			"collector_number": "238",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/238_Wrecking Crew.png"
@@ -3155,9 +3154,9 @@
 		},
 		{
 			"name": "Ms Marvel",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
-			"type": "Legendary Creature â€” Alien Warrior ",
+			"type": "Legendary Creature — Alien Warrior",
 			"collector_number": "219",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/219_Ms Marvel.png"
@@ -3165,9 +3164,9 @@
 		},
 		{
 			"name": "Blade",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
-			"type": "Legendary Creature â€” Human Vampire ",
+			"type": "Legendary Creature — Human Vampire",
 			"collector_number": "102",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/102_Blade.png"
@@ -3175,9 +3174,9 @@
 		},
 		{
 			"name": "Nimrod",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}",
-			"type": "Legendary Artifact Creature â€” Robot ",
+			"type": "Legendary Artifact Creature — Robot",
 			"collector_number": "299",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/299_Nimrod.png"
@@ -3185,9 +3184,9 @@
 		},
 		{
 			"name": "Nick Fury",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
-			"type": "Legendary Creature â€” Human Soldier ",
+			"type": "Legendary Creature — Human Soldier",
 			"collector_number": "36",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/36_Nick Fury.png"
@@ -3195,9 +3194,9 @@
 		},
 		{
 			"name": "Kate Bishop",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{R}",
-			"type": "Legendary Creature â€” Human Archer ",
+			"type": "Legendary Creature — Human Archer",
 			"collector_number": "176",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/176_Kate Bishop.png"
@@ -3205,9 +3204,9 @@
 		},
 		{
 			"name": "Howard the Duck",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{W}",
-			"type": "Legendary Creature â€” Bird Advisor ",
+			"type": "Legendary Creature — Bird Advisor",
 			"collector_number": "25",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/25_Howard the Duck.png"
@@ -3215,7 +3214,7 @@
 		},
 		{
 			"name": "Trickshot",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
 			"collector_number": "192",
@@ -3225,9 +3224,9 @@
 		},
 		{
 			"name": "Prowler",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{B}",
-			"type": "Legendary Creature â€” Human Rogue ",
+			"type": "Legendary Creature — Human Rogue",
 			"collector_number": "138",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/138_Prowler.png"
@@ -3235,9 +3234,9 @@
 		},
 		{
 			"name": "Killmonger",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
-			"type": "Legendary Creature â€” Human Mercenary ",
+			"type": "Legendary Creature — Human Mercenary",
 			"collector_number": "121",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/121_Killmonger.png"
@@ -3245,9 +3244,9 @@
 		},
 		{
 			"name": "Mole Man",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{B}",
-			"type": "Legendary Creature â€” Human Rogue ",
+			"type": "Legendary Creature — Human Rogue",
 			"collector_number": "131",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/131_Mole Man.png"
@@ -3255,7 +3254,7 @@
 		},
 		{
 			"name": "Never Back Down",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
 			"collector_number": "35",
@@ -3265,9 +3264,9 @@
 		},
 		{
 			"name": "Professor X",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{G}{U}",
-			"type": "Legendary Creature â€” Mutant Advisor ",
+			"type": "Legendary Creature — Mutant Advisor",
 			"collector_number": "267",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/267_Professor X.png"
@@ -3275,7 +3274,7 @@
 		},
 		{
 			"name": "Shifting Identity",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "88",
@@ -3285,7 +3284,7 @@
 		},
 		{
 			"name": "Mojovision",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Sorcery",
 			"collector_number": "75",
@@ -3295,9 +3294,9 @@
 		},
 		{
 			"name": "Miles Morales",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}{W}",
-			"type": "Legendary Creature â€” Human Spider Warrior ",
+			"type": "Legendary Creature — Human Spider Warrior",
 			"collector_number": "262",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/262_Miles Morales.png"
@@ -3305,9 +3304,9 @@
 		},
 		{
 			"name": "All-Black the Necrosword",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}",
-			"type": "Legendary Artifact â€” Equipment ",
+			"type": "Legendary Artifact — Equipment",
 			"collector_number": "282",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/282_All-Black the Necrosword.png"
@@ -3315,9 +3314,9 @@
 		},
 		{
 			"name": "Count Dracula",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{B}{B}",
-			"type": "Legendary Planeswalker â€” Dracula ",
+			"type": "Legendary Planeswalker — Dracula",
 			"collector_number": "105",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/105_Count Dracula.png"
@@ -3325,9 +3324,9 @@
 		},
 		{
 			"name": "Hercules",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{5}{G}{G}",
-			"type": "Legendary Creature â€” Demigod Warrior ",
+			"type": "Legendary Creature — Demigod Warrior",
 			"collector_number": "208",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/208_Hercules.png"
@@ -3335,9 +3334,9 @@
 		},
 		{
 			"name": "Yondu",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{B}{R}",
-			"type": "Legendary Creature â€” Alien Pirate ",
+			"type": "Legendary Creature — Alien Pirate",
 			"collector_number": "280",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/280_Yondu.png"
@@ -3345,7 +3344,7 @@
 		},
 		{
 			"name": "Crowd Favorite",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
 			"collector_number": "154",
@@ -3355,7 +3354,7 @@
 		},
 		{
 			"name": "Incursion",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Sorcery",
 			"collector_number": "26",
@@ -3365,7 +3364,7 @@
 		},
 		{
 			"name": "Sinister Machinations",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
 			"collector_number": "139",
@@ -3375,7 +3374,7 @@
 		},
 		{
 			"name": "Call for Backup",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Enchantment",
 			"collector_number": "15",
@@ -3385,9 +3384,9 @@
 		},
 		{
 			"name": "Scarlet Witch",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
-			"type": "Legendary Creature â€” Mutant Wizard ",
+			"type": "Legendary Creature — Mutant Wizard",
 			"collector_number": "185",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/185_Scarlet Witch.png"
@@ -3395,7 +3394,7 @@
 		},
 		{
 			"name": "Burning Fear",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Instant",
 			"collector_number": "104",
@@ -3405,7 +3404,7 @@
 		},
 		{
 			"name": "Worldbreaker",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Instant",
 			"collector_number": "145",
@@ -3415,7 +3414,7 @@
 		},
 		{
 			"name": "Take Aim",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
 			"collector_number": "142",
@@ -3425,7 +3424,7 @@
 		},
 		{
 			"name": "Uncanny Valor",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Enchantment",
 			"collector_number": "48",
@@ -3435,7 +3434,7 @@
 		},
 		{
 			"name": "Secondary Mutations",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Sorcery",
 			"collector_number": "271",
@@ -3445,7 +3444,7 @@
 		},
 		{
 			"name": "Life-Model Decoy",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Artifact",
 			"collector_number": "177",
@@ -3455,7 +3454,7 @@
 		},
 		{
 			"name": "No More",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
 			"collector_number": "134",
@@ -3465,9 +3464,9 @@
 		},
 		{
 			"name": "The Maker",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
-			"type": "Legendary Planeswalker â€” Richards ",
+			"type": "Legendary Planeswalker — Richards",
 			"collector_number": "71",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/71_The Maker.png"
@@ -3475,9 +3474,9 @@
 		},
 		{
 			"name": "Taskmaster",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
-			"type": "Legendary Creature â€” Human Mercenary ",
+			"type": "Legendary Creature — Human Mercenary",
 			"collector_number": "191",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/191_Taskmaster.png"
@@ -3485,9 +3484,9 @@
 		},
 		{
 			"name": "Spider-Gwen",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
-			"type": "Legendary Creature â€” Human Spider Warrior ",
+			"type": "Legendary Creature — Human Spider Warrior",
 			"collector_number": "44",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/44_Spider-Gwen.png"
@@ -3495,9 +3494,9 @@
 		},
 		{
 			"name": "Doctor Octopus",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
-			"type": "Legendary Creature â€” Human Artificer ",
+			"type": "Legendary Creature — Human Artificer",
 			"collector_number": "62",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/62_Doctor Octopus.png"
@@ -3505,7 +3504,7 @@
 		},
 		{
 			"name": "Energy Conduit",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "162",
@@ -3515,7 +3514,7 @@
 		},
 		{
 			"name": "Elegy",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Instant",
 			"collector_number": "113",
@@ -3525,7 +3524,7 @@
 		},
 		{
 			"name": "Death Spores",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
 			"collector_number": "108",
@@ -3535,7 +3534,7 @@
 		},
 		{
 			"name": "Into the Multiverse",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Instant",
 			"collector_number": "66",
@@ -3545,7 +3544,7 @@
 		},
 		{
 			"name": "Snikt!",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
 			"collector_number": "230",
@@ -3555,9 +3554,9 @@
 		},
 		{
 			"name": "Lady Deathstrike",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
-			"type": "Legendary Creature â€” Mutant Assassin ",
+			"type": "Legendary Creature — Mutant Assassin",
 			"collector_number": "125",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/125_Lady Deathstrike.png"
@@ -3565,9 +3564,9 @@
 		},
 		{
 			"name": "Mister Sinister",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{B}{G}",
-			"type": "Legendary Creature â€” Mutant Artificer ",
+			"type": "Legendary Creature — Mutant Artificer",
 			"collector_number": "263",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/263_Mister Sinister.png"
@@ -3575,7 +3574,7 @@
 		},
 		{
 			"name": "Consign to Chaos",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{B}{G}",
 			"type": "Sorcery",
 			"collector_number": "252",
@@ -3585,7 +3584,7 @@
 		},
 		{
 			"name": "Thaw",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{W}",
 			"type": "Sorcery",
 			"collector_number": "47",
@@ -3595,9 +3594,9 @@
 		},
 		{
 			"name": "SHIELD Helicarrier",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
-			"type": "Legendary Artifact â€” Vehicle ",
+			"type": "Legendary Artifact — Vehicle",
 			"collector_number": "41",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/41_SHIELD Helicarrier.png"
@@ -3605,7 +3604,7 @@
 		},
 		{
 			"name": "Doom's Time Platform",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Artifact",
 			"collector_number": "111",
@@ -3615,9 +3614,9 @@
 		},
 		{
 			"name": "Approach of the Devourer",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
-			"type": "Enchantment â€” Saga ",
+			"type": "Enchantment — Saga",
 			"collector_number": "99",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/99_Approach of the Devourer.png"
@@ -3625,9 +3624,9 @@
 		},
 		{
 			"name": "Gambit",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
-			"type": "Legendary Creature â€” Mutant Rogue ",
+			"type": "Legendary Creature — Mutant Rogue",
 			"collector_number": "167",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/167_Gambit.png"
@@ -3635,7 +3634,7 @@
 		},
 		{
 			"name": "Scrutinize",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Sorcery",
 			"collector_number": "85",
@@ -3645,9 +3644,9 @@
 		},
 		{
 			"name": "Silver Sable",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{B}",
-			"type": "Legendary Creature â€” Human Mercenary ",
+			"type": "Legendary Creature — Human Mercenary",
 			"collector_number": "273",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/273_Silver Sable.png"
@@ -3655,7 +3654,7 @@
 		},
 		{
 			"name": "Bring Through the Aeons",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Sorcery",
 			"collector_number": "246",
@@ -3665,7 +3664,7 @@
 		},
 		{
 			"name": "Circus of Crime",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Enchantment",
 			"collector_number": "248",
@@ -3675,9 +3674,9 @@
 		},
 		{
 			"name": "World War Hulk",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{G}",
-			"type": "Enchantment â€” Saga ",
+			"type": "Enchantment — Saga",
 			"collector_number": "279",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/279_World War Hulk.png"
@@ -3685,9 +3684,9 @@
 		},
 		{
 			"name": "She-Hulk",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{R}{G}",
-			"type": "Legendary Creature â€” Giant Warrior ",
+			"type": "Legendary Creature — Giant Warrior",
 			"collector_number": "272",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/272_She-Hulk.png"
@@ -3695,7 +3694,7 @@
 		},
 		{
 			"name": "Glimpse Infinite Realities",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Instant",
 			"collector_number": "257",
@@ -3705,9 +3704,9 @@
 		},
 		{
 			"name": "War Machine",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
-			"type": "Legendary Creature â€” Human Soldier ",
+			"type": "Legendary Creature — Human Soldier",
 			"collector_number": "51",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/51_War Machine.png"
@@ -3715,9 +3714,9 @@
 		},
 		{
 			"name": "Plains",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Basic Land â€” Plains ",
+			"type": "Basic Land — Plains",
 			"collector_number": "361",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/361_Plains.png"
@@ -3725,9 +3724,9 @@
 		},
 		{
 			"name": "Island",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Basic Land â€” Island ",
+			"type": "Basic Land — Island",
 			"collector_number": "362",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/362_Island.png"
@@ -3735,9 +3734,9 @@
 		},
 		{
 			"name": "Swamp",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Basic Land â€” Swamp ",
+			"type": "Basic Land — Swamp",
 			"collector_number": "363",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/363_Swamp.png"
@@ -3745,9 +3744,9 @@
 		},
 		{
 			"name": "Mountain",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Basic Land â€” Mountain ",
+			"type": "Basic Land — Mountain",
 			"collector_number": "364",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/364_Mountain.png"
@@ -3755,9 +3754,9 @@
 		},
 		{
 			"name": "Forest",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Basic Land â€” Forest ",
+			"type": "Basic Land — Forest",
 			"collector_number": "365",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/365_Forest.png"
@@ -3765,9 +3764,9 @@
 		},
 		{
 			"name": "Alien (Approach of the Devourer)",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature â€” Alien ",
+			"type": "Token Creature — Alien",
 			"collector_number": "1",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/1_Alien (Approach of the Devourer).png"
@@ -3775,9 +3774,9 @@
 		},
 		{
 			"name": "Alien (Galactus, Devourer of Worlds)",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature â€” Alien ",
+			"type": "Token Creature — Alien",
 			"collector_number": "2",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/2_Alien (Galactus, Devourer of Worlds).png"
@@ -3785,7 +3784,7 @@
 		},
 		{
 			"name": "Copy",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token",
 			"collector_number": "3",
@@ -3795,9 +3794,9 @@
 		},
 		{
 			"name": "Angel",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature â€” Angel ",
+			"type": "Token Creature — Angel",
 			"collector_number": "4",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/4_Angel.png"
@@ -3805,9 +3804,9 @@
 		},
 		{
 			"name": "Bird (Falcon)",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature â€” Bird ",
+			"type": "Token Creature — Bird",
 			"collector_number": "5",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/5_Bird (Falcon).png"
@@ -3815,9 +3814,9 @@
 		},
 		{
 			"name": "Cleric",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature â€” Cleric ",
+			"type": "Token Creature — Cleric",
 			"collector_number": "6",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/6_Cleric.png"
@@ -3825,9 +3824,9 @@
 		},
 		{
 			"name": "Egg",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature â€” Egg ",
+			"type": "Token Creature — Egg",
 			"collector_number": "7",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/7_Egg.png"
@@ -3835,9 +3834,9 @@
 		},
 		{
 			"name": "God",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature â€” God ",
+			"type": "Token Creature — God",
 			"collector_number": "8",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/8_God.png"
@@ -3845,9 +3844,9 @@
 		},
 		{
 			"name": "Soldier",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature â€” Soldier ",
+			"type": "Token Creature — Soldier",
 			"collector_number": "9",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/9_Soldier.png"
@@ -3855,9 +3854,9 @@
 		},
 		{
 			"name": "Alien Soldier",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature â€” Alien Soldier ",
+			"type": "Token Creature — Alien Soldier",
 			"collector_number": "10",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/10_Alien Soldier.png"
@@ -3865,9 +3864,9 @@
 		},
 		{
 			"name": "Artificer",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature â€” Artificer ",
+			"type": "Token Creature — Artificer",
 			"collector_number": "11",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/11_Artificer.png"
@@ -3875,9 +3874,9 @@
 		},
 		{
 			"name": "Illusion",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature â€” Illusion ",
+			"type": "Token Creature — Illusion",
 			"collector_number": "13",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/13_Illusion.png"
@@ -3885,9 +3884,9 @@
 		},
 		{
 			"name": "Kraken",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature â€” Kraken ",
+			"type": "Token Creature — Kraken",
 			"collector_number": "14",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/14_Kraken.png"
@@ -3895,9 +3894,9 @@
 		},
 		{
 			"name": "Lockheed",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Token Creature â€” Drake ",
+			"type": "Legendary Token Creature — Drake",
 			"collector_number": "15",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/15_Lockheed.png"
@@ -3905,9 +3904,9 @@
 		},
 		{
 			"name": "Wizard",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature â€” Wizard ",
+			"type": "Token Creature — Wizard",
 			"collector_number": "16",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/16_Wizard.png"
@@ -3915,9 +3914,9 @@
 		},
 		{
 			"name": "Alien Dragon",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature â€” Alien Dragon ",
+			"type": "Token Creature — Alien Dragon",
 			"collector_number": "17",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/17_Alien Dragon.png"
@@ -3925,9 +3924,9 @@
 		},
 		{
 			"name": "Giant Horror",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature â€” Giant Horror ",
+			"type": "Token Creature — Giant Horror",
 			"collector_number": "18",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/18_Giant Horror.png"
@@ -3935,9 +3934,9 @@
 		},
 		{
 			"name": "Mole Gremlin",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature â€” Mole Beast ",
+			"type": "Token Creature — Mole Beast",
 			"collector_number": "19",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/19_Mole Gremlin.png"
@@ -3945,9 +3944,9 @@
 		},
 		{
 			"name": "Shapeshifter",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature â€” Shapeshifter ",
+			"type": "Token Creature — Shapeshifter",
 			"collector_number": "20",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/20_Shapeshifter.png"
@@ -3955,9 +3954,9 @@
 		},
 		{
 			"name": "Vampire",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature â€” Vampire ",
+			"type": "Token Creature — Vampire",
 			"collector_number": "21",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/21_Vampire.png"
@@ -3965,9 +3964,9 @@
 		},
 		{
 			"name": "Devil",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature â€” Devil ",
+			"type": "Token Creature — Devil",
 			"collector_number": "22",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/22_Devil.png"
@@ -3975,9 +3974,9 @@
 		},
 		{
 			"name": "Elemental",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature â€” Elemental ",
+			"type": "Token Creature — Elemental",
 			"collector_number": "23",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/23_Elemental.png"
@@ -3985,9 +3984,9 @@
 		},
 		{
 			"name": "Elemental",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Artifact Creature â€” Elemental ",
+			"type": "Token Artifact Creature — Elemental",
 			"collector_number": "24",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/24_Elemental.png"
@@ -3995,9 +3994,9 @@
 		},
 		{
 			"name": "Warrior",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature â€” Warrior ",
+			"type": "Token Creature — Warrior",
 			"collector_number": "25",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/25_Warrior.png"
@@ -4005,9 +4004,9 @@
 		},
 		{
 			"name": "Ape",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature â€” Ape ",
+			"type": "Token Creature — Ape",
 			"collector_number": "26",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/26_Ape.png"
@@ -4015,9 +4014,9 @@
 		},
 		{
 			"name": "Cat",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature â€” Cat ",
+			"type": "Token Creature — Cat",
 			"collector_number": "27",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/27_Cat.png"
@@ -4025,9 +4024,9 @@
 		},
 		{
 			"name": "Elemental",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature â€” Elemental ",
+			"type": "Token Creature — Elemental",
 			"collector_number": "28",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/28_Elemental.png"
@@ -4035,9 +4034,9 @@
 		},
 		{
 			"name": "Giant",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature â€” Giant ",
+			"type": "Token Creature — Giant",
 			"collector_number": "29",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/29_Giant.png"
@@ -4045,9 +4044,9 @@
 		},
 		{
 			"name": "Insect",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature â€” Insect ",
+			"type": "Token Creature — Insect",
 			"collector_number": "30",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/30_Insect.png"
@@ -4055,9 +4054,9 @@
 		},
 		{
 			"name": "Plant",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature â€” Plant ",
+			"type": "Token Creature — Plant",
 			"collector_number": "31",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/31_Plant.png"
@@ -4065,9 +4064,9 @@
 		},
 		{
 			"name": "Sand",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature â€” Sand ",
+			"type": "Token Creature — Sand",
 			"collector_number": "32",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/32_Sand.png"
@@ -4075,9 +4074,9 @@
 		},
 		{
 			"name": "Squirrel",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature â€” Squirrel ",
+			"type": "Token Creature — Squirrel",
 			"collector_number": "33",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/33_Squirrel.png"
@@ -4085,9 +4084,9 @@
 		},
 		{
 			"name": "Treefolk",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature â€” Treefolk ",
+			"type": "Token Creature — Treefolk",
 			"collector_number": "34",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/34_Treefolk.png"
@@ -4095,9 +4094,9 @@
 		},
 		{
 			"name": "Bard",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature â€” Bard ",
+			"type": "Token Creature — Bard",
 			"collector_number": "35",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/35_Bard.png"
@@ -4105,9 +4104,9 @@
 		},
 		{
 			"name": "Spider",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature â€” Spider ",
+			"type": "Token Creature — Spider",
 			"collector_number": "36",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/36_Spider.png"
@@ -4115,9 +4114,9 @@
 		},
 		{
 			"name": "Blood",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Artifact â€” Blood ",
+			"type": "Token Artifact — Blood",
 			"collector_number": "37",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/37_Blood.png"
@@ -4125,9 +4124,9 @@
 		},
 		{
 			"name": "Bomb",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Artifact â€” Bomb ",
+			"type": "Token Artifact — Bomb",
 			"collector_number": "38",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/38_Bomb.png"
@@ -4135,9 +4134,9 @@
 		},
 		{
 			"name": "Bullet",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Artifact â€” Bullet ",
+			"type": "Token Artifact — Bullet",
 			"collector_number": "39",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/39_Bullet.png"
@@ -4145,9 +4144,9 @@
 		},
 		{
 			"name": "Clue",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Artifact â€” Clue ",
+			"type": "Token Artifact — Clue",
 			"collector_number": "40",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/40_Clue.png"
@@ -4155,9 +4154,9 @@
 		},
 		{
 			"name": "Ebony Blade",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Artifact Token â€” Equipment ",
+			"type": "Legendary Artifact Token — Equipment",
 			"collector_number": "41",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/41_Ebony Blade.png"
@@ -4165,9 +4164,9 @@
 		},
 		{
 			"name": "First Strike Gadget",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Artifact â€” Equipment ",
+			"type": "Token Artifact — Equipment",
 			"collector_number": "42",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/42_First Strike Gadget.png"
@@ -4175,9 +4174,9 @@
 		},
 		{
 			"name": "Haste Gadget",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Artifact â€” Equipment ",
+			"type": "Token Artifact — Equipment",
 			"collector_number": "43",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/43_Haste Gadget.png"
@@ -4185,9 +4184,9 @@
 		},
 		{
 			"name": "Invention",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Artifact â€” Invention ",
+			"type": "Token Artifact — Invention",
 			"collector_number": "44",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/44_Invention.png"
@@ -4195,9 +4194,9 @@
 		},
 		{
 			"name": "Menace Gadget",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Artifact â€” Equipment ",
+			"type": "Token Artifact — Equipment",
 			"collector_number": "45",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/45_Menace Gadget.png"
@@ -4205,9 +4204,9 @@
 		},
 		{
 			"name": "Robot",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Artifact Creature â€” Robot ",
+			"type": "Token Artifact Creature — Robot",
 			"collector_number": "46",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/46_Robot.png"
@@ -4215,9 +4214,9 @@
 		},
 		{
 			"name": "SPDR",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Legendary Artifact â€” Vehicle ",
+			"type": "Token Legendary Artifact — Vehicle",
 			"collector_number": "47",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/47_SPDR.png"
@@ -4225,9 +4224,9 @@
 		},
 		{
 			"name": "Tentacle",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Artifact Creature â€” Tentacle ",
+			"type": "Token Artifact Creature — Tentacle",
 			"collector_number": "48",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/48_Tentacle.png"
@@ -4235,9 +4234,9 @@
 		},
 		{
 			"name": "Treasure",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Artifact â€” Treasure ",
+			"type": "Token Artifact — Treasure",
 			"collector_number": "49",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/49_Treasure.png"
@@ -4245,7 +4244,7 @@
 		},
 		{
 			"name": "Far-Off Lands",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Land",
 			"collector_number": "50",
@@ -4255,375 +4254,374 @@
 		},
 		{
 			"name": "Human (An Incredible Transformation)",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature â€” Human ",
+			"type": "Token Creature — Human",
 			"collector_number": "12",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/12_Human (An Incredible Transformation).png"
 			}
-		}
+		},
 	]
-[RareSlot(1)]
-[UncommonSlot(3)]
-[CommonSlot(10)]
-30 Alfheim
-30 Armor Workshop
-30 Asgard
-30 Asteroid M
-30 Atlantis
-30 Attilan
-30 Avengers Mansion
-30 Baxter Building
-30 Bifrost
-30 Blue Area of the Moon
-30 Collector's Museum
-30 The Daily Bugle
-30 Danger Room
-30 Dark Dimension
-30 Earth-616
-30 Essex Laboratory
-30 Friendly Neighborhood
-30 Genosha
-30 Hell's Kitchen
-30 HYDRA Stronghold
-30 Jotunheim
-30 Kamar-Taj
-30 Klyntar Homeworld
-30 Knowhere
-30 Krakoa
-30 Hala
-30 K'un-Lun
-30 Latveria
-30 Limbo
-30 Madripoor
-30 Midgard
-30 Muir Island
-30 Muspelheim
-30 Negative Zone
-30 Nexus of All Realities
-30 Nidavellir
-30 Niffleheim
-30 Oscorp Industries
-30 The Raft
-30 Ravencroft Institute
-30 Roxxon Energy Corporation
-30 SHIELD Headquarters
-30 Sakaaran Arena
-30 Sanctum Sanctorum
-30 Savage Land
-30 Stark Tower
-30 Subterranea
-30 Svartalfheim
-30 Symkaria
-30 Utopia
-30 Valhalla
-30 Vanaheim
-30 Wakanda
-30 Weapon X Facility
-30 Xavier's School for Gifted Youngsters
-30 Yancy Street
-30 Invisible Woman
-30 Black Knight
-30 Falcon
-30 Moon Knight
-30 Shang-Chi
-30 Magik
-30 Valkyrie
-30 Havok
-30 Iron Fist
-30 Banish to Limbo
-30 Founding of the Four
-30 Journey into Mystery
-30 A Living Legend Rises
-30 SHIELD Deployment
-30 Anti-Venom
-30 Captain America
-30 Fist of Khonshu
-30 Heimdall, the All-Seeing
-30 Khonshu, God of the Moon
-30 Peni Parker
-30 Adam Warlock
-30 Astral Projection
-30 Blind Justice
-30 Fractured Multiverse
-30 Suit Up
-30 Vibranium Shield
-30 Hank McCoy
-30 Psylocke
-30 Wiccan
-30 Lockjaw
-30 Jessica Jones
-30 Mister Fantastic
-30 Mystique
-30 Shadowcat
-30 Tinkerer
-30 Loki, God of Mischief
-30 Mysterio
-30 Chameleon
-30 Vision
-30 Namor
-30 Wasp
-30 Ocksperimentation
-30 Think
-30 Absolute Zero
-30 Astonishing Discovery
-30 Imperius Rex
-30 SHIELD Insight
-30 Two Steps Ahead
-30 Cerebro
-30 Change the Future
-30 Days of Future Past
-30 Mystic Arts
-30 The Ancient One
-30 Variant Edition
-30 Vigorous Research
-30 Kang the Conqueror
-30 Secret Invasion
-30 Might of Seven Seas
-30 World of Metal
-30 Maniacal Meddling
-30 Rescue Armor
-30 Supreme Intelligence
-30 Scorn
-30 Elektra
-30 Johnny Blaze
-30 Klaw
-30 Black Cat
-30 Gamora
-30 Vulture
-30 Mojo
-30 Morbius
-30 Bullseye
-30 Norman Osborn
-30 Kingpin
-30 Doctor Doom
-30 Man-Thing
-30 Omega Red
-30 Hela, Goddess of Death
-30 Hobgoblin
-30 Venom
-30 Mephisto
-30 Media Persecution
-30 Master Plan
-30 Deal with the Devil
-30 Hunt to Extinction
-30 The Hunger Spreads
-30 Bargain in Blood
-30 Criminal Empire
-30 Summon the Horsemen
-30 Cannonball
-30 Electro
-30 Shocker
-30 Bucky Barnes
-30 Jubilee
-30 Rocket Raccoon
-30 Deadpool
-30 General Ross
-30 Human Torch
-30 Star-Lord
-30 Gwenpool
-30 Storm
-30 Captain Marvel
-30 Drax the Destroyer
-30 Maximus the Mad
-30 Dragon Man
-30 Berserker Rage
-30 Hellfire Chains
-30 Optic Blast
-30 A Day Unlike Any Other
-30 Mjolnir
-30 Age of Ultron
-30 Cyttorak
-30 Fatal Attractions
-30 Phoenix Force
-30 Hell Cycle
-30 Hulkbuster Armor
-30 Crystal
-30 Absorbing Man
-30 Lizard
-30 Sandman
-30 Squirrel Girl
-30 Tigra
-30 Hawkeye
-30 Rogue
-30 Sabretooth
-30 Gorilla-Man
-30 Groot
-30 Luke Cage
-30 Abomination
-30 Colossus
-30 Kraven the Hunter
-30 Thing
-30 Snowbird
-30 Scorpion
-30 Seismic Shifting
-30 Toxin
-30 Red Ghost
-30 Rhino
-30 Ego the Living Planet
-30 An Incredible Transformation
-30 Flowers of Krakoa
-30 Origin Story
-30 Plot Armor
-30 Terrigen Mists
-30 Great Power
-30 Savage Land Expedition
-30 Endless Possibilities
-30 Kraven's Last Hunt
-30 Flora Colossus
-30 Maestro
-30 Contest of Champions
-30 Deathlok
-30 Machine Man
-30 MODOK
-30 Warlock
-30 Master Mold
-30 Black Vortex
-30 Casket of Ancient Winters
-30 Cosmic Cube
-30 Crimson Gem of Cyttorak
-30 Darkhold
-30 Eye of Agamotto
-30 Gamma Experiment
-30 Infinity Gems
-30 Iron Man Armor
-30 Jade Tiger Amulet
-30 Muramasa Blade
-30 Soulsword
-30 Staff of One
-30 Super Soldier Serum
-30 Adamantium Skeleton
-30 Galactus, Devourer of Worlds
-30 Silver Surfer
-30 Uatu the Watcher
-30 Annihilus
-30 Ant-Man
-30 Apocalypse
-30 Avengers Assemble
-30 Black Widow
-30 Bring to Balance
-30 Civil War
-30 Cloak and Dagger
-30 The Collector
-30 Cyclops
-30 Delusions of Grandeur
-30 Doctor Strange
-30 Emma Frost
-30 The Grandmaster
-30 Hulk
-30 Magneto
-30 Nightcrawler
-30 Nightmare
-30 Rise of the Phoenix
-30 Sebastian Shaw
-30 Spider-Woman
-30 Thanos, the Mad Titan
-30 Thor, God of Thunder
-30 Tony Stark
-30 Wolverine
-30 America Chavez
-30 Baron Mordo
-30 Odin, the All-Father
-30 Punisher
-30 Monkey Business
-30 Iceman
-30 Black Bolt
-30 Flame On
-30 Knull
-30 Dormammu
-30 Onslaught
-30 Domino
-30 Carnage
-30 Fortune Favors the Bold
-30 Quicksilver
-30 Black Panther
-30 Invocation of Bast
-30 Super-Skrull
-30 Pyro
-30 Bishop
-30 Edwin Jarvis
-30 Juggernaut
-30 Sentry
-30 Peter Parker
-30 Surtur
-30 Matt Murdock
-30 Silver Samurai
-30 Ultron
-30 Jean Grey
-30 Angel
-30 Hulkling
-30 Elsa Bloodstone
-30 Cable
-30 All Gods Must Die
-30 Devour
-30 Clobber
-30 Blink
-30 Spider-Ham
-30 Into the Cosmos
-30 HERBIE
-30 Champion of the Universe
-30 Purge the Occult
-30 Spider-Sense
-30 Spider-Man Noir
-30 Gates of Valhalla
-30 Fastball Special
-30 Hunter's Trail
-30 Banshee
-30 Wrecking Crew
-30 Ms Marvel
-30 Blade
-30 Nimrod
-30 Nick Fury
-30 Kate Bishop
-30 Howard the Duck
-30 Trickshot
-30 Prowler
-30 Killmonger
-30 Mole Man
-30 Never Back Down
-30 Professor X
-30 Shifting Identity
-30 Mojovision
-30 Miles Morales
-30 All-Black the Necrosword
-30 Count Dracula
-30 Hercules
-30 Yondu
-30 Crowd Favorite
-30 Incursion
-30 Sinister Machinations
-30 Call for Backup
-30 Scarlet Witch
-30 Burning Fear
-30 Worldbreaker
-30 Take Aim
-30 Uncanny Valor
-30 Secondary Mutations
-30 Life-Model Decoy
-30 No More
-30 The Maker
-30 Taskmaster
-30 Spider-Gwen
-30 Doctor Octopus
-30 Energy Conduit
-30 Elegy
-30 Death Spores
-30 Into the Multiverse
-30 Snikt!
-30 Lady Deathstrike
-30 Mister Sinister
-30 Consign to Chaos
-30 Thaw
-30 SHIELD Helicarrier
-30 Doom's Time Platform
-30 Approach of the Devourer
-30 Gambit
-30 Scrutinize
-30 Silver Sable
-30 Bring Through the Aeons
-30 Circus of Crime
-30 World War Hulk
-30 She-Hulk
-30 Glimpse Infinite Realities
-30 War Machine
+
+[cube(15)]
+	1 Alfheim
+	1 Armor Workshop
+	1 Asgard
+	1 Asteroid M
+	1 Atlantis
+	1 Attilan
+	1 Avengers Mansion
+	1 Baxter Building
+	1 Bifrost
+	1 Blue Area of the Moon
+	1 Collector's Museum
+	1 The Daily Bugle
+	1 Danger Room
+	1 Dark Dimension
+	1 Earth-616
+	1 Essex Laboratory
+	1 Friendly Neighborhood
+	1 Genosha
+	1 Hell's Kitchen
+	1 HYDRA Stronghold
+	1 Jotunheim
+	1 Kamar-Taj
+	1 Klyntar Homeworld
+	1 Knowhere
+	1 Krakoa
+	1 Hala
+	1 K'un-Lun
+	1 Latveria
+	1 Limbo
+	1 Madripoor
+	1 Midgard
+	1 Muir Island
+	1 Muspelheim
+	1 Negative Zone
+	1 Nexus of All Realities
+	1 Nidavellir
+	1 Niffleheim
+	1 Oscorp Industries
+	1 The Raft
+	1 Ravencroft Institute
+	1 Roxxon Energy Corporation
+	1 SHIELD Headquarters
+	1 Sakaaran Arena
+	1 Sanctum Sanctorum
+	1 Savage Land
+	1 Stark Tower
+	1 Subterranea
+	1 Svartalfheim
+	1 Symkaria
+	1 Utopia
+	1 Valhalla
+	1 Vanaheim
+	1 Wakanda
+	1 Weapon X Facility
+	1 Xavier's School for Gifted Youngsters
+	1 Yancy Street
+	1 Invisible Woman
+	1 Black Knight
+	1 Falcon
+	1 Moon Knight
+	1 Shang-Chi
+	1 Magik
+	1 Valkyrie
+	1 Havok
+	1 Iron Fist
+	1 Banish to Limbo
+	1 Founding of the Four
+	1 Journey into Mystery
+	1 A Living Legend Rises
+	1 SHIELD Deployment
+	1 Anti-Venom
+	1 Captain America
+	1 Fist of Khonshu
+	1 Heimdall, the All-Seeing
+	1 Khonshu, God of the Moon
+	1 Peni Parker
+	1 Adam Warlock
+	1 Astral Projection
+	1 Blind Justice
+	1 Fractured Multiverse
+	1 Suit Up
+	1 Vibranium Shield
+	1 Hank McCoy
+	1 Psylocke
+	1 Wiccan
+	1 Lockjaw
+	1 Jessica Jones
+	1 Mister Fantastic
+	1 Mystique
+	1 Shadowcat
+	1 Tinkerer
+	1 Loki, God of Mischief
+	1 Mysterio
+	1 Chameleon
+	1 Vision
+	1 Namor
+	1 Wasp
+	1 Ocksperimentation
+	1 Think
+	1 Absolute Zero
+	1 Astonishing Discovery
+	1 Imperius Rex
+	1 SHIELD Insight
+	1 Two Steps Ahead
+	1 Cerebro
+	1 Change the Future
+	1 Days of Future Past
+	1 Mystic Arts
+	1 The Ancient One
+	1 Variant Edition
+	1 Vigorous Research
+	1 Kang the Conqueror
+	1 Secret Invasion
+	1 Might of Seven Seas
+	1 World of Metal
+	1 Maniacal Meddling
+	1 Rescue Armor
+	1 Supreme Intelligence
+	1 Scorn
+	1 Elektra
+	1 Johnny Blaze
+	1 Klaw
+	1 Black Cat
+	1 Gamora
+	1 Vulture
+	1 Mojo
+	1 Morbius
+	1 Bullseye
+	1 Norman Osborn
+	1 Kingpin
+	1 Doctor Doom
+	1 Man-Thing
+	1 Omega Red
+	1 Hela, Goddess of Death
+	1 Hobgoblin
+	1 Venom
+	1 Mephisto
+	1 Media Persecution
+	1 Master Plan
+	1 Deal with the Devil
+	1 Hunt to Extinction
+	1 The Hunger Spreads
+	1 Bargain in Blood
+	1 Criminal Empire
+	1 Summon the Horsemen
+	1 Cannonball
+	1 Electro
+	1 Shocker
+	1 Bucky Barnes
+	1 Jubilee
+	1 Rocket Raccoon
+	1 Deadpool
+	1 General Ross
+	1 Human Torch
+	1 Star-Lord
+	1 Gwenpool
+	1 Storm
+	1 Captain Marvel
+	1 Drax the Destroyer
+	1 Maximus the Mad
+	1 Dragon Man
+	1 Berserker Rage
+	1 Hellfire Chains
+	1 Optic Blast
+	1 A Day Unlike Any Other
+	1 Mjolnir
+	1 Age of Ultron
+	1 Cyttorak
+	1 Fatal Attractions
+	1 Phoenix Force
+	1 Hell Cycle
+	1 Hulkbuster Armor
+	1 Crystal
+	1 Absorbing Man
+	1 Lizard
+	1 Sandman
+	1 Squirrel Girl
+	1 Tigra
+	1 Hawkeye
+	1 Rogue
+	1 Sabretooth
+	1 Gorilla-Man
+	1 Groot
+	1 Luke Cage
+	1 Abomination
+	1 Colossus
+	1 Kraven the Hunter
+	1 Thing
+	1 Snowbird
+	1 Scorpion
+	1 Seismic Shifting
+	1 Toxin
+	1 Red Ghost
+	1 Rhino
+	1 Ego the Living Planet
+	1 An Incredible Transformation
+	1 Flowers of Krakoa
+	1 Origin Story
+	1 Plot Armor
+	1 Terrigen Mists
+	1 Great Power
+	1 Savage Land Expedition
+	1 Endless Possibilities
+	1 Kraven's Last Hunt
+	1 Flora Colossus
+	1 Maestro
+	1 Contest of Champions
+	1 Deathlok
+	1 Machine Man
+	1 MODOK
+	1 Warlock
+	1 Master Mold
+	1 Black Vortex
+	1 Casket of Ancient Winters
+	1 Cosmic Cube
+	1 Crimson Gem of Cyttorak
+	1 Darkhold
+	1 Eye of Agamotto
+	1 Gamma Experiment
+	1 Infinity Gems
+	1 Iron Man Armor
+	1 Jade Tiger Amulet
+	1 Muramasa Blade
+	1 Soulsword
+	1 Staff of One
+	1 Super Soldier Serum
+	1 Adamantium Skeleton
+	1 Galactus, Devourer of Worlds
+	1 Silver Surfer
+	1 Uatu the Watcher
+	1 Annihilus
+	1 Ant-Man
+	1 Apocalypse
+	1 Avengers Assemble
+	1 Black Widow
+	1 Bring to Balance
+	1 Civil War
+	1 Cloak and Dagger
+	1 The Collector
+	1 Cyclops
+	1 Delusions of Grandeur
+	1 Doctor Strange
+	1 Emma Frost
+	1 The Grandmaster
+	1 Hulk
+	1 Magneto
+	1 Nightcrawler
+	1 Nightmare
+	1 Rise of the Phoenix
+	1 Sebastian Shaw
+	1 Spider-Woman
+	1 Thanos, the Mad Titan
+	1 Thor, God of Thunder
+	1 Tony Stark
+	1 Wolverine
+	1 America Chavez
+	1 Baron Mordo
+	1 Odin, the All-Father
+	1 Punisher
+	1 Monkey Business
+	1 Iceman
+	1 Black Bolt
+	1 Flame On
+	1 Knull
+	1 Dormammu
+	1 Onslaught
+	1 Domino
+	1 Carnage
+	1 Fortune Favors the Bold
+	1 Quicksilver
+	1 Black Panther
+	1 Invocation of Bast
+	1 Super-Skrull
+	1 Pyro
+	1 Bishop
+	1 Edwin Jarvis
+	1 Juggernaut
+	1 Sentry
+	1 Peter Parker
+	1 Surtur
+	1 Matt Murdock
+	1 Silver Samurai
+	1 Ultron
+	1 Jean Grey
+	1 Angel
+	1 Hulkling
+	1 Elsa Bloodstone
+	1 Cable
+	1 All Gods Must Die
+	1 Devour
+	1 Clobber
+	1 Blink
+	1 Spider-Ham
+	1 Into the Cosmos
+	1 HERBIE
+	1 Champion of the Universe
+	1 Purge the Occult
+	1 Spider-Sense
+	1 Spider-Man Noir
+	1 Gates of Valhalla
+	1 Fastball Special
+	1 Hunter's Trail
+	1 Banshee
+	1 Wrecking Crew
+	1 Ms Marvel
+	1 Blade
+	1 Nimrod
+	1 Nick Fury
+	1 Kate Bishop
+	1 Howard the Duck
+	1 Trickshot
+	1 Prowler
+	1 Killmonger
+	1 Mole Man
+	1 Never Back Down
+	1 Professor X
+	1 Shifting Identity
+	1 Mojovision
+	1 Miles Morales
+	1 All-Black the Necrosword
+	1 Count Dracula
+	1 Hercules
+	1 Yondu
+	1 Crowd Favorite
+	1 Incursion
+	1 Sinister Machinations
+	1 Call for Backup
+	1 Scarlet Witch
+	1 Burning Fear
+	1 Worldbreaker
+	1 Take Aim
+	1 Uncanny Valor
+	1 Secondary Mutations
+	1 Life-Model Decoy
+	1 No More
+	1 The Maker
+	1 Taskmaster
+	1 Spider-Gwen
+	1 Doctor Octopus
+	1 Energy Conduit
+	1 Elegy
+	1 Death Spores
+	1 Into the Multiverse
+	1 Snikt!
+	1 Lady Deathstrike
+	1 Mister Sinister
+	1 Consign to Chaos
+	1 Thaw
+	1 SHIELD Helicarrier
+	1 Doom's Time Platform
+	1 Approach of the Devourer
+	1 Gambit
+	1 Scrutinize
+	1 Silver Sable
+	1 Bring Through the Aeons
+	1 Circus of Crime
+	1 World War Hulk
+	1 She-Hulk
+	1 Glimpse Infinite Realities
+	1 War Machine
