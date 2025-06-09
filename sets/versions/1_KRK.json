@@ -3,6 +3,7 @@
     "formats": "",
     "trimmed": "n",
     "image_type": "png",
+    "draft_structure": "draft booster",
     "cards": [
         {
             "card_name": "Emperor Almicar",
@@ -4369,7 +4370,7 @@
             "shape": "normal",
             "set": "KRK",
             "loyalty": "",
-            "artist": "Oleksandr Kozachenko",
+            "artist": "Rachel Quinlan",
             "notes": "https://www.artstation.com/artwork/vQoJ3"
         },
         {
@@ -5799,6 +5800,42 @@
             "loyalty": "",
             "artist": "Tomasz Jedruszek",
             "notes": ""
+        },
+        {
+            "card_name": "Lilith, Seafaring Scribe Emblem",
+            "color": "",
+            "rarity": "common",
+            "type": "Emblem",
+            "number": 27,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "Whenever an opponent casts their first spell each turn, you gain control of it and may choose new targets.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "KRK",
+            "loyalty": "",
+            "artist": "Ina Wong (Edited)",
+            "notes": "!exportname Lilith, Seafaring Scribe Emblem"
+        },
+        {
+            "card_name": "Kiora, Voice of the Deep Emblem",
+            "color": "",
+            "rarity": "common",
+            "type": "Emblem",
+            "number": 26,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "Whenever you cast a creature spell, search your library for a creature card with equal or lesser mana value and put it onto the battlefield. Then shuffle.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "KRK",
+            "loyalty": "",
+            "artist": "Matt R Martin",
+            "notes": "!exportname Kiora, Voice of the Deep Emblem"
         }
     ]
 }

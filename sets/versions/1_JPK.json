@@ -1,8 +1,9 @@
 ﻿{
     "name": "Pok\u00e9mon Trainer Jumpstart",
     "formats": "",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "png",
+    "draft_structure": "none",
     "cards": [
         {
             "card_name": "Tremorstep Tyrant",

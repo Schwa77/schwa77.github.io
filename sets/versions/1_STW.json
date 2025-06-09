@@ -1,8 +1,9 @@
 ﻿{
-    "name": "Star Wars Miniset",
+    "name": "Star Wars Microset",
     "formats": "",
     "trimmed": "n",
     "image_type": "png",
+    "draft_structure": "none",
     "cards": [
         {
             "card_name": "Island",
@@ -534,8 +535,8 @@
             "number": 29,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
-            "rules_text": "Trample\nWhen this creature enters, create a Food token. [i](It's an artifact with \u201c{2}, {T}, Sacrifice this artifact: You gain 3 life.\u201d)[/i]",
-            "flavor_text": "[i][/i]",
+            "rules_text": "Trample\nWhen this creature enters, create a Food token. [i](It's an artifact with \u201c{2}, {T}, Sacrifice this token: You gain 3 life.\u201d)[/i]",
+            "flavor_text": "[i]\u201cThe kid ran into something, and it wasn't just the cold.\u201d\n\u2015Han Solo[/i]",
             "pt": "4/4",
             "special_text": "",
             "shape": "normal",
@@ -571,7 +572,7 @@
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Search your library for a basic land card, reveal it, put it into your hand, then shuffle.\nCreate a 1/1 green Ewok creature token.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cShort help is better than no help at all.\u201d\n\u2015Han Solo[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
