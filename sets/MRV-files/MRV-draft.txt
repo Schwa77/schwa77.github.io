@@ -4261,7 +4261,7 @@
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/12_Human (An Incredible Transformation).png"
 			}
-		},
+		}
 	]
 
 [cube(15)]
