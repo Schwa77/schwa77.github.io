@@ -1,1 +1,141 @@
-﻿[{"card_name": "Super Nerd", "number": 1, "shape": "normal"}, {"card_name": "Tremorstep Tyrant", "number": 13, "shape": "normal"}, {"card_name": "Bellowing Bulwark", "number": 2, "shape": "normal"}, {"card_name": "Fossil Deposit", "number": 4, "shape": "normal"}, {"card_name": "Lumbering Mammoth", "number": 6, "shape": "normal"}, {"card_name": "Shieldback Snapper", "number": 10, "shape": "normal"}, {"card_name": "Filter Feeder", "number": 3, "shape": "normal"}, {"card_name": "Hatch", "number": 5, "shape": "normal"}, {"card_name": "Rapid Adaptation", "number": 7, "shape": "normal"}, {"card_name": "Rowdy Runt", "number": 8, "shape": "normal"}, {"card_name": "Seafloor Scrounger", "number": 9, "shape": "normal"}, {"card_name": "Swoop Down", "number": 11, "shape": "normal"}, {"card_name": "Titanic Tallneck", "number": 12, "shape": "normal"}, {"card_name": "Thriving Grove", "number": 14, "shape": "normal"}, {"card_name": "Forest", "number": 15, "shape": "normal"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, "a->token", {"card_name": "Dinosaur", "number": 1, "shape": "token"}, {"card_name": "Nautilus", "number": 2, "shape": "token"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}]
+﻿[
+    {
+        "card_name": "Super Nerd",
+        "number": 1,
+        "shape": "normal",
+        "set": "JPK"
+    },
+    {
+        "card_name": "Tremorstep Tyrant",
+        "number": 13,
+        "shape": "normal",
+        "set": "JPK"
+    },
+    {
+        "card_name": "Bellowing Bulwark",
+        "number": 2,
+        "shape": "normal",
+        "set": "JPK"
+    },
+    {
+        "card_name": "Fossil Deposit",
+        "number": 4,
+        "shape": "normal",
+        "set": "JPK"
+    },
+    {
+        "card_name": "Lumbering Mammoth",
+        "number": 6,
+        "shape": "normal",
+        "set": "JPK"
+    },
+    {
+        "card_name": "Shieldback Snapper",
+        "number": 10,
+        "shape": "normal",
+        "set": "JPK"
+    },
+    {
+        "card_name": "Filter Feeder",
+        "number": 3,
+        "shape": "normal",
+        "set": "JPK"
+    },
+    {
+        "card_name": "Hatch",
+        "number": 5,
+        "shape": "normal",
+        "set": "JPK"
+    },
+    {
+        "card_name": "Rapid Adaptation",
+        "number": 7,
+        "shape": "normal",
+        "set": "JPK"
+    },
+    {
+        "card_name": "Rowdy Runt",
+        "number": 8,
+        "shape": "normal",
+        "set": "JPK"
+    },
+    {
+        "card_name": "Seafloor Scrounger",
+        "number": 9,
+        "shape": "normal",
+        "set": "JPK"
+    },
+    {
+        "card_name": "Swoop Down",
+        "number": 11,
+        "shape": "normal",
+        "set": "JPK"
+    },
+    {
+        "card_name": "Titanic Tallneck",
+        "number": 12,
+        "shape": "normal",
+        "set": "JPK"
+    },
+    {
+        "card_name": "Thriving Grove",
+        "number": 14,
+        "shape": "normal",
+        "set": "JPK"
+    },
+    {
+        "card_name": "Forest",
+        "number": 15,
+        "shape": "normal",
+        "set": "JPK"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Dinosaur",
+        "number": 1,
+        "shape": "token",
+        "set": "JPK"
+    },
+    {
+        "card_name": "Nautilus",
+        "number": 2,
+        "shape": "token",
+        "set": "JPK"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]
