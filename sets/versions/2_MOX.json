@@ -3,7 +3,7 @@
     "formats": "",
     "trimmed": "n",
     "image_type": "png",
-    "draft_structure": "draft booster",
+    "draft_structure": "none",
     "cards": [
         {
             "card_name": "Candlelight Hexcrafter",
@@ -1467,7 +1467,7 @@
             "card_name": "Duskflight Tracker",
             "color": "WU",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Bird",
+            "type": "Creature \u2014 Bird Spirit",
             "number": 170,
             "color_identity": "WU",
             "cost": "{2}{W}{U}",

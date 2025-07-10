@@ -1,1 +1,39 @@
-﻿{"sets": [{"set_code": "GS2", "set_name": "Global Series 2", "formats": ""}, {"set_code": "JPK", "set_name": "Pok\u00e9mon Trainer Jumpstart", "formats": ""}, {"set_code": "KRK", "set_name": "Seas of Krakonos", "formats": ""}, {"set_code": "MOX", "set_name": "Midnight Omens of Xogoa", "formats": ""}, {"set_code": "MRV", "set_name": "Marvel Comics: The Cosmic Cube", "formats": ""}, {"set_code": "STW", "set_name": "Star Wars Microset", "formats": ""}, {"set_code": "X24", "set_name": "Moxtober 2024", "formats": ""}]}
+﻿{
+    "sets": [
+        {
+            "set_code": "GS2",
+            "set_name": "Global Series 2",
+            "formats": ""
+        },
+        {
+            "set_code": "JPK",
+            "set_name": "Pok\u00e9mon Trainer Jumpstart",
+            "formats": ""
+        },
+        {
+            "set_code": "KRK",
+            "set_name": "Seas of Krakonos",
+            "formats": ""
+        },
+        {
+            "set_code": "MOX",
+            "set_name": "Midnight Omens of Xogoa",
+            "formats": ""
+        },
+        {
+            "set_code": "MRV",
+            "set_name": "Marvel Comics: The Cosmic Cube",
+            "formats": ""
+        },
+        {
+            "set_code": "STW",
+            "set_name": "Star Wars Microset",
+            "formats": ""
+        },
+        {
+            "set_code": "X24",
+            "set_name": "Moxtober 2024",
+            "formats": ""
+        }
+    ]
+}

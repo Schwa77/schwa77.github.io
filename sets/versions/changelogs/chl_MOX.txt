@@ -1,4 +1,13 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Duskflight Tracker
+type: Creature — Bird => Creature — Bird Spirit
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
