@@ -245,6 +245,10 @@
 									<a href="previews/MRV"><div class="set-icon"><img src="sets/MRV-files/icon.png" title="Marvel Comics: The Cosmic Cube"></img></div>
 									<div class="set-icon-name">Marvel Comics: The Cosmic Cube</div></a>
 								</div>
+				<div class="set-icon-container">
+									<a href="previews/JMV"><div class="set-icon"><img src="sets/JMV-files/icon.png" title="Marvel Jumpstart"></img></div>
+									<div class="set-icon-name">Marvel Jumpstart</div></a>
+								</div>
 									</div>
 		
 				</div>
@@ -432,21 +436,21 @@
 			}
 
 			function randomCard() {
-				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
-				let random_card = card_list_arrayified[i];
+			let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+			let random_card = card_list_arrayified[i];
 
-				const url = new URL('card', window.location.origin);
-				const params = {
-					set: random_card.set,
-					num: random_card.number,
-					name: random_card.card_name
-				}
-				for (const key in params) {
-					url.searchParams.append(key, params[key]);
-				}
-
-				window.location.href = url;
+			const url = new URL('card', window.location.origin);
+			const params = {
+				set: random_card.set,
+				num: random_card.number,
+				name: random_card.card_name
 			}
+			for (const key in params) {
+				url.searchParams.append(key, params[key]);
+			}
+
+			window.location.href = url;
+		}
 		</script>
 	</body>
 	</html>

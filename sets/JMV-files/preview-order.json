@@ -1,7 +1,7 @@
-﻿[
+[
 	{ "cards":  [ "!group fantasticfour" ] },
 	{ "cards":  [ "!group portalhoppers" ] },
-	{ "cards":  [ "!group symbiotes"]}
+	{ "cards":  [ "!group symbiotes"] },
 	{ "cards":  [ "W", "U", "B", "R", "G" ] },
 	{ "title": "gold", "cards":  [ "WU", "UB", "BR", "RG", "GW" ] },
 	{ "cards":  [ "WB", "UR", "BG", "RW", "GU" ] },
