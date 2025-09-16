@@ -1857,6 +1857,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Mark Zug",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -1876,6 +1877,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Carlos Eduardo Loiola",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/d0xYRw",
             "image_type": "png"
         },
@@ -1889,12 +1891,13 @@
             "cost": "{2}{W}",
             "rules_text": "If an opponent would create one or more tokens, instead you and that player each create those tokens.\nIf an opponent would draw a card except the first one they draw in each of their draw steps, instead you both draw a card.",
             "flavor_text": "[i][/i]",
-            "pt": "2/3",
+            "pt": "3/3",
             "special_text": "",
             "shape": "normal",
             "set": "KRK",
             "loyalty": "",
             "artist": "Pierre Droal",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -1914,6 +1917,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Daniele Montella",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/PyXDr",
             "image_type": "png"
         },
@@ -1933,6 +1937,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Anatoly Muschenko",
+            "alias": "",
             "notes": "https://www.deviantart.com/tolyanmy/art/Battleship-Azov-401746088",
             "image_type": "png"
         },
@@ -1952,6 +1957,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Johnathan Chong",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/rD6Aa",
             "image_type": "png"
         },
@@ -1971,6 +1977,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Vicki Pangestu",
+            "alias": "",
             "card_name2": "Back in Action",
             "color2": "W",
             "type2": "Sorcery \u2013 Adventure",
@@ -1981,6 +1988,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "https://www.artstation.com/artwork/w6KNg",
             "image_type": "png"
         },
@@ -2000,6 +2008,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Katerina Poliakova",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/61lgx\n\nhttps://m.facebook.com/pearloflightart/photos/a.623294938050290/623295071383610/?type=3&source=54&ref=page_internal",
             "image_type": "png"
         },
@@ -2019,6 +2028,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Paolo Puggioni",
+            "alias": "",
             "card_name2": "Supply Run",
             "color2": "W",
             "type2": "Sorcery \u2013 Adventure",
@@ -2029,6 +2039,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "https://www.deviantart.com/andreauderzo/art/Mariner-68693071",
             "image_type": "png"
         },
@@ -2048,6 +2059,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Elder Scrolls Legends",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -2067,6 +2079,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Alejandro Pacheco",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/0X361K",
             "image_type": "png"
         },
@@ -2086,6 +2099,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Volkan Baga (Extended)",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/2x5LLy",
             "image_type": "png"
         },
@@ -2105,6 +2119,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Stephen Stark",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/AD225\n\n!tag reprint",
             "image_type": "png"
         },
@@ -2124,6 +2139,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Andy Aslamov",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/YaYKQb\n\n!article",
             "image_type": "png"
         },
@@ -2143,6 +2159,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Todd Lockwood",
+            "alias": "",
             "notes": "https://twitter.com/toddlockwoodart/status/1017447216938606592",
             "image_type": "png"
         },
@@ -2162,6 +2179,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Eelis Kyattanen",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/Oy06K8\n\nhttps://www.deviantart.com/eeliskyttanen/art/A-Brief-Respite-559594910\n\nL + plund'red no wenches + marooned + ye have scurvy",
             "image_type": "png"
         },
@@ -2181,6 +2199,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Dylan Macko",
+            "alias": "",
             "notes": "https://www.stevenbelledin.com/#/flintlock-pistol/",
             "image_type": "png"
         },
@@ -2200,6 +2219,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "David Auden Nash",
+            "alias": "",
             "notes": "https://www.deviantart.com/lozanox/art/Kraken-rough-4-337405948",
             "image_type": "png"
         },
@@ -2219,6 +2239,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Dominik Mayer",
+            "alias": "",
             "notes": "https://www.deviantart.com/dominikmayer/art/Mutated-Crab-629049415\n\n!tag reprint",
             "image_type": "png"
         },
@@ -2238,6 +2259,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Bad Moon Art Studio",
+            "alias": "",
             "card_name2": "Dastardly Heist",
             "color2": "U",
             "type2": "Instant \u2013 Adventure",
@@ -2248,6 +2270,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "",
             "image_type": "png"
         },
@@ -2267,6 +2290,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Ari Targownik",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/3o9ZWD",
             "image_type": "png"
         },
@@ -2286,6 +2310,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Jenner Chen",
+            "alias": "",
             "notes": "!tag reprint\nhttps://www.artstation.com/artwork/KrDLyy",
             "image_type": "png"
         },
@@ -2305,6 +2330,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "David Loebman",
+            "alias": "",
             "notes": "!article",
             "image_type": "png"
         },
@@ -2324,6 +2350,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Blake Davis",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/DbbAR\n\n!tag reprint",
             "image_type": "png"
         },
@@ -2343,6 +2370,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Alexey Kruglov",
+            "alias": "",
             "card_name2": "Ghost Story",
             "color2": "U",
             "type2": "Instant \u2013 Adventure",
@@ -2353,6 +2381,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "https://www.artstation.com/artwork/g0kAKe",
             "image_type": "png"
         },
@@ -2372,6 +2401,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Titans Game",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -2383,7 +2413,7 @@
             "number": 51,
             "color_identity": "U",
             "cost": "{4}{U}{U}",
-            "rules_text": "This creature can't be blocked except by Krakens, Leviathans, Octopuses, and Serpents.\nWhen this creature enters if you control another Kraken, Leviathan, Octopus, or Serpent, you may return target creature or Vehicle to its owner's hand.",
+            "rules_text": "This creature can't be blocked except by Krakens, Leviathans, Octopuses, and Serpents.\nWhen this creature enters, if you control another Kraken, Leviathan, Octopus, or Serpent, you may return target creature or Vehicle to its owner's hand.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -2391,6 +2421,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Jason Engle",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/8l0BmE",
             "image_type": "png"
         },
@@ -2410,6 +2441,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Lian Li",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/RXJ2E",
             "image_type": "png"
         },
@@ -2429,6 +2461,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Leos Ng",
+            "alias": "",
             "notes": "https://www.deviantart.com/luches/art/Athena-Skye-161562978",
             "image_type": "png"
         },
@@ -2448,6 +2481,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "James Bousema",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -2467,6 +2501,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Ducos Guillame",
+            "alias": "",
             "card_name2": "Invoke the Tides",
             "color2": "U",
             "type2": "Instant \u2013 Adventure",
@@ -2477,6 +2512,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "https://www.deviantart.com/herckeim/art/Deptonne-Berserk-638723905",
             "image_type": "png"
         },
@@ -2496,6 +2532,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Yuliya Zabelina",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/QrKvK4\n\nAnato Finnstark smaug art: https://www.artstation.com/artwork/Pm80R4\n\n!article",
             "image_type": "png"
         },
@@ -2515,6 +2552,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "ZUDartS Lee, Artstation",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/YzqXb",
             "image_type": "png"
         },
@@ -2534,6 +2572,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Andrea Uderzo",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/2xbPlB\n\nhttps://www.artstation.com/artwork/XB1bDD\n\n\nTIDEBANDITSWORLD",
             "image_type": "png"
         },
@@ -2553,6 +2592,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Karol Bem",
+            "alias": "",
             "notes": "https://witcher.fandom.com/wiki/Bincy_Blumerholdt?file=Gwent_cardart_syndicate_Bincy_Blumerholdt.png",
             "image_type": "png"
         },
@@ -2565,13 +2605,14 @@
             "color_identity": "B",
             "cost": "{3}{B}{B}",
             "rules_text": "Choose a creature you control. Each other creature gets -X/-X until end of turn, where X is the chosen creature's power.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]Against such primordial might, even the bravest fleets are but scattered splinters.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "KRK",
             "loyalty": "",
             "artist": "Crystal Sully",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/9moRkW",
             "image_type": "png"
         },
@@ -2591,6 +2632,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Matias Cabezas Montoya",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/d0K94A",
             "image_type": "png"
         },
@@ -2610,6 +2652,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Flavio Greco Paglia",
+            "alias": "",
             "card_name2": "Death's Toll",
             "color2": "B",
             "type2": "Sorcery \u2013 Adventure",
@@ -2620,6 +2663,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "raiders",
             "image_type": "png"
         },
@@ -2639,6 +2683,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Rod Mendez",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/lRrEOk",
             "image_type": "png"
         },
@@ -2658,6 +2703,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Greg Rutkowski",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/Wv8y",
             "image_type": "png"
         },
@@ -2677,6 +2723,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Bear Frymire",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/Bm48z6\n\nhttps://www.artstation.com/artwork/8BlanQ?collection_id=940409",
             "image_type": "png"
         },
@@ -2696,6 +2743,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Titus Lunter",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/93kv",
             "image_type": "png"
         },
@@ -2715,6 +2763,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Tomasz Jedruszek",
+            "alias": "",
             "card_name2": "Death's Bounty",
             "color2": "B",
             "type2": "Instant \u2013 Adventure",
@@ -2725,6 +2774,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "https://www.artstation.com/artwork/93kv\n\nhttps://www.artstation.com/artwork/4NeBbW?notification_id=7149331191",
             "image_type": "png"
         },
@@ -2744,6 +2794,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Helder Almeida",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/nQYAqK",
             "image_type": "png"
         },
@@ -2763,6 +2814,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Hannah Rodgers",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/L2l1Ov",
             "image_type": "png"
         },
@@ -2782,6 +2834,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Anatolii Leoshko",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/VyR0N5",
             "image_type": "png"
         },
@@ -2801,6 +2854,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Lie Setiawan",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/zvD22\n\nAlternate Art: https://www.artstation.com/artwork/ma2wZ",
             "image_type": "png"
         },
@@ -2820,6 +2874,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Merilliza Chan",
+            "alias": "",
             "card_name2": "Withering Winds",
             "color2": "B",
             "type2": "Sorcery \u2013 Adventure",
@@ -2830,6 +2885,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "https://www.artstation.com/artwork/aRZ92J",
             "image_type": "png"
         },
@@ -2849,6 +2905,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Gauthier Redon",
+            "alias": "",
             "card_name2": "Set Sail",
             "color2": "WUBRG",
             "type2": "Sorcery \u2013 Adventure",
@@ -2859,6 +2916,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "Azra: https://www.artstation.com/artwork/LR0W95\n\nHuman: https://www.artstation.com/artwork/xDrvzm",
             "image_type": "png"
         },
@@ -2878,6 +2936,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Iga Oliwiak",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/e0r4mX",
             "image_type": "png"
         },
@@ -2897,6 +2956,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Jeff Kristian",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -2916,6 +2976,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Hyperclass Ark",
+            "alias": "",
             "card_name2": "All In",
             "color2": "R",
             "type2": "Sorcery \u2013 Adventure",
@@ -2926,6 +2987,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "",
             "image_type": "png"
         },
@@ -2937,7 +2999,7 @@
             "number": 137,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "Whenever this Vehicle attacks, create a token that's a copy of a creature that crewed it this turn. That token enters tapped and attacking. Exile the token at end of combat.\nCrew 3",
+            "rules_text": "Whenever this Vehicle attacks, create a token that's a copy of a creature that crewed it this turn. That token enters tapped and attacking. Exile the token at end of combat.\nCrew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -2945,6 +3007,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Shixiang Zhao",
+            "alias": "",
             "notes": "https://www.deviantart.com/chrisostrowski/art/Reign-Of-Gods-Cover-656370973\n\nhttps://www.artstation.com/artwork/1n2Vn2",
             "image_type": "png"
         },
@@ -2964,6 +3027,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Romain Kurdi",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/lVAygV",
             "image_type": "png"
         },
@@ -2983,6 +3047,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Jack Hsu & Anson Tan",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/6aAxL6",
             "image_type": "png"
         },
@@ -3002,6 +3067,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Steven Belledin",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -3021,6 +3087,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Jason A. Engle",
+            "alias": "",
             "card_name2": "Reckless Raiding",
             "color2": "R",
             "type2": "Instant \u2013 Adventure",
@@ -3031,6 +3098,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "https://pbs.twimg.com/media/EkPhG9OU4AAzMmm.jpg",
             "image_type": "png"
         },
@@ -3050,6 +3118,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Francisco Chinchilla",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/nEkmX4",
             "image_type": "png"
         },
@@ -3069,6 +3138,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Miguel Coimbra",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/XaO6R",
             "image_type": "png"
         },
@@ -3088,6 +3158,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "1518 Studios",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/akWXX",
             "image_type": "png"
         },
@@ -3107,6 +3178,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Evyn Fong",
+            "alias": "",
             "notes": "!article",
             "image_type": "png"
         },
@@ -3126,6 +3198,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Ilya Komarov",
+            "alias": "",
             "card_name2": "Good Fortune",
             "color2": "R",
             "type2": "Sorcery \u2013 Adventure",
@@ -3136,6 +3209,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "https://www.artstation.com/artwork/LeAbar",
             "image_type": "png"
         },
@@ -3155,6 +3229,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Biagio D'Alessandro",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/l60WJ",
             "image_type": "png"
         },
@@ -3174,6 +3249,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Grafit Studio",
+            "alias": "",
             "card_name2": "All Aboard!",
             "color2": "G",
             "type2": "Sorcery \u2013 Adventure",
@@ -3184,6 +3260,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "https://www.artstation.com/artwork/lBqOk",
             "image_type": "png"
         },
@@ -3203,6 +3280,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Max Hugo",
+            "alias": "",
             "card_name2": "Tidal Terror",
             "color2": "G",
             "type2": "Sorcery \u2013 Adventure",
@@ -3213,6 +3291,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "https://www.deviantart.com/m-hugo/art/Seadragon-202670748",
             "image_type": "png"
         },
@@ -3232,6 +3311,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Timur Dairbayev",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/mO318",
             "image_type": "png"
         },
@@ -3251,6 +3331,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Samuele Bandini",
+            "alias": "",
             "card_name2": "Churn the Waters",
             "color2": "G",
             "type2": "Sorcery \u2013 Adventure",
@@ -3261,6 +3342,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "https://www.instagram.com/p/Bv4LxpalVIQ/?utm_source=ig_share_sheet&igshid=10jttw4xwuws7&epik=dj0yJnU9NzhtZXZ6TXpSRVdGU1FWMXM1S2p3ZWFSNnpjdV9mZEMmcD0wJm49ZUpDdnI3VVJaX3NwV2haa21mdVFWQSZ0PUFBQUFBR08wYXdN",
             "image_type": "png"
         },
@@ -3280,6 +3362,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Oksana Kerro",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -3299,6 +3382,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Ren YS",
+            "alias": "",
             "notes": "https://awoiaf-rp.fandom.com/wiki/Vickon_Greyjoy?file=Image0_%281%29.jpg",
             "image_type": "png"
         },
@@ -3318,6 +3402,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Randy Vargas",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/A9lrOe",
             "image_type": "png"
         },
@@ -3337,6 +3422,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Diana Franco",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/0qEOK\n\n!rework",
             "image_type": "png"
         },
@@ -3356,6 +3442,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Artur Mirosz",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/wJ4PN9",
             "image_type": "png"
         },
@@ -3375,6 +3462,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Steven Shan",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/4bd5Yq",
             "image_type": "png"
         },
@@ -3394,6 +3482,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Artur Mirosz",
+            "alias": "",
             "notes": "dive down",
             "image_type": "png"
         },
@@ -3413,6 +3502,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Juliya Narninskaya",
+            "alias": "",
             "card_name2": "Land Ho!",
             "color2": "G",
             "type2": "Sorcery \u2013 Adventure",
@@ -3423,6 +3513,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "!article",
             "image_type": "png"
         },
@@ -3442,6 +3533,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Max Adamis",
+            "alias": "",
             "card_name2": "Reinforcements",
             "color2": "G",
             "type2": "Sorcery \u2013 Adventure",
@@ -3452,6 +3544,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "https://www.pinterest.com/pin/964825920145100016/",
             "image_type": "png"
         },
@@ -3463,7 +3556,7 @@
             "number": 220,
             "color_identity": "BR",
             "cost": "{2}{B}{R}",
-            "rules_text": "[+1]: Plunder [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i]\n[-2]: You may cast a copy of [Adventure]. [i](You still pay its costs.)[/i]",
+            "rules_text": "[+1]: Plunder [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i]\n[-3]: Create three 2/1 black Pirate creature tokens with \u201cThis token can't block.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+1]: Plunder [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i]\n[-3]: Create three 2/1 black Pirate creature tokens with \u201cThis token can't block.\u201d",
@@ -3471,6 +3564,7 @@
             "set": "KRK",
             "loyalty": "3",
             "artist": "Grafit Studio",
+            "alias": "",
             "card_name2": "Daring Pursuit",
             "color2": "BR",
             "type2": "Sorcery \u2013 Adventure",
@@ -3481,6 +3575,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "https://www.artstation.com/artwork/58oYgP\n\nhttps://www.deviantart.com/grafit-art/art/legend-of-the-Cryptids-477103298\n\n!article",
             "image_type": "png"
         },
@@ -3492,7 +3587,7 @@
             "number": 213,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
-            "rules_text": "",
+            "rules_text": "Whenever you activate a loyalty ability of Dawson, target opponent may pay 2 life. If they don't, copy that ability. You may choose new targets for the copy. [i](The loyalty is not paid twice.)[/i]\n[+1]: Create a tapped 1/1 colorless Construct artifact creature token.\n[-2]: Choose a nonland permanent type. Each player sacrifices a permanent of the chosen type of their choice.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "Whenever you activate a loyalty ability of Dawson, target opponent may pay 2 life. If they don't, copy that ability. You may choose new targets for the copy. [i](The loyalty is not paid twice.)[/i]\n[+1]: Create a tapped 1/1 colorless Construct artifact creature token.\n[-2]: Choose a nonland permanent type. Each player sacrifices a permanent of the chosen type of their choice.",
@@ -3500,6 +3595,7 @@
             "set": "KRK",
             "loyalty": "3",
             "artist": "Matt Cowdery",
+            "alias": "",
             "notes": "https://www.deviantart.com/mattcowdery/art/Deep-Jailer-533688450",
             "image_type": "png"
         },
@@ -3511,7 +3607,7 @@
             "number": 219,
             "color_identity": "WG",
             "cost": "{2}{G}{W}",
-            "rules_text": "",
+            "rules_text": "You may play land cards from your graveyard.\n[+1]: Surveil 2. You gain 2 life.\n[-3]: Exile target creature or artifact. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle.\n[-6]: For each land you control, create a 1/1 white Scout creature token with lifelink.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "You may play land cards from your graveyard.\n[+1]: Surveil 2. You gain 2 life.\n[-3]: Exile target creature or artifact. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle.\n[-6]: For each land you control, create a 1/1 white Scout creature token with lifelink.",
@@ -3519,6 +3615,7 @@
             "set": "KRK",
             "loyalty": "4",
             "artist": "Aleksandr Karcz",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/DxLKz0",
             "image_type": "png"
         },
@@ -3538,6 +3635,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Aaron Miller",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -3557,6 +3655,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Mike Pape",
+            "alias": "",
             "notes": "Alt art: https://www.artstation.com/artwork/g55am",
             "image_type": "png"
         },
@@ -3576,6 +3675,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Firat Solhan",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/oOnX1w\n\nhttps://www.artstation.com/artwork/PmrEy?collection_id=940409",
             "image_type": "png"
         },
@@ -3595,6 +3695,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Alexandra Kononenko",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/lV2gPY",
             "image_type": "png"
         },
@@ -3613,8 +3714,9 @@
             "shape": "normal",
             "set": "KRK",
             "loyalty": "",
-            "artist": "Beto Lima",
-            "notes": "https://www.josuhernaiz.com/projects/zGy5d?album_id=196",
+            "artist": "Ron Sanders",
+            "alias": "",
+            "notes": "https://www.artstation.com/artwork/RKNZaE?collection_id=934193",
             "image_type": "png"
         },
         {
@@ -3633,6 +3735,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Josu Hernaiz",
+            "alias": "",
             "notes": "https://www.deviantart.com/devburmak/art/Pirates-113433362\n\nhttps://www.artstation.com/artwork/2xbPlB",
             "image_type": "png"
         },
@@ -3652,6 +3755,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Grafit Studio",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/rARwEm",
             "image_type": "png"
         },
@@ -3671,6 +3775,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Phill Berry",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/XnarQL",
             "image_type": "png"
         },
@@ -3690,6 +3795,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Joshua Cairos",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/Nxbg2z",
             "image_type": "png"
         },
@@ -3709,6 +3815,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Sam Hogg",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -3728,6 +3835,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Robert Kim",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/B1gg9\n\nm80",
             "image_type": "png"
         },
@@ -3747,6 +3855,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Sam Kanios",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -3766,6 +3875,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Alexander Nanitchkov",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -3785,6 +3895,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Titans Game",
+            "alias": "",
             "notes": "https://titans-game.fandom.com/wiki/Shipwreck",
             "image_type": "png"
         },
@@ -3804,6 +3915,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Sini Pakarinen",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/ba63Xo",
             "image_type": "png"
         },
@@ -3823,6 +3935,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Igor Artyomenko",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/4bPwQn",
             "image_type": "png"
         },
@@ -3842,6 +3955,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Martin Seidl",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -3861,6 +3975,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Sergei Meged",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/qgL6P",
             "image_type": "png"
         },
@@ -3880,6 +3995,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Leesha Hannigan",
+            "alias": "",
             "notes": "hhttps://www.artstation.com/artwork/59gEA",
             "image_type": "png"
         },
@@ -3899,6 +4015,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Darko Stojanovic",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/4be9r1",
             "image_type": "png"
         },
@@ -3918,6 +4035,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Lane Brown",
+            "alias": "",
             "notes": "City: https://www.artstation.com/artwork/k5dEx\n\nBeach: https://lanebrownart.blogspot.com/2016/03/",
             "image_type": "png"
         },
@@ -3937,6 +4055,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Alex Petruk",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/49kBLW",
             "image_type": "png"
         },
@@ -3956,6 +4075,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Mike Pape",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/DAE1oE",
             "image_type": "png"
         },
@@ -3975,6 +4095,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Zoltan Boros",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -3994,6 +4115,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Jakub Kasper",
+            "alias": "",
             "notes": "https://elderscrolls.fandom.com/wiki/Seasoned_Captain",
             "image_type": "png"
         },
@@ -4013,6 +4135,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Ignacio Baz\u00e1n Lazcano",
+            "alias": "",
             "notes": "https://www.deviantart.com/neisbeis/art/Water-colossus-212595151",
             "image_type": "png"
         },
@@ -4032,6 +4155,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Gabi Vit\u00f3ria",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/14x2oL",
             "image_type": "png"
         },
@@ -4051,6 +4175,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Von Milano",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/g2zPLe",
             "image_type": "png"
         },
@@ -4070,6 +4195,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Nikki Dawes",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -4089,6 +4215,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Leonid Koliagin",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/oARDdB",
             "image_type": "png"
         },
@@ -4108,6 +4235,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Yasushi Matsuoka",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/q9G61z",
             "image_type": "png"
         },
@@ -4127,6 +4255,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Denis Loebner",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -4146,6 +4275,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Sergey Glushakov",
+            "alias": "",
             "notes": "https://es-la.facebook.com/FantasyFlightGames/photos/pcb.10155486889592143/10155486889077143/?type=3&theater",
             "image_type": "png"
         },
@@ -4165,6 +4295,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Grafit Studio",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/51yo8",
             "image_type": "png"
         },
@@ -4184,6 +4315,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "ekoputeh, DeviantArt",
+            "alias": "",
             "notes": "https://www.deviantart.com/ekoputeh/art/spyglass-143021088",
             "image_type": "png"
         },
@@ -4203,6 +4335,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Michael Bakker",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/J9v26Z",
             "image_type": "png"
         },
@@ -4222,6 +4355,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Andre Garcia",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -4241,6 +4375,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Pablo Olivera",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -4260,6 +4395,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Nicole Cardiff",
+            "alias": "",
             "notes": "https://www.instagram.com/p/CXuLACnPGK0/?hl=en",
             "image_type": "png"
         },
@@ -4279,6 +4415,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Jeremy Chong",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -4298,6 +4435,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Ga\u00e9tan 'Spartan' Weltzer",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/Z5rK5w",
             "image_type": "png"
         },
@@ -4317,6 +4455,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Windmaker, DeviantArt",
+            "alias": "",
             "notes": "https://www.deviantart.com/windmaker/art/Buoyancy-479877486",
             "image_type": "png"
         },
@@ -4336,6 +4475,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Nikita Volobuev",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/LYaPP",
             "image_type": "png"
         },
@@ -4355,6 +4495,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Charles Urbach",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -4374,6 +4515,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Aleksandr M",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/w8Zzk9",
             "image_type": "png"
         },
@@ -4393,6 +4535,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Elena Berezina",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/qDxve",
             "image_type": "png"
         },
@@ -4412,6 +4555,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "DJ Bakas",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/xybwO",
             "image_type": "png"
         },
@@ -4431,6 +4575,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Anton Veretinskiy",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/oJrBz",
             "image_type": "png"
         },
@@ -4450,6 +4595,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Tiago Sousa",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/mqABwE",
             "image_type": "png"
         },
@@ -4469,6 +4615,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "achillesliu, DeviantArt",
+            "alias": "",
             "card_name2": "Brandish",
             "color2": "W",
             "type2": "Sorcery \u2013 Adventure",
@@ -4479,6 +4626,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "",
             "image_type": "png"
         },
@@ -4498,6 +4646,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Russell Marks",
+            "alias": "",
             "card_name2": "Sink",
             "color2": "G",
             "type2": "Sorcery \u2013 Adventure",
@@ -4508,6 +4657,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "!check",
             "image_type": "png"
         },
@@ -4519,7 +4669,7 @@
             "number": 222,
             "color_identity": "UG",
             "cost": "{3}{G}{U}",
-            "rules_text": "",
+            "rules_text": "[+1]: Look at the top two cards of your library. You may reveal a Kraken, Leviathan, Octopus, or Serpent card from among them and put both cards into your hand. Otherwise, put one of them into your hand.\n[-4]: Create an 8/8 blue Octopus creature token.\n[-7]: You get an emblem with \u201cWhenever you cast a creature spell, search your library for a creature card with equal or lesser mana value and put it onto the battlefield. Then shuffle.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+1]: Look at the top two cards of your library. You may reveal a Kraken, Leviathan, Octopus, or Serpent card from among them and put both cards into your hand. Otherwise, put one of them into your hand.\n[-4]: Create an 8/8 blue Octopus creature token.\n[-7]: You get an emblem with \u201cWhenever you cast a creature spell, search your library for a creature card with equal or lesser mana value and put it onto the battlefield. Then shuffle.\u201d",
@@ -4527,6 +4677,7 @@
             "set": "KRK",
             "loyalty": "5",
             "artist": "Matt R Martin",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/3dOPwm",
             "image_type": "png"
         },
@@ -4546,6 +4697,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Mike Pape",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -4565,6 +4717,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Kudos Productions",
+            "alias": "",
             "card_name2": "Here Be Monsters",
             "color2": "U",
             "type2": "Instant \u2013 Adventure",
@@ -4575,6 +4728,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "",
             "image_type": "png"
         },
@@ -4594,6 +4748,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Ekaterina Gordeeva",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/Pe8GB1",
             "image_type": "png"
         },
@@ -4613,6 +4768,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Jan Roed Thastum",
+            "alias": "",
             "card_name2": "Spiritual Voyage",
             "color2": "W",
             "type2": "Instant \u2013 Adventure",
@@ -4623,6 +4779,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "",
             "image_type": "png"
         },
@@ -4642,6 +4799,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Allie Briggs",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -4661,6 +4819,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Steve Belledin",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/18N3Wq",
             "image_type": "png"
         },
@@ -4680,6 +4839,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Shen Feic",
+            "alias": "",
             "card_name2": "Clear Skies Ahead",
             "color2": "W",
             "type2": "Sorcery \u2013 Adventure",
@@ -4690,6 +4850,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "https://www.deviantart.com/shenfeic/art/Admiral-440699649",
             "image_type": "png"
         },
@@ -4709,6 +4870,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Eilene Cherie",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -4728,6 +4890,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Anry Nemo (Extended)",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -4747,6 +4910,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Anton Nazarenko",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/d0qre3\n\nAlt Art: https://boros-szikszai.com/illustration-1-hearthstone-blizzard-entertainment/\n\n!tag reprint",
             "image_type": "png"
         },
@@ -4766,6 +4930,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Elder Scrolls Legends",
+            "alias": "",
             "card_name2": "Sailor's Salvo",
             "color2": "W",
             "type2": "Instant \u2013 Adventure",
@@ -4776,6 +4941,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "",
             "image_type": "png"
         },
@@ -4795,6 +4961,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Gunship Revolution",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -4814,6 +4981,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "steamey, DeviantArt",
+            "alias": "",
             "notes": "https://www.deviantart.com/steamey/art/Gulliver-s-Travels-584498408\n\n!feeb",
             "image_type": "png"
         },
@@ -4833,6 +5001,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Hendry Iwanaga",
+            "alias": "",
             "card_name2": "Enact Policy",
             "color2": "W",
             "type2": "Instant \u2013 Adventure",
@@ -4843,6 +5012,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "https://www.reddit.com/r/ImaginaryPirates/duplicates/gybkq7/navigator_by_niki_vaszi/",
             "image_type": "png"
         },
@@ -4862,6 +5032,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Pazio Publishing",
+            "alias": "",
             "card_name2": "Rally the Sailors",
             "color2": "W",
             "type2": "Sorcery \u2013 Adventure",
@@ -4872,6 +5043,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "",
             "image_type": "png"
         },
@@ -4891,6 +5063,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Sebastian Tucholski",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/PmQ5LL",
             "image_type": "png"
         },
@@ -4910,6 +5083,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Steve Belledin",
+            "alias": "",
             "notes": "https://www.pinterest.com/pin/964825920144899239/",
             "image_type": "png"
         },
@@ -4929,6 +5103,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Gabe Leonard",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/A9lGOW\n\nhttps://cdn.discordapp.com/attachments/1071834517632991283/1289335161439391784/Dead_Men_Tell_No_Tales_-_Gabe_Leonard.png?ex=66f87271&is=66f720f1&hm=c53098ba265923b8163315e3ef87019d004db053ff9bd6b35b370f3430979a3b&",
             "image_type": "png"
         },
@@ -4948,6 +5123,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Caio Cacau",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/mAv0J1",
             "image_type": "png"
         },
@@ -4967,6 +5143,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Jason Rainville",
+            "alias": "",
             "notes": "https://www.deviantart.com/rhineville/art/Warfare-451404030",
             "image_type": "png"
         },
@@ -4986,6 +5163,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Kevin Harger",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -5005,6 +5183,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Muhamad Faizal Fikri",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -5024,6 +5203,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Kurolines, Instagram",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -5043,6 +5223,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Kiko.L (Jason Liang)",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/2RKY?collection_id=940409",
             "image_type": "png"
         },
@@ -5062,6 +5243,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Ash Dadoun",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -5081,6 +5263,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Grafit Studio",
+            "alias": "",
             "card_name2": "Pickpocket",
             "color2": "U",
             "type2": "Sorcery \u2013 Adventure",
@@ -5091,6 +5274,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "",
             "image_type": "png"
         },
@@ -5110,6 +5294,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Bogdan Antoci",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/8NZ9R",
             "image_type": "png"
         },
@@ -5129,6 +5314,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Brian Valeza",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -5148,6 +5334,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Nick Moskvin",
+            "alias": "",
             "card_name2": "Undertow",
             "color2": "U",
             "type2": "Instant \u2013 Adventure",
@@ -5158,6 +5345,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "Aaron Miller: https://www.artstation.com/artwork/e0vy5Z\n\nNick Moskvin: https://www.artstation.com/artwork/nJYnm9",
             "image_type": "png"
         },
@@ -5177,6 +5365,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Jan Roed Thastum",
+            "alias": "",
             "notes": "https://www.pupperish.com/baby-mythical-creatures",
             "image_type": "png"
         },
@@ -5196,6 +5385,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Ka!a Sketch",
+            "alias": "",
             "notes": "https://www.artstation.com/kala",
             "image_type": "png"
         },
@@ -5215,6 +5405,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Joakim Ericsson",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/ELk26K",
             "image_type": "png"
         },
@@ -5234,6 +5425,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Pete Amachree",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/xzKyk1",
             "image_type": "png"
         },
@@ -5253,6 +5445,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Aaron Lovett",
+            "alias": "",
             "notes": "thttps://www.artstation.com/artwork/3dGaNo\n\n!tag reprint",
             "image_type": "png"
         },
@@ -5272,6 +5465,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Nick Corbell",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/GXnYqN\n\n!tag reprint",
             "image_type": "png"
         },
@@ -5291,6 +5485,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Ducos Guillame",
+            "alias": "",
             "notes": "https://www.deviantart.com/herckeim/art/Maelstrom-848078406",
             "image_type": "png"
         },
@@ -5310,6 +5505,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Hex Sharpe",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/aROPKq",
             "image_type": "png"
         },
@@ -5329,6 +5525,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Ezequiel Dominguez",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/3dEe2E",
             "image_type": "png"
         },
@@ -5348,6 +5545,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Olie Boldador",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/ybB0x\n\nhttps://www.artstation.com/artwork/xJ8q9m",
             "image_type": "png"
         },
@@ -5367,6 +5565,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Elder Scrolls Legends",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/B1gg9",
             "image_type": "png"
         },
@@ -5386,6 +5585,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Daniel Kamarudin",
+            "alias": "",
             "notes": "https://www.deviantart.com/thedurrrrian/art/Sky-Pirates-Arrr-mada-442485277",
             "image_type": "png"
         },
@@ -5405,6 +5605,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Howard Lyon",
+            "alias": "",
             "card_name2": "Shank",
             "color2": "B",
             "type2": "Sorcery \u2013 Adventure",
@@ -5415,6 +5616,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "https://www.artstation.com/artwork/xgbyW",
             "image_type": "png"
         },
@@ -5434,6 +5636,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Teresa Ramos",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/NxvEdz",
             "image_type": "png"
         },
@@ -5453,6 +5656,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Rod Mendez",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/lRrEOk",
             "image_type": "png"
         },
@@ -5472,6 +5676,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "James Ryman",
+            "alias": "",
             "card_name2": "Serve Eternal",
             "color2": "B",
             "type2": "Sorcery \u2013 Adventure",
@@ -5482,6 +5687,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "",
             "image_type": "png"
         },
@@ -5501,6 +5707,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Lily Abdullina",
+            "alias": "",
             "card_name2": "Covetous Greed",
             "color2": "B",
             "type2": "Instant \u2013 Adventure",
@@ -5511,6 +5718,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "https://www.artstation.com/artwork/X1BdOa",
             "image_type": "png"
         },
@@ -5530,6 +5738,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Giuliano Brocani",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/yX18",
             "image_type": "png"
         },
@@ -5549,6 +5758,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Dmitry Burmak (Edited)",
+            "alias": "",
             "notes": "https://www.deviantart.com/devburmak/art/Dangerous-waters-290442370\n\nAlternate Art: https://mattcowdery.tumblr.com/image/76742201355\n\nAlternate Art: https://ladytedra.tumblr.com/post/625556135914749953/mermaid-2-by-sandara-deviantartcom",
             "image_type": "png"
         },
@@ -5568,6 +5778,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Kurmja Illust, Artstation",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/3nEaA?collection_id=934193",
             "image_type": "png"
         },
@@ -5587,6 +5798,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Windmaker, DeviantArt",
+            "alias": "",
             "notes": "https://www.deviantart.com/windmaker/art/Black-Spot-479876885",
             "image_type": "png"
         },
@@ -5606,6 +5818,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Julian Futano",
+            "alias": "",
             "notes": "https://www.deviantart.com/deivcalviz/art/The-Search-338142961\n\nhttps://www.deviantart.com/getsugadante/art/PoE-Liar-s-dice-709604920\n\nhttps://www.artstation.com/artwork/dnxm1",
             "image_type": "png"
         },
@@ -5625,6 +5838,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Olga Tereshenko",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/OvQRJ\n\nhttps://cards.fabtcg.com/card/blood-in-the-water-1/SEA047/",
             "image_type": "png"
         },
@@ -5644,6 +5858,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Aaron McBride",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/9el4lW\n!tag reprint",
             "image_type": "png"
         },
@@ -5663,6 +5878,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Faraz Shanyar",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/K9RlW",
             "image_type": "png"
         },
@@ -5682,6 +5898,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Victor Garcia",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/WLLrD\n\nhttps://www.artstation.com/artwork/VdRO6n",
             "image_type": "png"
         },
@@ -5701,6 +5918,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Matt Hubel",
+            "alias": "",
             "card_name2": "Broadside",
             "color2": "R",
             "type2": "Sorcery \u2013 Adventure",
@@ -5711,6 +5929,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "",
             "image_type": "png"
         },
@@ -5730,6 +5949,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Wonchun Choi (Doo)",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/QWEd",
             "image_type": "png"
         },
@@ -5749,6 +5969,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Edgar S\u00e1nchez Hidalgo",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/0n2Gne",
             "image_type": "png"
         },
@@ -5768,6 +5989,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Bram Sels",
+            "alias": "",
             "card_name2": "Flare",
             "color2": "R",
             "type2": "Sorcery \u2013 Adventure",
@@ -5778,6 +6000,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "https://www.artstation.com/artwork/g89L",
             "image_type": "png"
         },
@@ -5797,6 +6020,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "EN Publishing",
+            "alias": "",
             "notes": "https://static1.squarespace.com/static/6002e7276f0b7e66aaa0fcf8/t/60043a869db7573b5dccc6e5/1610889878080/zeitgeist_campaign_guide_5e.pdf",
             "image_type": "png"
         },
@@ -5816,6 +6040,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Edikt Art",
+            "alias": "",
             "card_name2": "Fiery Barrage",
             "color2": "R",
             "type2": "Sorcery \u2013 Adventure",
@@ -5826,6 +6051,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "https://www.artstation.com/artwork/xmRRr",
             "image_type": "png"
         },
@@ -5845,6 +6071,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Margarita Bourkova",
+            "alias": "",
             "notes": "https://www.margawart.com/",
             "image_type": "png"
         },
@@ -5864,6 +6091,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Helder Almeida",
+            "alias": "",
             "card_name2": "Buccaneer's Blitz",
             "color2": "R",
             "type2": "Instant \u2013 Adventure",
@@ -5874,6 +6102,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "https://www.artstation.com/artwork/D5QDd9",
             "image_type": "png"
         },
@@ -5893,6 +6122,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Mike Pape",
+            "alias": "",
             "notes": "https://wingbuffet.tumblr.com/post/623210907025260544/your-innate-magic-comes-from-the-power-of",
             "image_type": "png"
         },
@@ -5912,6 +6142,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Quentin V Castel",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/bZwPE",
             "image_type": "png"
         },
@@ -5931,6 +6162,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Andrew Kuzinskiy",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -5950,6 +6182,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Alberto Dal Lago",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -5969,6 +6202,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Tithi Luadthong",
+            "alias": "",
             "notes": "https://www.alamy.com/stock-photo-the-pirate-with-burning-torch-standing-on-boat-with-treasure-looking-147532583.html\n\nAlternate Art: https://www.artstation.com/artwork/584ox1",
             "image_type": "png"
         },
@@ -5988,6 +6222,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Tomasz Chistowski",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/oY3mW",
             "image_type": "png"
         },
@@ -6007,6 +6242,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Craig J. Spearing",
+            "alias": "",
             "notes": "\n\nhttps://www.artstation.com/artwork/nQ9A84",
             "image_type": "png"
         },
@@ -6026,6 +6262,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Teo Yong Jin",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/dnxm1\n\nhttps://www.artstation.com/artwork/lEymG",
             "image_type": "png"
         },
@@ -6045,6 +6282,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Miguel Lleras",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/L26Bl\n\nhttps://www.deviantart.com/miggs69/art/Pirate-Treasure-61048796\n\n!note nbslot",
             "image_type": "png"
         },
@@ -6064,6 +6302,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Claire Lin",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/wJnNQ6",
             "image_type": "png"
         },
@@ -6083,6 +6322,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "douzen, DeviantArt",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/61lgx\n\nhttps://www.deviantart.com/douzen/art/1-417740236\n\n!check",
             "image_type": "png"
         },
@@ -6102,6 +6342,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Astral Leouin",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -6121,6 +6362,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Drazenka Kimpel",
+            "alias": "",
             "card_name2": "Steady Sailing",
             "color2": "G",
             "type2": "Sorcery \u2013 Adventure",
@@ -6131,6 +6373,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "https://www.artstation.com/artwork/zPBzr2",
             "image_type": "png"
         },
@@ -6150,6 +6393,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Pencil Equipped",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/xJYJqE",
             "image_type": "png"
         },
@@ -6169,6 +6413,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "David MacLeod",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/61gaW",
             "image_type": "png"
         },
@@ -6188,6 +6433,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Raulski, Artstation",
+            "alias": "",
             "card_name2": "Siren's Song",
             "color2": "G",
             "type2": "Sorcery \u2013 Adventure",
@@ -6198,6 +6444,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "https://www.artstation.com/artwork/z6bmm",
             "image_type": "png"
         },
@@ -6217,6 +6464,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Oleksandr Kozachenko",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/oAbBPw\n\nhttps://www.artstation.com/artwork/JeDKOR",
             "image_type": "png"
         },
@@ -6236,6 +6484,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Cam Sykes",
+            "alias": "",
             "card_name2": "Aim True",
             "color2": "G",
             "type2": "Instant \u2013 Adventure",
@@ -6246,6 +6495,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "https://www.deviantart.com/camsykes/art/Darter-Monkey-502878528\n\n!check",
             "image_type": "png"
         },
@@ -6265,6 +6515,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Feig Felipe Perez",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/eg9eJ",
             "image_type": "png"
         },
@@ -6284,6 +6535,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Gabriel Ramos",
+            "alias": "",
             "card_name2": "Chum Trail",
             "color2": "G",
             "type2": "Sorcery \u2013 Adventure",
@@ -6294,6 +6546,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "",
             "image_type": "png"
         },
@@ -6313,6 +6566,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Martin Deschambault",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/gP4K",
             "image_type": "png"
         },
@@ -6332,6 +6586,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Yigit Koroglu",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/8BOrd6",
             "image_type": "png"
         },
@@ -6351,6 +6606,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Sam Hogg",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/zGNRL",
             "image_type": "png"
         },
@@ -6370,6 +6626,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Marcel Mercado",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/yyezJ\n\nhttps://www.artstation.com/artwork/Jv2vaa",
             "image_type": "png"
         },
@@ -6389,6 +6646,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Marcin Kulesza",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/2xN38x",
             "image_type": "png"
         },
@@ -6408,6 +6666,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Sergey Zabelin",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/g2nOP",
             "image_type": "png"
         },
@@ -6427,6 +6686,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Rachel Quinlan",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/vQoJ3",
             "image_type": "png"
         },
@@ -6446,6 +6706,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Anthony Avon",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/elGEOJ?notification_id=6356004653",
             "image_type": "png"
         },
@@ -6465,6 +6726,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Thomas Ricci",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/oAwVDO",
             "image_type": "png"
         },
@@ -6484,6 +6746,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Margarita Bourkova",
+            "alias": "",
             "notes": "https://www.inprnt.com/gallery/margaw/the-adventure-begins/\n\n!tag reprint\n\n!article",
             "image_type": "png"
         },
@@ -6503,6 +6766,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Andrew Kuzinskiy",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -6522,6 +6786,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Lucas Staniec",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/BmADKA",
             "image_type": "png"
         },
@@ -6541,6 +6806,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Andrea Uderzo",
+            "alias": "",
             "notes": "https://www.deviantart.com/andreauderzo/art/Mariner-68693071",
             "image_type": "png"
         },
@@ -6560,6 +6826,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Andrei Stef",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/W2xA5E",
             "image_type": "png"
         },
@@ -6579,6 +6846,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Max Qin",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -6598,6 +6866,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Rado Javor",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -6617,6 +6886,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Tuan Duong Chu",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/6a0QVr",
             "image_type": "png"
         },
@@ -6636,6 +6906,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Andrey Maximov",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/NJaGb",
             "image_type": "png"
         },
@@ -6655,6 +6926,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Aleksandra Wojtas",
+            "alias": "",
             "card_name2": "Wrought to War",
             "color2": "R",
             "type2": "Sorcery \u2013 Adventure",
@@ -6665,6 +6937,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "https://www.pinterest.com/pin/746964288203823989/",
             "image_type": "png"
         },
@@ -6684,6 +6957,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Scott Altmann",
+            "alias": "",
             "notes": "https://www.deviantart.com/katemaxpaint/art/Observer-251868080",
             "image_type": "png"
         },
@@ -6703,6 +6977,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Wayne Reynolds",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -6722,6 +6997,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Alex Jay Brady",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/oxoEO",
             "image_type": "png"
         },
@@ -6741,6 +7017,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "NovaEden, DeviantArt",
+            "alias": "",
             "card_name2": "Scent of Blood",
             "color2": "UB",
             "type2": "Sorcery \u2013 Adventure",
@@ -6751,6 +7028,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "https://www.deviantart.com/novaeden/art/Blood-and-Sea-827927992",
             "image_type": "png"
         },
@@ -6770,6 +7048,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Conor Burke",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/xJGNAW",
             "image_type": "png"
         },
@@ -6789,6 +7068,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Raluca Marinescu",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/yBYe5\n\n!related Kelpscale Serpent;",
             "image_type": "png"
         },
@@ -6808,6 +7088,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Victor Garcia",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/e02xKP\n\nhttps://www.artstation.com/artwork/ELw9eN?collection_id=940412\n\n!related Marquisian Enforcer;Maelstrom's Maw;Trenchcaller Acolyte;Fleetcrusher Titan",
             "image_type": "png"
         },
@@ -6827,6 +7108,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Valentina Paz (Extended)",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/oAb6YL\n\ntype:adventure\n\n!related Almicar's Striker;Deft Commodore;Dockside Warden;Edgeseeker Helmsman;Governor's Representative;Marquisian Commander;Starlight Wayfinder;Weathered Navigator;Corsair's Companion;Crimza Taal Smuggler;Ghostcrew Captain;Riptide Titan;Shifting Sailor;Tidehunter Drake;Trenchcaller Oracle;Trenchlurker Titan;Azla's Bonecrew;Blightbreath Wavekite;Crimza Taal Headhunter;Dreadtide Grunt;Emperor's Executioner;Raider's Remains;Seabound Scavenger;Cannonpack Crewmate;Feline Freebooter;Glorybound Brute;Glorybound Knaves;Ironworks Shipwrights;Malvo, Edgeseeker Admiral;Munitions Mage;Pyrebeard Buccaneer;Tavern Gambler;Aelython Vanguard;Ancient Megalodon;Dreadtide Hellraiser;Gangplank Marauders;Horizon Communer;Kelpscale Serpent;Marquisian Quartermaster;Rallying Captain;Shipsinker Kraken;Tortun Cannoneers;Hemophage Hunter;Jadon, Who Fells the Mighty;Wavebreaker Brute;",
             "image_type": "png"
         },
@@ -6846,6 +7128,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Akio (Extended)",
+            "alias": "",
             "notes": "!related Dawson, Out for Blood;M-80, Clockwork Captain;\n\nhttps://www.pixiv.net/en/artworks/59451268",
             "image_type": "png"
         },
@@ -6865,6 +7148,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Milivoj Ceran",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/8eZgPO\n\n!related Lilith, Seafaring Scribe;",
             "image_type": "png"
         },
@@ -6884,6 +7168,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Ihor Reshetnikov",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/YvkyK\n\nplunder\n\n!related Aelython Renegade;Daring Rebuttal;Uncharted Wonders<X>;Alkar of the Floating Horde;Broker a Deal;Crimza Taal Dealer;Crimzaa Taal Infiltrator;Deathless Conscription;Down with the Ship<2>;March of the Dreadtide;Poach;Abandon Ship;Clumsy Cannoneer;Feline Freebooter;Gemseeker Grottle;Grottle Shell-Singer;Hired Hand;Rapacious Tyrant<X>;Secure the Bounty;Trinket Merchant;Unfair Share;Dry Land;Malvo's Quartermaster;Relic Recoverers;Run Through;Sunken Spoils;Jadon, Who Fells the Mighty;Salazar, Glorybound Mate;Beachside Barter;M-80, Clockwork Captain;Pilferer's Pouch;Pillager's Flagship;Rusted Mariner;Sword of Greed and Glory;Gilded Cove;",
             "image_type": "png"
         },
@@ -6903,6 +7188,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Jarel Threat",
+            "alias": "",
             "notes": "https://www.deviantart.com/ronamis/art/Red-Hands-of-Daria-533250105\n\n!related Imperial Armorer;Marquisian Commander;Novice Navigator;Quickdraw;Trade Route Navigator;Imperial Musketeer;Ironworks Arsenal;",
             "image_type": "png"
         },
@@ -6922,6 +7208,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Sergey Glushakov",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/q112L?collection_id=940410\n\n!related Grand Admiral;",
             "image_type": "png"
         },
@@ -6941,6 +7228,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Link Chiang",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/Zag3yR",
             "image_type": "png"
         },
@@ -6960,6 +7248,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Craig J. Spearing",
+            "alias": "",
             "notes": "https://shadowcoreillustration.blogspot.com/search?q=skull+%26+shackles",
             "image_type": "png"
         },
@@ -6979,6 +7268,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Ollie Titley",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/rA6xgE?collection_id=940418",
             "image_type": "png"
         },
@@ -6998,6 +7288,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Olga Tereshenko",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/vyOr6?collection_id=940418",
             "image_type": "png"
         },
@@ -7017,6 +7308,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Victor Garcia",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/EVqwYK",
             "image_type": "png"
         },
@@ -7036,6 +7328,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Asur Misoa",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7055,6 +7348,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Diego Cunha",
+            "alias": "",
             "card_name2": "Find Guilty",
             "color2": "B",
             "type2": "Instant \u2013 Adventure",
@@ -7065,6 +7359,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7084,6 +7379,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Lucas Staniec",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/A9lGOW",
             "image_type": "png"
         },
@@ -7103,6 +7399,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Rudy Siswanto",
+            "alias": "",
             "notes": "https://www.pupperish.com/baby-mythical-creatures",
             "image_type": "png"
         },
@@ -7122,6 +7419,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Ryan Yen",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/8eDJw\n\ncapn thragtusk",
             "image_type": "png"
         },
@@ -7141,6 +7439,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Marlene Robinson",
+            "alias": "",
             "card_name2": "Risky Venture",
             "color2": "RG",
             "type2": "Sorcery \u2013 Adventure",
@@ -7151,6 +7450,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7170,6 +7470,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Lie Setiawan",
+            "alias": "",
             "notes": "https://geekynerfherder.blogspot.com/2021/05/artist-spotlight-art-of-lie-setiawan.html",
             "image_type": "png"
         },
@@ -7189,6 +7490,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Waqas Mallick (Extended)",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/L2dbRR\n\n!related Horizon Communer;Malvo's Quartermaster;",
             "image_type": "png"
         },
@@ -7208,6 +7510,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Alexandra Jury",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/68BLo0",
             "image_type": "png"
         },
@@ -7227,6 +7530,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Elisa Serio",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/JlyNBR",
             "image_type": "png"
         },
@@ -7246,6 +7550,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Matt Cowdery",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7265,6 +7570,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Von Milano",
+            "alias": "",
             "notes": "!related Ancient Megalodon;\n\nhttps://www.artstation.com/artwork/n0knWe?collection_id=940412",
             "image_type": "png"
         },
@@ -7284,6 +7590,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Grazia Ferlito",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/ELw9eN?collection_id=940412",
             "image_type": "png"
         },
@@ -7303,6 +7610,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Veronica O'Neill",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/aRNgqJ",
             "image_type": "png"
         },
@@ -7322,6 +7630,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "PINDURSKI",
+            "alias": "",
             "notes": "https://www.deviantart.com/pindurski/art/A-penny-for-a-pound-of-gold-736845335",
             "image_type": "png"
         },
@@ -7341,6 +7650,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Artem Chebokha",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7360,6 +7670,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Kristina Gehrmann",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/JeDKOR\n\n!related Loyal Deckhand;Ingrid Farjalla<X>;",
             "image_type": "png"
         },
@@ -7379,6 +7690,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Soon Lee",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/dKrnK\n\n!related Marquisian Skyship;Standard-Issue Blade;Novice Navigator;Imperial Expeditioner;Marquisian Crackdown;Captain's Orders<2>;Imperial Musketeer;Port Inspector;Deft Commodore<2>;",
             "image_type": "png"
         },
@@ -7398,6 +7710,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Irina Nordsol",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7417,6 +7730,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Allie Briggs",
+            "alias": "",
             "notes": "!related Conscripted Duelist;Spectral Sabers;Forsaken Cutthroat;",
             "image_type": "png"
         },
@@ -7436,6 +7750,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Cl\u00e9ment Saionij",
+            "alias": "",
             "notes": "!related Ria, Master Smith;Trenchcaller Oracle;Lilith's Duplimancy;Avarice;Firebrand Flagship;Malvo, Edgeseeker Admiral;",
             "image_type": "png"
         },
@@ -7455,6 +7770,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Andrea Tarzia",
+            "alias": "",
             "notes": "!related Familiar's Foil;Lilith, Seafaring Scribe<2>;Storm Coast Drakemaster;\n\nhttps://www.artstation.com/artwork/39qalm",
             "image_type": "png"
         },
@@ -7474,6 +7790,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Tom D'Auria",
+            "alias": "",
             "notes": "https://www.tdauria.com/gallery?pgid=jkwvl7z8-1c94fd78-f4b2-4a48-a7f6-f49bec6179a4\n\n!related Flourishing Reef;",
             "image_type": "png"
         },
@@ -7493,6 +7810,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Fioruccio Cascino",
+            "alias": "",
             "notes": "!related Kiora, Voice of the Deep;\n\nhttps://www.artstation.com/artwork/gJ83Ox",
             "image_type": "png"
         },
@@ -7512,6 +7830,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Gianluca Barbera",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/qQdNKL\n\n!related Thalassophobia;Octotyrant<8>;",
             "image_type": "png"
         },
@@ -7531,6 +7850,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Jason Kang",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7542,7 +7862,7 @@
             "number": 58,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
-            "rules_text": "",
+            "rules_text": "As Lilith enters, create Daring Adventures, a legendary colorless artifact token with \u201c{2}, {T}: Draw a card.\u201d\n[+1]: Tap or untap up to one target artifact and up to one target creature.\n[-3]: Create two 1/1 blue Drake creature tokens with flying.\n[-7]: You get an emblem with \u201cWhenever an opponent casts their first spell each turn, you gain control of it and may choose new targets.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "As Lilith enters, create Daring Adventures, a legendary colorless artifact token with \u201c{2}, {T}: Draw a card.\u201d\n[+1]: Tap or untap up to one target artifact and up to one target creature.\n[-3]: Create two 1/1 blue Drake creature tokens with flying.\n[-7]: You get an emblem with \u201cWhenever an opponent casts their first spell each turn, you gain control of it and may choose new targets.\u201d",
@@ -7550,6 +7870,7 @@
             "set": "KRK",
             "loyalty": "4",
             "artist": "Ina Wong (Edited)",
+            "alias": "",
             "notes": "https://twitter.com/JLIENnnn\n\nhttps://www.artstation.com/artwork/oAXvzq?collection_id=940409",
             "image_type": "png"
         },
@@ -7569,6 +7890,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Mateusz Ozminski",
+            "alias": "",
             "notes": "!exportname Pirate Token A (M20)\n\nR token art: https://www.artstation.com/artwork/Vya3R4\n\nB token art: https://www.artstation.com/artwork/1nGOK\n\n!related Dreadtide Marauder<2>;Loose Cargo<2>;Tandem Hirelings;Audra, Raucous Rallier;Charismatic Captain;Glittering Trove;Glorybound Knaves;Beachside Barter",
             "image_type": "png"
         },
@@ -7588,6 +7910,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "SBaithwaite",
+            "alias": "",
             "notes": "https://www.pinterest.com/pin/196539971211932226/\n\n!related Azla's Bonecrew;March of the Dreadtide;Dreadtide Dockhands;Spectral Sloop;Sunken Casket;",
             "image_type": "png"
         },
@@ -7607,6 +7930,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Anda Victoriya",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/8lrJNn\n\n!related Dragon-Eye Lookout;",
             "image_type": "png"
         },
@@ -7626,6 +7950,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Victor Sales",
+            "alias": "",
             "notes": "!related Horizon Communer;",
             "image_type": "png"
         },
@@ -7645,6 +7970,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Claysence",
+            "alias": "",
             "notes": "!exportname Pirate Token B (M20)\n\nR token art: https://www.artstation.com/artwork/Vya3R4\n\nB token art: https://www.artstation.com/artwork/1nGOK\nhttps://www.artstation.com/artwork/zDBGb4\n\n!related Dreadtide Marauder<2>;Loose Cargo<2>;Tandem Hirelings;Audra, Raucous Rallier;Charismatic Captain;Glittering Trove;Glorybound Knaves;Beachside Barter",
             "image_type": "png"
         },
@@ -7664,6 +7990,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Yigit Koroglu",
+            "alias": "",
             "notes": "!exportname Pirate Token B (M20)\n\nR token art: https://www.artstation.com/artwork/Vya3R4\n\nB token art: https://www.artstation.com/artwork/1nGOK\nhttps://www.artstation.com/artwork/zDBGb4\n\n!related Dreadtide Marauder<2>;Loose Cargo<2>;Tandem Hirelings;Audra, Raucous Rallier;Charismatic Captain;Glittering Trove;Glorybound Knaves;Beachside Barter",
             "image_type": "png"
         },
@@ -7683,6 +8010,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Asur Misoa",
+            "alias": "",
             "notes": "!tag yuri",
             "image_type": "png"
         },
@@ -7702,6 +8030,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "DEnnis Van Kessel",
+            "alias": "",
             "card_name2": "Call the Depths",
             "color2": "U",
             "type2": "Sorcery \u2013 Adventure",
@@ -7712,6 +8041,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "https://www.artstation.com/artwork/g2qw4K",
             "image_type": "png"
         },
@@ -7731,6 +8061,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Martin M\u00e1lek",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/B1adEz\n\n\u201cthat's a hell of a honkin nose on that guy\u201d\n\u2014Janahwamme",
             "image_type": "png"
         },
@@ -7750,6 +8081,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Virgile Boulais",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/v2JAgY",
             "image_type": "png"
         },
@@ -7769,6 +8101,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Igor Artyomenko",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/PAEKo",
             "image_type": "png"
         },
@@ -7788,6 +8121,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Maxine Minard",
+            "alias": "",
             "card_name2": "Scare Off",
             "color2": "U",
             "type2": "Instant \u2013 Adventure",
@@ -7798,6 +8132,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "https://www.deviantart.com/tlockwood/art/Temeraire-715549252",
             "image_type": "png"
         },
@@ -7817,6 +8152,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Csaba \u00c9ltet\u0151",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/bR3XG",
             "image_type": "png"
         },
@@ -7836,6 +8172,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Ekaterina Tambovtseva",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7855,6 +8192,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Sin Jong Hun",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/L2dbRR",
             "image_type": "png"
         },
@@ -7874,6 +8212,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Greg Rutkowski",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/q9o3Nz\n\nhttps://www.artstation.com/artwork/vK3Y?collection_id=940556\n\nhttps://www.artstation.com/artwork/eaYBb\n\nhttps://www.artstation.com/artwork/Qzq6Ar",
             "image_type": "png"
         },
@@ -7893,6 +8232,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "James Ryman",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7912,6 +8252,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Bartek Fedyczak",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7931,6 +8272,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Tomasz Jedruszek",
+            "alias": "",
             "notes": "",
             "image_type": "png"
         },
@@ -7950,6 +8292,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Ina Wong (Edited)",
+            "alias": "",
             "notes": "!exportname Lilith, Seafaring Scribe Emblem",
             "image_type": "png"
         },
@@ -7969,6 +8312,7 @@
             "set": "KRK",
             "loyalty": "",
             "artist": "Matt R Martin",
+            "alias": "",
             "notes": "!exportname Kiora, Voice of the Deep Emblem",
             "image_type": "png"
         },

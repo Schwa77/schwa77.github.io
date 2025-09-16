@@ -1,4 +1,622 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Emperor Almicar
+
+Ria, Master Smith
+
+Druno, Marquisian Collector
+pt: 2/3 => 3/3
+
+Tell No Tales
+
+Marquisian Flagship
+
+Spectral Sabers
+
+Almicar's Striker
+
+Crimza Taal Envoy
+
+Marquisian Commander
+
+Imperial Armorer
+
+Windrider Roc
+
+Familiar's Foil
+
+Refurbish
+
+Encased in Glass
+
+Marquisian Skyship
+
+Maroon
+
+Ironworks Twinblades
+
+Davijan, Trenchbound Titan
+
+Saddled Scuttleback
+
+Shifting Sailor
+
+Glorybound Seablade
+
+Whelming Wave
+
+Thalassophobia
+
+Brineborn Cutthroat
+
+Ghostcrew Captain
+
+Hullhide Colossus
+
+Deep Sea Devastator
+rules_text: This creature can't be blocked except by Krakens, Leviathans, Octopuses, and Serpents.
+When this creature enters if you control another Kraken, Leviathan, Octopus, or Serpent, you may return target creature or Vehicle to its owner's hand. => This creature can't be blocked except by Krakens, Leviathans, Octopuses, and Serpents.
+When this creature enters, if you control another Kraken, Leviathan, Octopus, or Serpent, you may return target creature or Vehicle to its owner's hand.
+
+Uncharted Wonders
+
+Skysail Galleon
+
+Ironworks Frigate
+
+Trenchcaller Oracle
+
+Avarice
+
+Dreadtide Flagship
+
+Dezan, Ironsoul Sell-Sword
+
+Crimza Taal Infiltrator
+
+Devour
+
+Alkar of the Floating Horde
+
+Raider's Remains
+
+Dreadtide Scrounger
+
+Marquisian Enforcer
+
+Forsaken Cutthroat
+
+Azla's Monstrosity
+
+Dreadtide Grunt
+
+March of the Dreadtide
+
+What Lurks Beneath
+
+Down With the Ship
+
+Drown
+
+Zephyr Swashbuckler
+
+Malvo, Edgeseeker Admiral
+
+Charismatic Captain
+
+Mapcaster Mage
+
+Tavern Gambler
+
+Firebrand Flagship
+rules_text: Whenever this Vehicle attacks, create a token that's a copy of a creature that crewed it this turn. That token enters tapped and attacking. Exile the token at end of combat.
+Crew 3 => Whenever this Vehicle attacks, create a token that's a copy of a creature that crewed it this turn. That token enters tapped and attacking. Exile the token at end of combat.
+Crew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Free Harbor
+
+Powder Monkeys
+
+Twinshot Renegade
+
+Glorybound Brute
+
+Macrawcodiles
+
+Fleetfront Galleon
+
+Deserter's Dinghy
+
+Jadon's Messenger
+
+Frenetic Freebooter
+
+Davijan's Disciple
+
+Gangplank Marauders
+
+Kelpscale Serpent
+
+Octotyrant
+
+Dreadtide Hellraiser
+
+Kiora's Coiler
+
+Malvo's Quartermaster
+
+Imperial Expeditioner
+
+Great Wight
+
+Dry Land
+
+Intrepid Expedition
+
+Fortunate Flotsam
+
+Horizon Communer
+
+Rallying Captain
+
+Jadon, Who Fells the Mighty
+rules_text: [+1]: Plunder [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i]
+[-2]: You may cast a copy of [Adventure]. [i](You still pay its costs.)[/i] => [+1]: Plunder [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i]
+[-3]: Create three 2/1 black Pirate creature tokens with “This token can't block.”
+
+Dawson, Out for Blood
+rules_text:  => Whenever you activate a loyalty ability of Dawson, target opponent may pay 2 life. If they don't, copy that ability. You may choose new targets for the copy. [i](The loyalty is not paid twice.)[/i]
+[+1]: Create a tapped 1/1 colorless Construct artifact creature token.
+[-2]: Choose a nonland permanent type. Each player sacrifices a permanent of the chosen type of their choice.
+
+Ingrid Farjalla
+rules_text:  => You may play land cards from your graveyard.
+[+1]: Surveil 2. You gain 2 life.
+[-3]: Exile target creature or artifact. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+[-6]: For each land you control, create a 1/1 white Scout creature token with lifelink.
+
+Ruin Delvers
+
+Sewer Skulk
+
+Glorybound Cutthroat
+
+Imperial Musketeer
+
+Cunning Quartermaster
+
+Azla, Dreadtide Captain
+
+Loyal Deckhand
+
+Mara, Benthozoologist
+
+The Glorybound
+
+Beachside Barter
+
+M-80, Clockwork Captain
+
+Animated Hoard
+
+Marquisian Sentry
+
+Salvaged Stomper
+
+Lantern of the Lost
+
+Shoreline Beacon
+
+Pillager's Galleon
+
+Spectral Sloop
+
+Ironworks Arsenal
+
+Pilferer's Pouch
+
+Maelstrom Flagship
+
+Veteran Cartographer
+
+Journey's Preparation
+
+Tortun Vanguard
+
+Fleetcrusher Titan
+
+Port Inspector
+
+Davijan's Awakening
+
+Wharf Rat
+
+Ironworks Skysail
+
+Protean Schooner
+
+Beyond the Horizon
+
+Hellfire Dreadnought
+
+Hunter's Ambition
+
+Wayfinder's Telescope
+
+Rising Tide
+
+Cursed Coins
+
+Restore Order
+
+Ghost-Blade Renegade
+
+Salazar, Glorybound Mate
+
+Behemoth of World's End
+
+Stormforged Saber
+
+Rum Guzzler
+
+Grand Admiral
+
+Sword of Greed and Glory
+
+Novice Navigator
+
+Dockside Warden
+
+Shipbreaker Kraken
+
+Kiora, Voice of the Deep
+rules_text:  => [+1]: Look at the top two cards of your library. You may reveal a Kraken, Leviathan, Octopus, or Serpent card from among them and put both cards into your hand. Otherwise, put one of them into your hand.
+[-4]: Create an 8/8 blue Octopus creature token.
+[-7]: You get an emblem with “Whenever you cast a creature spell, search your library for a creature card with equal or lesser mana value and put it onto the battlefield. Then shuffle.”
+
+Lilith's Duplimancy
+
+Trenchlurker Titan
+
+Audra, Raucous Rallier
+
+Starlight Wayfinder
+
+Tideweaver Gull
+
+Standard-Issue Flintlock
+
+Weathered Navigator
+
+Landing Party
+
+Conscripted Duelist
+
+Treasure Hunter
+
+Edgeseeker Helmsman
+
+Ironworks Seahawk
+
+Trade Route Navigator
+
+Governor's Representative
+
+Deft Commodore
+
+Imperial Bombardiers
+
+Quickdraw
+
+High and Dry
+
+Edgeseeker's Valor
+
+Parry
+
+Shipwrecked
+
+Rally the Isles
+
+Marquisian Rescuers
+
+Loyal Quartermaster
+
+Welkin Tern
+
+Crimza Taal Smuggler
+
+Aelython Renegade
+
+Shipwreck Kraken
+
+Riptide Titan
+
+Forgotten Chronicler
+
+Daring Rebuttal
+
+Man Overboard
+
+Lost at Sea
+
+Thirst for Knowledge
+
+Opt
+
+Whirlpool
+
+Ghostly Galleon
+
+Shore Up
+
+Mithril Grouper
+
+Arrogant Crewmate
+
+Skyship Ambusher
+
+Crimza Taal Headhunter
+
+Tandem Hirelings
+
+Shipwreck Revenant
+
+Azla's Rotcrew
+
+Seabound Wraith
+
+Glorybound Scallywags
+
+Poach
+
+Last Gasp
+
+Davijan's Curse
+
+Smuggler's Haul
+
+Dreadtide Ritual
+
+No One Left Behind
+
+Deathless Conscription
+
+Gemseeker Grottle
+
+Munitions Mage
+
+Flintlock Sharpshot
+
+Trinket Merchant
+
+Pyrebeard Buccaneer
+
+Rowdy Cannoneer
+
+Cannonpack Crewmate
+
+Savvy Duelist
+
+Glorybound Knaves
+
+Become the Storm
+
+Cannonblast
+
+Unfair Share
+
+Audra's Vengeance
+
+Abandon Ship
+
+Bombarding Brigantine
+
+Tavern Brawl
+
+Dishonorable Duel
+
+Glittering Trove
+
+Flourishing Reef
+
+Trenchcaller Champion
+
+Trenchcaller Vassal
+
+Marquisian Quartermaster
+
+Octoplant
+
+Dreadtide Deckhands
+
+Aelython Vanguard
+
+Curio Collectors
+
+Tortun Cannoneers
+
+Abyssal Behemoth
+
+Ancient Megalodon
+
+Run Through
+
+Breach the Surface
+
+Tavern Revelry
+
+Marquisian Crackdown
+
+Inkforged Arsenal
+
+Sunken Spoils
+
+Kiora's Beckoning
+
+Beachcomber's Bane
+
+Aureate Elemental
+
+Expedition Map
+
+Glittering Spoils
+
+Pirate's Cutlass
+
+Rusted Mariner
+
+Towering Dreadnought
+
+Voyager's Vessel
+
+Captain's Orders
+
+Ravenous Wavekite
+
+Rapacious Tyrant
+
+Ironworks Shipwrights
+
+Dragon-Eye Lookout
+
+Dawson's Ire
+
+Ship-Scale Behemoth
+
+Hemophage Hunter
+
+Tidal Visionary
+
+Kraken
+
+Serpent
+
+On An Adventure
+
+Construct
+
+Daring Adventures
+
+Treasure
+
+Weapon
+
+Vehicle
+
+Search Beyond the Empire
+
+Rallying Lookout
+
+The One That Got Away
+
+Boundless Horizons
+
+Grottle Shell-Singer
+
+Gilded Cove
+
+Emperor's Executioner
+
+Sunken Casket
+
+Reefbed Hatchling
+
+Dreadtide Marauder
+
+Wavebreaker Brute
+
+Storm Coast Drakemaster
+
+Everywhere
+
+Loose Cargo
+
+Curse of Siren's Song
+
+Glutton of Fool's Strait
+
+Shark
+
+Maelstrom's Maw
+
+Marooned Mutineer
+
+Hired Hand
+
+Eye of the Eight Winds
+
+Scout
+
+Soldier
+
+Soldier Army
+
+Spirit
+
+Copy
+
+Drake
+
+Fish
+
+Octopus
+
+Tentacle
+
+Affectionate Mimic
+
+Lilith, Seafaring Scribe
+rules_text:  => As Lilith enters, create Daring Adventures, a legendary colorless artifact token with “{2}, {T}: Draw a card.”
+[+1]: Tap or untap up to one target artifact and up to one target creature.
+[-3]: Create two 1/1 blue Drake creature tokens with flying.
+[-7]: You get an emblem with “Whenever an opponent casts their first spell each turn, you gain control of it and may choose new targets.”
+
+Pirate Token A (M20)
+
+Zombie
+
+Dragon
+
+Elemental
+
+Pirate Token B (M20)
+
+Pirate Token B (M20)
+
+Partners in Crime
+
+Brackish Channeler
+
+Razorfin
+
+Shoreline Haggler
+
+Edgeseeker Flagship
+
+Tidehunter Drake
+
+Corsair's Companion
+
+Thieving Accomplice
+
+Uncharted Haven
+
+Tortun Turncoat
+
+Corsair Firebomb
+
+Hellfire Volley
+
+Lilith, Seafaring Scribe Emblem
+
+Kiora, Voice of the Deep Emblem
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
