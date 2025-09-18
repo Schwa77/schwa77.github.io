@@ -1,4 +1,110 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Battlefront Medic
+
+Echo Defender
+
+Flight Commander
+
+Imperial Stormtrooper
+
+Loyal Tauntaun
+
+Reload Malfunction
+
+Admiral Ackbar
+
+Meditation
+
+Mos Eisley Sneak
+
+Outer Rim Dealer
+
+Snowspeeder Ace
+
+Dagobah Dragonsnake
+
+Might of the Empire
+
+Mos Espa Crimelord
+
+Trandoshan Trackers
+
+Womp Rats
+
+Disintegration
+
+Ravenous Rancor
+
+Reprogram
+
+Shoot First
+
+Spice Smuggler
+
+Tusken Raiders
+
+Chirpa's Archer
+
+Lumbering Dewback
+
+Territorial Wampa
+
+Unruly Brawl
+
+Whispers of Endor
+
+Wookiee Guerrilla
+
+Ewok Firedancers
+
+Imperial Technician
+
+Rebellion X-Wing
+
+Plasma Rifle
+
+Imperial Star Destroyer
+
+A280 Blaster
+
+AT-ST Assault Transport
+
+Hangar Repair Droid
+
+Imperial Navigators
+
+Boba Fett
+
+Jabba's Mechanic
+
+Intel Officer
+
+Tree-Village Elder
+
+Do or Do Not
+
+Imperial TIE Fighter
+
+Beskar Duelist
+
+One With the Force
+
+Army
+
+Rebel
+
+Treasure
+
+Ewok
+
+Food
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
