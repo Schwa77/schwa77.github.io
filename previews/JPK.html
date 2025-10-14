@@ -39,8 +39,8 @@
 			position: relative;
 		}
 		.sidebar-h-img {
-			display: none;
-			transform: rotate(90deg);
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
 			position: absolute;
 			left: 10%;
 			top: 10%;
@@ -126,12 +126,13 @@
 			background: rgba(23, 23, 23, 0.8);
 			border-radius: 8px;
 			position: absolute;
-			left: 10%;
+			left: 5%;
 			width: fit-content;
+			max-width: 90%;
 			margin: 20px 0;
 			padding: 5px 0;
-			display: flex;
-			flex-direction: column;
+			display: grid;
+			grid-template-columns: 1fr;
 			z-index: 3;
 		}
 		.dropdown .set-bar {
@@ -196,7 +197,7 @@
 		</div>
 	</div>
 
-	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
 		<a class="set-bar" href="JPK"><img src="/sets/JPK-files/icon.png">Pokémon Trainer Jumpstart</a>
 	
@@ -220,36 +221,36 @@
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img alt="/sets\JPK-files\img\1_Super Nerd.png" id="1_Super Nerd" data-flag="@X" onclick="openSidebar('1_Super Nerd',false)"></div>
-				<div class="container"><img alt="/sets\JPK-files\img\13_Tremorstep Tyrant.png" id="13_Tremorstep Tyrant" data-flag="@X" onclick="openSidebar('13_Tremorstep Tyrant',false)"></div>
-				<div class="container"><img alt="/sets\JPK-files\img\2_Bellowing Bulwark.png" id="2_Bellowing Bulwark" data-flag="@X" onclick="openSidebar('2_Bellowing Bulwark',false)"></div>
-				<div class="container"><img alt="/sets\JPK-files\img\4_Fossil Deposit.png" id="4_Fossil Deposit" data-flag="@X" onclick="openSidebar('4_Fossil Deposit',false)"></div>
-				<div class="container"><img alt="/sets\JPK-files\img\6_Lumbering Mammoth.png" id="6_Lumbering Mammoth" data-flag="@X" onclick="openSidebar('6_Lumbering Mammoth',false)"></div>
-				<div class="container"><img alt="/sets\JPK-files\img\10_Shieldback Snapper.png" id="10_Shieldback Snapper" data-flag="@X" onclick="openSidebar('10_Shieldback Snapper',false)"></div>
-				<div class="container"><img alt="/sets\JPK-files\img\3_Filter Feeder.png" id="3_Filter Feeder" data-flag="@X" onclick="openSidebar('3_Filter Feeder',false)"></div>
-				<div class="container"><img alt="/sets\JPK-files\img\5_Hatch.png" id="5_Hatch" data-flag="@X" onclick="openSidebar('5_Hatch',false)"></div>
-				<div class="container"><img alt="/sets\JPK-files\img\7_Rapid Adaptation.png" id="7_Rapid Adaptation" data-flag="@X" onclick="openSidebar('7_Rapid Adaptation',false)"></div>
-				<div class="container"><img alt="/sets\JPK-files\img\8_Rowdy Runt.png" id="8_Rowdy Runt" data-flag="@X" onclick="openSidebar('8_Rowdy Runt',false)"></div>
-				<div class="container"><img alt="/sets\JPK-files\img\9_Seafloor Scrounger.png" id="9_Seafloor Scrounger" data-flag="@X" onclick="openSidebar('9_Seafloor Scrounger',false)"></div>
-				<div class="container"><img alt="/sets\JPK-files\img\11_Swoop Down.png" id="11_Swoop Down" data-flag="@X" onclick="openSidebar('11_Swoop Down',false)"></div>
-				<div class="container"><img alt="/sets\JPK-files\img\12_Titanic Tallneck.png" id="12_Titanic Tallneck" data-flag="@X" onclick="openSidebar('12_Titanic Tallneck',false)"></div>
-				<div class="container"><img alt="/sets\JPK-files\img\14_Thriving Grove.png" id="14_Thriving Grove" data-flag="@X" onclick="openSidebar('14_Thriving Grove',false)"></div>
-				<div class="container"><img alt="/sets\JPK-files\img\15_Forest.png" id="15_Forest" data-flag="@X" onclick="openSidebar('15_Forest',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="/sets\JPK-files\img\1_Super Nerd.png" id="1_Super Nerd" data-flag="@X" onclick="openSidebar('1_Super Nerd',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\JPK-files\img\13_Tremorstep Tyrant.png" id="13_Tremorstep Tyrant" data-flag="@X" onclick="openSidebar('13_Tremorstep Tyrant',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\JPK-files\img\2_Bellowing Bulwark.png" id="2_Bellowing Bulwark" data-flag="@X" onclick="openSidebar('2_Bellowing Bulwark',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\JPK-files\img\4_Fossil Deposit.png" id="4_Fossil Deposit" data-flag="@X" onclick="openSidebar('4_Fossil Deposit',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\JPK-files\img\6_Lumbering Mammoth.png" id="6_Lumbering Mammoth" data-flag="@X" onclick="openSidebar('6_Lumbering Mammoth',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\JPK-files\img\10_Shieldback Snapper.png" id="10_Shieldback Snapper" data-flag="@X" onclick="openSidebar('10_Shieldback Snapper',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\JPK-files\img\3_Filter Feeder.png" id="3_Filter Feeder" data-flag="@X" onclick="openSidebar('3_Filter Feeder',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\JPK-files\img\5_Hatch.png" id="5_Hatch" data-flag="@X" onclick="openSidebar('5_Hatch',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\JPK-files\img\7_Rapid Adaptation.png" id="7_Rapid Adaptation" data-flag="@X" onclick="openSidebar('7_Rapid Adaptation',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\JPK-files\img\8_Rowdy Runt.png" id="8_Rowdy Runt" data-flag="@X" onclick="openSidebar('8_Rowdy Runt',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\JPK-files\img\9_Seafloor Scrounger.png" id="9_Seafloor Scrounger" data-flag="@X" onclick="openSidebar('9_Seafloor Scrounger',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\JPK-files\img\11_Swoop Down.png" id="11_Swoop Down" data-flag="@X" onclick="openSidebar('11_Swoop Down',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\JPK-files\img\12_Titanic Tallneck.png" id="12_Titanic Tallneck" data-flag="@X" onclick="openSidebar('12_Titanic Tallneck',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\JPK-files\img\14_Thriving Grove.png" id="14_Thriving Grove" data-flag="@X" onclick="openSidebar('14_Thriving Grove',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\JPK-files\img\15_Forest.png" id="15_Forest" data-flag="@X" onclick="openSidebar('15_Forest',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div id="token" class="anchor"></div>
-				<div class="container"><img alt="/sets\JPK-files\img\1t_Dinosaur.png" id="1t_Dinosaur" data-flag="@X" onclick="openSidebar('1t_Dinosaur',false)"></div>
-				<div class="container"><img alt="/sets\JPK-files\img\2t_Nautilus.png" id="2t_Nautilus" data-flag="@X" onclick="openSidebar('2t_Nautilus',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\JPK-files\img\1t_Dinosaur.png" id="1t_Dinosaur" data-flag="@X" onclick="openSidebar('1t_Dinosaur',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\JPK-files\img\2t_Nautilus.png" id="2t_Nautilus" data-flag="@X" onclick="openSidebar('2t_Nautilus',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
@@ -346,27 +347,51 @@
 	let horizontal = false;
 
 	function imgFlip(num) {
-		tmp = document.getElementById(num).src;
-		console.log(num);
-		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
-		document.getElementById(num).dataset.alt_src = tmp;
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
 
-		if (num == 'sidebar_img')
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
 		{
-			const rotated_img = document.getElementById('sidebar_h_img');
 			const sidebar_img = document.getElementById('sidebar_img');
 
-			if (horizontal && rotated_img.style.display == 'none')
-			{
-				rotated_img.style.display = "block";
-				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
-			}
-			else
-			{
-				rotated_img.style.display = "none";
-				sidebar_img.style.filter = "";
-			}
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
 		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
 	}
 
 	function openSidebar(id, h = false) {
@@ -378,17 +403,19 @@
 		const rotated_img = document.getElementById('sidebar_h_img');
 		const sidebar_img = document.getElementById('sidebar_img');
 
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
 		sidebar_img.src = document.getElementById(id).src;
 		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
 
 		if (horizontal && !sidebar_img.src.includes("_back"))
 		{
-			rotated_img.style.display = "block";
+			rotated_img.style.opacity = "1";
 			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
 		}
 		else
 		{
-			rotated_img.style.display = "none";
+			rotated_img.style.opacity = "0";
 			sidebar_img.style.filter = "";
 		}
 
@@ -421,6 +448,7 @@
 	}
 
 	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{
@@ -430,6 +458,7 @@
 	}
 
 	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{
@@ -452,21 +481,21 @@
 	}
 
 		function randomCard() {
-			let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
-			let random_card = card_list_arrayified[i];
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
 
-			const url = new URL('card', window.location.origin);
-			const params = {
-				set: random_card.set,
-				num: random_card.number,
-				name: random_card.card_name
-			}
-			for (const key in params) {
-				url.searchParams.append(key, params[key]);
-			}
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
 
-			window.location.href = url;
-		}
+				window.location.href = url;
+			}
 	</script>
 </body>
 </html>

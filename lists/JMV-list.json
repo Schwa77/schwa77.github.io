@@ -3,73 +3,85 @@
         "card_name": "Invisible Woman",
         "number": 31,
         "shape": "normal",
-        "set": "JMV"
+        "set": "JMV",
+        "position": ""
     },
     {
         "card_name": "Human Torch",
         "number": 30,
         "shape": "normal",
-        "set": "JMV"
+        "set": "JMV",
+        "position": ""
     },
     {
         "card_name": "Mister Fantastic",
         "number": 10,
         "shape": "normal",
-        "set": "JMV"
+        "set": "JMV",
+        "position": ""
     },
     {
         "card_name": "Thing",
         "number": 32,
         "shape": "normal",
-        "set": "JMV"
+        "set": "JMV",
+        "position": ""
     },
     {
         "card_name": "HERBIE",
         "number": 34,
         "shape": "normal",
-        "set": "JMV"
+        "set": "JMV",
+        "position": ""
     },
     {
         "card_name": "Namor the Sub-Mariner",
         "number": 11,
         "shape": "normal",
-        "set": "JMV"
+        "set": "JMV",
+        "position": ""
     },
     {
         "card_name": "Dragon Man",
         "number": 33,
         "shape": "normal",
-        "set": "JMV"
+        "set": "JMV",
+        "position": ""
     },
     {
         "card_name": "Curiosity",
         "number": 4,
         "shape": "normal",
-        "set": "JMV"
+        "set": "JMV",
+        "position": ""
     },
     {
         "card_name": "Force Field",
         "number": 5,
         "shape": "normal",
-        "set": "JMV"
+        "set": "JMV",
+        "position": ""
     },
     {
         "card_name": "Founding of the Four",
         "number": 6,
         "shape": "saga",
-        "set": "JMV"
+        "set": "JMV",
+        "position": ""
     },
     {
         "card_name": "Lost in the Multiverse",
         "number": 8,
         "shape": "normal",
-        "set": "JMV"
+        "set": "JMV",
+        "position": ""
     },
     {
         "card_name": "Hypothesize",
         "number": 7,
         "shape": "normal",
-        "set": "JMV"
+        "set": "JMV",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -99,73 +111,85 @@
         "card_name": "Pixie",
         "number": 13,
         "shape": "normal",
-        "set": "JMV"
+        "set": "JMV",
+        "position": ""
     },
     {
         "card_name": "Blink",
         "number": 2,
         "shape": "normal",
-        "set": "JMV"
+        "set": "JMV",
+        "position": ""
     },
     {
         "card_name": "Mirage",
         "number": 9,
         "shape": "normal",
-        "set": "JMV"
+        "set": "JMV",
+        "position": ""
     },
     {
         "card_name": "Nightcrawler",
         "number": 12,
         "shape": "normal",
-        "set": "JMV"
+        "set": "JMV",
+        "position": ""
     },
     {
         "card_name": "Shadowcat",
         "number": 17,
         "shape": "normal",
-        "set": "JMV"
+        "set": "JMV",
+        "position": ""
     },
     {
         "card_name": "Psylocke",
         "number": 16,
         "shape": "normal",
-        "set": "JMV"
+        "set": "JMV",
+        "position": ""
     },
     {
         "card_name": "Warlock",
         "number": 36,
         "shape": "normal",
-        "set": "JMV"
+        "set": "JMV",
+        "position": ""
     },
     {
         "card_name": "Cable",
         "number": 3,
         "shape": "normal",
-        "set": "JMV"
+        "set": "JMV",
+        "position": ""
     },
     {
         "card_name": "Bamf!",
         "number": 1,
         "shape": "normal",
-        "set": "JMV"
+        "set": "JMV",
+        "position": ""
     },
     {
         "card_name": "Portal Hopping",
         "number": 14,
         "shape": "normal",
-        "set": "JMV"
+        "set": "JMV",
+        "position": ""
     },
     {
         "card_name": "Psychic Knife",
         "number": 15,
         "shape": "normal",
-        "set": "JMV"
+        "set": "JMV",
+        "position": ""
     },
     {
         "card_name": "Temporal Paradox",
         "number": 18,
         "shape": "normal",
-        "set": "JMV"
+        "set": "JMV",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -195,73 +219,85 @@
         "card_name": "Scorn",
         "number": 35,
         "shape": "normal",
-        "set": "JMV"
-    },
-    {
-        "card_name": "Anti-Venom",
-        "number": 19,
-        "shape": "normal",
-        "set": "JMV"
-    },
-    {
-        "card_name": "Toxin",
-        "number": 27,
-        "shape": "normal",
-        "set": "JMV"
-    },
-    {
-        "card_name": "Shriek",
-        "number": 25,
-        "shape": "normal",
-        "set": "JMV"
-    },
-    {
-        "card_name": "Venom",
-        "number": 28,
-        "shape": "normal",
-        "set": "JMV"
-    },
-    {
-        "card_name": "Knull, King in Black",
-        "number": 23,
-        "shape": "normal",
-        "set": "JMV"
-    },
-    {
-        "card_name": "Frenzied Strike",
-        "number": 21,
-        "shape": "normal",
-        "set": "JMV"
-    },
-    {
-        "card_name": "Symbiote Spawning",
-        "number": 26,
-        "shape": "normal",
-        "set": "JMV"
-    },
-    {
-        "card_name": "We Are Venom",
-        "number": 29,
-        "shape": "normal",
-        "set": "JMV"
-    },
-    {
-        "card_name": "Klyntar Infection",
-        "number": 22,
-        "shape": "normal",
-        "set": "JMV"
-    },
-    {
-        "card_name": "Carnage",
-        "number": 20,
-        "shape": "normal",
-        "set": "JMV"
+        "set": "JMV",
+        "position": ""
     },
     {
         "card_name": "Scream",
         "number": 24,
         "shape": "normal",
-        "set": "JMV"
+        "set": "JMV",
+        "position": ""
+    },
+    {
+        "card_name": "Carnage",
+        "number": 20,
+        "shape": "normal",
+        "set": "JMV",
+        "position": ""
+    },
+    {
+        "card_name": "Anti-Venom",
+        "number": 19,
+        "shape": "normal",
+        "set": "JMV",
+        "position": ""
+    },
+    {
+        "card_name": "Toxin",
+        "number": 27,
+        "shape": "normal",
+        "set": "JMV",
+        "position": ""
+    },
+    {
+        "card_name": "Shriek",
+        "number": 25,
+        "shape": "normal",
+        "set": "JMV",
+        "position": ""
+    },
+    {
+        "card_name": "Venom",
+        "number": 28,
+        "shape": "normal",
+        "set": "JMV",
+        "position": ""
+    },
+    {
+        "card_name": "Knull, King in Black",
+        "number": 23,
+        "shape": "normal",
+        "set": "JMV",
+        "position": ""
+    },
+    {
+        "card_name": "Frenzied Strike",
+        "number": 21,
+        "shape": "normal",
+        "set": "JMV",
+        "position": ""
+    },
+    {
+        "card_name": "Symbiote Spawning",
+        "number": 26,
+        "shape": "normal",
+        "set": "JMV",
+        "position": ""
+    },
+    {
+        "card_name": "We Are Venom",
+        "number": 29,
+        "shape": "normal",
+        "set": "JMV",
+        "position": ""
+    },
+    {
+        "card_name": "Klyntar Infection",
+        "number": 22,
+        "shape": "normal",
+        "set": "JMV",
+        "position": ""
     },
     {
         "card_name": "e"

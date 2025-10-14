@@ -3,91 +3,106 @@
         "card_name": "Super Nerd",
         "number": 1,
         "shape": "normal",
-        "set": "JPK"
+        "set": "JPK",
+        "position": ""
     },
     {
         "card_name": "Tremorstep Tyrant",
         "number": 13,
         "shape": "normal",
-        "set": "JPK"
+        "set": "JPK",
+        "position": ""
     },
     {
         "card_name": "Bellowing Bulwark",
         "number": 2,
         "shape": "normal",
-        "set": "JPK"
+        "set": "JPK",
+        "position": ""
     },
     {
         "card_name": "Fossil Deposit",
         "number": 4,
         "shape": "normal",
-        "set": "JPK"
+        "set": "JPK",
+        "position": ""
     },
     {
         "card_name": "Lumbering Mammoth",
         "number": 6,
         "shape": "normal",
-        "set": "JPK"
+        "set": "JPK",
+        "position": ""
     },
     {
         "card_name": "Shieldback Snapper",
         "number": 10,
         "shape": "normal",
-        "set": "JPK"
+        "set": "JPK",
+        "position": ""
     },
     {
         "card_name": "Filter Feeder",
         "number": 3,
         "shape": "normal",
-        "set": "JPK"
+        "set": "JPK",
+        "position": ""
     },
     {
         "card_name": "Hatch",
         "number": 5,
         "shape": "normal",
-        "set": "JPK"
+        "set": "JPK",
+        "position": ""
     },
     {
         "card_name": "Rapid Adaptation",
         "number": 7,
         "shape": "normal",
-        "set": "JPK"
+        "set": "JPK",
+        "position": ""
     },
     {
         "card_name": "Rowdy Runt",
         "number": 8,
         "shape": "normal",
-        "set": "JPK"
+        "set": "JPK",
+        "position": ""
     },
     {
         "card_name": "Seafloor Scrounger",
         "number": 9,
         "shape": "normal",
-        "set": "JPK"
+        "set": "JPK",
+        "position": ""
     },
     {
         "card_name": "Swoop Down",
         "number": 11,
         "shape": "normal",
-        "set": "JPK"
+        "set": "JPK",
+        "position": ""
     },
     {
         "card_name": "Titanic Tallneck",
         "number": 12,
         "shape": "normal",
-        "set": "JPK"
+        "set": "JPK",
+        "position": ""
     },
     {
         "card_name": "Thriving Grove",
         "number": 14,
         "shape": "normal",
-        "set": "JPK"
+        "set": "JPK",
+        "position": ""
     },
     {
         "card_name": "Forest",
         "number": 15,
         "shape": "normal",
-        "set": "JPK"
+        "set": "JPK",
+        "position": ""
     },
     {
         "card_name": "er"
@@ -106,13 +121,15 @@
         "card_name": "Dinosaur",
         "number": 1,
         "shape": "token",
-        "set": "JPK"
+        "set": "JPK",
+        "position": ""
     },
     {
         "card_name": "Nautilus",
         "number": 2,
         "shape": "token",
-        "set": "JPK"
+        "set": "JPK",
+        "position": ""
     },
     {
         "card_name": "e"

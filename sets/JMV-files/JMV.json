@@ -365,7 +365,7 @@
             "loyalty": "",
             "artist": "M. Bagley, A. Hennessy, D. S\u00e1nchez-Almara",
             "alias": "",
-            "notes": "!sort symbiotes\n\nhttps://marvel.fandom.com/wiki/Carnage_(Symbiote)_(Earth-616)/Gallery?file=Absolute_Carnage_Vol_1_1_Fourth_Printing_Variant_Textless.jpg#Cover_Art\n\n!group symbiotes\n!sort 03"
+            "notes": "https://marvel.fandom.com/wiki/Carnage_(Symbiote)_(Earth-616)/Gallery?file=Absolute_Carnage_Vol_1_1_Fourth_Printing_Variant_Textless.jpg#Cover_Art\n\n!group symbiotes\n!sort 03"
         },
         {
             "card_name": "Scream",
@@ -384,7 +384,7 @@
             "loyalty": "",
             "artist": "Pandart Studio",
             "alias": "",
-            "notes": "!sort symbiotes\n\nhttps://marvel.fandom.com/wiki/Patricia_Robertson_(Earth-616)?file=Absolute_Carnage_Scream_Vol_1_1_Textless.jpg\n\nhttps://marvel.fandom.com/wiki/Venom_Vol_1_4\n\n!group symbiotes\n!sort 02"
+            "notes": "https://marvel.fandom.com/wiki/Patricia_Robertson_(Earth-616)?file=Absolute_Carnage_Scream_Vol_1_1_Textless.jpg\n\nhttps://marvel.fandom.com/wiki/Venom_Vol_1_4\n\n!group symbiotes\n!sort 02"
         },
         {
             "card_name": "Curiosity",
@@ -691,5 +691,5 @@
             "notes": "https://marvel.fandom.com/wiki/Frances_Barrison_(Earth-616)?file=Absolute_Carnage_Vol_1_2_Cult_of_Carnage_Variant_Textless.jpg\n\n!group symbiotes\n!sort 06"
         }
     ],
-    "version": 2
+    "version": 3
 }

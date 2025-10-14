@@ -1,4 +1,14 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Carnage
+
+Scream
+
+
+VERSION 2 CHANGELOG
 ====================
 
 No changes.
