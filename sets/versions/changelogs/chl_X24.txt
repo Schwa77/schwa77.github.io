@@ -1,4 +1,105 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Humble Harvester
+
+Stash Away
+
+Waterfront Lurkers
+
+Eve, the Haunt's Heart
+rules_text:  => [+2]: Up to one target creature gets +2/+0 and gains deathtouch until end of turn.
+[-1]: Create a 1/1 black Zombie Cat creature token with “When this creature dies, target opponent discards a card at random.”
+[-6]: You get an emblem with “At the beginning of your end step, sacrifice a non-Demon creature. If you do, create a 4/4 black Demon creature token with menace.”
+
+Fatal Flaw
+
+Gloomwing Occultist
+
+Rotcycle Myconid
+
+Smoke Seer
+
+Herald of the Stampede
+
+Lurholme Flamedancer
+pt: 2/2 => 2/3
+
+Trial by Fire
+
+Ulderwild Alpha
+
+Ulderwild Packmate
+
+Jack's Last Laugh
+
+Timeworn Woodsman
+
+Tinea's Doomsinger
+
+Wandering Balladeer
+
+Convergence Mirror
+
+Skittering Slicer
+
+Revenant Lantern
+
+Mouse
+
+Zombie Cat
+
+Treefolk
+
+Food
+
+Adler of the Thirteenth Hour
+
+Mind's Unraveling
+
+Herald of the Heavens
+
+Wonder Why
+
+Murktown Angler
+
+Treetop Cover
+
+Crooked Fieldwatcher
+rules_text: Vigilance
+Other Scarecrows you control get +1/+1 and have vigilance.
+Whenever another creature you control dies, create a token that's a copy of it, except it's a 1/1 Scarecrow artifact creature in addition to its other types. => Vigilance
+Other Scarecrows you control get +1/+1 and have vigilance.
+Whenever another nontoken creature you control dies, create a token that's a copy of it, except it's a 1/1 Scarecrow artifact creature in addition to its other types.
+
+Leviathan
+
+Blighted Stocktender
+
+Demon
+
+Bird
+
+Elemental
+
+Copy
+
+Seek What Was Lost
+
+Tarnahm Redeemer
+
+Prowling Mastiff
+
+Dog
+
+Ox Spirit
+
+Earthshaker Colossus
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
