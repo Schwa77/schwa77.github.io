@@ -1,7 +1,7 @@
 ﻿{
     "name": "Schwambled Egg\u2019s Comic Book Productions",
     "formats": "",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "none",
     "unpreviewed": "card back",
@@ -2020,6 +2020,5 @@
             "alias": "",
             "notes": "https://www.artstation.com/artwork/3EwOWD"
         }
-    ],
-    "version": 1
+    ]
 }
