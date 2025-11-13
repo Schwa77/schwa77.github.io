@@ -1,4 +1,1412 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Kree Homeworld added.
+S.H.I.E.L.D. Headquarters added.
+S.H.I.E.L.D. Deployment added.
+S.H.I.E.L.D. Insight added.
+M.O.D.O.K. added.
+Sentinel Legion added.
+Doctor Voodoo added.
+Flame On! added.
+H.E.R.B.I.E. added.
+Ms. Marvel added.
+Lock Up added.
+S.H.I.E.L.D. Helicarrier added.
+Angela added.
+Armor added.
+Cosmo the Spacedog added.
+Portal Hopper added.
+White Tiger added.
+Maker's Machinations added.
+Moon Girl added.
+Spider-Man 2099 added.
+Hit-Monkey added.
+The Hood added.
+Mister Negative added.
+Skrull's Subterfuge added.
+Swarm added.
+Arnim Zola added.
+Fin Fang Foom added.
+Spider-Punk added.
+Academy Training added.
+High Evolutionary added.
+Ka-Zar added.
+Multiple Man added.
+Shuri added.
+Jocasta added.
+Daken added.
+Royal Flush added.
+Giganto added.
+
+Hala removed.
+SHIELD Headquarters removed.
+SHIELD Deployment removed.
+SHIELD Insight removed.
+MODOK removed.
+Master Mold removed.
+Flame On removed.
+HERBIE removed.
+Ms Marvel removed.
+SHIELD Helicarrier removed.
+War Machine removed.
+Alien (Approach of the Devourer) removed.
+Alien (Galactus, Devourer of Worlds) removed.
+Copy removed.
+Angel removed.
+Bird (Falcon) removed.
+Cleric removed.
+Egg removed.
+God removed.
+Soldier removed.
+Alien Soldier removed.
+Artificer removed.
+Illusion removed.
+Kraken removed.
+Lockheed removed.
+Wizard removed.
+Alien Dragon removed.
+Giant Horror removed.
+Mole Gremlin removed.
+Shapeshifter removed.
+Vampire removed.
+Devil removed.
+Elemental removed.
+Elemental removed.
+Warrior removed.
+Ape removed.
+Cat removed.
+Elemental removed.
+Giant removed.
+Insect removed.
+Plant removed.
+Sand removed.
+Squirrel removed.
+Treefolk removed.
+Bard removed.
+Spider removed.
+Blood removed.
+Bomb removed.
+Bullet removed.
+Clue removed.
+Ebony Blade removed.
+First Strike Gadget removed.
+Haste Gadget removed.
+Invention removed.
+Menace Gadget removed.
+Robot removed.
+SPDR removed.
+Tentacle removed.
+Treasure removed.
+Far-Off Lands removed.
+Human (An Incredible Transformation) removed.
+
+Alfheim
+
+Armor Workshop
+
+Asgard
+
+Asteroid M
+
+Atlantis
+
+Attilan
+
+Avengers Mansion
+
+Baxter Building
+
+Bifrost
+
+Blue Area of the Moon
+
+Collector's Museum
+
+The Daily Bugle
+
+Danger Room
+
+Dark Dimension
+
+Earth-616
+
+Essex Laboratory
+rules_text: Essex Laboratory enters tapped.
+{T}: Add {U} or {B}.
+{3}{UB}: Until end of turn, Essex Laboratory becomes a 3/2 Mutant creature with “Whenever this creature attacks, surveil 1.” It's still a land. Activate only once each turn. [i](To surveil 1, look at the top card of your library. You may put that card into your graveyard.)[/i] => Essex Laboratory enters tapped.
+{T}: Add {U} or {B}.
+{3}{UB}: Until end of turn, Essex Laboratory becomes a 3/2 Mutant creature with “Whenever this creature attacks, look at the top card of your library. You may put it into your graveyard.” It's still a land. Activate only once each turn.
+
+Friendly Neighborhood
+
+Genosha
+
+Hell's Kitchen
+
+HYDRA Stronghold
+
+Jotunheim
+
+Kamar-Taj
+
+Klyntar Homeworld
+
+Knowhere
+
+Krakoa
+
+K'un-Lun
+
+Latveria
+
+Limbo
+
+Madripoor
+
+Midgard
+
+Muir Island
+
+Muspelheim
+
+Negative Zone
+
+Nexus of All Realities
+rules_text: {T}: Add {C}.
+{1}, {T}, Sacrifice Nexus of All Realities: Search your library for a land card with a basic land type that doesn't share a land type with a land you control, put it onto the battlefield, then shuffle. => {T}: Add {C}.
+{1}, {T}, Sacrifice Nexus of All Realities: Search your library for a land card that doesn't share a land type with a land you control, put it onto the battlefield, then shuffle.
+
+Nidavellir
+
+Niffleheim
+
+Oscorp Industries
+
+The Raft
+
+Ravencroft Institute
+
+Roxxon Energy Corporation
+
+Sakaaran Arena
+
+Sanctum Sanctorum
+
+Savage Land
+
+Stark Tower
+
+Subterranea
+
+Svartalfheim
+
+Symkaria
+
+Utopia
+
+Valhalla
+
+Vanaheim
+
+Wakanda
+
+Weapon X Facility
+
+Xavier's School for Gifted Youngsters
+
+Yancy Street
+
+Invisible Woman
+
+Black Knight
+
+Falcon
+
+Moon Knight
+
+Shang-Chi
+
+Magik
+rules_text: Flash
+Ward—Exile a creature you control. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player exiles a creature they control.)[/i]
+When Magik enters, exile up to one target attacking or blocking creature until Magik leaves the battlefield. => Flash
+Whenever Magik becomes the target of a spell or ability an opponent controls, counter it unless that player exiles a creature they control.
+When Magik enters, exile up to one target attacking or blocking creature until Magik leaves the battlefield.
+
+Valkyrie
+rules_text: Flying
+Whenever Valkyrie attacks, you may put a creature card with mana value 2 or less from your hand or graveyard to the battlefield tapped and attacking. => Flying
+Whenever Valkyrie attacks, you may put a creature card with mana value 2 or less from your hand or your graveyard to the battlefield tapped and attacking.
+pt: 2/2 => 3/2
+
+Havok
+
+Iron Fist
+rules_text: Prowess
+When Iron Fist enters, search your library for an enchantment card, reveal it, put it into your hand, then shuffle. If that card has mana value 3 or less, create a token that's a copy of it. => Prowess
+When Iron Fist enters, search your library for an enchantment card, reveal it, put it into your hand, then shuffle. If that enchantment has mana value 3 or less, create a token that's a copy of it.
+
+Banish to Limbo
+rules_text: When Banish to Limbo enters, untap all creatures, then those creatures phase out until Banish to Limbo leaves the battlefield. [i](Treat them and anything attached to them as though they don't exist.)[/i] => When Banish to Limbo enters, phase out all creatures until Banish to Limbo leaves the battlefield. [i](Treat them and anything attached to them as though they don't exist.)[/i]
+
+Founding of the Four
+rules_text:  => [i]“As long as you're with friends, there's no limit to the adventure out there.”
+—Mister Fantastic[/i]
+Create two 1/1 white Human creature tokens.
+Put a +1/+1 counter on each creature token you control. Those creatures gain vigilance until end of turn.
+​
+special_text: [i]“As long as you're with friends, there's no limit to the adventure out there.”
+—Mister Fantastic[/i]
+Create two 1/1 white Soldier creature tokens.
+Put a +1/+1 counter on each creature token you control. Those creatures gain vigilance until end of turn. => [i]“As long as you're with friends, there's no limit to the adventure out there.”
+—Mister Fantastic[/i]
+Create two 1/1 white Human creature tokens.
+Put a +1/+1 counter on each creature token you control. Those creatures gain vigilance until end of turn.
+​
+
+A Living Legend Rises
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 white Soldier creature token and an Invention token. [i](It's an artifact with “{1}, Sacrifice this artifact: Scry 1.”)[/i]
+II — Put X +1/+1 counters on target creature, where X is the number of tokens you control.
+III — Until end of turn, target creature you control gains vigilance, lifelink, and protection from creatures.
+special_text: [i]“A single man who has the right heart and the right mind, that one man can win a war.”
+—Captain America[/i]
+Create a 1/1 white Soldier creature token and an Invention token. [i](It's an artifact with “{1}, Sacrifice this artifact: Scry 1.”)[/i]
+Put X +1/+1 counters on target creature, where X is the number of tokens you control.
+Until end of turn, target creature you control gains vigilance, lifelink, and protection from creatures. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 white Soldier creature token and an Invention token. [i](It's an artifact with “{1}, Sacrifice this artifact: Scry 1.”)[/i]
+II — Put X +1/+1 counters on target creature, where X is the number of tokens you control.
+III — Until end of turn, target creature you control gains vigilance, lifelink, and protection from creatures.
+
+Anti-Venom
+
+Captain America
+
+Fist of Khonshu
+rules_text: When Fist of Khonshu enters, create a 1/1 white Cleric creature token with lifelink.
+At the beginning of combat on your turn, if you control three or more creatures, Fist of Khonshu becomes a 3/3 God creature with indestructible in addition to its other types until end of turn. => When Fist of Khonshu enters, create a 1/1 white Cleric creature token with lifelink.
+At the beginning of combat on your turn, if you control three or more creatures, Fist of Khonshu becomes a 3/3 God creature with indestructible until end of turn.
+
+Heimdall, the All-Seeing
+rules_text: Vigilance
+You may look at the top card of your library any time.
+You may cast creature spells with mana value less than or equal to the number of creatures you control from the top of your library. => Vigilance
+You may look at the top card of your library at any time.
+You may cast creature spells from the top of your library if they have mana value less than or equal to the number of creatures you control.
+
+Khonshu, God of the Moon
+rules_text:  => [+1]: Up to one target creature you control gets +2/+2 and gains indestructible until end of turn.
+[-2]: Create two 1/1 white Cleric creature tokens with lifelink.
+[-6]: You get an emblem with “At the beginning of your upkeep, you may return any number of target creature cards with total mana value 4 or less from your graveyard to the battlefield.”
+
+Peni Parker
+rules_text: When Peni Parker enters, create SP//dr, a legendary 2/2 colorless Vehicle artifact token with crew 1. [i](It has “Tap any number of creatures you control with total power 1 or greater: This Vehicle becomes an artifact creature until end of turn.”)[/i] => When Peni Parker enters, create SP//dr, a legendary 2/2 colorless Vehicle artifact token with crew 1. [i](It has “Tap any number of creatures you control with total power 1 or greater: This becomes an artifact creature until end of turn.”)[/i]
+
+Adam Warlock
+rules_text:  => When Adam Warlock dies, create a 0/1 white Egg creature token with “At the beginning of your upkeep, sacrifice this creature and return target card named Adam Warlock from your graveyard to the battlefield.”
+[0]: Until end of turn, Adam Warlock becomes a 4/4 white Avatar creature with flying. Remove a loyalty counter from him.
+[-2]: Exile another target nonland permanent until Adam Warlock leaves the battlefield.
+[-3]: Put a +1/+1 counter on each creature you control.
+special_text: When Adam Warlock dies, create a 0/1 white Egg creature token with “At the beginning of your upkeep, sacrifice this creature. When you do, return target Adam planeswalker from your graveyard to the battlefield.”
+[0]: Until end of turn, Adam Warlock becomes a 4/4 white Avatar creature with flying. Remove a loyalty counter from him.
+[-2]: Exile another target nonland permanent until Adam Warlock leaves the battlefield.
+[-3]: Put a +1/+1 counter on each creature you control. => When Adam Warlock dies, create a 0/1 white Egg creature token with “At the beginning of your upkeep, sacrifice this creature and return target card named Adam Warlock from your graveyard to the battlefield.”
+[0]: Until end of turn, Adam Warlock becomes a 4/4 white Avatar creature with flying. Remove a loyalty counter from him.
+[-2]: Exile another target nonland permanent until Adam Warlock leaves the battlefield.
+[-3]: Put a +1/+1 counter on each creature you control.
+
+Astral Projection
+
+Blind Justice
+
+Fractured Multiverse
+rules_text: Exile target creature. You may return it to the battlefield under its owner's control. If you don't, that player creates a tapped Far-Off Lands token. [i](It's a land with “{T}: Add one mana of any color.”)[/i] => Exile target creature. You may return it to the battlefield under its owners control. If you don't, that player creates a tapped Far-Off Lands token. [i](It's a land with “{T}: Add one mana of any color.”)[/i]
+
+Suit Up
+rules_text: Search your library for an artifact or enchantment card with mana value X or less, put it onto the battlefield, then shuffle. When you put an Equipment onto the battlefield this way, you may attach it to target creature. => Search your library for an artifact or enchantment card with mana value X or less, put it onto the battlefield, then shuffle. When you put an Equipment on to the battlefield this way, you may attach it to target creature.
+
+Vibranium Shield
+
+Hank McCoy
+rules_text: {U}, {T}: Draw a card, then discard a card. Then if there are four or more card types among cards in your graveyard, untap Hank McCoy and transform him. => {U}, {T}: Draw a card, then discard a card. Then, if there are four or more card types among cards in your graveyard, untap Hank McCoy and transform him.
+
+Wiccan
+rules_text: Flying
+Whenever Wiccan attacks, you may cast target instant or sorcery card from your graveyard. If that spell would be put into your graveyard this turn, exile it instead. [i](You still pay its costs.)[/i] => Flying
+Whenever Wiccan attacks, you may cast target instant or sorcery card from your graveyard. If that card would be put into your graveyard from anywhere this turn, exile it instead. [i](You still pay its costs.)[/i]
+
+Lockjaw
+
+Jessica Jones
+rules_text: Whenever Jessica Jones attacks, create a Clue token. [i](It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+Whenever you sacrifice an artifact, scry 1. [i](If this ability triggers when you sacrifice a Clue, scry before you draw.)[/i] => Menace
+Whenever Jessica Jones attacks, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+Whenever you sacrifice an artifact, scry 1. [i](If this ability triggers when you sacrifice a Clue, scry before you draw.)[/i]
+
+Mystique
+rules_text: You may have Mystique enter as a copy of target creature, except she's 2/2, her name is Mystique, and she has her other abilities.
+{3}{U}: Mystique becomes a copy of target creature, except she's 2/3, her name is Mystique, and she has this ability. Activate only outside of combat. => You may have Mystique enter as a copy of target creature, except she's 2/3, her name is Mystique, and she has her other abilities.
+{3}{U}: Mystique becomes a copy of target creature, except she's 2/3, her name is Mystique, and she has this ability. Activate only as a sorcery.
+pt: 2/2 => 2/3
+
+Shadowcat
+rules_text: When Shadowcat enters, create Lockheed, a legendary 1/1 blue Drake creature token with flying.
+Shadowcat can't be blocked.
+Whenever a creature you control deals combat damage to a player or planeswalker, you may draw a card. If you do, discard a card. => When Shadowcat enters, create Lockheed, a legendary 1/1 blue Drake creature token with flying.
+Shadowcat can't be blocked.
+Whenever a creature you control deals combat damage to a player, you may draw a card. If you do, discard a card.
+pt: 2/1 => 2/2
+
+Tinkerer
+rules_text: When Tinkerer enters, search your library for an artifact card, reveal it, put it into your hand, then shuffle. 
+Sacrifice three artifacts: You may cast an artifact spell from your hand without paying its mana cost. => When Tinkerer enters, search your library for an artifact card and put it into your hand, then shuffle. 
+Sacrifice three artifacts: You may cast an artifact spell from your hand without paying its mana cost.
+
+Loki, God of Mischief
+
+Mysterio
+
+Chameleon
+
+Vision
+rules_text: Flash
+Flying
+Whenever you cast a spell, you may have target creature phase out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i] => Flash
+Flying
+Whenever you cast a spell, you may phase out target creature. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]
+
+Namor
+
+Wasp
+rules_text: Flash
+Flying
+When Wasp enters, you may return another spell or nonland permanent with mana value 1 or less to its owner's hand. => Flash
+Flying
+When Wasp enters, you may return another target spell or nonland permanent with mana value 1 or less to its owner's hand.
+
+Ocksperimentation
+rules_text: Return target nonland permanent to its owner's hand. Create two Invention tokens. [i](They're artifacts with “{1}, Sacrifice this artifact: Scry 1.”)[/i] => Return target nonland permanent to its owner's hand.
+Create two Invention tokens. [i](They're artifacts with “{1}, Sacrifice this artifact: Scry 1.”)[/i]
+
+Think
+
+Absolute Zero
+
+Imperius Rex
+
+Two Steps Ahead
+
+Cerebro
+rules_text: At the beginning of your end step, you may pay {X}. If you do, look at the top X cards of your library. Put up to one of them into your hand and the rest on the bottom of your library in any order. => At the beginning of your end step, you may pay {X}. If you do, look at the top X cards of your library. Put up to one of them in your hand and the rest on the bottom in any order.
+
+Change the Future
+rules_text: You may shuffle any number of target cards from your graveyard into your library. 
+You may discard any number of cards. Draw a card, then draw a card for each card discarded this way. => You may shuffle any number of cards from your graveyard into your library. 
+You may discard any number of cards. Draw a card, then draw a card for each card discarded this way.
+
+Days of Future Past
+rules_text:  => [i]“We fought. We lost. We died. And now, seeing you all alive, I didn't think it would hurt so much.”
+—Kate Pryde[/i]
+Mill five cards.
+Return up to one target instant or sorcery card from your graveyard to your hand, then shuffle your graveyard into your library.
+Exile Days of Future Past. When you do, take an extra turn after this one.
+
+Mystic Arts
+
+The Ancient One
+rules_text:  => [+1]: Draw a card, then discard a card.
+[-2]: Until end of turn, whenever you cast a noncreature spell, create a 1/1 blue Wizard creature token with prowess.
+[-6]: You get an emblem with “Whenever you cast a noncreature spell, you may draw a card.” and “If you would draw a card while your library has no cards in it, you win the game instead.”
+special_text: [+1]: Draw a card, then discard a card.
+[-2]: Until end of turn, whenever you cast a noncreature spell, create a 1/1 blue Wizard creature token with prowess.
+[-6]: You get an emblem with “Whenever you cast a noncreature spell, draw a card” and “If you would draw a card while your library has no cards in it, you win the game instead.” => [+1]: Draw a card, then discard a card.
+[-2]: Until end of turn, whenever you cast a noncreature spell, create a 1/1 blue Wizard creature token with prowess.
+[-6]: You get an emblem with “Whenever you cast a noncreature spell, you may draw a card.” and “If you would draw a card while your library has no cards in it, you win the game instead.”
+
+Variant Edition
+
+Vigorous Research
+
+Kang the Conqueror
+rules_text:  => At the beginning of your upkeep, you may put a card exiled with Kang into its owner's hand.
+[+1]: Draw two cards, then exile two cards from your hand.
+[-2]: Exile another target nonland permanent with two time counters on it. It gains suspend.
+[-6]: Search your library for any number of noncreature, nonland cards, and exile them. Then put up to three cards exiled with Kang into their owner's hands.
+special_text: At the beginning of your upkeep, you may put a card exiled with Kang into its owner's hand.
+[+1]: Draw two cards, then exile two cards from your hand.
+[-2]: Exile another target nonland permanent with two time counters on it. It gains suspend.
+[-6]: Search your library for any number of noncreature, nonland cards and exile them. Then put up to three cards exiled with Kang into their owners' hands. => At the beginning of your upkeep, you may put a card exiled with Kang into its owner's hand.
+[+1]: Draw two cards, then exile two cards from your hand.
+[-2]: Exile another target nonland permanent with two time counters on it. It gains suspend.
+[-6]: Search your library for any number of noncreature, nonland cards, and exile them. Then put up to three cards exiled with Kang into their owner's hands.
+
+Secret Invasion
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Manifest a card from your hand. [i](To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+Until end of turn, creatures you control with power 2 or less can't be blocked. Whenever a creature you control deals combat damage to a player this turn, draw a card.
+​
+special_text: [i]“Who do you trust?”[/i]
+Manifest a card
+from your hand. [i](Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+Until end of turn, creatures you control with power 2 or less can't be blocked. Whenever a creature you control deals combat damage to a player this turn, draw a card. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Manifest a card from your hand. [i](To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+Until end of turn, creatures you control with power 2 or less can't be blocked. Whenever a creature you control deals combat damage to a player this turn, draw a card.
+​
+
+Might of Seven Seas
+
+Maniacal Meddling
+
+Rescue Armor
+
+Supreme Intelligence
+rules_text:  => [+2]: Create a 2/2 blue Alien Soldier creature token with flying.
+[-X]: Gain control of target nonland permanent with mana value X or less. Tap it.
+[-9]: You get an emblem with “At the beginning of your end step, if you have fewer than seven cards in your hand, you may draw a number of cards equal to the difference.”
+special_text: [+2]: Create a 2/2 blue Alien Soldier creature token with flying.
+[-X]: Gain control of target nonland permanent with mana value X or less. Tap it.
+[-9]: You get an emblem with “At the beginning of your end step, if you have fewer than seven cards in hand, you may draw a number of cards equal to the difference.” => [+2]: Create a 2/2 blue Alien Soldier creature token with flying.
+[-X]: Gain control of target nonland permanent with mana value X or less. Tap it.
+[-9]: You get an emblem with “At the beginning of your end step, if you have fewer than seven cards in your hand, you may draw a number of cards equal to the difference.”
+
+Scorn
+rules_text: Whenever Scorn deals combat damage to a player or planeswalker, you may draw that many cards. If you do, discard that many cards.
+Symbiosis {2}{U} [i](Pay {2}{U} as a sorcery to transform this and attach it to target creature.)[/i] => Menace
+Whenever Scorn deals combat damage to a player or planeswalker, draw that many cards, then discard that many cards.
+Symbiosis {2}{U} [i](Pay {2}{U} as a sorcery to transform this and attach it to target creature.)[/i]
+
+Elektra
+
+Johnny Blaze
+rules_text: When Johnny Blaze dies, each opponent loses 1 life.
+At the beginning of your end step, if an opponent lost 3 or more life this turn, return Johnny Blaze from your graveyard
+ to the battlefield transformed. => When Johnny Blaze dies, each opponent loses 1 life.
+At the beginning of your end step, if an opponent lost 3 or more life this turn, return Johnny Blaze from your graveyard to the battlefield transformed.
+
+Black Cat
+
+Gamora
+
+Vulture
+
+Morbius
+
+Bullseye
+
+Norman Osborn
+rules_text: Sacrifice another creature: Each opponent loses 1 life.
+At the beginning of each end step, if two or more creatures died this turn, transform Norman Osborn. => Sacrifice another creature: Each opponent loses 1 life. Activate only as a sorcery.
+At the beginning of each end step, if two or more creatures died this turn, transform Norman Osborn.
+
+Kingpin
+rules_text: At the beginning of your end step, if a creature you controlled died this turn, each opponent discards a card and you draw a card.
+{1}, Sacrifice a creature: Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => At the beginning of your end step, if a creature you controlled died this turn, each opponent discards a card and you draw a card.
+{1}, Sacrifice a creature: Look at the top card of your library. You may put it into your graveyard.
+
+Doctor Doom
+
+Man-Thing
+
+Omega Red
+
+Hela, Goddess of Death
+rules_text: When Hela enters, you may search each player's library for a creature card and put those cards into their owners' graveyards. Then each player shuffles.
+{2}{B}{B}: Exile target creature card from a graveyard. Create a token that's a copy of it, except it's a 4/4 black Zombie. => When Hela enters, you may search each player's library for a creature card and put those cards into their owner's graveyards. Then each player shuffles.
+{2}{B}{B}: Exile target creature card from a graveyard. Create a token that's a copy of it, except it's a 4/4 black Zombie with no mana cost.
+
+Hobgoblin
+
+Mephisto
+rules_text:  => [+2]: Create two 1/1 red Devil creature tokens with “When this creature dies, it deals 1 damage to any target.”
+[-3]: Target player draws three cards and loses 3 life.
+[-9]: You get an emblem with “If you would draw a card, instead search your library for a card, put it into your hand, then shuffle.”
+
+Media Persecution
+
+Deal with the Devil
+
+Hunt to Extinction
+
+The Hunger Spreads
+rules_text:  => [i]“Kill or be killed is the new rule, and it is the only rule that matters.”
+—Magneto[/i]
+All creatures get -X/-X until end of turn.
+You may exile a creature card with mana value less than or equal to the number of lore counters on The Hunger Spreads from your graveyard. If you do, create a token that's a copy of that creature, except it's a 4/4 black Zombie in addition to its other types and has no mana cost.
+​
+special_text: [i]“Kill or be killed is the new rule, and it is the only rule that matters.”
+—Magneto[/i]
+All creatures get -X/-X until end of turn.
+You may exile a creature card with mana value less than or equal to the number of lore counters on The Hunger Spreads from your graveyard. If you do, create a token that's a copy of that creature, except it's a 4/4 black Zombie in addition to its other types. => [i]“Kill or be killed is the new rule, and it is the only rule that matters.”
+—Magneto[/i]
+All creatures get -X/-X until end of turn.
+You may exile a creature card with mana value less than or equal to the number of lore counters on The Hunger Spreads from your graveyard. If you do, create a token that's a copy of that creature, except it's a 4/4 black Zombie in addition to its other types and has no mana cost.
+​
+
+Bargain in Blood
+rules_text: Look at the top three cards of your library. You may put any number of them into your hand. You lose that much life. Put the rest into your graveyard. => Look at the top three cards of your library. You may put any number of them into your hand. Put the rest of the cards into your graveyard. You lose 1 life for each card put into your hand this way.
+
+Criminal Empire
+rules_text: Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.
+{2}, Sacrifice a creature: Target creature gets -2/-2 until end of turn. Activate only outside of combat. => Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.
+{2}, Sacrifice a creature: Target creature gets -2/-2 until end of turn. Activate only as a sorcery.
+
+Summon the Horsemen
+
+Cannonball
+
+Electro
+
+Shocker
+rules_text: Whenever a source you control deals noncombat damage to one or more permanents and/or players, put a +1/+1 counter on Shocker [i](If that source deals noncombat damage to multiple creatures, planeswalkers, or players at once, this ability only triggers once.)[/i] => Whenever a source you control deals noncombat damage, put a +1/+1 counter on Shocker. [i](If that source deals noncombat damage to multiple creatures, planeswalkers, or players at once, this ability only triggers once.)[/i]
+
+Bucky Barnes
+
+Jubilee
+
+Rocket Raccoon
+
+Deadpool
+
+General Ross
+
+Human Torch
+
+Star-Lord
+
+Storm
+
+Captain Marvel
+
+Drax the Destroyer
+rules_text: Trample
+Whenever another creature you control enters, Drax deals damage equal to that creature's power to up to one target creature or planeswalker. Excess damage is dealt to that permanent's controller instead. => Trample
+Whenever another creature you control enters, Drax deals damage equal to that creature's power to up to one target creature or planeswalker. Excess damage is dealt to that permanent's controller.
+
+Maximus the Mad
+
+Berserker Rage
+
+Hellfire Chains
+
+Optic Blast
+
+A Day Unlike Any Other
+
+Mjolnir
+
+Age of Ultron
+rules_text:  => [i]“Submit or perish.”
+—Ultron[/i]
+I — Create two 0/0 colorless Robot artifact creature tokens with “This creature gets +1/+1 for each artifact you control.”
+II — Age of Ultron deals damage to each opponent equal to the number of artifacts you control.
+III — Artifact creatures you control get +2/+2 and gain trample until end of turn.
+special_text: [i]“Submit or perish.”
+—Ultron[/i]
+Create two 0/0 colorless Robot artifact creature tokens with “This creature gets +1/+1 for each artifact you control.”
+Age of Ultron deals damage to each opponent equal to the number of artifacts you control.
+Artifact creatures you control get +2/+2 and gain trample until end of turn. => [i]“Submit or perish.”
+—Ultron[/i]
+I — Create two 0/0 colorless Robot artifact creature tokens with “This creature gets +1/+1 for each artifact you control.”
+II — Age of Ultron deals damage to each opponent equal to the number of artifacts you control.
+III — Artifact creatures you control get +2/+2 and gain trample until end of turn.
+
+Cyttorak
+rules_text:  => As Cyttorak enters, you get an emblem with “During any turn you attacked, you may cast spells exiled with Cyttorak.”
+[+1]: Exile the top card of your library.
+[-3]: You may put a creature card from your hand onto the battlefield. It gains haste. Exile it at the beginning of the next end step.
+special_text: As Cyttorak enters, you get an emblem with “During any turn you attacked, you may cast spells from among cards exiled with Cyttorak.”
+[+1]: Exile the top card of your library.
+[-3]: You may put a creature card from your hand onto the battlefield. It gains haste. Exile it at the beginning of the next end step. => As Cyttorak enters, you get an emblem with “During any turn you attacked, you may cast spells exiled with Cyttorak.”
+[+1]: Exile the top card of your library.
+[-3]: You may put a creature card from your hand onto the battlefield. It gains haste. Exile it at the beginning of the next end step.
+
+Fatal Attractions
+
+Phoenix Force
+rules_text:  => [+2]: You may discard your hand. If you do, draw three cards.
+[-3]: Return target creature card from your graveyard to the battlefield. It gains haste. Sacrifice it at the beginning of your next upkeep.
+[-9]: You get an emblem with “Whenever a creature you control dies, exile it with an ash counter. At the beginning of your next upkeep, return it to the battlefield. It gains haste.”
+
+Hell Cycle
+rules_text: Menace, haste
+When Hell Cycle enters, it becomes an artifact creature until end of turn.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Haste, menace
+When Hell Cycle enters, it becomes an artifact creature until end of turn.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Hulkbuster Armor
+
+Crystal
+rules_text: {T}: Add one mana of any color.
+{4}{G}{G}: Create a 4/4 green Elemental creature token. Activate only outside of combat. => {T}: Add one mana of any color.
+{4}{G}{G}: Create a 4/4 green Elemental creature token. Activate only as a sorcery.
+
+Absorbing Man
+
+Lizard
+rules_text: Whenever Lizard enters or attacks, you may exile target card from a graveyard. If you do, Lizard gains indestructible until end of turn. Then if you exiled a creature card this way, put a +1/+1 counter on Lizard. => Whenever Lizard enters or attacks, you may exile target card from a graveyard. If you do, Lizard gains indestructible until end of turn. Then, if you exiled a creature card this way, put a +1/+1 counter on Lizard.
+
+Sandman
+
+Squirrel Girl
+
+Tigra
+
+Hawkeye
+
+Rogue
+
+Sabretooth
+
+Gorilla-Man
+
+Groot
+
+Luke Cage
+
+Abomination
+
+Colossus
+
+Kraven the Hunter
+
+Thing
+
+Snowbird
+
+Scorpion
+
+Seismic Shifting
+
+Toxin
+
+Red Ghost
+
+Rhino
+
+Ego the Living Planet
+rules_text:  => Whenever you activate a loyalty ability of Ego, lands you control become 2/2 creatures with haste until end of turn. They're still lands.
+[+2]: Untap up to two target permanents.
+[-4]: Search your library for a permanent card with mana value X or less, where X is the number of lands you control. Put it onto the battlefield, then shuffle.
+[-9]: Until end of turn, creatures you control get +5/+5 and gain trample and indestructible. Untap them.
+special_text: Whenever you activate a loyalty ability of Ego, you may have lands you control become 2/2 creatures with haste and indestructible until end of turn. They're still lands.
+[+2]: Untap up to two target permanents.
+[-4]: Search your library for a permanent card with mana value X or less, where X is the number of lands you control. Put it onto the battlefield, then shuffle.
+[-9]: Until end of turn, creatures you control get +3/+3 and gain trample and indestructible. Untap them. => Whenever you activate a loyalty ability of Ego, lands you control become 2/2 creatures with haste until end of turn. They're still lands.
+[+2]: Untap up to two target permanents.
+[-4]: Search your library for a permanent card with mana value X or less, where X is the number of lands you control. Put it onto the battlefield, then shuffle.
+[-9]: Until end of turn, creatures you control get +5/+5 and gain trample and indestructible. Untap them.
+
+An Incredible Transformation
+rules_text:  => “[i]Is he man or monster...or is he both?”[/i]
+I — Create a 1/1 white Human creature token.
+II — You may sacrifice a creature. If you do, create a 3/2 green Giant creature token with trample.
+III — Target creature you control fights up to one target creature you don't control.
+special_text: “[i]Is he man or monster...or is he both?”[/i]
+Create a 1/1 blue Human creature token.
+You may sacrifice a creature. If you do, create a 3/2 green Giant creature token with trample.
+Target creature you control fights up to one target creature you don't control. => “[i]Is he man or monster...or is he both?”[/i]
+I — Create a 1/1 white Human creature token.
+II — You may sacrifice a creature. If you do, create a 3/2 green Giant creature token with trample.
+III — Target creature you control fights up to one target creature you don't control.
+
+Flowers of Krakoa
+
+Origin Story
+
+Plot Armor
+
+Terrigen Mists
+
+Great Power
+
+Savage Land Expedition
+
+Endless Possibilities
+
+Kraven's Last Hunt
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Mill three cards. When you do, you may return a creature or land card from your graveyard to your hand.
+III — Until end of turn, you may cast creature spells from your graveyard. [i](You still pay their costs. Timing rules still apply.)[/i]
+​
+special_text: [i]“I have found dignity, not in the cities, but in the jungle. I have found meaning in the hunt.”
+—Kraven the Hunter[/i]
+Mill three cards. When you do, you may return a creature or land card from your graveyard to your hand.
+Until end of turn, you may cast creature spells from your graveyard. [i](You still pay their costs. Timing rules still apply.)[/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Mill three cards. When you do, you may return a creature or land card from your graveyard to your hand.
+III — Until end of turn, you may cast creature spells from your graveyard. [i](You still pay their costs. Timing rules still apply.)[/i]
+​
+
+Flora Colossus
+
+Contest of Champions
+rules_text:  => [i]“All of this theater shall witness the greatest contest, of gladiators whose very lives are games.”
+—The Grandmaster[/i]
+I — Look at the top five cards of your library. You may reveal a permanent card from among them and put it onto the battlefield. Put the rest on the bottom in a random order.
+II — Target creature you control deals damage equal to its power to target creature you don't control.
+III — Creatures you control get +X/+X and gain trample until end of turn, where X is the number of creatures you control.
+special_text: [i]“All of this theater shall witness the greatest contest, of gladiators whose very lives are games.”
+—The Grandmaster[/i]
+Look at the top five cards of your library. You may reveal a permanent card from among them and put it onto the battlefield. Put the rest on the bottom in a random order.
+Target creature you control deals damage equal to its power to target creature you don't control.
+Creatures you control get +X/+X and gain trample until end of turn, where X is the number of creatures you control. => [i]“All of this theater shall witness the greatest contest, of gladiators whose very lives are games.”
+—The Grandmaster[/i]
+I — Look at the top five cards of your library. You may reveal a permanent card from among them and put it onto the battlefield. Put the rest on the bottom in a random order.
+II — Target creature you control deals damage equal to its power to target creature you don't control.
+III — Creatures you control get +X/+X and gain trample until end of turn, where X is the number of creatures you control.
+
+Deathlok
+
+Machine Man
+
+Warlock
+
+Black Vortex
+
+Casket of Ancient Winters
+
+Cosmic Cube
+rules_text: When Cosmic Cube enters, draw a card.
+{3}, {T}: Copy target activated ability, triggered ability, or spell you control, except the copy isn't legendary. You may choose new targets for the copy. [i](A copy of a permanent spell becomes a token.)[/i] => When Cosmic Cube enters, draw a card.
+{3}, {T}: Copy target activated ability, triggered ability, or spell you control, except the copy isn't legendary if the spell was legendary. You may choose new targets for the copy. [i](A copy of a permanent spell becomes a token.)[/i]
+
+Crimson Gem of Cyttorak
+
+Darkhold
+
+Eye of Agamotto
+
+Gamma Experiment
+
+Infinity Gems
+
+Iron Man Armor
+
+Jade Tiger Amulet
+
+Muramasa Blade
+rules_text: Equipped creature gets +2/+0 and has deathtouch.
+{1}: Until end of turn, permanents your opponents control lose indestructible and can't have or gain indestructible.
+Equip {2} => Equipped creature gets +2/+0 and has deathtouch.
+{1}: Until end of turn, permanents your opponents control lose indestructible and can't have or gain or indestructible.
+Equip {2}
+
+Soulsword
+
+Staff of One
+
+Super Soldier Serum
+rules_text: {T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{3}, {T}, Sacrifice Super Soldier Serum: Put three +1/+1 counters on target creature you control. Activate only outside of combat. => {T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{3}, {T}, Sacrifice Super Soldier Serum: Put three +1/+1 counters on target creature you control. Activate only as a sorcery.
+
+Adamantium Skeleton
+
+Galactus, Devourer of Worlds
+rules_text:  => [+2]: Create a 2/2 colorless Alien creature token with flying and “Whenever this creature attacks, put a loyalty counter on each planeswalker you control.”
+[-3]: Each opponent exiles up to three cards from their hand. For each card they don't exile this way, they exile a permanent they control.
+[-12]: Exile all but the bottom two cards of target player's library.
+special_text: [+2]: Create a 2/2 colorless Alien creature token with flying and “Whenever this creature attacks, put a loyalty counter on each planeswalker you control.”
+[-3]: Each opponent may exile up to three cards from their hand. For each card less than three a player exiles this way, that player exiles a permanent they control.
+[-12]: Target player searches their library for a card and reveals it. Exile all other cards from their library. [i](The revealed card remains as the final card.)[/i] => [+2]: Create a 2/2 colorless Alien creature token with flying and “Whenever this creature attacks, put a loyalty counter on each planeswalker you control.”
+[-3]: Each opponent exiles up to three cards from their hand. For each card they don't exile this way, they exile a permanent they control.
+[-12]: Exile all but the bottom two cards of target player's library.
+
+Silver Surfer
+
+Uatu the Watcher
+rules_text:  => [+1]: Scry 2.
+[-2]: Exile up to three cards from your hand face down, then draw that many cards. Then look at the exiled cards and put them on top of your library in any order. 
+[-7]: You get an emblem with “At the beginning of your upkeep, you may exile the top card of your library. If you exile a nonland card this way, you may cast it without paying its mana cost.”
+
+Ant-Man
+rules_text: Whenever Ant-Man enters, create a 1/1 green Insect creature token with flying.
+{X}: Until end of turn, target creature you control has base power and toughness X/X and becomes a Giant in addition to its other types. Activate only outside of combat. => Whenever Ant-Man enters, create a 1/1 green Insect creature token with flying.
+{X}{GU}: Until end of turn, target creature you control has base power and toughness X/X and becomes a Giant in addition to its other types. Activate only outside of combat.
+
+Apocalypse
+rules_text:  => [+1]: Look at the top three cards of your library, then put one into your hand and the rest into your graveyard.
+[-2]: Sacrifice a creature. When you do, return target creature card from your graveyard to the battlefield.
+[-7]: Return each card from your graveyard to your hand. You get an emblem with “You have no maximum hand size.”
+
+Avengers Assemble
+rules_text: Choose X, then create a creature token for each of the chosen characteristics.
+• 2/2 white God with vigilance and lifelink.
+• 2/3 blue Artificer with flying and ward {2}.
+• 1/3 black Shapeshifter with deathtouch.
+• 2/1 red Warrior with flying and haste.
+• 3/2 green Giant with trample. => Choose X, then create a creature token for each of the chosen characteristics.
+• 2/2 white God with vigilance and lifelink.
+• 2/3 blue Artificer with flying and ward {2}. [i](Whenever that permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+• 1/3 black Shapeshifter with deathtouch.
+• 2/1 red Warrior with flying and haste.
+• 3/2 green Giant with trample.
+
+Bring to Balance
+rules_text: Each player sacrifices half the creatures they control. Repeat this process for artifacts, enchantments, and planeswalkers. Each player discards half the cards in their hand. Round down each time. => Each player sacrifices half the creatures they control. Repeat this process for artifacts, enchantments, and planeswalkers. Then, each player discards half their hand. Round down each time.
+
+Civil War
+rules_text:  => “[i]This conflict is simply a matter of perspective, and it is not my place to influence the evolution of the superhuman role.”
+—Doctor Strange[/i]
+I — Civil War deals X damage to target creature or planeswalker you don't control, where X is the number of creatures you control.
+II — Creatures you control phase out until Civil War leaves the battlefield.
+III — Whenever a creature you control phases in this turn, untap it. It gets +2/+2 and gains vigilance until end of turn.
+special_text: “[i]This conflict is simply a matter of perspective, and it is not my place to influence the evolution of the superhuman role.”
+—Doctor Strange[/i]
+Civil War deals X damage to target creature or planeswalker you don't control, where X is the number of creatures you control.
+Creatures you control phase out until Civil War leaves the battlefield.
+Whenever a creature you control phases in this turn, untap it. It gets +2/+2 and gains vigilance until end of turn. => “[i]This conflict is simply a matter of perspective, and it is not my place to influence the evolution of the superhuman role.”
+—Doctor Strange[/i]
+I — Civil War deals X damage to target creature or planeswalker you don't control, where X is the number of creatures you control.
+II — Creatures you control phase out until Civil War leaves the battlefield.
+III — Whenever a creature you control phases in this turn, untap it. It gets +2/+2 and gains vigilance until end of turn.
+
+Cloak and Dagger
+rules_text: Whenever Cloak and Dagger attacks, choose one —
+• Each opponent discards a card.
+• Cloak and Dagger deals 2 damage to each opponent and you gain 2 life. => Whenever Cloak and Dagger attacks, choose one —
+• Each opponent discards a card.
+• Cloak and Dagger deal 2 damage to each opponent and you gain 2 life. [i](To cloak a card, put it onto the battlefield face down as a 2/2 creature with ward {2}. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+
+The Collector
+rules_text:  => [+1]: Choose a nonland card type. Until end of turn, spells you cast of that type cost {1} less to cast.
+[-2]: Draw two cards. If there are four or more card types among permanents you control, instead draw four cards.
+[-6]: You get an emblem with “You may cast spells that share a card type with a permanent you control without paying their mana costs.”
+
+Cyclops
+
+Delusions of Grandeur
+
+Doctor Strange
+rules_text: Flying, prowess
+Once each turn, when you cast an instant, sorcery, or enchantment spell, you may copy that spell. If you do, you may cast the copy without paying its mana cost. [i](A copy of a permanent spell becomes a token. Casting the copy triggers prowess.)[/i] => Flying, prowess
+Once each turn, when you cast an instant, sorcery, or enchantment spell, you may copy that spell. If you do, you may cast the copy without paying its mana cost. [i](A copy of a permanent spell becomes a token.)[/i]
+
+Emma Frost
+
+The Grandmaster
+rules_text:  => [+1]: Look at the top two cards of your library. Put one into your hand and exile the other one face-up.
+[-2]: Exile target creature you control and target creature you don't control.
+[-7]: Until end of turn, you may cast spells exiled with The Grandmaster without paying their mana cost.
+special_text: [+1]: Look at the top two cards of your library. Put one into your hand and exile the other.
+[-2]: Exile target creature you control and target creature you don't control.
+[-7]: Until end of turn, you may cast spells exiled with The Grandmaster without paying their mana costs. => [+1]: Look at the top two cards of your library. Put one into your hand and exile the other one face-up.
+[-2]: Exile target creature you control and target creature you don't control.
+[-7]: Until end of turn, you may cast spells exiled with The Grandmaster without paying their mana cost.
+
+Hulk
+
+Magneto
+
+Nightcrawler
+
+Nightmare
+rules_text:  => As long as it's your turn, you control each opponent. [i](You see all cards that player could see and make all decisions for the player.)[/i]
+[+1]: Draw a card. Each opponent discards a card.
+[-3]: Each player returns a creature card from their graveyard to the battlefield.
+
+Rise of the Phoenix
+rules_text:  => [i]“I am fire! And life incarnate! Now and forever, I am Phoenix!”
+—Jean Grey[/i]
+Draw two cards, then discard two cards. Rise of the Phoenix deals 2 damage to each opponent.
+Return target creature card from your graveyard to the battlefield with an ember counter on it. 
+Each creature you control with an ember counter gets +3/+3 and gains flying and lifelink until end of turn.
+Sacrifice each creature you control with an ember counter on it.
+special_text: [i]“I am fire! And life incarnate! Now and forever, I am Phoenix!”
+—Jean Grey[/i]
+Draw two cards, then discard two cards. Rise of the Phoenix deals 2 damage to each opponent.
+Return target creature card from your graveyard to the battlefield with an ember counter on it. It gains flying and haste until end of turn. 
+Sacrifice each creature you control with an ember counter on it. => [i]“I am fire! And life incarnate! Now and forever, I am Phoenix!”
+—Jean Grey[/i]
+Draw two cards, then discard two cards. Rise of the Phoenix deals 2 damage to each opponent.
+Return target creature card from your graveyard to the battlefield with an ember counter on it. 
+Each creature you control with an ember counter gets +3/+3 and gains flying and lifelink until end of turn.
+Sacrifice each creature you control with an ember counter on it.
+
+Sebastian Shaw
+rules_text: Ward—Pay 4 life. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 4 life.)[/i]
+Once each turn, when a creature you control dies, you may return a creature
+card with lesser mana value than that creature from your graveyard to the battlefield tapped. => Ward—Pay 4 life [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 4 life.)[/i]
+Once each turn, when a creature you control dies, you may return a creature card with lesser mana value from your graveyard to the battlefield tapped.
+
+Spider-Woman
+
+Thanos, the Mad Titan
+rules_text:  => [+1]: Create a Treasure token. Draw a card.
+[-4]: Search your library for a multicolored card, exile it, then shuffle. You may cast that spell without paying its mana cost.
+[-8]: For each player, exile half of the permanents that player controls, rounded up.
+special_text: [+1]: You may draw a card. If you don't, create a Treasure token. Repeat this process once.
+[-4]: Search your library for a multicolored card, exile it, then shuffle. You may cast that spell
+without paying its mana cost.
+[-8]: For each player, exile half of the permanents that player controls, rounded up. => [+1]: Create a Treasure token. Draw a card.
+[-4]: Search your library for a multicolored card, exile it, then shuffle. You may cast that spell without paying its mana cost.
+[-8]: For each player, exile half of the permanents that player controls, rounded up.
+
+Thor, God of Thunder
+
+Wolverine
+
+America Chavez
+rules_text:  => As long as it's your turn, America Chavez is a 4/4 Human Warrior creature with flying and indestructible.
+[+1]: Tap or untap up to two target creatures.
+[-3]: You get an emblem with “Whenever one or more Warriors you control attack, exile target permanent.”
+special_text: As long as it's your turn, America Chavez is a 4/4 Human Warrior creature with flying and indestructible.
+[+1]: Tap or untap up to one target creature, then tap or untap up to one other target creature.
+[-3]: You get an emblem with “Whenever one or more Warriors you control attack, exile target permanent.” => As long as it's your turn, America Chavez is a 4/4 Human Warrior creature with flying and indestructible.
+[+1]: Tap or untap up to two target creatures.
+[-3]: You get an emblem with “Whenever one or more Warriors you control attack, exile target permanent.”
+
+Baron Mordo
+rules_text: When Mordo enters, search your library for a planeswalker card with mana value X or less and exile it. Then shuffle.
+Mordo has all activated abilities of all planeswalker cards exiled with him.
+When Mordo leaves the battlefield, return a card exiled with him to its owner's hand. => When Mordo enters, search your library for a planeswalker card with mana value X or less and exile it. Then shuffle.
+Mordo has all activated abilities of planeswalker cards exiled with him.
+When Mordo leaves the battlefield, return a card exiled with him to its owners hand.
+
+Odin, the All-Father
+rules_text:  => [+1]: Create a 1/1 white Bird creature token with flying. If you control two or more enchantments, instead create two of those tokens.
+[-2]: Return target enchantment card from your graveyard to the battlefield.
+[-7]: Creatures you control get +X/+X and gain trample until end of turn, where X is the number of enchantments you control.
+
+Punisher
+
+Monkey Business
+
+Iceman
+rules_text: Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+When Iceman enters, choose up to one target creature. It loses all creature types and abilities and becomes a 0/4 blue Wall creature with defender for as long as you control Iceman. => Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+When Iceman enters, choose target creature. It loses all creature types and abilities and becomes a 0/4 blue Wall creature with defender for as long as you control Iceman.
+
+Black Bolt
+rules_text: Flying
+When Black Bolt enters, choose a noncreature, nonland card type.
+Your opponents can't cast spells of the chosen type. => Flying
+When Black Bolt enters, choose a noncreature, nonland card type.
+Each opponent can't cast spells of the chosen type.
+
+Knull
+rules_text:  => [+1]: Distribute a +1/+1 and lifelink counter between up to two target creatures. Those creatures gain indestructible until end of turn.
+[-3]: Create a 3/3 black Alien Dragon creature token with flying.
+[-8]: Each creature you don't control gets -X/-X until end of turn, where X is the number of creatures you control.
+special_text: [+1]: Distribute a +1/+1 and lifelink counter among one or two target creatures. Those creatures gain indestructible until end of turn.
+[-3]: Create a 3/3 black Alien Dragon creature token with flying.
+[-8]: Each creature you don't control gets -X/-X until end of turn, where X is the number of creatures you control. => [+1]: Distribute a +1/+1 and lifelink counter between up to two target creatures. Those creatures gain indestructible until end of turn.
+[-3]: Create a 3/3 black Alien Dragon creature token with flying.
+[-8]: Each creature you don't control gets -X/-X until end of turn, where X is the number of creatures you control.
+
+Dormammu
+rules_text:  => [+2]: Each player discards a card. Each opponent loses 1 life.
+[-X]: Up to one target creature gets twice -X/-X until end of turn. You gain twice X life. 
+[-8]: Put all creature cards from all graveyards onto the battlefield under your control. Creatures you control gain haste until end of turn.
+
+Onslaught
+rules_text:  => [+1]: Each player draws a card, then loses 3 life unless they discard a card or sacrifice a nonland permanent.
+[-3]: Destroy target creature or planeswalker.
+[-6]: You get an emblem with “Whenever a permanent card is put into an opponent's graveyard from anywhere, exile it. You create a token that's a copy of that card.”
+
+Domino
+rules_text: Menace
+Whenever Domino attacks, exile the top card of your library face down. [i](You can't look at it)[/i]
+Sacrifice Domino: Reveal each card you own exiled with her. Until end of turn, you may play those cards. => As long as it's your turn, Domino has first strike.
+Whenever Domino attacks, exile the top card of your library face-down.
+Sacrifice Domino: Reveal each card you own exiled with her. Until end of turn, you may play those cards.
+
+Carnage
+
+Fortune Favors the Bold
+
+Quicksilver
+
+Black Panther
+
+Invocation of Bast
+rules_text: When Invocation of Bast enters, search your library for a basic land card, reveal it, and put it into your hand. Then shuffle.
+At the beginning of combat on your turn, if you control three or more lands with different names, Invocation of Bast becomes a 3/3 God creature with indestructible in addition to its other types until end of turn. => When Invocation of Bast enters, search your library for a basic land card, reveal it, and put it into your hand. Then shuffle.
+At the beginning of combat on your turn, if you control three or more lands with different names, Invocation of Bast becomes a 3/3 God creature with indestructible until end of turn.
+
+Super-Skrull
+
+Pyro
+
+Bishop
+rules_text: When Bishop enters, up to one target instant, sorcery, or artifact card in your graveyard gains jump-start until end of turn. [i](You may cast it from your graveyard by discarding a card in addition to paying its other costs. If it would be put into a graveyard, exile it.)[/i] => When Bishop enters, up to one target instant, sorcery, or artifact card in your graveyard gains jump-start until end of turn. [i](You may cast it from your graveyard by discarding a card in addition to paying its other costs. If it would be put into a graveyard this turn, exile it.)[/i]
+
+Edwin Jarvis
+rules_text: When Edwin Jarvis enters, look at the top three cards of your library. You may reveal an artifact card or a legendary creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. => When Edwin Jarvis enters, look at the top three cards of your library. You may reveal an artifact card or a legendary creature card from among them and put it into your hand. Put the rest on the bottom in a random order.
+
+Juggernaut
+
+Sentry
+rules_text: Flying, lifelink
+When Sentry enters, other creatures you control gain indestructible until end of turn.
+At the beginning of your end step, you may sacrifice Sentry. If you do, return him to the battlefield transformed at the beginning
+of your next upkeep. => Flying, lifelink
+When Sentry enters, other creatures you control gain indestructible until end of turn.
+At the beginning of your end step, you may sacrifice Sentry. If you do, return him to the battlefield transformed at the beginning of your next upkeep.
+
+Peter Parker
+
+Surtur
+rules_text:  => [+2]: Surtur deals 3 damage divided among any number of targets.
+[-3]: Untap up to two target Mountains you control. They each become 4/4 Demon creatures with haste until end of turn.
+[-9]: Target opponent gets an emblem with “Whenever a creature or planeswalker you control is dealt damage, this emblem deals 5 damage to you.”
+special_text: [+2]: Surtur deals 3 damage divided as you choose among one, two, or three targets.
+[-3]: Untap up to two target Mountains you control. They each become 4/4 Demon creatures with haste until end of turn.
+[-9]: Target opponent gets an emblem with “Whenever a creature or planeswalker you control is dealt damage, this emblem deals 5 damage to you.” => [+2]: Surtur deals 3 damage divided among any number of targets.
+[-3]: Untap up to two target Mountains you control. They each become 4/4 Demon creatures with haste until end of turn.
+[-9]: Target opponent gets an emblem with “Whenever a creature or planeswalker you control is dealt damage, this emblem deals 5 damage to you.”
+
+Matt Murdock
+
+Silver Samurai
+
+Ultron
+
+Jean Grey
+rules_text: Flying, haste, prowess
+At the beginning of your end step, if an opponent lost 5 or more life this turn, you may exile Jean Grey from the battlefield or from your graveyard. If you do, return her to the battlefield transformed at the beginning of your next upkeep. => Flying, prowess, haste
+At the beginning of your end step, if an opponent lost 5 or more life this turn, you may exile Jean Grey from the battlefield or from your graveyard. If you do, return her to the battlefield transformed at the beginning of your next upkeep.
+
+Angel
+rules_text: Flying
+Whenever Angel attacks, target attacking creature without flying gains flying until end of turn.
+When Angel dies, exile him. Return him to the battlefield transformed at the beginning of your next upkeep. => Flying
+Whenever Angel attacks, another target attacking creature gains flying until end of turn.
+When Angel dies, exile him. Return him to the battlefield transformed at the beginning of your next upkeep.
+
+Hulkling
+rules_text: {T}: Add {G}.
+{G}{G}, {T}: If Hulkling has no +1/+1 counters on him, put one on him. He gains “{T}: Add {G}{G}.”
+{G}{G}{G}, {T}: If Hulkling has no vigilance counters on him, put a +1/+1 and a vigilance counter on him. He gains “{T}: Add {G}{G}{G}.” => {T}: Add {G}.
+{G}{G}, {T}: If Hulkling has no +1/+1 counters on him, put one on him. He gains “{T}: Add {G}{G}”
+{G}{G}{G}, {T}: If Hulkling has no vigilance counters on him, put a +1/+1 and a vigilance counter on him. He gains “{T}: Add {G}{G}{G}”
+
+Elsa Bloodstone
+
+Cable
+rules_text: Flash
+When Cable enters, until end of turn, you may cast target noncreature card with mana value 3 or less from your graveyard without paying its mana cost and as though it had flash. If that spell would be put into your graveyard, exile it instead. => Flash
+When Cable enters, choose target noncreature card with mana value 3 or less in your graveyard. Until end of turn, you may cast it as though it had flash and without paying its mana cost. If that spell would be put into a graveyard this turn, exile it instead.
+
+All Gods Must Die
+cost: {2}{W}{W} => {3}{W}{W}
+
+Devour
+rules_text: All creatures gain decayed. [i](They can't block. When a creature with decayed attacks, its controller sacrifices it at end of combat.)[/i] [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => All creatures gain decayed. [i](They can't block. When a creature with decayed attack, its controller sacrifices it at end of combat.)[/i] [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Clobber
+
+Blink
+
+Spider-Ham
+
+Into the Cosmos
+
+Champion of the Universe
+rules_text:  => [+1]: Create a tapped Treasure token.
+[+1]: Champion fights target creature or planeswalker. [i](A noncreature planeswalker deals damage equal to its loyalty to the creature or planeswalker it's fighting instead of its power.)[/i]
+[-3]: Untap target creature. After this main phase, there is an additional combat phase followed by an additional main phase.
+special_text: [+1]: Create a tapped Treasure token.
+[+1]: Champion fights target creature or planeswalker. [i](A noncreature planeswalker deals damage equal to its loyalty to the creature or planeswalker it's fighting instead of its power.)[/i]
+[-2]: Untap target creature. After this main phase, there is an additional combat phase followed by an additional main phase. => [+1]: Create a tapped Treasure token.
+[+1]: Champion fights target creature or planeswalker. [i](A noncreature planeswalker deals damage equal to its loyalty to the creature or planeswalker it's fighting instead of its power.)[/i]
+[-3]: Untap target creature. After this main phase, there is an additional combat phase followed by an additional main phase.
+
+Purge the Occult
+
+Spider-Sense
+rules_text: Counter target spell or ability that targets you or a permanent you control. You gain 2 life. => Choose two —
+• You gain 2 life.
+• Draw a card.
+• Counter target spell or ability that targets you or a permanent you control.
+
+Spider-Man Noir
+rules_text: Reach
+Whenever another creature dies, create a Clue token. [i](It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+{2}{B}, Sacrifice two Clues: Search your library for a card, put it into your hand, then shuffle. => Reach
+Whenever another creature dies, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+{2}{B}, Sacrifice two Clues: Search your library for a card, put it into your hand, then shuffle.
+
+Gates of Valhalla
+rules_text: Whenever a creature dies or is exiled from the battlefield, put a soul counter on Gates of Valhalla.
+At the beginning of your upkeep, if there are five or more soul counters on Gates of Valhalla, create a 3/3 white Angel creature token with flying. => Whenever a creature dies or is exiled, put a soul counter on Gates of Valhalla.
+At the beginning of your upkeep, if there are five or more soul counters on Gates of Valhalla, create a 3/3 white Angel creature token with flying.
+
+Fastball Special
+
+Hunter's Trail
+rules_text: Reveal cards from the top of your library until you reveal two creature cards. Put one of the creature cards revealed this way into your hand. Put the rest of the cards on the bottom of your library in a random order. => Reveal cards from the top of your library until you reveal two creature cards. Put one of the creature cards revealed this way into your hand. Put the rest of the cards on the bottom of your library in any order.
+
+Banshee
+
+Wrecking Crew
+
+Blade
+rules_text: When Blade enters, each opponent loses 1 life and you gain 1 life.
+You may cast Blade from your graveyard if a creature not named Blade died this turn. If you do, he enters tapped. => When Blade enters, each opponent loses 1 life and you gain 1 life.
+As long as a creature not named Blade died this turn, you may cast Blade from your graveyard. If you cast him this way, he enters tapped.
+
+Nimrod
+rules_text: When Nimrod enters, look at target player's hand. You may choose a nonland card from it. If you do, that player exiles that card, then draws a card. => When Nimrod enters, look at target player's hand. You may choose a nonland card from it. If you do, that player reveals the chosen card and exiles it, then draws a card.
+
+Nick Fury
+
+Kate Bishop
+rules_text: As long as it's your turn, Kate Bishop has first strike.
+Whenever Kate Bishop enters or attacks, she deals 1 damage to target player or planeswalker. => As long as it's your turn, Kate Bishop has first strike.
+When Kate Bishop enters or attacks, she deals 1 damage to target player or planeswalker.
+
+Howard the Duck
+type: Legendary Creature — Bird Advisor => Legendary Creature — Bird Scout
+rules_text: When Howard the Duck enters, create a Clue token. [i](It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+Activated abilities of artifacts you control cost {1} less to activate. => When Howard the Duck enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+Activated abilities of artifacts you control cost {1} less to activate.
+
+Trickshot
+
+Prowler
+rules_text: If an opponent was dealt combat damage this turn, you may pay {B}{B} rather than pay this spell's mana cost.
+Ward—Pay 2 life. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)[/i]
+At the beginning of your end step, if an opponent was dealt combat damage this turn, you may draw a card. => If an opponent was dealt combat damage this turn, you may pay {B}{B} rather than pay this spell's mana cost.
+Ward—Pay 2 life [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)[/i]
+At the beginning of your end step, if an opponent was dealt combat damage this turn, you may draw a card.
+
+Killmonger
+
+Mole Man
+
+Never Back Down
+
+Professor X
+rules_text: Defender, ward {3} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)[/i]
+At the beginning of your upkeep, look at the top three cards of your library. You may reveal a creature card from among them and put it into your hand. If you reveal a Mutant card this way, you may instead put it onto the battlefield. Put the rest on the bottom of your library in a random order. => Defender, ward {3} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)[/i]
+At the beginning of your upkeep, look at the top three cards of your library. You may reveal a creature card from among them and put it into your hand. If you reveal a Mutant card this way, you may instead put it into the battlefield. Put the rest on the bottom in a random order.
+
+Shifting Identity
+
+Mojovision
+
+All-Black the Necrosword
+
+Count Dracula
+rules_text:  => [+2]: You may sacrifice a creature. If you do, draw a card. Otherwise, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i]
+[-3]: Gain control of target creature until Count Dracula leaves the battlefield.
+[-8]: You get an emblem with “Whenever a nontoken creature dies, create a 2/2 black Vampire creature token with flying.”
+
+Crowd Favorite
+
+Incursion
+rules_text: Return a creature you control to its owner's hand, then shuffle all creatures and all graveyards into their owners' libraries. => Return a creature you control to its owner's hand, then shuffle all creatures and all graveyards into their owner's libraries.
+
+Sinister Machinations
+rules_text: Target player reveals their hand. You choose a creature or planeswalker card from it. That player discards that card.
+{4}{B}{B}, Exile Sinister Machinations from your graveyard: Put target creature or planeswalker card from a graveyard onto the battlefield under your control. Activate only outside of combat. => Target player reveals their hand. You choose a creature or planeswalker card from it. That player discards that card.
+{4}{B}{B}, Exile Sinister Machinations from your graveyard: Put target creature or planeswalker card from a graveyard onto the battlefield under your control. Activate only as a sorcery.
+
+Call for Backup
+rules_text: Once each turn, when a creature you control enters, you may search your library for a creature card with lesser mana value, put that card onto the battlefield, then shuffle. => Once each turn, whenever a creature you control enters, you may search your library for a creature card with lesser mana value, put that card onto the battlefield, then shuffle.
+
+Scarlet Witch
+
+Burning Fear
+
+Worldbreaker
+
+Take Aim
+
+Secondary Mutations
+
+No More
+
+The Maker
+rules_text:  => [+2]: Until end of turn, artifacts you control gain “{T}: Add {U}.”
+[0]: Create two Invention tokens. [i](They're artifacts with “{1}, Sacrifice this artifact: Scry 1.”)[/i]
+[-6]: Choose any number of target artifacts you control. They become copies of target permanent, except they still have their names.
+
+Taskmaster
+rules_text: Haste
+At the beginning of combat on your turn, you may have him become a copy of another target creature until end of turn, except his name is still Taskmaster and he has this ability. => Haste
+Whenever Taskmaster attacks, you may have him become a copy of another target creature until end of turn, except his name is still Taskmaster and he has this ability.
+
+Spider-Gwen
+
+Doctor Octopus
+rules_text: When Doctor Octopus enters, create two 1/1 colorless Tentacle artifact creature tokens.
+{3}{U}: Target artifact becomes a 0/0 artifact creature with “This creature gets +1/+1 for each artifact you control” in addition to its other types. Activate only outside of combat. => When Doctor Octopus enters, create two 1/1 colorless Tentacle artifact creature tokens.
+{3}{U}: Target artifact becomes a 0/0 artifact creature with “This creature gets +1/+1 for each artifact you control.” in addition to its other types and abilities. Activate only outside of combat.
+
+Energy Conduit
+rules_text: Choose one —
+• Energy Conduit deals 4 damage to any target.
+• Energy Conduit deals 2 damage to each creature and planeswalker you don't control. => Choose one —
+• Energy Conduit deals 4 damage to any target.
+• Energy Conduit deals 2 damage to each creature and each planeswalker you don't control.
+
+Elegy
+
+Death Spores
+rules_text: Death Spores deals 4 damage to target creature or planeswalker. You gain life equal to the amount of excess damage dealt this way. => Death Spores deals 4 damage to target creature or planeswalker. You gain life equal to the excess damage dealt this way.
+
+Into the Multiverse
+rules_text: Choose one —
+• Return up to two target nonland permanents to their owners' hands.
+• Scry 2, then draw two cards. => Choose one —
+• Return up to two target nonland permanents to their owner's hands.
+• Scry 2, then draw two cards.
+
+Snikt!
+
+Lady Deathstrike
+pt: 2/2 => 2/1
+
+Mister Sinister
+rules_text: {1}, {T}, Sacrifice a creature or discard a creature card: Put a +1/+1 counter on Mister Sinister. When you do, search your library for a creature card and reveal it. If it has mana value less than Mister Sinister's power, put it on to the battlefield. Otherwise, put it into your hand. Then shuffle. => {1}, {T}, Sacrifice a creature or discard a creature card: Put a +1/+1 counter on Mister Sinister. When you do, search your library for a creature card and reveal it. If it has mana value less than Mister Sinister's power, put it on to the battlefield. Otherwise, put it into your hand, then shuffle.
+
+Consign to Chaos
+
+Thaw
+
+Doom's Time Platform
+cost: {1}{B} => {1}{B}{B}
+rules_text: {T}, Sacrifice a creature: You gain 2 life.
+{B}, {T}, Pay 2 life: Draw a card.
+{2}{B}, {T}, Discard a card: Create a 0/0 colorless Robot artifact creature token with “This creature gets +1/+1 for each artifact you control.” => {T}, Sacrifice a creature: You gain 2 life.
+{1}{B}, {T}, Pay 2 life: Draw a card.
+{2}{B}, {T}, Discard a card: Create a 0/0 colorless Robot artifact creature token with “This creature gets +1/+1 for each artifact you control.”
+
+Approach of the Devourer
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Mill three cards, then put a card milled this way into your hand.
+II — Up to one target creature gets -X/-X until end of turn, where X is the number of cards in your graveyard.
+III — Create a X/X colorless Alien creature token, where X is the number of cards in your graveyard.
+special_text: 
+Mill three cards, then put a card milled this way into your hand.
+Up to one target creature gets -X/-X until end of turn, where X is the number of cards in your graveyard.
+Create a X/X colorless Alien creature token, where X is the number of cards in your graveyard. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Mill three cards, then put a card milled this way into your hand.
+II — Up to one target creature gets -X/-X until end of turn, where X is the number of cards in your graveyard.
+III — Create a X/X colorless Alien creature token, where X is the number of cards in your graveyard.
+
+Gambit
+
+Glimpse Infinite Realities
+type: Instant => Enchantment
+cost: {2}{U}{R} => {U}{R}
+rules_text: Reveal the top four cards of your library, then separate them into two piles. An opponent chooses one of the piles. You put the chosen pile into your hand, then Glimpse Infinite Realities deals damage to that opponent equal to the total mana value of the other pile. => Hexproof
+When Glimpse Infinite Realities enters, draw three cards, then exile three cards from your hand face-down.
+{1}{U}{R}: Put a card exiled with Glimpse Infinite Realities into your hand.
+
+Scrutinize
+
+Silver Sable
+
+Bring Through the Aeons
+
+Circus of Crime
+rules_text: Spectacle {B}{R} [i](You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)[/i]
+At the beginning of your end step, create a 1/1 black and red Bard creature token with “This creature can't block” and “When this creature dies, it deals 1 damage to any target.” => Spectacle {B}{R} [i](You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)[/i]
+At the beginning of your end step, create a 1/1 black and red Bard creature token with “This creature can't block.” and “When this creature dies, it deals 1 damage to any target.”
+
+World War Hulk
+rules_text:  => “[i]They shot him into space. If that isn't reason for war, I don't know what is.”
+—She-Hulk[/i]
+Reveal cards from the top of your library until you reveal a creature card with mana value equal to the number of lore counters on World War Hulk. Put that card onto the battlefield, then put the rest of the cards onto the bottom of your library in a random order.
+​
+​
+special_text: “[i]They shot him into space. If that isn't reason for war, I don't know what is.”
+—She-Hulk[/i]
+Reveal cards from the top of your library until you reveal a creature card with mana value equal to the number of lore counters on World War Hulk. Put that card onto the battlefield, then put the rest of the cards onto the bottom of your library in a random order. => “[i]They shot him into space. If that isn't reason for war, I don't know what is.”
+—She-Hulk[/i]
+Reveal cards from the top of your library until you reveal a creature card with mana value equal to the number of lore counters on World War Hulk. Put that card onto the battlefield, then put the rest of the cards onto the bottom of your library in a random order.
+​
+​
+
+She-Hulk
+
+Hercules
+cost: {5}{G}{G} => {1}{W}
+rules_text: Vigilance, haste
+Hercules can't be blocked by creatures with power 2 or less.
+Hercules must be blocked if able. => At the beginning of your end step, for each of the following that occurred this turn, put a +1/+1 counter on Hercules.
+• You cast an artifact or enchantment spell.
+• You attacked with two or more creatures.
+• You gained 3 or more life.
+As long as there are twelve or more counters on Hercules, he has protection from everything.
+pt: 6/6 => 1/1
+
+Annihilus
+cost: {2}{B}{G} => {5}{B}{B}
+rules_text: Flying
+Whenever Annihilus attacks, put a +1/+1 counter on him. When you do, return up to one target creature card with mana value less than Annihilus's power from your graveyard to the battlefield tapped and attacking. => Flying
+When Annihilus enters, create two 2/2 black Alien Insect creature tokens with flying.
+Whenever Annihilus or another creature you control dies, each opponent loses life equal to that creature's power.
+pt: 3/3 => 5/5
+
+Venom
+rules_text: Deathtouch
+When Venom enters, target creature you don't control gets -X/-X until end of turn, where X is Venom's power.
+Symbiosis {1}{B} [i](Pay {1}{B} as a sorcery to transform this and attach it to target creature.)[/i] => Lifelink
+{1}, Sacrifice another creature: Put a +1/+1 counter on Venom. It gains indestructible until end of turn. Tap it.
+Symbiosis {1}{B} [i](Pay {1}{B} as a sorcery to transform this and attach it to target creature.)[/i]
+
+Maestro
+cost: {2}{G}{G} => {3}{G}{G}
+rules_text:  => [+1]: Until end of turn, Maestro becomes a 6/6 green Giant Noble creature with trample and indestructible. [i](He doesn't lose loyalty while he isn't a planeswalker.)[/i]
+[-2]: Up to two target creatures you control each deal damage equal to their power to target creature or planeswalker.
+[-7]: You get an emblem with “Creatures you control are 6/6 Giants with trample in addition to their other types and abilities.”
+special_text: [+1]: Put two counters of your choice from among +1/+1, trample, and vigilance on up to one target creature [i](You can choose the same counter twice.)[/i]
+[-2]: Draw a card for each different power among creatures you control.
+[-6]: You get an emblem with “Whenever you cast a creature spell, you may search your library for a creature card with the same total power and toughness, put it onto the battlefield, then shuffle.” => [+1]: Until end of turn, Maestro becomes a 6/6 green Giant Noble creature with trample and indestructible. [i](He doesn't lose loyalty while he isn't a planeswalker.)[/i]
+[-2]: Up to two target creatures you control each deal damage equal to their power to target creature or planeswalker.
+[-7]: You get an emblem with “Creatures you control are 6/6 Giants with trample in addition to their other types and abilities.”
+
+Tony Stark
+rules_text: When Tony Stark enters and at the beginning of your upkeep, create an Invention token. [i](It's an artifact with “{1}, Sacrifice this artifact: Scry 1.”)[/i]
+At the beginning of your end step, if you control three or more artifacts, transform Tony Stark. => When Tony Stark enters, create an Invention token. [i](It's an artifact with “{1}, Sacrifice this artifact: Scry 1.”)[/i]
+At the beginning of your end step, if you control three or more artifacts, transform Tony Stark.
+pt: 2/2 => 2/3
+
+Uncanny Valor
+cost: {2}{W}{W} => {1}{W}{W}
+rules_text: Whenever a creature you control attacks, it gets +1/+1 until end of turn.
+{3}{W}{W}: Untap all attacking creatures. After this phase, there is an additional combat phase. Activate only during combat. => Whenever you attack, if you control an attacking creature with flying, other you control gain flying until end of turn. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, protection, reach, trample, and vigilance.
+
+Life-Model Decoy
+cost: {3}{R} => {2}{R}
+rules_text: Whenever you attack, create a token that's a copy of target attacking creature you control, except the token isn't legendary, is 0/0, and has “This creature gets +1/+1 for each artifact you control.” It enters tapped and attacking. Sacrifice that token at the beginning of the next end step. => Whenever you attack, you may have Life-Model Decoy become a copy of target attacking creature until end of turn, except it's a 0/0 colorless Robot artifact creature with “This creature gets +1/+1 for each artifact you control.” If you do, Life-Model Decoy becomes tapped and attacking.
+
+Mister Fantastic
+
+Klaw
+
+Black Widow
+
+Mojo
+
+Yondu
+
+Master Plan
+
+Gwenpool
+
+Astonishing Discovery
+
+Miles Morales
+
+Journey into Mystery
+
+Psylocke
+
+Dragon Man
+
+World of Metal
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
