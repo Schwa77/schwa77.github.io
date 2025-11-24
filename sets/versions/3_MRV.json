@@ -1,7 +1,7 @@
 ﻿{
     "name": "MRV-1610: The Reboot Edition",
     "formats": "",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "none",
     "unpreviewed": "card back",
@@ -3494,6 +3494,5 @@
             "alias": "",
             "notes": "https://marvel.fandom.com/wiki/ISO-Sphere/Gallery?file=Iso-Sphere_from_Contest_of_Champions_Vol_1_2_001.jpg\n\nPenciler\nPaco Medina (Images)\nInker\nJuan Vlasco (Images)\nColorist\nDavid Curiel (Images)"
         }
-    ],
-    "version": 3
+    ]
 }
