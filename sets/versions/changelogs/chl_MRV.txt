@@ -1,4 +1,98 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Ka-Zar added.
+Hulk added.
+Daredevil added.
+Annihilation Wave added.
+Thanos, the Mad Titan added.
+Scarlet Witch added.
+Green Goblin added.
+Electro added.
+Sandman added.
+Sand added.
+Professor X added.
+Winter Soldier added.
+Killmonger added.
+
+Ka-Zar of the Savage Land removed.
+War Machine removed.
+Silver Samurai removed.
+
+Magik
+type: Legendary Creature — Mutant Wizard => Legendary Creature — Mutant Wizard Hero
+
+Spider-Man 2099
+type: Legendary Creature — Spider Human Hero => Legendary Creature — Spider Human
+
+Think
+
+Hell Cycle
+rules_text: Menace, haste
+When Hell Cycle enters, it becomes an artifact creature until end of turn.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Menace
+Start your engines! [i](If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)[/i]
+Max speed — At the beginning of combat on your turn, Hell Cycle becomes a Demon artifact creature until end of turn.
+Crew 3
+pt: 3/1 => 5/4
+
+Savage Land Expedition
+rules_text: Enchant land
+Whenever enchanted land is tapped for mana, its controller adds an additional one mana of any color.
+{4}{G}, Sacrifice Savage Land Expedition: Create a 3/3 green Dinosaur creature token with trample. Activate only during your turn. => Enchant land
+Whenever enchanted land is tapped for mana, its controller adds an additional one mana of any color.
+{4}{G}, Sacrifice this Aura: Create a 3/3 green Dinosaur creature token with trample. Activate only as a sorcery.
+
+Loki, God of Mischief
+
+Bishop
+rules_text: When Bishop enters the battlefield, up to one target instant, sorcery, or artifact card in your graveyard gains jump-start until end of turn. [i](You may cast it from your graveyard by discarding a card in addition to paying its other costs. If it would be put into a graveyard, exile it.)[/i] => When Bishop enters the battlefield, up to one target artifact, instant, or sorcery card in your graveyard gains jump-start until end of turn. [i](You may cast it from your graveyard by discarding a card in addition to paying its other costs. If it would be put into a graveyard, exile it.)[/i]
+
+Spirit of Vengeance
+
+Invisible Woman
+
+Anti-Venom
+type: Legendary Creature — Symbiote => Legendary Creature — Symbiote Hero
+
+Falcon
+type: Legendary Creature — Human Warrior => Legendary Creature — Human Hero
+
+Quicksilver
+type: Legendary Creature — Mutant Warrior => Legendary Creature — Mutant Hero
+
+Storm
+type: Legendary Creature — Mutant Warrior => Legendary Creature — Mutant Hero
+
+Absorbing Man
+
+Silver Surfer
+
+World War Hulk
+rules_text: “[i]They shot him into space. If that isn't reason for war, I don't know what is.”
+—She-Hulk[/i]
+I, II, III, IV, V, VI, C — Reveal cards from the top of your library until you reveal a creature card with mana value equal to the number of lore counters on World War Hulk. Put that card onto the battlefield, then put the rest of the cards onto the bottom of your library in a random order.
+​
+​ => “[i]They shot him into space. If that isn't reason for war, I don't know what is.”
+—She-Hulk[/i]
+Reveal cards from the top of your library until you reveal a creature card with mana value equal to the number of lore counters on World War Hulk. Put that card onto the battlefield, then put the rest of the cards onto the bottom of your library in a random order.
+​
+​
+special_text: “[i]They shot him into space. If that isn't reason for war, I don't know what is.”
+—She-Hulk[/i]
+I, II, III, IV, V, VI, C — Reveal cards from the top of your library until you reveal a creature card with mana value equal to the number of lore counters on World War Hulk. Put that card onto the battlefield, then put the rest of the cards onto the bottom of your library in a random order.
+​
+​ => “[i]They shot him into space. If that isn't reason for war, I don't know what is.”
+—She-Hulk[/i]
+Reveal cards from the top of your library until you reveal a creature card with mana value equal to the number of lore counters on World War Hulk. Put that card onto the battlefield, then put the rest of the cards onto the bottom of your library in a random order.
+​
+​
+
+Cyclops
+type: Legendary Creature — Mutant Warrior => Legendary Creature — Mutant Hero
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Spider-Man added.
