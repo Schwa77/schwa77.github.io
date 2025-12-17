@@ -8,28 +8,28 @@
     },
     {
         "card_name": "Absolute Zero",
-        "number": 31,
+        "number": 32,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Annihilus",
-        "number": 55,
-        "shape": "normal",
+        "card_name": "Age of Ultron",
+        "number": 61,
+        "shape": "saga",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Bishop",
-        "number": 87,
+        "number": 95,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Abomination",
-        "number": 115,
+        "number": 123,
         "shape": "normal",
         "set": "MRV",
         "position": ""
@@ -42,29 +42,29 @@
         "position": ""
     },
     {
-        "card_name": "Cable",
+        "card_name": "Blink",
         "number": 33,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Black Cat",
-        "number": 56,
+        "card_name": "Annihilus",
+        "number": 62,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Crowd Favorite",
-        "number": 88,
+        "number": 96,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Absorbing Man",
-        "number": 116,
+        "number": 124,
         "shape": "normal",
         "set": "MRV",
         "position": ""
@@ -77,29 +77,29 @@
         "position": ""
     },
     {
-        "card_name": "Iceman",
+        "card_name": "Cable",
         "number": 34,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Brood Spawning",
-        "number": 57,
+        "card_name": "Baron Mordo",
+        "number": 63,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "A Day Unlike Any Other",
-        "number": 89,
+        "number": 97,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Black Panther",
-        "number": 117,
+        "card_name": "Academy Training",
+        "number": 125,
         "shape": "normal",
         "set": "MRV",
         "position": ""
@@ -112,29 +112,29 @@
         "position": ""
     },
     {
-        "card_name": "Imperius Rex",
+        "card_name": "Days of Future Past",
         "number": 35,
-        "shape": "normal",
+        "shape": "saga",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Burning Fear",
-        "number": 58,
+        "card_name": "Black Cat",
+        "number": 64,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Deadpool",
-        "number": 90,
+        "number": 98,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Clobber",
-        "number": 118,
+        "card_name": "Black Panther",
+        "number": 126,
         "shape": "normal",
         "set": "MRV",
         "position": ""
@@ -147,29 +147,29 @@
         "position": ""
     },
     {
-        "card_name": "Jessica Jones",
+        "card_name": "Iceman",
         "number": 36,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Crossbones",
-        "number": 60,
+        "card_name": "Brood Spawning",
+        "number": 65,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Drax the Destroyer",
-        "number": 91,
+        "number": 99,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Colossus",
-        "number": 119,
+        "card_name": "Clobber",
+        "number": 127,
         "shape": "normal",
         "set": "MRV",
         "position": ""
@@ -182,29 +182,29 @@
         "position": ""
     },
     {
-        "card_name": "Kang the Conqueror",
+        "card_name": "Imperius Rex",
         "number": 37,
-        "shape": "planeswalker",
+        "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Death Spores",
-        "number": 61,
+        "card_name": "Burning Fear",
+        "number": 66,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Electro",
-        "number": 92,
+        "number": 100,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Crystal",
-        "number": 120,
+        "card_name": "Colossus",
+        "number": 128,
         "shape": "normal",
         "set": "MRV",
         "position": ""
@@ -217,29 +217,29 @@
         "position": ""
     },
     {
-        "card_name": "Lockjaw",
+        "card_name": "Jessica Jones",
         "number": 38,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Doctor Doom",
-        "number": 62,
+        "card_name": "Carnage",
+        "number": 67,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Energy Conduit",
-        "number": 93,
+        "number": 101,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Diablo",
-        "number": 121,
+        "card_name": "Crystal",
+        "number": 129,
         "shape": "normal",
         "set": "MRV",
         "position": ""
@@ -252,29 +252,29 @@
         "position": ""
     },
     {
-        "card_name": "Loki, God of Mischief",
+        "card_name": "Kang the Conqueror",
         "number": 39,
-        "shape": "normal",
-        "set": "MRV",
-        "position": ""
-    },
-    {
-        "card_name": "Dormammu",
-        "number": 63,
         "shape": "planeswalker",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Fastball Special",
-        "number": 94,
+        "card_name": "Crossbones",
+        "number": 68,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Ezekiel Sims",
-        "number": 122,
+        "card_name": "Fastball Special",
+        "number": 102,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Diablo",
+        "number": 130,
         "shape": "normal",
         "set": "MRV",
         "position": ""
@@ -287,29 +287,29 @@
         "position": ""
     },
     {
-        "card_name": "Mysterio",
+        "card_name": "Lockjaw",
         "number": 40,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Elegy",
-        "number": 64,
+        "card_name": "Death Spores",
+        "number": 69,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Fatal Attractions",
-        "number": 95,
+        "number": 103,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Flora Colossus",
-        "number": 123,
+        "number": 131,
         "shape": "normal",
         "set": "MRV",
         "position": ""
@@ -322,29 +322,29 @@
         "position": ""
     },
     {
-        "card_name": "Mystic Arts",
+        "card_name": "Loki, God of Mischief",
         "number": 41,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Elektra",
-        "number": 65,
+        "card_name": "Doctor Doom",
+        "number": 70,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Fin Fang Foom",
-        "number": 96,
+        "number": 104,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Gorilla-Man",
-        "number": 124,
+        "number": 132,
         "shape": "normal",
         "set": "MRV",
         "position": ""
@@ -357,204 +357,204 @@
         "position": ""
     },
     {
-        "card_name": "Mystique",
+        "card_name": "Mister Fantastic",
         "number": 42,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Ghost Rider",
-        "number": 66,
-        "shape": "normal",
+        "card_name": "Dormammu",
+        "number": 71,
+        "shape": "planeswalker",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Fortune Favors the Bold",
-        "number": 97,
+        "number": 105,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Hawkeye",
-        "number": 125,
+        "number": 133,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Ghost-Spider",
+        "card_name": "Havok",
         "number": 13,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Nightcrawler",
+        "card_name": "Mysterio",
         "number": 43,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Hela, Goddess of Death",
-        "number": 67,
+        "card_name": "Elegy",
+        "number": 72,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Gambit",
-        "number": 98,
+        "number": 106,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "High Evolutionary",
-        "number": 126,
+        "number": 134,
         "shape": "planeswalker",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Havok",
+        "card_name": "Heimdall, the All-Seeing",
         "number": 14,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Professor X",
+        "card_name": "Mystic Arts",
         "number": 44,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Hobgoblin",
-        "number": 68,
+        "card_name": "Elektra",
+        "number": 73,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Hell Cycle",
-        "number": 99,
+        "number": 107,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Into the Cosmos",
-        "number": 127,
+        "number": 135,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Heimdall, the All-Seeing",
+        "card_name": "Invisible Woman",
         "number": 15,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Psylocke",
+        "card_name": "Mystique",
         "number": 45,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "The Hood",
-        "number": 69,
+        "card_name": "Ghost Rider",
+        "number": 74,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Iron Fist",
-        "number": 100,
+        "card_name": "Human Torch",
+        "number": 108,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Ka-Zar",
-        "number": 128,
+        "number": 136,
         "shape": "adventure",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Invisible Woman",
+        "card_name": "Journey into Mystery",
         "number": 16,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Rescue Armor",
+        "card_name": "Nightcrawler",
         "number": 46,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Hunt to Extinction",
-        "number": 70,
+        "card_name": "Hela, Goddess of Death",
+        "number": 75,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Jubilee",
-        "number": 101,
+        "card_name": "Iron Fist",
+        "number": 109,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Kraven the Hunter",
-        "number": 129,
+        "number": 137,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Journey into Mystery",
+        "card_name": "Khonshu, God of the Moon",
         "number": 17,
-        "shape": "normal",
+        "shape": "planeswalker",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Scrutinize",
+        "card_name": "Precognition",
         "number": 47,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Kingpin",
-        "number": 71,
+        "card_name": "Hobgoblin",
+        "number": 76,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Juggernaut",
-        "number": 102,
+        "card_name": "Jubilee",
+        "number": 110,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Kraven's Last Hunt",
-        "number": 130,
+        "number": 138,
         "shape": "saga",
         "set": "MRV",
         "position": ""
@@ -567,29 +567,29 @@
         "position": ""
     },
     {
-        "card_name": "Shifting Identity",
-        "number": 49,
+        "card_name": "Professor X",
+        "number": 48,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Knull, King in Black",
-        "number": 72,
-        "shape": "planeswalker",
+        "card_name": "The Hood",
+        "number": 77,
+        "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Kate Bishop",
-        "number": 103,
+        "card_name": "Juggernaut",
+        "number": 111,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Lizard",
-        "number": 131,
+        "number": 139,
         "shape": "normal",
         "set": "MRV",
         "position": ""
@@ -602,29 +602,29 @@
         "position": ""
     },
     {
-        "card_name": "Spider-Man 2099",
-        "number": 50,
+        "card_name": "Psychic Knife",
+        "number": 49,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Mephisto",
-        "number": 73,
-        "shape": "planeswalker",
+        "card_name": "Hunt to Extinction",
+        "number": 78,
+        "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Life-Model Decoy",
-        "number": 104,
+        "card_name": "Kate Bishop",
+        "number": 112,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Maestro",
-        "number": 132,
+        "number": 140,
         "shape": "planeswalker",
         "set": "MRV",
         "position": ""
@@ -637,29 +637,29 @@
         "position": ""
     },
     {
-        "card_name": "Think",
-        "number": 51,
+        "card_name": "Psylocke",
+        "number": 50,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Mister Negative",
-        "number": 74,
+        "card_name": "Kingpin",
+        "number": 79,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Optic Blast",
-        "number": 105,
+        "card_name": "Life-Model Decoy",
+        "number": 113,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Multiple Man",
-        "number": 133,
+        "number": 141,
         "shape": "normal",
         "set": "MRV",
         "position": ""
@@ -672,29 +672,29 @@
         "position": ""
     },
     {
-        "card_name": "Two Steps Ahead",
-        "number": 52,
+        "card_name": "Rescue Armor",
+        "number": 51,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Mole Man",
-        "number": 75,
-        "shape": "normal",
+        "card_name": "Knull, King in Black",
+        "number": 80,
+        "shape": "planeswalker",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Pyro",
-        "number": 106,
+        "card_name": "Optic Blast",
+        "number": 114,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Origin Story",
-        "number": 134,
+        "number": 142,
         "shape": "normal",
         "set": "MRV",
         "position": ""
@@ -707,29 +707,29 @@
         "position": ""
     },
     {
-        "card_name": "Wasp",
-        "number": 53,
+        "card_name": "Scrutinize",
+        "number": 52,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Morbius",
-        "number": 76,
-        "shape": "normal",
+        "card_name": "Mephisto",
+        "number": 81,
+        "shape": "planeswalker",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Quicksilver",
-        "number": 107,
+        "card_name": "Pyro",
+        "number": 115,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Plot Armor",
-        "number": 135,
+        "number": 143,
         "shape": "normal",
         "set": "MRV",
         "position": ""
@@ -742,29 +742,29 @@
         "position": ""
     },
     {
-        "card_name": "Wiccan",
-        "number": 54,
+        "card_name": "Shadowcat",
+        "number": 53,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "No More",
-        "number": 77,
+        "card_name": "Mister Negative",
+        "number": 82,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Red Guardian",
-        "number": 108,
+        "card_name": "Quicksilver",
+        "number": 116,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Red Ghost",
-        "number": 136,
+        "number": 144,
         "shape": "normal",
         "set": "MRV",
         "position": ""
@@ -777,94 +777,225 @@
         "position": ""
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Omega Red",
-        "number": 78,
+        "card_name": "Shifting Identity",
+        "number": 54,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Scarlet Witch",
-        "number": 109,
+        "card_name": "Mole Man",
+        "number": 83,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Red Guardian",
+        "number": 117,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Rhino",
-        "number": 137,
+        "number": 145,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Sentry",
+        "card_name": "Ragnarok",
         "number": 25,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Prowler",
-        "number": 79,
+        "card_name": "Spider-Man 2099",
+        "number": 55,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Shocker",
-        "number": 110,
+        "card_name": "Morbius",
+        "number": 84,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Scarlet Witch",
+        "number": 118,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Rogue",
-        "number": 138,
+        "number": 146,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Shang-Chi",
+        "card_name": "Sentry",
         "number": 26,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Sinister Scheme",
-        "number": 80,
+        "card_name": "Think",
+        "number": 56,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Storm",
-        "number": 111,
+        "card_name": "No More",
+        "number": 85,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Shocker",
+        "number": 119,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Sandman",
-        "number": 139,
+        "number": 147,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Shang-Chi",
+        "number": 27,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Two Steps Ahead",
+        "number": 57,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Omega Red",
+        "number": 86,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Storm",
+        "number": 120,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Savage Land Expedition",
+        "number": 148,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Silk",
-        "number": 27,
+        "number": 28,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Vigorous Research",
+        "number": 58,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Prowler",
+        "number": 87,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Taskmaster",
+        "number": 121,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Seismic Shifting",
+        "number": 149,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Suit Up",
+        "number": 29,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Wasp",
+        "number": 59,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Sinister Scheme",
+        "number": 88,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Trickshot",
+        "number": 122,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Snowbird",
+        "number": 150,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Valkyrie",
+        "number": 30,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Wiccan",
+        "number": 60,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Spirit of Vengeance",
+        "number": 89,
         "shape": "normal",
         "set": "MRV",
         "position": ""
@@ -873,29 +1004,15 @@
         "card_name": "e"
     },
     {
-        "card_name": "Spirit of Vengeance",
-        "number": 81,
+        "card_name": "Thing",
+        "number": 151,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Surtur",
-        "number": 112,
-        "shape": "planeswalker",
-        "set": "MRV",
-        "position": ""
-    },
-    {
-        "card_name": "Savage Land Expedition",
-        "number": 140,
-        "shape": "normal",
-        "set": "MRV",
-        "position": ""
-    },
-    {
-        "card_name": "Suit Up",
-        "number": 28,
+        "card_name": "Vibranium Shield",
+        "number": 31,
         "shape": "normal",
         "set": "MRV",
         "position": ""
@@ -905,92 +1022,30 @@
     },
     {
         "card_name": "Summon the Horsemen",
-        "number": 82,
+        "number": 90,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Taskmaster",
-        "number": 113,
+        "card_name": "e"
+    },
+    {
+        "card_name": "Warpath",
+        "number": 152,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Seismic Shifting",
-        "number": 141,
-        "shape": "normal",
-        "set": "MRV",
-        "position": ""
-    },
-    {
-        "card_name": "Valkyrie",
-        "number": 29,
-        "shape": "normal",
-        "set": "MRV",
-        "position": ""
+        "card_name": "e"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "Swarm",
-        "number": 83,
-        "shape": "normal",
-        "set": "MRV",
-        "position": ""
-    },
-    {
-        "card_name": "Trickshot",
-        "number": 114,
-        "shape": "normal",
-        "set": "MRV",
-        "position": ""
-    },
-    {
-        "card_name": "Snowbird",
-        "number": 142,
-        "shape": "normal",
-        "set": "MRV",
-        "position": ""
-    },
-    {
-        "card_name": "Vibranium Shield",
-        "number": 30,
-        "shape": "normal",
-        "set": "MRV",
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Take Aim",
-        "number": 84,
-        "shape": "normal",
-        "set": "MRV",
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Spider-Ham",
-        "number": 143,
-        "shape": "normal",
-        "set": "MRV",
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Winter Soldier",
-        "number": 86,
+        "number": 91,
         "shape": "normal",
         "set": "MRV",
         "position": ""
@@ -1000,10 +1055,67 @@
     },
     {
         "card_name": "Zabu",
-        "number": 144,
+        "number": 153,
         "shape": "normal",
         "set": "MRV",
         "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Take Aim",
+        "number": 92,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Venom",
+        "number": 93,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Winter Soldier",
+        "number": 94,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1020,35 +1132,35 @@
     "a->gold",
     {
         "card_name": "Doctor Strange",
-        "number": 153,
+        "number": 162,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Delusions of Grandeur",
-        "number": 152,
+        "number": 161,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Killmonger",
-        "number": 158,
+        "number": 167,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Hulk",
-        "number": 156,
+        "number": 165,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Avengers Assemble",
-        "number": 147,
+        "number": 156,
         "shape": "normal",
         "set": "MRV",
         "position": ""
@@ -1058,28 +1170,55 @@
     },
     {
         "card_name": "Emma Frost",
-        "number": 154,
+        "number": 163,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Green Goblin",
-        "number": 172,
+        "number": 182,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Wolverine",
-        "number": 166,
+        "number": 176,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Spider-Man",
-        "number": 161,
+        "number": 171,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Nightmare",
+        "number": 170,
+        "shape": "planeswalker",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "World War Hulk",
+        "number": 177,
+        "shape": "saga",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "White Tiger",
+        "number": 184,
         "shape": "normal",
         "set": "MRV",
         "position": ""
@@ -1089,7 +1228,7 @@
     },
     {
         "card_name": "Black Widow",
-        "number": 169,
+        "number": 179,
         "shape": "normal",
         "set": "MRV",
         "position": ""
@@ -1098,18 +1237,10 @@
         "card_name": "e"
     },
     {
-        "card_name": "World War Hulk",
-        "number": 167,
-        "shape": "saga",
-        "set": "MRV",
-        "position": ""
+        "card_name": "e"
     },
     {
-        "card_name": "White Tiger",
-        "number": 174,
-        "shape": "normal",
-        "set": "MRV",
-        "position": ""
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1128,112 +1259,112 @@
     },
     {
         "card_name": "Bring to Balance",
-        "number": 148,
-        "shape": "normal",
-        "set": "MRV",
-        "position": ""
-    },
-    {
-        "card_name": "Glimpse Infinite Realities",
-        "number": 155,
-        "shape": "normal",
-        "set": "MRV",
-        "position": ""
-    },
-    {
-        "card_name": "Annihilation Wave",
-        "number": 145,
-        "shape": "normal",
-        "set": "MRV",
-        "position": ""
-    },
-    {
-        "card_name": "Cyclops",
-        "number": 151,
-        "shape": "normal",
-        "set": "MRV",
-        "position": ""
-    },
-    {
-        "card_name": "Ant-Man",
-        "number": 146,
-        "shape": "normal",
-        "set": "MRV",
-        "position": ""
-    },
-    {
-        "card_name": "Cloak and Dagger",
-        "number": 149,
-        "shape": "normal",
-        "set": "MRV",
-        "position": ""
-    },
-    {
-        "card_name": "Iron Man",
         "number": 157,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Mister Sinister",
-        "number": 160,
-        "shape": "normal",
-        "set": "MRV",
-        "position": ""
-    },
-    {
-        "card_name": "Thor, God of Thunder",
+        "card_name": "Glimpse Infinite Realities",
         "number": 164,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
+        "card_name": "Annihilation Wave",
+        "number": 154,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Cyclops",
+        "number": 160,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Ant-Man",
+        "number": 155,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Cloak and Dagger",
+        "number": 158,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Iron Man",
+        "number": 166,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Mister Sinister",
+        "number": 169,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Thor, God of Thunder",
+        "number": 174,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
         "card_name": "The Collector",
-        "number": 150,
+        "number": 159,
         "shape": "planeswalker",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Spider-Man Noir",
-        "number": 162,
+        "number": 172,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Magneto",
-        "number": 159,
+        "number": 168,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Man-Thing",
-        "number": 173,
+        "number": 183,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Captain Marvel",
-        "number": 171,
+        "card_name": "Ghost-Spider",
+        "number": 181,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Ultimate Spider-Man",
-        "number": 165,
+        "number": 175,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
         "card_name": "Blade",
-        "number": 170,
+        "number": 180,
         "shape": "normal",
         "set": "MRV",
         "position": ""
@@ -1249,7 +1380,7 @@
     },
     {
         "card_name": "Beast",
-        "number": 168,
+        "number": 178,
         "shape": "normal",
         "set": "MRV",
         "position": ""
@@ -1271,7 +1402,7 @@
     },
     {
         "card_name": "Thanos, the Mad Titan",
-        "number": 163,
+        "number": 173,
         "shape": "planeswalker",
         "set": "MRV",
         "position": ""
@@ -1310,101 +1441,124 @@
     },
     {
         "card_name": "Black Vortex",
-        "number": 175,
-        "shape": "normal",
-        "set": "MRV",
-        "position": ""
-    },
-    {
-        "card_name": "Casket of Ancient Winters",
-        "number": 176,
-        "shape": "normal",
-        "set": "MRV",
-        "position": ""
-    },
-    {
-        "card_name": "Crimson Gem of Cyttorak",
-        "number": 177,
-        "shape": "normal",
-        "set": "MRV",
-        "position": ""
-    },
-    {
-        "card_name": "Darkhold",
-        "number": 178,
-        "shape": "normal",
-        "set": "MRV",
-        "position": ""
-    },
-    {
-        "card_name": "Deathlok",
-        "number": 179,
-        "shape": "normal",
-        "set": "MRV",
-        "position": ""
-    },
-    {
-        "card_name": "Eye of Agamotto",
-        "number": 180,
-        "shape": "normal",
-        "set": "MRV",
-        "position": ""
-    },
-    {
-        "card_name": "Infinity Gems",
-        "number": 182,
-        "shape": "normal",
-        "set": "MRV",
-        "position": ""
-    },
-    {
-        "card_name": "Iron Man Armor",
-        "number": 183,
-        "shape": "normal",
-        "set": "MRV",
-        "position": ""
-    },
-    {
-        "card_name": "Jade Tiger Amulet",
-        "number": 184,
-        "shape": "normal",
-        "set": "MRV",
-        "position": ""
-    },
-    {
-        "card_name": "Machine Man",
         "number": 185,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Silvermane",
+        "card_name": "Casket of Ancient Winters",
         "number": 186,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Staff of One",
+        "card_name": "Crimson Gem of Cyttorak",
         "number": 187,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Ultron",
+        "card_name": "Darkhold",
         "number": 188,
         "shape": "normal",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Vision",
+        "card_name": "Deathlok",
         "number": 189,
         "shape": "normal",
         "set": "MRV",
         "position": ""
+    },
+    {
+        "card_name": "Eye of Agamotto",
+        "number": 190,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "H.E.R.B.I.E.",
+        "number": 191,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Infinity Gems",
+        "number": 192,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Iron Man Armor",
+        "number": 193,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Jade Tiger Amulet",
+        "number": 194,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Machine Man",
+        "number": 195,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Silvermane",
+        "number": 196,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Staff of One",
+        "number": 197,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Ultron",
+        "number": 198,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Vision",
+        "number": 199,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Warlock",
+        "number": 200,
+        "shape": "normal",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1420,28 +1574,32 @@
     },
     "a->token",
     {
-        "card_name": "SPDR",
-        "number": 3,
-        "shape": "token",
-        "set": "MRV",
-        "position": ""
-    },
-    {
-        "card_name": "Void",
+        "card_name": "Start Your Engines!",
         "number": 1,
         "shape": "token",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "Sand",
+        "card_name": "SPDR",
+        "number": 4,
+        "shape": "token",
+        "set": "MRV",
+        "position": ""
+    },
+    {
+        "card_name": "Void",
         "number": 2,
         "shape": "token",
         "set": "MRV",
         "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "Sand",
+        "number": 3,
+        "shape": "token",
+        "set": "MRV",
+        "position": ""
     },
     {
         "card_name": "e"
