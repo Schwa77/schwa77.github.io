@@ -1,4 +1,124 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Cornered Survivor
+
+Firefly Squadron
+
+Ruin Looter
+
+Duress
+
+Joel, Burdened Protector
+
+Ellie, Spark of Hope
+
+Spreading Infection
+
+Village Rites
+
+Mycotoxic Bloater
+
+Shiv
+
+Commandeered Tank
+
+Desperate Hunter
+
+Firefly Dispatcher
+
+Cordyceps Horde
+
+Sporogenesis
+
+Ravenous Clicker
+
+LOU Survivors Decklist
+rules_text: [i]Rare/Mythic [i](2)[/i]
+• 1x Ellie, Spark of Hope
+• 1x Joel, Burdened Protector
+Uncommon [i](6)[/i]
+• 2x Firefly Squadron
+• 2x Firefly Dispatcher
+• 2x Commandeered Tank
+Common [i](15)[/i]
+• 3x Ruin Looter
+• 2x Desperate Hunter
+• 3x Cornered Survivor
+• 3x Village Rites
+• 4x Shiv
+Basic and Common Lands [i](17)[/i]
+• 8 Swamp
+• 6 Mountain
+• 3 TBD Fixing Land[/i] => [i]Rare/Mythic [i](2)[/i]
+• 1x Joel, Burdened Protector
+• 1x Ellie, Spark of Hope
+Uncommon [i](6)[/i]
+• 2x Firefly Squadron
+• 2x Firefly Dispatcher
+• 2x Commandeered Tank
+Common [i](15)[/i]
+• 3x Ruin Looter
+• 2x Desperate Hunter
+• 3x Cornered Survivor
+• 3x Village Rites
+• 4x Shiv
+Basic and Common Lands [i](17)[/i]
+• 9 Swamp
+• 8 Mountain[/i]
+
+Abandoned Husk
+
+LOU Infected Decklist
+rules_text: [i]Rare/Mythic [i](2)[/i]
+• 1x Catacomb Clicker
+• 1x Mycotoxic Bloater
+Uncommon [i](6)[/i]
+• 2x Subway Stalker
+• 2x Ravenous Clicker
+• 2x Spreading Infection
+Common [i](15)[/i]
+• 4x Abandoned Husk
+• 4x Sporogenesis
+• 3x Cordyceps Hoard
+• 4x Devour
+Basic and Common Lands [i](17)[/i]
+• 6 Swamp
+• 8 Forest
+• 3 TBD Fixing Land[/i] => [i]Rare/Mythic [i](2)[/i]
+• 1x Catacomb Clicker
+• 1x Mycotoxic Bloater
+Uncommon [i](6)[/i]
+• 2x Spreading Infection
+• 2x Subway Stalker
+• 2x Ravenous Clicker
+Common [i](15)[/i]
+• 4x Abandoned Husk
+• 4x Sporogenesis
+• 3x Cordyceps Hoard
+• 4x Devour
+Basic and Common Lands [i](17)[/i]
+• 8 Swamp
+• 9 Forest[/i]
+
+Subway Stalker
+
+Devour
+
+SIDEBOARD CARD
+
+SIDEBOARD CARD
+
+Catacomb Clicker
+
+Rooftop Snipers
+
+Return to Nature
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
