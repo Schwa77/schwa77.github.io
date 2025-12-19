@@ -8393,7 +8393,7 @@
             "loyalty": "",
             "artist": "Hyoung Taek Nam",
             "alias": "",
-            "notes": "!group survivors\n!sort 14",
+            "notes": "!group survivors\n!sort 15",
             "image_type": "png"
         },
         {
@@ -8401,7 +8401,7 @@
             "color": "B",
             "rarity": "mythic",
             "type": "Legendary Creature \u2013 Human Rogue",
-            "number": 5,
+            "number": 6,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
             "rules_text": "Menace\nWhenever Joel deals combat damage to a player, return target Human card from your graveyard to the battlefield tapped with a finality counter on it. [i](If a creature with a finality counter on it would die, exile it instead.)[/i]",
@@ -8561,7 +8561,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 6,
+            "number": 7,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "As an additional cost to cast this spell, pay {4} or sacrifice an artifact or creature.\nDestroy target creature or planeswalker.",
@@ -8857,7 +8857,7 @@
             "image_type": "png"
         },
         {
-            "card_name": "SIDEBOARD CARD",
+            "card_name": "Survivors Sideboard Card",
             "color": "R",
             "rarity": "uncommon",
             "type": "",
@@ -8873,7 +8873,7 @@
             "loyalty": "",
             "artist": "Ondrej Soukup",
             "alias": "",
-            "notes": "https://www.deviantart.com/vitoss/art/Kill-him-Ellie-570241079\n\n!group survivors\n!sort 13",
+            "notes": "https://www.deviantart.com/vitoss/art/Kill-him-Ellie-570241079\n\n!group survivors\n!sort 14",
             "image_type": "png"
         },
         {
@@ -8893,15 +8893,15 @@
             "loyalty": "",
             "artist": "Brooke Huval",
             "alias": "",
-            "notes": "https://www.deviantart.com/notbysight1109/art/The-Last-Of-Us-428888493\n\nhttps://www.artstation.com/brookejarreauart\n\n!group survivors\n!sort 11",
+            "notes": "https://www.deviantart.com/notbysight1109/art/The-Last-Of-Us-428888493\n\nhttps://www.artstation.com/brookejarreauart\n\n!group survivors\n!sort 13",
             "image_type": "png"
         },
         {
-            "card_name": "SIDEBOARD CARD",
+            "card_name": "Infected Sideboard Card",
             "color": "B",
             "rarity": "common",
             "type": "",
-            "number": 7,
+            "number": 5,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "",
@@ -8953,7 +8953,7 @@
             "loyalty": "",
             "artist": "Romain Jouandeau",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/d0laG1\n\n!group survivors\n!sort 15",
+            "notes": "https://www.artstation.com/artwork/d0laG1\n\n!group survivors\n!sort 16",
             "image_type": "png"
         },
         {

@@ -8,7 +8,7 @@
     },
     {
         "card_name": "Joel, Burdened Protector",
-        "number": 5,
+        "number": 6,
         "shape": "normal",
         "set": "LOU",
         "position": ""
@@ -50,7 +50,7 @@
     },
     {
         "card_name": "Shiv",
-        "number": 6,
+        "number": 7,
         "shape": "normal",
         "set": "LOU",
         "position": ""
@@ -77,6 +77,13 @@
         "position": ""
     },
     {
+        "card_name": "Swamp",
+        "number": 27,
+        "shape": "normal",
+        "set": "LOU",
+        "position": ""
+    },
+    {
         "card_name": "Mountain",
         "number": 26,
         "shape": "normal",
@@ -84,8 +91,8 @@
         "position": ""
     },
     {
-        "card_name": "Swamp",
-        "number": 27,
+        "card_name": "Survivors Sideboard Card",
+        "number": 16,
         "shape": "normal",
         "set": "LOU",
         "position": ""
@@ -103,6 +110,18 @@
         "shape": "normal",
         "set": "LOU",
         "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -204,8 +223,8 @@
         "position": ""
     },
     {
-        "card_name": "SIDEBOARD CARD",
-        "number": 7,
+        "card_name": "Infected Sideboard Card",
+        "number": 5,
         "shape": "normal",
         "set": "LOU",
         "position": ""

@@ -1,4 +1,18 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Survivors Sideboard Card added.
+Infected Sideboard Card added.
+
+SIDEBOARD CARD removed.
+SIDEBOARD CARD removed.
+
+Duress
+
+Rooftop Snipers
+
+
+VERSION 2 CHANGELOG
 ====================
 
 
