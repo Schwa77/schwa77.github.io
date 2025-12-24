@@ -1,4 +1,527 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Candlelight Hexcrafter
+
+Grove Guardian
+
+Repel the Vile
+
+Tarnahm Brightbearer
+
+Dread Whispers
+
+Tarnahm Shadow
+
+Village Procession
+
+Shackled Straw
+
+Hallow Statue
+
+Determined Congregation
+
+Aminatou's Familiar
+
+Outlands Envoy
+
+Prized Longhorn
+
+Homestead Militia
+
+Convergence Beckoner
+
+Lost in the Stars
+
+World's Wings
+
+Gilded Travel
+
+Stillwater Respite
+
+Curious Hauntling
+
+Spectral Shepherd
+
+Deranged Cultist
+
+Gaping Revenant
+
+Haunting Watcher
+rules_text: Reap—{4}{U}{U}: This creature can't be blocked this turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i] => Reap — {4}{U}{U}: This creature can't be blocked this turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+
+Phantom Butler
+
+Syncopate
+
+Chilling Sight
+
+Discover the Reliquary
+
+Kiss of Frost
+
+Vanish
+
+Doomed Survivor
+
+Novice Occultist
+
+Ulderwild Sage
+
+Horde Encounter
+
+Clever Familiar
+
+Boglurker Thallid
+
+Elken Remains
+rules_text: Reap—{3}{B}: This creature gets +2/+0 and gains indestructible until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i] => Reap — {3}{B}: This creature gets +2/+0 and gains indestructible until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+
+Segmented Terror
+
+Feed the Swarm
+
+Necromancer's Lullaby
+
+Rise from Rot
+
+Harvest
+
+Truffle Forager
+
+Bloodgorger Beetle
+rules_text: Reap—{2}{R}: This creature gets +2/+0 until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i] => Reap — {2}{R}: This creature gets +2/+0 until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+
+Wild Witch
+
+Leafcrown Elk
+
+Tomebound Apprentice
+
+Witch Hunter
+
+Blightarrow Archer
+
+Bloodbirthed Crawler
+rules_text: Reach
+Reap—{4}{R}: This creature deals 2 damage to each opponent. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i] => Reach
+Reap — {4}{R}: This creature deals 2 damage to each opponent. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+
+Sundering the Tower
+
+Twisted Temptation
+
+Candlelight Ritual
+
+Narrow Exit
+
+Abrade
+
+Shrine Guardian
+
+Civic Gardener
+
+Sporechoke Myconid
+
+Carnivorous Seedling
+rules_text: Reap—{3}{G}: Put a +1/+1 counter on this creature. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i] => Reap — {3}{G}: Put a +1/+1 counter on this creature. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+
+Scion of Old Gods
+
+Jack's Pumpkinhead
+
+Ulderwild Recluse
+
+Gnarled Ironroot
+
+Inquisitive Jackalope
+
+Bountiful Orchard
+
+Ulderwild Animosity
+
+Ulderwild Clash
+
+Barkskin Blessing
+
+Haunt-Drawn Carriage
+
+Prophetic Prism
+
+Makeshift Wings
+
+Shambling Harvester
+rules_text: Reap—{4}: This creature gets +2/+2 until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i] => Reap — {4}: This creature gets +2/+2 until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+
+Sporecap Warden
+
+Eldritch Investigator
+
+Ulderwild Communer
+
+Velheart Ritualist
+rules_text: Reap—{1}{B}{R}: Put a +1/+1 counter on this creature. It deals 1 damage to each opponent. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i] => Reap — {1}{B}{R}: Put a +1/+1 counter on this creature. It deals 1 damage to each opponent. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+
+Grizzled Woodsman
+
+Bunnyback Messenger
+
+Avian Familiar
+
+Soultouch Spirit
+
+Ritual Amalgam
+
+Duskflight Tracker
+
+Blighted Angel
+
+Hivetender
+rules_text: Reap—{3}{W}: Create a 1/1 white Insect creature token with flying. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i] => Reap — {3}{W}: Create a 1/1 white Insect creature token with flying. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+
+Archon of Life's Return
+
+Dwarven Dreamwarden
+
+Seal Away
+
+Crescent Diviner
+
+Highborn Alchemist
+
+Great One's Nest
+
+Murktown Hunter
+rules_text: Reap—{1}{U}: Draw a card, then discard a card. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i] => Reap — {1}{U}: Draw a card, then discard a card. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+
+Winged Amalgam
+
+Lurholme Diviner
+
+Ulderwild Conductor
+
+Chained Phantom
+
+Wrapped in Spidersilk
+
+Thoughtgrind
+
+Repeating Replication
+
+Blossoming Shambler
+
+Old God's Faithful
+
+Devoted Aristocrat
+
+Ravenous Cockatrice
+
+Boneyard Haunt
+rules_text: Menace
+Reap—{3}{B}: Target opponent loses 3 life unless they sacrifice a nonland permanent of their choice or discard a card. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i] => Menace
+Reap — {3}{B}: Target opponent loses 3 life unless they sacrifice a nonland permanent of their choice or discard a card. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+
+Scared of the Dark
+
+Blow Away Dreams
+
+Bog Brew
+
+Lurholme Embershaper
+
+Massacre Dragon
+rules_text: Flying
+Reap—{1}{R}: This creature deals 1 damage to any target. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i] => Flying
+Reap — {1}{R}: This creature deals 1 damage to any target. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+
+Apprentice's Discovery
+
+Ulderwild Guardian
+
+Devastating Pyre
+
+Skeletal Inferno
+
+Ardent Embermage
+rules_text: Reap—{3}{R}: Put a +1/+1 counter on this creature. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+When this creature dies, it deals damage equal to its power to any target. => Reap — {3}{R}: Put a +1/+1 counter on this creature. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+When this creature dies, it deals damage equal to its power to any target.
+
+Embroiled in Conflict
+
+Hungering Briarbeast
+rules_text: Trample
+Reap—{4}{G}: Put two +1/+1 counters on this creature. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i] => Trample
+Reap — {4}{G}: Put two +1/+1 counters on this creature. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+
+Tender Vitalist
+
+Putrid Sludge
+
+Ulderwild Cartographer
+
+Orchard Caretaker
+
+Haunted Gravesite
+
+Great Witch's Boon
+
+Awaken the Ulderwild
+
+Flowering Wight
+rules_text: Reap—{2}{W}{W}: Put a +1/+1 counter on each of up to two target creatures. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i] => Reap — {2}{W}{W}: Put a +1/+1 counter on each of up to two target creatures. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+
+Archangel Tinea
+
+A New Day Rises
+
+Harvest Festival
+
+Ominous Lepiseraph
+
+Worldsong Conductor
+
+Twisted Choir
+
+Awakened Deus
+
+Lady Lurholme, Communer
+rules_text: Reap—{3}{U}: You may cast an instant or sorcery spell from your hand without paying its mana cost. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i] => Reap — {3}{U}: You may cast an instant or sorcery spell from your hand without paying its mana cost. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+
+Endless Insights
+
+Faceless Form
+
+Pallbearer's Lament
+
+Pactweaver Regent
+rules_text: Ward—Pay 7 life.
+Reap—{3}{B}{B}: Search your library for a card, put it into your hand, then shuffle. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i] => Ward—Pay 7 life.
+Reap — {3}{B}{B}: Search your library for a card, put it into your hand, then shuffle. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+
+Cult Following
+
+Voracia, Dreamstalker
+
+All-Seeing Lurker
+
+Nightmare Whispers
+
+Nightshroud Steed
+
+Sleepwalk
+
+Lifeblood Ritual
+
+Autumnal Wish
+
+Encroaching Convergence
+
+Prossa, Midnight Flame
+
+Jack's Ire
+
+Dusklight Frolicking
+
+Starscape Phoenix
+
+Approach the Eye
+
+Condemned Lupine
+
+Moonlight Witch
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Reap—{3}{R}: Discard your hand, then draw two cards. [i](Activate this ability only once each turn as a sorcery. It costs {0} if a creature died this turn.)[/i] => Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Reap — {3}{R}: Discard your hand, then draw two cards. [i](Activate this ability only once each turn as a sorcery. It costs {0} if a creature died this turn.)[/i]
+
+Horizon Eater
+
+Druidic Summons
+
+Consuming Slimetide
+rules_text: Ward {2}
+Other Oozes you control have ward {2}.
+Reap—{3}{G}: Create a 3/3 green Ooze creature token. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i] => Ward {2}
+Other Oozes you control have ward {2}.
+Reap — {3}{G}: Create a 3/3 green Ooze creature token. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+
+Convergence Thaumaturge
+
+Eldritch Deluge
+
+Surula, Swarm's Song
+
+Portal Summoning
+
+Things in the Wake
+
+Adler, Midnight Architect
+rules_text:  => [+1]: Up to one target creature you control gets +2/+0 and can't be blocked this turn. At the beginning of your end step, return it to its owner's hand.
+[-2]: Discard your hand, then draw X cards, where X is the number of spells you've cast this turn.
+[-6]: You get an emblem with “You may cast spells with mana value 3 or less without paying their mana costs.”
+
+Aminatou, Loreweaver
+rules_text:  => [+1]: Exile up to one other permanent you control until Aminatou leaves the battlefield.
+[0]: Return each permanent card exiled with Aminatou to the battlefield under your control. You gain life equal to their total mana value.
+[-X]: Exile target nontoken creature with mana value X or less.
+
+Deeptomb Caller
+
+Flayed Hellkite
+
+Bramblefiend
+
+Visions of Devastation
+
+Jack, the Exterminator
+rules_text:  => Reap — {2}{B}{G}: You may activate Jack's loyalty abilities twice this turn rather than once. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+[+1]: Mill two cards, then you may return a land card from your graveyard to your hand.
+[-2]: You may discard a creature card. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle.
+[-5]: Return target creature card from your graveyard to the battlefield.
+special_text: Reap—{2}{B}{G}: You may activate Jack's loyalty abilities twice this turn rather than once. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+[+1]: Mill two cards, then you may return a land card from your graveyard to your hand.
+[-2]: You may discard a creature card. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle.
+[-5]: Return target creature card from your graveyard to the battlefield. => Reap — {2}{B}{G}: You may activate Jack's loyalty abilities twice this turn rather than once. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+[+1]: Mill two cards, then you may return a land card from your graveyard to your hand.
+[-2]: You may discard a creature card. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle.
+[-5]: Return target creature card from your graveyard to the battlefield.
+
+Knight of Autumn
+
+Madeline, the Lifestitcher
+
+Vecri, Plague Alchemist
+
+Aminatou's Gift
+
+Roving Monolith
+
+Creeping Cabin
+rules_text: {T}: Add {C}.
+Reap—{3}: This land becomes a 2/3 Nightmare creature with menace until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i] => {T}: Add {C}.
+Reap — {3}: This land becomes a 2/3 Nightmare creature with menace until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+
+Fatespinning
+
+Infested Hearse
+rules_text: Whenever another creature you control dies, this Vehicle deals 1 damage to each opponent.
+Reap—{2}: This Vehicle becomes an artifact creature until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i] => Whenever another creature you control dies, this Vehicle deals 1 damage to each opponent.
+Reap — {2}: This Vehicle becomes an artifact creature until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+
+Stoneskin Gargoyle
+rules_text: Flying, defender
+Reap—{4}: This creature can attack this turn as though it didn't have defender. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i] => Flying, defender
+Reap — {4}: This creature can attack this turn as though it didn't have defender. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+
+Harvester's Scythe
+rules_text: Equipped creature gets +1/+1 and can't be blocked by creatures with flying.
+Reap—{2}: Attach this Equipment to target creature you control. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i] => Equipped creature gets +1/+1 and can't be blocked by creatures with flying.
+Reap — {2}: Attach this Equipment to target creature you control. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+
+Raven Roosts
+
+Unknown Seas
+
+Mossy Ulderhulk
+rules_text: Each other creature you control that's a Plant, Fungus, Saproling, or Treefolk gets +1/+1.
+Reap—{2}{G}: Exile three other cards from your graveyard. When you do, return this card from your graveyard to your hand. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i] => Each other creature you control that's a Plant, Fungus, Saproling, or Treefolk gets +1/+1.
+Reap — {2}{G}: Exile three other cards from your graveyard. When you do, return this card from your graveyard to your hand. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+
+Melancholy
+
+Quarrel
+
+Growth
+
+Forgiveness
+
+Fright
+
+Repentant Wanderer
+
+Autumn's Bounty
+
+Lurholme Sickle
+
+Witherweep, Thallid Herald
+
+Dance of the Dryads
+
+Bonehewn Geistkiln
+
+Bloom Surge
+
+Ronwena, Great Witch
+
+Obliterating Bolt
+
+Terran, Witch Killer
+
+Wickerwing Witch
+
+June, Cursed and Hunted
+
+Ulderwild Haunt
+
+Hooded Amalgam
+
+Bitterbone Horror
+rules_text: Whenever another nontoken creature you control dies, you draw a card and lose 1 life.
+Reap—{2}{B}{B}: Target creature gains flying, deathtouch, and lifelink until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i] => Whenever another nontoken creature you control dies, you draw a card and lose 1 life.
+Reap — {2}{B}{B}: Target creature gains flying, deathtouch, and lifelink until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+
+Cleric
+
+Human (1)
+
+Bird
+
+Zombie
+
+Elemental
+
+Human Warlock
+
+Ooze
+
+Wolf Token (M20)
+
+Treasure
+
+Horror
+
+Demon (M20)
+
+Spirit
+
+Insect Angel
+
+Fungus
+
+Witherweep's Vanguard
+
+Aviomancer
+
+Insect
+
+Copy
+
+Treefolk
+
+Hearthflame Colossus
+
+Adler, Midnight Architect Emblem
+
+Unbroken Resolve
+
+Disruptor Strix
+
+Human (2)
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

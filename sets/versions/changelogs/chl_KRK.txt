@@ -1,4 +1,18 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Abyssal Breach added.
+
+Devour removed.
+
+Marquisian Enforcer
+
+Kelpscale Serpent
+
+Parry
+
+
+VERSION 3 CHANGELOG
 ====================
 
 
