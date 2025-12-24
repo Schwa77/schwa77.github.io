@@ -1,0 +1,767 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/IMM-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>IMM visual preview</title>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('/resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 5%;
+			width: fit-content;
+			max-width: 90%;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: grid;
+			grid-template-columns: 1fr;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/IMM-files/logo.png" />
+	<img class="preload-hidden" src="/sets/KRK-files/icon.png" />
+		<img class="preload-hidden" src="/sets/MOX-files/icon.png" />
+		<img class="preload-hidden" src="/sets/GS2-files/icon.png" />
+		<img class="preload-hidden" src="/sets/JPK-files/icon.png" />
+		<img class="preload-hidden" src="/sets/STW-files/icon.png" />
+		<img class="preload-hidden" src="/sets/X24-files/icon.png" />
+		<img class="preload-hidden" src="/sets/X25-files/icon.png" />
+		<img class="preload-hidden" src="/sets/LOU-files/icon.png" />
+		<img class="preload-hidden" src="/sets/MRV-files/icon.png" />
+		<img class="preload-hidden" src="/sets/JMV-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="IMM"><img src="/sets/IMM-files/icon.png">Immesium: Shards of Everywhen</a>
+	
+		<a class="set-bar inactive" href="KRK"><img src="/sets/KRK-files/icon.png">Seas of Krakonos</a>
+	
+		<a class="set-bar inactive" href="MOX"><img src="/sets/MOX-files/icon.png">Midnight Omens of Xogoa</a>
+	
+		<a class="set-bar inactive" href="GS2"><img src="/sets/GS2-files/icon.png">Global Series 2</a>
+	
+		<a class="set-bar inactive" href="JPK"><img src="/sets/JPK-files/icon.png">Pokémon Trainer Jumpstart</a>
+	
+		<a class="set-bar inactive" href="STW"><img src="/sets/STW-files/icon.png">Star Wars Microset</a>
+	
+		<a class="set-bar inactive" href="X24"><img src="/sets/X24-files/icon.png">Moxtober 2024</a>
+	
+		<a class="set-bar inactive" href="X25"><img src="/sets/X25-files/icon.png">Moxtober 2025</a>
+	
+		<a class="set-bar inactive" href="LOU"><img src="/sets/LOU-files/icon.png">Primordial Precons: The Last of Us</a>
+	
+		<a class="set-bar inactive" href="MRV"><img src="/sets/MRV-files/icon.png">MRV-1610: The Reboot Edition</a>
+	
+		<a class="set-bar inactive" href="JMV"><img src="/sets/JMV-files/icon.png">Marvel Jumpstart</a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/IMM-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\13_Esia, Overseer of Everywhen.png" id="13_Esia, Overseer of Everywhen" data-flag="@X" onclick="openSidebar('13_Esia, Overseer of Everywhen',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\56_Gaston, Time on His Hands.png" id="56_Gaston, Time on His Hands" data-flag="@X" onclick="openSidebar('56_Gaston, Time on His Hands',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\105_Rieze, Lord of All Times.png" id="105_Rieze, Lord of All Times" data-flag="@X" onclick="openSidebar('105_Rieze, Lord of All Times',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\129_The Fighting Will Never Cease.png" id="129_The Fighting Will Never Cease" data-flag="@X" onclick="openSidebar('129_The Fighting Will Never Cease',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\158_Aethermerge Byproduct.png" id="158_Aethermerge Byproduct" data-flag="@X" onclick="openSidebar('158_Aethermerge Byproduct',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\16_Explore the Between.png" id="16_Explore the Between" data-flag="@X" onclick="openSidebar('16_Explore the Between',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\59_Immesium Convergence.png" id="59_Immesium Convergence" data-flag="@X" onclick="openSidebar('59_Immesium Convergence',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\119_We're Out of Time.png" id="119_Were Out of Time" data-flag="@X" onclick="openSidebar('119_Were Out of Time',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\151_Toma, Hands of the Clock.png" id="151_Toma, Hands of the Clock" data-flag="@X" onclick="openSidebar('151_Toma, Hands of the Clock',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\162_The Dead Never Died.png" id="162_The Dead Never Died" data-flag="@X" onclick="openSidebar('162_The Dead Never Died',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\8_Chronostaller.png" id="8_Chronostaller" data-flag="@X" onclick="openSidebar('8_Chronostaller',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\46_Bollar, Seam Ripper.png" id="46_Bollar, Seam Ripper" data-flag="@X" onclick="openSidebar('46_Bollar, Seam Ripper',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\82_Algier, Seconds to None.png" id="82_Algier, Seconds to None" data-flag="@X" onclick="openSidebar('82_Algier, Seconds to None',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\120_Anytime Killer.png" id="120_Anytime Killer" data-flag="@X" onclick="openSidebar('120_Anytime Killer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\160_Ancient Lands Reemerge.png" id="160_Ancient Lands Reemerge" data-flag="@X" onclick="openSidebar('160_Ancient Lands Reemerge',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\10_Demanding Mentor.png" id="10_Demanding Mentor" data-flag="@X" onclick="openSidebar('10_Demanding Mentor',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\51_Delay.png" id="51_Delay" data-flag="@X" onclick="openSidebar('51_Delay',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\83_All-Era Amalgam.png" id="83_All-Era Amalgam" data-flag="@X" onclick="openSidebar('83_All-Era Amalgam',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\123_Disaster Becomes Eternal.png" id="123_Disaster Becomes Eternal" data-flag="@X" onclick="openSidebar('123_Disaster Becomes Eternal',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\164_Ever-Lengthening Express.png" id="164_Ever-Lengthening Express" data-flag="@X" onclick="openSidebar('164_Ever-Lengthening Express',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\12_Doubletimer.png" id="12_Doubletimer" data-flag="@X" onclick="openSidebar('12_Doubletimer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\58_Hournado.png" id="58_Hournado" data-flag="@X" onclick="openSidebar('58_Hournado',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\85_A Darkness Beyond Time.png" id="85_A Darkness Beyond Time" data-flag="@X" onclick="openSidebar('85_A Darkness Beyond Time',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\126_Doctor of Gigawatts.png" id="126_Doctor of Gigawatts" data-flag="@X" onclick="openSidebar('126_Doctor of Gigawatts',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\169_First Era Separatists.png" id="169_First Era Separatists" data-flag="@X" onclick="openSidebar('169_First Era Separatists',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\17_Exploring the Convergence.png" id="17_Exploring the Convergence" data-flag="@X" onclick="openSidebar('17_Exploring the Convergence',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\63_Lost Knowledge Returns.png" id="63_Lost Knowledge Returns" data-flag="@X" onclick="openSidebar('63_Lost Knowledge Returns',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\89_Eras Tour Guide.png" id="89_Eras Tour Guide" data-flag="@X" onclick="openSidebar('89_Eras Tour Guide',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\135_Mage of the Broken Hourglass.png" id="135_Mage of the Broken Hourglass" data-flag="@X" onclick="openSidebar('135_Mage of the Broken Hourglass',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\175_I Cannot Forget.png" id="175_I Cannot Forget" data-flag="@X" onclick="openSidebar('175_I Cannot Forget',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\21_Fragment of Multitudes.png" id="21_Fragment of Multitudes" data-flag="@X" onclick="openSidebar('21_Fragment of Multitudes',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\71_Scourge of Ancient Seas.png" id="71_Scourge of Ancient Seas" data-flag="@X" onclick="openSidebar('71_Scourge of Ancient Seas',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\90_Erase From History.png" id="90_Erase From History" data-flag="@X" onclick="openSidebar('90_Erase From History',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\138_Moments Slip By.png" id="138_Moments Slip By" data-flag="@X" onclick="openSidebar('138_Moments Slip By',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\180_Neoceratops.png" id="180_Neoceratops" data-flag="@X" onclick="openSidebar('180_Neoceratops',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\31_Search Through Time.png" id="31_Search Through Time" data-flag="@X" onclick="openSidebar('31_Search Through Time',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\73_Still the Sands.png" id="73_Still the Sands" data-flag="@X" onclick="openSidebar('73_Still the Sands',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\100_Our End is Inevitable.png" id="100_Our End is Inevitable" data-flag="@X" onclick="openSidebar('100_Our End is Inevitable',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\152_Triple Barrel.png" id="152_Triple Barrel" data-flag="@X" onclick="openSidebar('152_Triple Barrel',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\186_Snaplodon.png" id="186_Snaplodon" data-flag="@X" onclick="openSidebar('186_Snaplodon',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\41_Veri, Fifth Era Timemapper.png" id="41_Veri, Fifth Era Timemapper" data-flag="@X" onclick="openSidebar('41_Veri, Fifth Era Timemapper',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\78_Unreliable Memory.png" id="78_Unreliable Memory" data-flag="@X" onclick="openSidebar('78_Unreliable Memory',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\111_They Break Through Time.png" id="111_They Break Through Time" data-flag="@X" onclick="openSidebar('111_They Break Through Time',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\153_Unwavering Fist.png" id="153_Unwavering Fist" data-flag="@X" onclick="openSidebar('153_Unwavering Fist',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\195_Zoe, History Seeker.png" id="195_Zoe, History Seeker" data-flag="@X" onclick="openSidebar('195_Zoe, History Seeker',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\6_Ancient Champion.png" id="6_Ancient Champion" data-flag="@X" onclick="openSidebar('6_Ancient Champion',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\44_Ancient Knowledge.png" id="44_Ancient Knowledge" data-flag="@X" onclick="openSidebar('44_Ancient Knowledge',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\84_The Best of Us Will Fall.png" id="84_The Best of Us Will Fall" data-flag="@X" onclick="openSidebar('84_The Best of Us Will Fall',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\121_Bullet Time.png" id="121_Bullet Time" data-flag="@X" onclick="openSidebar('121_Bullet Time',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\166_Fifth Era Mechanic.png" id="166_Fifth Era Mechanic" data-flag="@X" onclick="openSidebar('166_Fifth Era Mechanic',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\7_Beloved First Creation.png" id="7_Beloved First Creation" data-flag="@X" onclick="openSidebar('7_Beloved First Creation',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\49_Catolossus City-Tipper.png" id="49_Catolossus City-Tipper" data-flag="@X" onclick="openSidebar('49_Catolossus City-Tipper',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\88_Doomshard Prophet.png" id="88_Doomshard Prophet" data-flag="@X" onclick="openSidebar('88_Doomshard Prophet',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\122_Canonball.png" id="122_Canonball" data-flag="@X" onclick="openSidebar('122_Canonball',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\170_First Era Timesavers.png" id="170_First Era Timesavers" data-flag="@X" onclick="openSidebar('170_First Era Timesavers',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\14_Esian Fatechanger.png" id="14_Esian Fatechanger" data-flag="@X" onclick="openSidebar('14_Esian Fatechanger',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\52_Everyman 2.0.png" id="52_Everyman 2.0" data-flag="@X" onclick="openSidebar('52_Everyman 2.0',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\91_The Feast Begins.png" id="91_The Feast Begins" data-flag="@X" onclick="openSidebar('91_The Feast Begins',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\133_Inciting Whispers.png" id="133_Inciting Whispers" data-flag="@X" onclick="openSidebar('133_Inciting Whispers',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\171_Fourth Era Separatist.png" id="171_Fourth Era Separatist" data-flag="@X" onclick="openSidebar('171_Fourth Era Separatist',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\20_Fourth Era Bird's-Eye.png" id="20_Fourth Era Birds-Eye" data-flag="@X" onclick="openSidebar('20_Fourth Era Birds-Eye',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\53_Fifth Era Bombardier.png" id="53_Fifth Era Bombardier" data-flag="@X" onclick="openSidebar('53_Fifth Era Bombardier',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\94_Live Out Your Life Elsewhen.png" id="94_Live Out Your Life Elsewhen" data-flag="@X" onclick="openSidebar('94_Live Out Your Life Elsewhen',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\136_Mergist Calvaryman.png" id="136_Mergist Calvaryman" data-flag="@X" onclick="openSidebar('136_Mergist Calvaryman',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\173_Horrifying Strength.png" id="173_Horrifying Strength" data-flag="@X" onclick="openSidebar('173_Horrifying Strength',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\22_Happy Hour.png" id="22_Happy Hour" data-flag="@X" onclick="openSidebar('22_Happy Hour',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\57_Hole Between Eras.png" id="57_Hole Between Eras" data-flag="@X" onclick="openSidebar('57_Hole Between Eras',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\97_Modern Malice.png" id="97_Modern Malice" data-flag="@X" onclick="openSidebar('97_Modern Malice',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\139_Possibility Collector.png" id="139_Possibility Collector" data-flag="@X" onclick="openSidebar('139_Possibility Collector',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\174_Hunter-Gatherer.png" id="174_Hunter-Gatherer" data-flag="@X" onclick="openSidebar('174_Hunter-Gatherer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\24_Hunted Rocketeer.png" id="24_Hunted Rocketeer" data-flag="@X" onclick="openSidebar('24_Hunted Rocketeer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\60_Inflection Point.png" id="60_Inflection Point" data-flag="@X" onclick="openSidebar('60_Inflection Point',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\101_Paradox Digger.png" id="101_Paradox Digger" data-flag="@X" onclick="openSidebar('101_Paradox Digger',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\140_Raging Separatist.png" id="140_Raging Separatist" data-flag="@X" onclick="openSidebar('140_Raging Separatist',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\177_Liminal Respite.png" id="177_Liminal Respite" data-flag="@X" onclick="openSidebar('177_Liminal Respite',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\25_Lost to Time.png" id="25_Lost to Time" data-flag="@X" onclick="openSidebar('25_Lost to Time',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\65_Nexus Elemental.png" id="65_Nexus Elemental" data-flag="@X" onclick="openSidebar('65_Nexus Elemental',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\102_Peer Through the Cracks.png" id="102_Peer Through the Cracks" data-flag="@X" onclick="openSidebar('102_Peer Through the Cracks',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\142_Scavenger of Exotic Flavors.png" id="142_Scavenger of Exotic Flavors" data-flag="@X" onclick="openSidebar('142_Scavenger of Exotic Flavors',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\181_Road to Somewhen.png" id="181_Road to Somewhen" data-flag="@X" onclick="openSidebar('181_Road to Somewhen',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\26_March Through Minutes.png" id="26_March Through Minutes" data-flag="@X" onclick="openSidebar('26_March Through Minutes',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\66_Paradox Portent.png" id="66_Paradox Portent" data-flag="@X" onclick="openSidebar('66_Paradox Portent',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\103_Redying Looper.png" id="103_Redying Looper" data-flag="@X" onclick="openSidebar('103_Redying Looper',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\144_Shadow Lightning.png" id="144_Shadow Lightning" data-flag="@X" onclick="openSidebar('144_Shadow Lightning',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\182_Second Era Artisan.png" id="182_Second Era Artisan" data-flag="@X" onclick="openSidebar('182_Second Era Artisan',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\29_No Rest.png" id="29_No Rest" data-flag="@X" onclick="openSidebar('29_No Rest',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\68_Primal Reversion.png" id="68_Primal Reversion" data-flag="@X" onclick="openSidebar('68_Primal Reversion',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\104_Relativistic Loop.png" id="104_Relativistic Loop" data-flag="@X" onclick="openSidebar('104_Relativistic Loop',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\145_Shardbeast Sprinter.png" id="145_Shardbeast Sprinter" data-flag="@X" onclick="openSidebar('145_Shardbeast Sprinter',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\185_Shoreseeker.png" id="185_Shoreseeker" data-flag="@X" onclick="openSidebar('185_Shoreseeker',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\32_Second Era Dollmaker.png" id="32_Second Era Dollmaker" data-flag="@X" onclick="openSidebar('32_Second Era Dollmaker',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\70_Scare Away.png" id="70_Scare Away" data-flag="@X" onclick="openSidebar('70_Scare Away',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\106_Silkstring Puppeteer.png" id="106_Silkstring Puppeteer" data-flag="@X" onclick="openSidebar('106_Silkstring Puppeteer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\146_Sky Viper.png" id="146_Sky Viper" data-flag="@X" onclick="openSidebar('146_Sky Viper',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\187_There is Evil Within Us.png" id="187_There is Evil Within Us" data-flag="@X" onclick="openSidebar('187_There is Evil Within Us',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\33_Seventh Era Commando.png" id="33_Seventh Era Commando" data-flag="@X" onclick="openSidebar('33_Seventh Era Commando',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\72_Scouting Expedition.png" id="72_Scouting Expedition" data-flag="@X" onclick="openSidebar('72_Scouting Expedition',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\107_Sinister Shardwing.png" id="107_Sinister Shardwing" data-flag="@X" onclick="openSidebar('107_Sinister Shardwing',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\149_Their Power is Beyond Reason.png" id="149_Their Power is Beyond Reason" data-flag="@X" onclick="openSidebar('149_Their Power is Beyond Reason',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\189_Time Cruncher.png" id="189_Time Cruncher" data-flag="@X" onclick="openSidebar('189_Time Cruncher',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\35_Shardwielder.png" id="35_Shardwielder" data-flag="@X" onclick="openSidebar('35_Shardwielder',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\79_Veri's Eyes.png" id="79_Veris Eyes" data-flag="@X" onclick="openSidebar('79_Veris Eyes',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\109_Skyline Tyrant.png" id="109_Skyline Tyrant" data-flag="@X" onclick="openSidebar('109_Skyline Tyrant',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\154_Variants of Fate.png" id="154_Variants of Fate" data-flag="@X" onclick="openSidebar('154_Variants of Fate',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\190_Timeforge Stabilizers.png" id="190_Timeforge Stabilizers" data-flag="@X" onclick="openSidebar('190_Timeforge Stabilizers',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\37_Soulskimmer.png" id="37_Soulskimmer" data-flag="@X" onclick="openSidebar('37_Soulskimmer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\80_Watcher from the Eighth Era.png" id="80_Watcher from the Eighth Era" data-flag="@X" onclick="openSidebar('80_Watcher from the Eighth Era',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\114_Thing Behind You.png" id="114_Thing Behind You" data-flag="@X" onclick="openSidebar('114_Thing Behind You',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\155_Walls Are Not Enough.png" id="155_Walls Are Not Enough" data-flag="@X" onclick="openSidebar('155_Walls Are Not Enough',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\191_Violence is Their Nature.png" id="191_Violence is Their Nature" data-flag="@X" onclick="openSidebar('191_Violence is Their Nature',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\43_Wings of the Ephemeral.png" id="43_Wings of the Ephemeral" data-flag="@X" onclick="openSidebar('43_Wings of the Ephemeral',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\81_We Cling to False Hopes.png" id="81_We Cling to False Hopes" data-flag="@X" onclick="openSidebar('81_We Cling to False Hopes',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\118_The Truth is Horrifying.png" id="118_The Truth is Horrifying" data-flag="@X" onclick="openSidebar('118_The Truth is Horrifying',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\157_We Will Relinquish All.png" id="157_We Will Relinquish All" data-flag="@X" onclick="openSidebar('157_We Will Relinquish All',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\192_Voice for Once-Dead Echoes.png" id="192_Voice for Once-Dead Echoes" data-flag="@X" onclick="openSidebar('192_Voice for Once-Dead Echoes',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\9_Crash in the Past.png" id="9_Crash in the Past" data-flag="@X" onclick="openSidebar('9_Crash in the Past',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\45_Ancient Lunadactyl.png" id="45_Ancient Lunadactyl" data-flag="@X" onclick="openSidebar('45_Ancient Lunadactyl',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\86_Defy Fate.png" id="86_Defy Fate" data-flag="@X" onclick="openSidebar('86_Defy Fate',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\124_Discoverer of Firearms.png" id="124_Discoverer of Firearms" data-flag="@X" onclick="openSidebar('124_Discoverer of Firearms',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\159_Ancient Hunter.png" id="159_Ancient Hunter" data-flag="@X" onclick="openSidebar('159_Ancient Hunter',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\11_Displaced Ones.png" id="11_Displaced Ones" data-flag="@X" onclick="openSidebar('11_Displaced Ones',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\47_Cancrixie.png" id="47_Cancrixie" data-flag="@X" onclick="openSidebar('47_Cancrixie',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\87_Disdainful Separatist.png" id="87_Disdainful Separatist" data-flag="@X" onclick="openSidebar('87_Disdainful Separatist',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\125_Disgruntled Centurion.png" id="125_Disgruntled Centurion" data-flag="@X" onclick="openSidebar('125_Disgruntled Centurion',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\161_Bite Out of Time.png" id="161_Bite Out of Time" data-flag="@X" onclick="openSidebar('161_Bite Out of Time',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\15_Ever-Growing Flock.png" id="15_Ever-Growing Flock" data-flag="@X" onclick="openSidebar('15_Ever-Growing Flock',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\48_Careless Chronologist.png" id="48_Careless Chronologist" data-flag="@X" onclick="openSidebar('48_Careless Chronologist',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\92_First Era Doomsayer.png" id="92_First Era Doomsayer" data-flag="@X" onclick="openSidebar('92_First Era Doomsayer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\127_Enthusiastic Volunteer.png" id="127_Enthusiastic Volunteer" data-flag="@X" onclick="openSidebar('127_Enthusiastic Volunteer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\163_Downtime.png" id="163_Downtime" data-flag="@X" onclick="openSidebar('163_Downtime',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\18_First Era Stalkers.png" id="18_First Era Stalkers" data-flag="@X" onclick="openSidebar('18_First Era Stalkers',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\50_Chronospecimen Collector.png" id="50_Chronospecimen Collector" data-flag="@X" onclick="openSidebar('50_Chronospecimen Collector',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\93_Horrible End.png" id="93_Horrible End" data-flag="@X" onclick="openSidebar('93_Horrible End',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\128_Fifth Era Shardjumper.png" id="128_Fifth Era Shardjumper" data-flag="@X" onclick="openSidebar('128_Fifth Era Shardjumper',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\165_Fear Looms Large.png" id="165_Fear Looms Large" data-flag="@X" onclick="openSidebar('165_Fear Looms Large',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\19_Flip It and Reverse It.png" id="19_Flip It and Reverse It" data-flag="@X" onclick="openSidebar('19_Flip It and Reverse It',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\54_First Era Brineosaurus.png" id="54_First Era Brineosaurus" data-flag="@X" onclick="openSidebar('54_First Era Brineosaurus',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\95_Mergist Scavengers.png" id="95_Mergist Scavengers" data-flag="@X" onclick="openSidebar('95_Mergist Scavengers',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\130_First Era Herdmaster.png" id="130_First Era Herdmaster" data-flag="@X" onclick="openSidebar('130_First Era Herdmaster',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\167_First Era Firemaker.png" id="167_First Era Firemaker" data-flag="@X" onclick="openSidebar('167_First Era Firemaker',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\23_Hare Raiser.png" id="23_Hare Raiser" data-flag="@X" onclick="openSidebar('23_Hare Raiser',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\55_First Era Pterrorizer.png" id="55_First Era Pterrorizer" data-flag="@X" onclick="openSidebar('55_First Era Pterrorizer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\96_Middle Manager Mergist.png" id="96_Middle Manager Mergist" data-flag="@X" onclick="openSidebar('96_Middle Manager Mergist',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\131_Flesh-Prison Escapee.png" id="131_Flesh-Prison Escapee" data-flag="@X" onclick="openSidebar('131_Flesh-Prison Escapee',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\168_First Era Mammoth.png" id="168_First Era Mammoth" data-flag="@X" onclick="openSidebar('168_First Era Mammoth',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\27_Mergist Shepherd.png" id="27_Mergist Shepherd" data-flag="@X" onclick="openSidebar('27_Mergist Shepherd',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\61_It Knows.png" id="61_It Knows" data-flag="@X" onclick="openSidebar('61_It Knows',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\98_Moment Before Disaster.png" id="98_Moment Before Disaster" data-flag="@X" onclick="openSidebar('98_Moment Before Disaster',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\132_Getoutta Dodge.png" id="132_Getoutta Dodge" data-flag="@X" onclick="openSidebar('132_Getoutta Dodge',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\172_Harrowing Reformation.png" id="172_Harrowing Reformation" data-flag="@X" onclick="openSidebar('172_Harrowing Reformation',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\28_News Van.png" id="28_News Van" data-flag="@X" onclick="openSidebar('28_News Van',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\62_Lost Again and Again.png" id="62_Lost Again and Again" data-flag="@X" onclick="openSidebar('62_Lost Again and Again',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\99_Mysteries Unravel and So Do I.png" id="99_Mysteries Unravel and So Do I" data-flag="@X" onclick="openSidebar('99_Mysteries Unravel and So Do I',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\134_Interchronal Salvo.png" id="134_Interchronal Salvo" data-flag="@X" onclick="openSidebar('134_Interchronal Salvo',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\176_Invading Shardbeast.png" id="176_Invading Shardbeast" data-flag="@X" onclick="openSidebar('176_Invading Shardbeast',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\30_Regrets Weigh Heavily.png" id="30_Regrets Weigh Heavily" data-flag="@X" onclick="openSidebar('30_Regrets Weigh Heavily',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\64_A New Beginning.png" id="64_A New Beginning" data-flag="@X" onclick="openSidebar('64_A New Beginning',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\108_Sinuous Shardbeast.png" id="108_Sinuous Shardbeast" data-flag="@X" onclick="openSidebar('108_Sinuous Shardbeast',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\137_Mergist Scoundrel.png" id="137_Mergist Scoundrel" data-flag="@X" onclick="openSidebar('137_Mergist Scoundrel',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\178_Mergist Recon Squad.png" id="178_Mergist Recon Squad" data-flag="@X" onclick="openSidebar('178_Mergist Recon Squad',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\34_Seventh Era Rocketeers.png" id="34_Seventh Era Rocketeers" data-flag="@X" onclick="openSidebar('34_Seventh Era Rocketeers',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\67_Paradox Prevention.png" id="67_Paradox Prevention" data-flag="@X" onclick="openSidebar('67_Paradox Prevention',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\110_Steampack Pioneer.png" id="110_Steampack Pioneer" data-flag="@X" onclick="openSidebar('110_Steampack Pioneer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\141_Savage Seconds.png" id="141_Savage Seconds" data-flag="@X" onclick="openSidebar('141_Savage Seconds',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\179_Migratiming Spineherd.png" id="179_Migratiming Spineherd" data-flag="@X" onclick="openSidebar('179_Migratiming Spineherd',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\36_Skyfish.png" id="36_Skyfish" data-flag="@X" onclick="openSidebar('36_Skyfish',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\69_Reschedule.png" id="69_Reschedule" data-flag="@X" onclick="openSidebar('69_Reschedule',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\112_They Leave Us No Sanctuary.png" id="112_They Leave Us No Sanctuary" data-flag="@X" onclick="openSidebar('112_They Leave Us No Sanctuary',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\143_Second Era Gossipers.png" id="143_Second Era Gossipers" data-flag="@X" onclick="openSidebar('143_Second Era Gossipers',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\183_Shadowed Separatist.png" id="183_Shadowed Separatist" data-flag="@X" onclick="openSidebar('183_Shadowed Separatist',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\38_Third Era Clockwatcher.png" id="38_Third Era Clockwatcher" data-flag="@X" onclick="openSidebar('38_Third Era Clockwatcher',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\74_Temporal Theoretician.png" id="74_Temporal Theoretician" data-flag="@X" onclick="openSidebar('74_Temporal Theoretician',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\113_They Were Always Coming.png" id="113_They Were Always Coming" data-flag="@X" onclick="openSidebar('113_They Were Always Coming',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\147_Steel Meal.png" id="147_Steel Meal" data-flag="@X" onclick="openSidebar('147_Steel Meal',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\184_Shardbeast Seeker.png" id="184_Shardbeast Seeker" data-flag="@X" onclick="openSidebar('184_Shardbeast Seeker',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\39_Third Era Marshals.png" id="39_Third Era Marshals" data-flag="@X" onclick="openSidebar('39_Third Era Marshals',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\75_Temportal Technomancer.png" id="75_Temportal Technomancer" data-flag="@X" onclick="openSidebar('75_Temportal Technomancer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\115_This is a Bad Time.png" id="115_This is a Bad Time" data-flag="@X" onclick="openSidebar('115_This is a Bad Time',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\148_Temporal Tag-Team.png" id="148_Temporal Tag-Team" data-flag="@X" onclick="openSidebar('148_Temporal Tag-Team',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\188_Thunderhoof Chariot.png" id="188_Thunderhoof Chariot" data-flag="@X" onclick="openSidebar('188_Thunderhoof Chariot',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\40_Timejump Tester.png" id="40_Timejump Tester" data-flag="@X" onclick="openSidebar('40_Timejump Tester',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\76_They Are Watching.png" id="76_They Are Watching" data-flag="@X" onclick="openSidebar('76_They Are Watching',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\116_Timeworn Sharpshot.png" id="116_Timeworn Sharpshot" data-flag="@X" onclick="openSidebar('116_Timeworn Sharpshot',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\150_They Know Not of Mercy.png" id="150_They Know Not of Mercy" data-flag="@X" onclick="openSidebar('150_They Know Not of Mercy',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\193_Watchvines.png" id="193_Watchvines" data-flag="@X" onclick="openSidebar('193_Watchvines',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\42_When Am I.png" id="42_When Am I" data-flag="@X" onclick="openSidebar('42_When Am I',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\77_Thinking With Portals.png" id="77_Thinking With Portals" data-flag="@X" onclick="openSidebar('77_Thinking With Portals',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\117_Tomorrow Eater.png" id="117_Tomorrow Eater" data-flag="@X" onclick="openSidebar('117_Tomorrow Eater',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\156_We Discard Reason for Folly.png" id="156_We Discard Reason for Folly" data-flag="@X" onclick="openSidebar('156_We Discard Reason for Folly',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\194_Yesterday Never Dies.png" id="194_Yesterday Never Dies" data-flag="@X" onclick="openSidebar('194_Yesterday Never Dies',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\198_Being in the Between.png" id="198_Being in the Between" data-flag="@X" onclick="openSidebar('198_Being in the Between',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\238_A Thousand Lives Lived.png" id="238_A Thousand Lives Lived" data-flag="@X" onclick="openSidebar('238_A Thousand Lives Lived',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\201_Channeler of Lifetimes.png" id="201_Channeler of Lifetimes" data-flag="@X" onclick="openSidebar('201_Channeler of Lifetimes',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\212_From One Come Many.png" id="212_From One Come Many" data-flag="@X" onclick="openSidebar('212_From One Come Many',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\202_Chronoshielded Opus.png" id="202_Chronoshielded Opus" data-flag="@X" onclick="openSidebar('202_Chronoshielded Opus',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\207_Double Ptrouble.png" id="207_Double Ptrouble" data-flag="@X" onclick="openSidebar('207_Double Ptrouble',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\204_Dark Variant.png" id="204_Dark Variant" data-flag="@X" onclick="openSidebar('204_Dark Variant',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\229_Second Era Laborers.png" id="229_Second Era Laborers" data-flag="@X" onclick="openSidebar('229_Second Era Laborers',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\208_Embrace New Ways.png" id="208_Embrace New Ways" data-flag="@X" onclick="openSidebar('208_Embrace New Ways',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\228_Revelation of Supremacy.png" id="228_Revelation of Supremacy" data-flag="@X" onclick="openSidebar('228_Revelation of Supremacy',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\215_The Greatest Minds of all Time.png" id="215_The Greatest Minds of all Time" data-flag="@X" onclick="openSidebar('215_The Greatest Minds of all Time',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\217_Heed Their Call.png" id="217_Heed Their Call" data-flag="@X" onclick="openSidebar('217_Heed Their Call',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\239_Time to Die.png" id="239_Time to Die" data-flag="@X" onclick="openSidebar('239_Time to Die',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\236_Spikestrip Zeppelin.png" id="236_Spikestrip Zeppelin" data-flag="@X" onclick="openSidebar('236_Spikestrip Zeppelin',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\244_Wanderers of Eras Uncharted.png" id="244_Wanderers of Eras Uncharted" data-flag="@X" onclick="openSidebar('244_Wanderers of Eras Uncharted',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\209_Esia's Faithful.png" id="209_Esias Faithful" data-flag="@X" onclick="openSidebar('209_Esias Faithful',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\218_Infinity Perseverater.png" id="218_Infinity Perseverater" data-flag="@X" onclick="openSidebar('218_Infinity Perseverater',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\220_Marchers of Despair.png" id="220_Marchers of Despair" data-flag="@X" onclick="openSidebar('220_Marchers of Despair',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\205_Dinoback Bowman.png" id="205_Dinoback Bowman" data-flag="@X" onclick="openSidebar('205_Dinoback Bowman',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\219_Loopbound Searcher.png" id="219_Loopbound Searcher" data-flag="@X" onclick="openSidebar('219_Loopbound Searcher',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\211_First Era Smokeseer.png" id="211_First Era Smokeseer" data-flag="@X" onclick="openSidebar('211_First Era Smokeseer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\230_Separatist Spy.png" id="230_Separatist Spy" data-flag="@X" onclick="openSidebar('230_Separatist Spy',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\233_Shardbeast Swarm.png" id="233_Shardbeast Swarm" data-flag="@X" onclick="openSidebar('233_Shardbeast Swarm',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\224_Past Pilferer.png" id="224_Past Pilferer" data-flag="@X" onclick="openSidebar('224_Past Pilferer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\221_Mergist Mavericks.png" id="221_Mergist Mavericks" data-flag="@X" onclick="openSidebar('221_Mergist Mavericks',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\235_Spensa, Eighth Era Renegade.png" id="235_Spensa, Eighth Era Renegade" data-flag="@X" onclick="openSidebar('235_Spensa, Eighth Era Renegade',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\213_Gergg, Earliest Visionary.png" id="213_Gergg, Earliest Visionary" data-flag="@X" onclick="openSidebar('213_Gergg, Earliest Visionary',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\203_Cling to the Past.png" id="203_Cling to the Past" data-flag="@X" onclick="openSidebar('203_Cling to the Past',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\196_Ansia, Who Let Time Converge.png" id="196_Ansia, Who Let Time Converge" data-flag="@X" onclick="openSidebar('196_Ansia, Who Let Time Converge',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\245_Xintl, the Timekeeper.png" id="245_Xintl, the Timekeeper" data-flag="@X" onclick="openSidebar('245_Xintl, the Timekeeper',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\227_Relive the End.png" id="227_Relive the End" data-flag="@X" onclick="openSidebar('227_Relive the End',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\226_Reject Reality.png" id="226_Reject Reality" data-flag="@X" onclick="openSidebar('226_Reject Reality',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\200_Bring Down the Ship.png" id="200_Bring Down the Ship" data-flag="@X" onclick="openSidebar('200_Bring Down the Ship',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\197_Autopilot.png" id="197_Autopilot" data-flag="@X" onclick="openSidebar('197_Autopilot',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\206_Discover the Forgotten.png" id="206_Discover the Forgotten" data-flag="@X" onclick="openSidebar('206_Discover the Forgotten',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\241_Unchanging One.png" id="241_Unchanging One" data-flag="@X" onclick="openSidebar('241_Unchanging One',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\240_Timeshatter Psyren.png" id="240_Timeshatter Psyren" data-flag="@X" onclick="openSidebar('240_Timeshatter Psyren',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\234_Siphoner of Seconds.png" id="234_Siphoner of Seconds" data-flag="@X" onclick="openSidebar('234_Siphoner of Seconds',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\214_Gote, Buzzer Beater.png" id="214_Gote, Buzzer Beater" data-flag="@X" onclick="openSidebar('214_Gote, Buzzer Beater',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\242_Urgent Carer.png" id="242_Urgent Carer" data-flag="@X" onclick="openSidebar('242_Urgent Carer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\231_Separatist Strategist.png" id="231_Separatist Strategist" data-flag="@X" onclick="openSidebar('231_Separatist Strategist',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\210_Fae Frolicker.png" id="210_Fae Frolicker" data-flag="@X" onclick="openSidebar('210_Fae Frolicker',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\199_Bones from the Between.png" id="199_Bones from the Between" data-flag="@X" onclick="openSidebar('199_Bones from the Between',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\222_Mindlink Mech.png" id="222_Mindlink Mech" data-flag="@X" onclick="openSidebar('222_Mindlink Mech',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\237_Syr Iron.png" id="237_Syr Iron" data-flag="@X" onclick="openSidebar('237_Syr Iron',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\232_Separatist Timealigner.png" id="232_Separatist Timealigner" data-flag="@X" onclick="openSidebar('232_Separatist Timealigner',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\223_Nullification Plasman.png" id="223_Nullification Plasman" data-flag="@X" onclick="openSidebar('223_Nullification Plasman',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\216_Harbinger of Fractures.png" id="216_Harbinger of Fractures" data-flag="@X" onclick="openSidebar('216_Harbinger of Fractures',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\225_Ptrained Speedwing.png" id="225_Ptrained Speedwing" data-flag="@X" onclick="openSidebar('225_Ptrained Speedwing',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\243_Veri's Ace.png" id="243_Veris Ace" data-flag="@X" onclick="openSidebar('243_Veris Ace',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\5_We Will Be Forgotten.png" id="5_We Will Be Forgotten" data-flag="@X" onclick="openSidebar('5_We Will Be Forgotten',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\246_Bigwheel Mk. VII.png" id="246_Bigwheel Mk. VII" data-flag="@X" onclick="openSidebar('246_Bigwheel Mk. VII',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\251_Fixed Point Gate.png" id="251_Fixed Point Gate" data-flag="@X" onclick="openSidebar('251_Fixed Point Gate',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\255_Synthetic Mergist.png" id="255_Synthetic Mergist" data-flag="@X" onclick="openSidebar('255_Synthetic Mergist',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\4_They Are Everywhen.png" id="4_They Are Everywhen" data-flag="@X" onclick="openSidebar('4_They Are Everywhen',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\247_Chronoshield Prototype.png" id="247_Chronoshield Prototype" data-flag="@X" onclick="openSidebar('247_Chronoshield Prototype',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\249_Dual Wheeler.png" id="249_Dual Wheeler" data-flag="@X" onclick="openSidebar('249_Dual Wheeler',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\250_Ejected Automaton.png" id="250_Ejected Automaton" data-flag="@X" onclick="openSidebar('250_Ejected Automaton',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\252_Fossilized Hedron.png" id="252_Fossilized Hedron" data-flag="@X" onclick="openSidebar('252_Fossilized Hedron',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\253_Installed Drivers.png" id="253_Installed Drivers" data-flag="@X" onclick="openSidebar('253_Installed Drivers',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\254_Magimech Stonesuit.png" id="254_Magimech Stonesuit" data-flag="@X" onclick="openSidebar('254_Magimech Stonesuit',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\1_Hole in the Now.png" id="1_Hole in the Now" data-flag="@X" onclick="openSidebar('1_Hole in the Now',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\2_Study Time.png" id="2_Study Time" data-flag="@X" onclick="openSidebar('2_Study Time',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\3_Their Strength is Alluring.png" id="3_Their Strength is Alluring" data-flag="@X" onclick="openSidebar('3_Their Strength is Alluring',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\248_Data Collection Unit.png" id="248_Data Collection Unit" data-flag="@X" onclick="openSidebar('248_Data Collection Unit',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\256_Temportalizer.png" id="256_Temportalizer" data-flag="@X" onclick="openSidebar('256_Temportalizer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\257_Tomorrowalker.png" id="257_Tomorrowalker" data-flag="@X" onclick="openSidebar('257_Tomorrowalker',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\261_Where Stories Began.png" id="261_Where Stories Began" data-flag="@X" onclick="openSidebar('261_Where Stories Began',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\258_Here Before and After.png" id="258_Here Before and After" data-flag="@X" onclick="openSidebar('258_Here Before and After',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\259_A Place Once Forgotten.png" id="259_A Place Once Forgotten" data-flag="@X" onclick="openSidebar('259_A Place Once Forgotten',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IMM-files\img\260_Rieze's Testing Chamber.png" id="260_Riezes Testing Chamber" data-flag="@X" onclick="openSidebar('260_Riezes Testing Chamber',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
+
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
+		{
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
+		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.opacity = "1";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.opacity = "0";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url;
+			}
+	</script>
+</body>
+</html>
