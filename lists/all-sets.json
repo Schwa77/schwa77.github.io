@@ -6,11 +6,6 @@
             "formats": ""
         },
         {
-            "set_code": "IMM",
-            "set_name": "Immesium: Shards of Everywhen",
-            "formats": ""
-        },
-        {
             "set_code": "JMV",
             "set_name": "Marvel Jumpstart",
             "formats": ""
@@ -28,6 +23,11 @@
         {
             "set_code": "LOU",
             "set_name": "Primordial Precons: The Last of Us",
+            "formats": ""
+        },
+        {
+            "set_code": "MMW",
+            "set_name": "Magic\u2019s Most Wanted",
             "formats": ""
         },
         {

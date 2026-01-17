@@ -1,0 +1,1890 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "CW13 Lithomancy",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/9_CW13 Lithomancy.png"
+			}
+		},
+		{
+			"name": "CW04 Dusk Rose Devotee",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Vampire Soldier",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/4_CW04 Dusk Rose Devotee.png"
+			}
+		},
+		{
+			"name": "CW06 Order Vanguard",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bird Soldier",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/6_CW06 Order Vanguard.png"
+			}
+		},
+		{
+			"name": "CW05 Makindi Pilgrim",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Kor Cleric",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/5_CW05 Makindi Pilgrim.png"
+			}
+		},
+		{
+			"name": "CW08 God-Pharaoh's Vanguard",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Bird Cleric",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/7_CW08 God-Pharaoh's Vanguard.png"
+			}
+		},
+		{
+			"name": "CW12 Norn's Verdict",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/8_CW12 Norn's Verdict.png"
+			}
+		},
+		{
+			"name": "CW03 Expendable Ranks",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/3_CW03 Expendable Ranks.png"
+			}
+		},
+		{
+			"name": "CU04 Consulate Inspector",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Vedalken Advisor",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/23_CU04 Consulate Inspector.png"
+			}
+		},
+		{
+			"name": "CU13 Freeze Over",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/30_CU13 Freeze Over.png"
+			}
+		},
+		{
+			"name": "CU09 Consider",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/28_CU09 Consider.png"
+			}
+		},
+		{
+			"name": "CU07 Cunning Gambit",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/26_CU07 Cunning Gambit.png"
+			}
+		},
+		{
+			"name": "CU08 All According to Plan",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/27_CU08 All According to Plan.png"
+			}
+		},
+		{
+			"name": "CU05 Alleyway Geist",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/24_CU05 Alleyway Geist.png"
+			}
+		},
+		{
+			"name": "CB03 Nymris's Scheme",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/48_CB03 Nymris's Scheme.png"
+			}
+		},
+		{
+			"name": "CB11 Grasp of the Ebon Hand",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/53_CB11 Grasp of the Ebon Hand.png"
+			}
+		},
+		{
+			"name": "CB13 Bloodlord's Tithe",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/54_CB13 Bloodlord's Tithe.png"
+			}
+		},
+		{
+			"name": "CB10 Grave Robbery",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/52_CB10 Grave Robbery.png"
+			}
+		},
+		{
+			"name": "CB09 Come to Collect",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/51_CB09 Come to Collect.png"
+			}
+		},
+		{
+			"name": "CB04 Cabal Vicar",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/49_CB04 Cabal Vicar.png"
+			}
+		},
+		{
+			"name": "CR02 Branded Pilferer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/71_CR02 Branded Pilferer.png"
+			}
+		},
+		{
+			"name": "CR11 Reveler's Ascension",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/77_CR11 Reveler's Ascension.png"
+			}
+		},
+		{
+			"name": "CR09 Soulfire Strike",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/75_CR09 Soulfire Strike.png"
+			}
+		},
+		{
+			"name": "CR08 Pillar of Flame",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/74_CR08 Pillar of Flame.png"
+			}
+		},
+		{
+			"name": "CR10 Pailano Shakedown",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/76_CR10 Pailano Shakedown.png"
+			}
+		},
+		{
+			"name": "CR05 Sandslash Viashino",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Lizard Rogue",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/72_CR05 Sandslash Viashino.png"
+			}
+		},
+		{
+			"name": "CR06 Sanzoku Raider",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/73_CR06 Sanzoku Raider.png"
+			}
+		},
+		{
+			"name": "CG06 Lotleth Gorger",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Troll",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/93_CG06 Lotleth Gorger.png"
+			}
+		},
+		{
+			"name": "CG13 Relentless Pursuit",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/98_CG13 Relentless Pursuit.png"
+			}
+		},
+		{
+			"name": "CG12 Land Grab",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/97_CG12 Land Grab.png"
+			}
+		},
+		{
+			"name": "CG11 Traitor's Ferocity",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/96_CG11 Traitor's Ferocity.png"
+			}
+		},
+		{
+			"name": "CG09 Claim the Golden City",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/95_CG09 Claim the Golden City.png"
+			}
+		},
+		{
+			"name": "CG07 Copper Host Hulk",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Phyrexian Beast",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/94_CG07 Copper Host Hulk.png"
+			}
+		},
+		{
+			"name": "CM04 Gravewrap Acolyte",
+			"rarity": "common",
+			"mana_cost": "{2}{W/B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/129_CM04 Gravewrap Acolyte.png"
+			}
+		},
+		{
+			"name": "CM01 Senate Hussar",
+			"rarity": "common",
+			"mana_cost": "{3}{W/U}{W/U}",
+			"type": "Creature — Human Knight",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/126_CM01 Senate Hussar.png"
+			}
+		},
+		{
+			"name": "CM05 Gitrog Spawn",
+			"rarity": "common",
+			"mana_cost": "{2}{B/G}",
+			"type": "Creature — Frog",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/130_CM05 Gitrog Spawn.png"
+			}
+		},
+		{
+			"name": "CM02 Voldaren Attendants",
+			"rarity": "common",
+			"mana_cost": "{2}{B/R}{B/R}",
+			"type": "Creature — Vampire Noble",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/127_CM02 Voldaren Attendants.png"
+			}
+		},
+		{
+			"name": "CM03 Conclave Harbinger",
+			"rarity": "common",
+			"mana_cost": "{2}{G/W}",
+			"type": "Creature — Elf Cleric",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/128_CM03 Conclave Harbinger.png"
+			}
+		},
+		{
+			"name": "CC02 Consulate Sentry",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/132_CC02 Consulate Sentry.png"
+			}
+		},
+		{
+			"name": "CC06 Khopesh of the Trials",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/135_CC06 Khopesh of the Trials.png"
+			}
+		},
+		{
+			"name": "CC03 Etherium Aberration",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/133_CC03 Etherium Aberration.png"
+			}
+		},
+		{
+			"name": "CC07 Evolving Wilds",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/142_CC07 Evolving Wilds.png"
+			}
+		},
+		{
+			"name": "UW09 Moonsilver Retributor",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/17_UW09 Moonsilver Retributor.png"
+			}
+		},
+		{
+			"name": "UW14 Incarcerate",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/20_UW14 Incarcerate.png"
+			}
+		},
+		{
+			"name": "UW06 Custodi Conjurer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/16_UW06 Custodi Conjurer.png"
+			}
+		},
+		{
+			"name": "UW10 Undying Devotion",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/18_UW10 Undying Devotion.png"
+			}
+		},
+		{
+			"name": "UW03 Champion of the Trials",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/14_UW03 Champion of the Trials.png"
+			}
+		},
+		{
+			"name": "UW12 Unravel",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/19_UW12 Unravel.png"
+			}
+		},
+		{
+			"name": "UW05 Lord Konda's Faithful",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/15_UW05 Lord Konda's Faithful.png"
+			}
+		},
+		{
+			"name": "UU11 Masterful Mischief",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/41_UU11 Masterful Mischief.png"
+			}
+		},
+		{
+			"name": "UU08 Luxa Shipbreaker",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Serpent",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/38_UU08 Luxa Shipbreaker.png"
+			}
+		},
+		{
+			"name": "UU05 Meletis Trickster",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Siren",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/36_UU05 Meletis Trickster.png"
+			}
+		},
+		{
+			"name": "UU09 Twisted Teachings",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/39_UU09 Twisted Teachings.png"
+			}
+		},
+		{
+			"name": "UU03 Rootwater Cutthroat",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Merfolk Rogue",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/34_UU03 Rootwater Cutthroat.png"
+			}
+		},
+		{
+			"name": "UU07 Call the Tempest",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/37_UU07 Call the Tempest.png"
+			}
+		},
+		{
+			"name": "UU01 Augur of Bolas",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/33_UU01 Augur of Bolas.png"
+			}
+		},
+		{
+			"name": "UB06 Bone Picker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Bird",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/64_UB06 Bone Picker.png"
+			}
+		},
+		{
+			"name": "UB11 Cursed Servitude",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/68_UB11 Cursed Servitude.png"
+			}
+		},
+		{
+			"name": "UB03 Loyal Underling",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/62_UB03 Loyal Underling.png"
+			}
+		},
+		{
+			"name": "UB08 Archfiend of Suffering",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/66_UB08 Archfiend of Suffering.png"
+			}
+		},
+		{
+			"name": "UB07 Voldaren Viscount",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Vampire Noble",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/65_UB07 Voldaren Viscount.png"
+			}
+		},
+		{
+			"name": "UB01 Kalastria Nightblade",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Vampire Warrior",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/60_UB01 Kalastria Nightblade.png"
+			}
+		},
+		{
+			"name": "UB14 Chains of the Cabal",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/70_UB14 Chains of the Cabal.png"
+			}
+		},
+		{
+			"name": "UR13 Endless Revel",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/89_UR13 Endless Revel.png"
+			}
+		},
+		{
+			"name": "UR08 Furnace Splicer",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Phyrexian Artificer",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/85_UR08 Furnace Splicer.png"
+			}
+		},
+		{
+			"name": "UR09 Opulent Outburst",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}",
+			"type": "Instant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/86_UR09 Opulent Outburst.png"
+			}
+		},
+		{
+			"name": "UR07 Arena Gorehorn",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Minotaur Warrior",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/84_UR07 Arena Gorehorn.png"
+			}
+		},
+		{
+			"name": "UR02 Hellfire Fiend",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Devil",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/81_UR02 Hellfire Fiend.png"
+			}
+		},
+		{
+			"name": "UR14 (Mardu Strike)",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/90_UR14 (Mardu Strike).png"
+			}
+		},
+		{
+			"name": "UG01 Llanowar Outcast",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/99_UG01 Llanowar Outcast.png"
+			}
+		},
+		{
+			"name": "UG05 Wavebreak Kelpie",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/101_UG05 Wavebreak Kelpie.png"
+			}
+		},
+		{
+			"name": "UG04 Alpha Primadox",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/100_UG04 Alpha Primadox.png"
+			}
+		},
+		{
+			"name": "UG13 Ulvenwald Howls",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/105_UG13 Ulvenwald Howls.png"
+			}
+		},
+		{
+			"name": "UG12 Overgrow",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/104_UG12 Overgrow.png"
+			}
+		},
+		{
+			"name": "UG10 Roiling Regrowth",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/103_UG10 Roiling Regrowth.png"
+			}
+		},
+		{
+			"name": "UG06 Sidisi's Deathweaver",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Snake Druid",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/102_UG06 Sidisi's Deathweaver.png"
+			}
+		},
+		{
+			"name": "UBG01 Lazotep Trumpeter",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Creature — Zombie Elephant",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/112_UBG01 Lazotep Trumpeter.png"
+			}
+		},
+		{
+			"name": "UBR01 Agent of the Black Rose",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/114_UBR01 Agent of the Black Rose.png"
+			}
+		},
+		{
+			"name": "UGW01 Oba's Enforcer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Centaur Knight",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/115_UGW01 Oba's Enforcer.png"
+			}
+		},
+		{
+			"name": "URG01 (Duskmourn Horror)",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Horror",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/117_URG01 (Duskmourn Horror).png"
+			}
+		},
+		{
+			"name": "URW01 Frenzied Nacatl",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Cat Warrior",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/119_URW01 Frenzied Nacatl.png"
+			}
+		},
+		{
+			"name": "URW02 Tin Street Dispatcher",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Minotaur Soldier",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/120_URW02 Tin Street Dispatcher.png"
+			}
+		},
+		{
+			"name": "UUB02 Gift of the Fae Court",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Instant",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/121_UUB02 Gift of the Fae Court.png"
+			}
+		},
+		{
+			"name": "UUR02 Izzet Burnspell",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/122_UUR02 Izzet Burnspell.png"
+			}
+		},
+		{
+			"name": "UC04 Wurmcoil Prototype",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Phyrexian Wurm",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/137_UC04 Wurmcoil Prototype.png"
+			}
+		},
+		{
+			"name": "UC07 Skittering Slicer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/140_UC07 Skittering Slicer.png"
+			}
+		},
+		{
+			"name": "UC06 Skeletal Schooner",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/139_UC06 Skeletal Schooner.png"
+			}
+		},
+		{
+			"name": "Magic's Most Wanted Archetypes",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/1_Magic's Most Wanted Archetypes.png"
+			}
+		},
+		{
+			"name": "Olivia Voldaren, Cool Title",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Vampire Knight",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/109_Olivia Voldaren, Cool Title.png"
+			}
+		},
+		{
+			"name": "Gray Merchant of Asphodel",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/157_Gray Merchant of Asphodel.png"
+			}
+		},
+		{
+			"name": "Elves of Deep Shadow",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/158_Elves of Deep Shadow.png"
+			}
+		},
+		{
+			"name": "Blood Artist",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Vampire",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/155_Blood Artist.png"
+			}
+		},
+		{
+			"name": "Shambling Henchman",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Skeleton Minion",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/57_Shambling Henchman.png"
+			}
+		},
+		{
+			"name": "(Adjective) Necromancer",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/45_(Adjective) Necromancer.png"
+			}
+		},
+		{
+			"name": "Sidisi, Coil of Qarsi",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}{U}",
+			"type": "Legendary Creature — Snake Shaman",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/110_Sidisi, Coil of Qarsi.png"
+			}
+		},
+		{
+			"name": "Hedron Crusher",
+			"rarity": "uncommon",
+			"mana_cost": "{7}",
+			"type": "Creature — Eldrazi",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/1_Hedron Crusher.png"
+			}
+		},
+		{
+			"name": "Baleful Strix",
+			"rarity": "special",
+			"mana_cost": "{U}{B}",
+			"type": "Artifact Creature — Bird",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/159_Baleful Strix.png"
+			}
+		},
+		{
+			"name": "Infernal Pact",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Instant",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/55_Infernal Pact.png"
+			}
+		},
+		{
+			"name": "Rakka Mar, Pawn of Bolas",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/79_Rakka Mar, Pawn of Bolas.png"
+			}
+		},
+		{
+			"name": "Sheoldred, Breaker of Wills",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Phyrexian Praetor",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/59_Sheoldred, Breaker of Wills.png"
+			}
+		},
+		{
+			"name": "Grave Titan",
+			"rarity": "special",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Giant",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/156_Grave Titan.png"
+			}
+		},
+		{
+			"name": "Faerie Rogue",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Faerie Rogue",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/12_Faerie Rogue.png"
+			}
+		},
+		{
+			"name": "Phyrexian Golem",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Phyrexian Golem",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/13_Phyrexian Golem.png"
+			}
+		},
+		{
+			"name": "Centaur",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Centaur",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/11_Centaur.png"
+			}
+		},
+		{
+			"name": "Zombie",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Zombie",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/7_Zombie.png"
+			}
+		},
+		{
+			"name": "Satyr",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Satyr",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/10_Satyr.png"
+			}
+		},
+		{
+			"name": "Zur, the Mad Mage",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/125_Zur, the Mad Mage.png"
+			}
+		},
+		{
+			"name": "UR03 (Ludevic's Grad Student)",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/82_UR03 (Ludevic's Grad Student).png"
+			}
+		},
+		{
+			"name": "Zombie",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Zombie",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/8_Zombie.png"
+			}
+		},
+		{
+			"name": "Hellfire Scourge",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/78_Hellfire Scourge.png"
+			}
+		},
+		{
+			"name": "High Emperor Konda",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Human Samurai",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/11_High Emperor Konda.png"
+			}
+		},
+		{
+			"name": "UWB02 Siege of the Bone Spire",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/124_UWB02 Siege of the Bone Spire.png"
+			}
+		},
+		{
+			"name": "Avatar of Woe",
+			"rarity": "special",
+			"mana_cost": "{6}{B}{B}",
+			"type": "Creature — Avatar",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/154_Avatar of Woe.png"
+			}
+		},
+		{
+			"name": "Shadowborn Ritual",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/56_Shadowborn Ritual.png"
+			}
+		},
+		{
+			"name": "UW01 Skyclave Cartographer",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Kor Scout",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/12_UW01 Skyclave Cartographer.png"
+			}
+		},
+		{
+			"name": "UU12 Copycrook",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Shapeshifter Rogue",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/42_UU12 Copycrook.png"
+			}
+		},
+		{
+			"name": "UGW02 Kinsbaile Valor",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/116_UGW02 Kinsbaile Valor.png"
+			}
+		},
+		{
+			"name": "Plains 1",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/144_Plains 1.png"
+			}
+		},
+		{
+			"name": "Island 1",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/146_Island 1.png"
+			}
+		},
+		{
+			"name": "Swamp 1",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/148_Swamp 1.png"
+			}
+		},
+		{
+			"name": "Mountain 1",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/150_Mountain 1.png"
+			}
+		},
+		{
+			"name": "Forest 1",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/152_Forest 1.png"
+			}
+		},
+		{
+			"name": "Plains 2",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/145_Plains 2.png"
+			}
+		},
+		{
+			"name": "Island 2",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/147_Island 2.png"
+			}
+		},
+		{
+			"name": "Swamp 2",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/149_Swamp 2.png"
+			}
+		},
+		{
+			"name": "Forest 2",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/153_Forest 2.png"
+			}
+		},
+		{
+			"name": "Mountain 2",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/151_Mountain 2.png"
+			}
+		},
+		{
+			"name": "Isamaru",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Legendary Token Creature — Dog",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/3_Isamaru.png"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/4_Spirit.png"
+			}
+		},
+		{
+			"name": "Drake",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Drake",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/5_Drake.png"
+			}
+		},
+		{
+			"name": "Human Cleric",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human Cleric",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/6_Human Cleric.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/15_Treasure.png"
+			}
+		},
+		{
+			"name": "Elemental",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/9_Elemental.png"
+			}
+		},
+		{
+			"name": "Human Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human Soldier",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/2_Human Soldier.png"
+			}
+		},
+		{
+			"name": "Thopter",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Thopter",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/14_Thopter.png"
+			}
+		},
+		{
+			"name": "CW02 Unruly Mob",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/2_CW02 Unruly Mob.png"
+			}
+		},
+		{
+			"name": "Heliod of Divine Radiance",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/10_Heliod of Divine Radiance.png"
+			}
+		},
+		{
+			"name": "UW02 Dutiful Bodyguard",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/13_UW02 Dutiful Bodyguard.png"
+			}
+		},
+		{
+			"name": "CU02 Screeching Phantom",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/21_CU02 Screeching Phantom.png"
+			}
+		},
+		{
+			"name": "CU03 prowess man",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/22_CU03 prowess man.png"
+			}
+		},
+		{
+			"name": "CU06 Outcast Sphinx",
+			"rarity": "common",
+			"mana_cost": "{6}{U}",
+			"type": "Creature — Sphinx",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/25_CU06 Outcast Sphinx.png"
+			}
+		},
+		{
+			"name": "CU11 Whispers of the Moon",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/29_CU11 Whispers of the Moon.png"
+			}
+		},
+		{
+			"name": "Jin-Gitaxias, Excisor of Truth",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Legendary Creature — Phyrexian Praetor",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/32_Jin-Gitaxias, Excisor of Truth.png"
+			}
+		},
+		{
+			"name": "Jin-Gitaxias, Excisor of Truth",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Creature — Phyrexian Praetor",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/31_Jin-Gitaxias, Excisor of Truth.png"
+			}
+		},
+		{
+			"name": "UU04 rainbow man",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/35_UU04 rainbow man.png"
+			}
+		},
+		{
+			"name": "UU10 Immortal Sun's Binding",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/40_UU10 Immortal Sun's Binding.png"
+			}
+		},
+		{
+			"name": "UU13 Thirst for Power",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/43_UU13 Thirst for Power.png"
+			}
+		},
+		{
+			"name": "UU14 Convoluted Scheme",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/44_UU14 Convoluted Scheme.png"
+			}
+		},
+		{
+			"name": "CB01 Hellspur Deadeye",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie Rogue",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/46_CB01 Hellspur Deadeye.png"
+			}
+		},
+		{
+			"name": "CB02 Lurking Fenskull",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/47_CB02 Lurking Fenskull.png"
+			}
+		},
+		{
+			"name": "CB05 Mage Tower Cheat",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/50_CB05 Mage Tower Cheat.png"
+			}
+		},
+		{
+			"name": "Sheoldred, Breaker of Wills",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Phyrexian Praetor",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/58_Sheoldred, Breaker of Wills.png"
+			}
+		},
+		{
+			"name": "UB02 Sleepless Husk",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Warrior",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/61_UB02 Sleepless Husk.png"
+			}
+		},
+		{
+			"name": "UB05 Dross Splicer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Phyrexian Artificer",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/63_UB05 Dross Splicer.png"
+			}
+		},
+		{
+			"name": "UB10 Dark Deal",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/67_UB10 Dark Deal.png"
+			}
+		},
+		{
+			"name": "UB13 Hunger of Aclazotz",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/69_UB13 Hunger of Aclazotz.png"
+			}
+		},
+		{
+			"name": "UR01 Tajic's Flameblade",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/80_UR01 Tajic's Flameblade.png"
+			}
+		},
+		{
+			"name": "UR04 Prodigious Pyrotechnician",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Goblin Artificer",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/83_UR04 Prodigious Pyrotechnician.png"
+			}
+		},
+		{
+			"name": "UR10 Wield the Eludha",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/87_UR10 Wield the Eludha.png"
+			}
+		},
+		{
+			"name": "UR11 Rage of the Tuskeri",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/88_UR11 Rage of the Tuskeri.png"
+			}
+		},
+		{
+			"name": "CG03 Stalking Thallid",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Fungus",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/91_CG03 Stalking Thallid.png"
+			}
+		},
+		{
+			"name": "CG05 Qal Sisma Sabertooth",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Cat",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/92_CG05 Qal Sisma Sabertooth.png"
+			}
+		},
+		{
+			"name": "Vorinclex, Force of Nature",
+			"rarity": "mythic",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Legendary Creature — Phyrexian Praetor",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/106_Vorinclex, Force of Nature.png"
+			}
+		},
+		{
+			"name": "Harness the Conflux",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/107_Harness the Conflux.png"
+			}
+		},
+		{
+			"name": "Kumena, Conqueror",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Legendary Creature — Merfolk Shaman",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/108_Kumena, Conqueror.png"
+			}
+		},
+		{
+			"name": "Stand Against Evil",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/111_Stand Against Evil.png"
+			}
+		},
+		{
+			"name": "UBG02 Feed the Grove",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Instant",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/113_UBG02 Feed the Grove.png"
+			}
+		},
+		{
+			"name": "URG02 domris actual ambush",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Instant",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/118_URG02 domris actual ambush.png"
+			}
+		},
+		{
+			"name": "UWB01 Wayward Servant",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/123_UWB01 Wayward Servant.png"
+			}
+		},
+		{
+			"name": "CUR01 Noggle Cliffcaster",
+			"rarity": "common",
+			"mana_cost": "{1}{U/R}",
+			"type": "Creature — Noggle Wizard",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/131_CUR01 Noggle Cliffcaster.png"
+			}
+		},
+		{
+			"name": "CC05 Chromatic Prism",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/134_CC05 Chromatic Prism.png"
+			}
+		},
+		{
+			"name": "UC02 Corrupted Myr",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Phyrexian Myr",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/136_UC02 Corrupted Myr.png"
+			}
+		},
+		{
+			"name": "UC05 Book of Vendettas",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/138_UC05 Book of Vendettas.png"
+			}
+		},
+		{
+			"name": "UC08 Oathsworn's Armaments",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/141_UC08 Oathsworn's Armaments.png"
+			}
+		},
+		{
+			"name": "The Glistening Void",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/MMW-files/img/143_The Glistening Void.png"
+			}
+		}
+	]
+
+[rare(1)]
+	5 Olivia Voldaren, Cool Title
+	5 Shambling Henchman
+	5 (Adjective) Necromancer
+	5 Sidisi, Coil of Qarsi
+	5 Infernal Pact
+	5 Rakka Mar, Pawn of Bolas
+	5 Sheoldred, Breaker of Wills
+	5 Zur, the Mad Mage
+	5 Hellfire Scourge
+	5 High Emperor Konda
+	5 Shadowborn Ritual
+	5 Heliod of Divine Radiance
+	5 Jin-Gitaxias, Excisor of Truth
+	5 Jin-Gitaxias, Excisor of Truth
+	5 Sheoldred, Breaker of Wills
+	5 Vorinclex, Force of Nature
+	5 Harness the Conflux
+	5 Kumena, Conqueror
+	5 Stand Against Evil
+	5 UC05 Book of Vendettas
+	5 The Glistening Void
+[uncommon(3)]
+	5 UW09 Moonsilver Retributor
+	5 UW14 Incarcerate
+	5 UW06 Custodi Conjurer
+	5 UW10 Undying Devotion
+	5 UW03 Champion of the Trials
+	5 UW12 Unravel
+	5 UW05 Lord Konda's Faithful
+	5 UU11 Masterful Mischief
+	5 UU08 Luxa Shipbreaker
+	5 UU05 Meletis Trickster
+	5 UU09 Twisted Teachings
+	5 UU03 Rootwater Cutthroat
+	5 UU07 Call the Tempest
+	5 UU01 Augur of Bolas
+	5 UB06 Bone Picker
+	5 UB11 Cursed Servitude
+	5 UB03 Loyal Underling
+	5 UB08 Archfiend of Suffering
+	5 UB07 Voldaren Viscount
+	5 UB01 Kalastria Nightblade
+	5 UB14 Chains of the Cabal
+	5 UR13 Endless Revel
+	5 UR08 Furnace Splicer
+	5 UR09 Opulent Outburst
+	5 UR07 Arena Gorehorn
+	5 UR02 Hellfire Fiend
+	5 UR14 (Mardu Strike)
+	5 UG01 Llanowar Outcast
+	5 UG05 Wavebreak Kelpie
+	5 UG04 Alpha Primadox
+	5 UG13 Ulvenwald Howls
+	5 UG12 Overgrow
+	5 UG10 Roiling Regrowth
+	5 UG06 Sidisi's Deathweaver
+	5 UBG01 Lazotep Trumpeter
+	5 UBR01 Agent of the Black Rose
+	5 UGW01 Oba's Enforcer
+	5 URG01 (Duskmourn Horror)
+	5 URW01 Frenzied Nacatl
+	5 URW02 Tin Street Dispatcher
+	5 UUB02 Gift of the Fae Court
+	5 UUR02 Izzet Burnspell
+	5 UC04 Wurmcoil Prototype
+	5 UC07 Skittering Slicer
+	5 UC06 Skeletal Schooner
+	5 Hedron Crusher
+	5 UR03 (Ludevic's Grad Student)
+	5 UWB02 Siege of the Bone Spire
+	5 UW01 Skyclave Cartographer
+	5 UU12 Copycrook
+	5 UGW02 Kinsbaile Valor
+	5 UW02 Dutiful Bodyguard
+	5 UU04 rainbow man
+	5 UU10 Immortal Sun's Binding
+	5 UU13 Thirst for Power
+	5 UU14 Convoluted Scheme
+	5 UB02 Sleepless Husk
+	5 UB05 Dross Splicer
+	5 UB10 Dark Deal
+	5 UB13 Hunger of Aclazotz
+	5 UR01 Tajic's Flameblade
+	5 UR04 Prodigious Pyrotechnician
+	5 UR10 Wield the Eludha
+	5 UR11 Rage of the Tuskeri
+	5 UBG02 Feed the Grove
+	5 URG02 domris actual ambush
+	5 UWB01 Wayward Servant
+	5 UC02 Corrupted Myr
+	5 UC08 Oathsworn's Armaments
+[common(10)]
+	5 CW13 Lithomancy
+	5 CW04 Dusk Rose Devotee
+	5 CW06 Order Vanguard
+	5 CW05 Makindi Pilgrim
+	5 CW08 God-Pharaoh's Vanguard
+	5 CW12 Norn's Verdict
+	5 CW03 Expendable Ranks
+	5 CU04 Consulate Inspector
+	5 CU13 Freeze Over
+	5 CU09 Consider
+	5 CU07 Cunning Gambit
+	5 CU08 All According to Plan
+	5 CU05 Alleyway Geist
+	5 CB03 Nymris's Scheme
+	5 CB11 Grasp of the Ebon Hand
+	5 CB13 Bloodlord's Tithe
+	5 CB10 Grave Robbery
+	5 CB09 Come to Collect
+	5 CB04 Cabal Vicar
+	5 CR02 Branded Pilferer
+	5 CR11 Reveler's Ascension
+	5 CR09 Soulfire Strike
+	5 CR08 Pillar of Flame
+	5 CR10 Pailano Shakedown
+	5 CR05 Sandslash Viashino
+	5 CR06 Sanzoku Raider
+	5 CG06 Lotleth Gorger
+	5 CG13 Relentless Pursuit
+	5 CG12 Land Grab
+	5 CG11 Traitor's Ferocity
+	5 CG09 Claim the Golden City
+	5 CG07 Copper Host Hulk
+	5 CM04 Gravewrap Acolyte
+	5 CM01 Senate Hussar
+	5 CM05 Gitrog Spawn
+	5 CM02 Voldaren Attendants
+	5 CM03 Conclave Harbinger
+	5 CC02 Consulate Sentry
+	5 CC06 Khopesh of the Trials
+	5 CC03 Etherium Aberration
+	5 CC07 Evolving Wilds
+	5 CW02 Unruly Mob
+	5 CU02 Screeching Phantom
+	5 CU03 prowess man
+	5 CU06 Outcast Sphinx
+	5 CU11 Whispers of the Moon
+	5 CB01 Hellspur Deadeye
+	5 CB02 Lurking Fenskull
+	5 CB05 Mage Tower Cheat
+	5 CG03 Stalking Thallid
+	5 CG05 Qal Sisma Sabertooth
+	5 CUR01 Noggle Cliffcaster
+	5 CC05 Chromatic Prism
