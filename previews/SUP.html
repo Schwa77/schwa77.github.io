@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="icon" type="image/png" href="/sets/SUP-files/icon.png"/>
-	<link rel="stylesheet" href="/resources/header.css">
+	<link rel="icon" type="image/png" href="../sets/SUP-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
 	<title>SUP visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
 	<style>
 		@font-face {
 			font-family: Beleren;
-			src: url('/resources/beleren.ttf');
+			src: url('../resources/beleren.ttf');
 		}
 		body {
 			font-family: Arial, sans-serif;
@@ -45,13 +48,15 @@
 			left: 10%;
 			top: 10%;
 			width: 85%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.sidebar-img {
 			vertical-align: middle;
 			width: 100%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.close-btn {
-			background: url('/img/close.png') no-repeat;
+			background: url('../img/close.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 10%;
@@ -62,7 +67,7 @@
 			right: 4%;
 		}
 		.close-btn:hover {
-			background: url('/img/close-hover.png') no-repeat;
+			background: url('../img/close-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -82,6 +87,7 @@
 			display: block;
 			visibility: hidden;
 			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
 		}
 		.banner {
 			width: 100%;
@@ -102,9 +108,10 @@
 		.container img {
 			width: 100%;
 			height: auto;
+			border-radius: 3.733% / 2.677%;
 		}
 		.flip-btn {
-			background: url('/img/flip.png') no-repeat;
+			background: url('../img/flip.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 15%;
@@ -118,7 +125,7 @@
 			opacity: 0.5;
 		}
 		.flip-btn:hover {
-			background: url('/img/flip-hover.png') no-repeat;
+			background: url('../img/flip-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -174,214 +181,230 @@
 	</style>
 </head>
 <body>
-	<img class="preload-hidden" src="/img/dot.png" />
-	<img class="preload-hidden" src="/sets/SUP-files/logo.png" />
-	<img class="preload-hidden" src="/sets/KRK-files/icon.png" />
-		<img class="preload-hidden" src="/sets/MOX-files/icon.png" />
-		<img class="preload-hidden" src="/sets/GS2-files/icon.png" />
-		<img class="preload-hidden" src="/sets/JPK-files/icon.png" />
-		<img class="preload-hidden" src="/sets/STW-files/icon.png" />
-		<img class="preload-hidden" src="/sets/X24-files/icon.png" />
-		<img class="preload-hidden" src="/sets/X25-files/icon.png" />
-		<img class="preload-hidden" src="/sets/LOU-files/icon.png" />
-		<img class="preload-hidden" src="/sets/MRV-files/icon.png" />
-		<img class="preload-hidden" src="/sets/JMV-files/icon.png" />
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/SUP-files/logo.png" />
+	<img class="preload-hidden" src="../sets/KRK-files/icon.png" />
+		<img class="preload-hidden" src="../sets/MOX-files/icon.png" />
+		<img class="preload-hidden" src="../sets/GS2-files/icon.png" />
+		<img class="preload-hidden" src="../sets/JPK-files/icon.png" />
+		<img class="preload-hidden" src="../sets/STW-files/icon.png" />
+		<img class="preload-hidden" src="../sets/X24-files/icon.png" />
+		<img class="preload-hidden" src="../sets/X25-files/icon.png" />
+		<img class="preload-hidden" src="../sets/LOU-files/icon.png" />
+		<img class="preload-hidden" src="../sets/MRV-files/icon.png" />
+		<img class="preload-hidden" src="../sets/JMV-files/icon.png" />
 		<div class="header">
 		<div class="search-grid">
-			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
-			<img class="sg-icon" src="/img/search.png">
-			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
-			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
-			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
-			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
 		</div>
 	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
 
 	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
-		<a class="set-bar" href="SUP"><img src="/sets/SUP-files/icon.png">Schwambled Egg’s Comic Book Productions</a>
+		<a class="set-bar" href="../previews/SUP"><img src="../sets/SUP-files/icon.png">Schwambled Egg’s Comic Book Productions</a>
 	
-		<a class="set-bar inactive" href="KRK"><img src="/sets/KRK-files/icon.png">Seas of Krakonos</a>
+		<a class="set-bar inactive" href="../previews/KRK"><img src="../sets/KRK-files/icon.png">Seas of Krakonos</a>
 	
-		<a class="set-bar inactive" href="MOX"><img src="/sets/MOX-files/icon.png">Midnight Omens of Xogoa</a>
+		<a class="set-bar inactive" href="../previews/MOX"><img src="../sets/MOX-files/icon.png">Midnight Omens of Xogoa</a>
 	
-		<a class="set-bar inactive" href="GS2"><img src="/sets/GS2-files/icon.png">Global Series 2</a>
+		<a class="set-bar inactive" href="../previews/GS2"><img src="../sets/GS2-files/icon.png">Global Series 2</a>
 	
-		<a class="set-bar inactive" href="JPK"><img src="/sets/JPK-files/icon.png">Pokémon Trainer Jumpstart</a>
+		<a class="set-bar inactive" href="../previews/JPK"><img src="../sets/JPK-files/icon.png">Pokémon Trainer Jumpstart</a>
 	
-		<a class="set-bar inactive" href="STW"><img src="/sets/STW-files/icon.png">Star Wars Microset</a>
+		<a class="set-bar inactive" href="../previews/STW"><img src="../sets/STW-files/icon.png">Star Wars Microset</a>
 	
-		<a class="set-bar inactive" href="X24"><img src="/sets/X24-files/icon.png">Moxtober 2024</a>
+		<a class="set-bar inactive" href="../previews/X24"><img src="../sets/X24-files/icon.png">Moxtober 2024</a>
 	
-		<a class="set-bar inactive" href="X25"><img src="/sets/X25-files/icon.png">Moxtober 2025</a>
+		<a class="set-bar inactive" href="../previews/X25"><img src="../sets/X25-files/icon.png">Moxtober 2025</a>
 	
-		<a class="set-bar inactive" href="LOU"><img src="/sets/LOU-files/icon.png">Primordial Precons: The Last of Us</a>
+		<a class="set-bar inactive" href="../previews/LOU"><img src="../sets/LOU-files/icon.png">Primordial Precons: The Last of Us</a>
 	
-		<a class="set-bar inactive" href="MRV"><img src="/sets/MRV-files/icon.png">MRV-1610: The Reboot Edition</a>
+		<a class="set-bar inactive" href="../previews/MRV"><img src="../sets/MRV-files/icon.png">MRV-1610: The Reboot Edition</a>
 	
-		<a class="set-bar inactive" href="JMV"><img src="/sets/JMV-files/icon.png">Marvel Jumpstart</a>
+		<a class="set-bar inactive" href="../previews/JMV"><img src="../sets/JMV-files/icon.png">Marvel Jumpstart</a>
 	
 		</div>
 		<div class="banner">
-		<img class="logo" src="/sets/SUP-files/logo.png">
+		<img class="logo" src="../sets/SUP-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\1_CW01 Novice Aerialist.png" id="1_CW01 Novice Aerialist" data-flag="@X" onclick="openSidebar('1_CW01 Novice Aerialist',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\16_CU01 Alleyway Sentry.png" id="16_CU01 Alleyway Sentry" data-flag="@X" onclick="openSidebar('16_CU01 Alleyway Sentry',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\31_CB01 Plasma Addict.png" id="31_CB01 Plasma Addict" data-flag="@X" onclick="openSidebar('31_CB01 Plasma Addict',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\46_CR01 Mouthy Merc.png" id="46_CR01 Mouthy Merc" data-flag="@X" onclick="openSidebar('46_CR01 Mouthy Merc',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\61_CG01 Llanowar Elves.png" id="61_CG01 Llanowar Elves" data-flag="@X" onclick="openSidebar('61_CG01 Llanowar Elves',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\2_CW02 Unassuming Reporter.png" id="2_CW02 Unassuming Reporter" data-flag="@X" onclick="openSidebar('2_CW02 Unassuming Reporter',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\17_CU02 Sneaky Pete.png" id="17_CU02 Sneaky Pete" data-flag="@X" onclick="openSidebar('17_CU02 Sneaky Pete',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\32_CB02 BG Support.png" id="32_CB02 BG Support" data-flag="@X" onclick="openSidebar('32_CB02 BG Support',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\47_CR02 Aspiring Arsonist.png" id="47_CR02 Aspiring Arsonist" data-flag="@X" onclick="openSidebar('47_CR02 Aspiring Arsonist',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\62_CG02 Skywatch Militant.png" id="62_CG02 Skywatch Militant" data-flag="@X" onclick="openSidebar('62_CG02 Skywatch Militant',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\3_CW03 Superhero City Detective.png" id="3_CW03 Superhero City Detective" data-flag="@X" onclick="openSidebar('3_CW03 Superhero City Detective',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\18_CU03 Conniving Henchman.png" id="18_CU03 Conniving Henchman" data-flag="@X" onclick="openSidebar('18_CU03 Conniving Henchman',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\33_CB03 (Twisted Sister).png" id="33_CB03 (Twisted Sister)" data-flag="@X" onclick="openSidebar('33_CB03 (Twisted Sister)',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\48_CR03 Summon Minions.png" id="48_CR03 Summon Minions" data-flag="@X" onclick="openSidebar('48_CR03 Summon Minions',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\63_CG03 bear with set mechanic.png" id="63_CG03 bear with set mechanic" data-flag="@X" onclick="openSidebar('63_CG03 bear with set mechanic',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\4_CW04 Devoted Butler.png" id="4_CW04 Devoted Butler" data-flag="@X" onclick="openSidebar('4_CW04 Devoted Butler',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\19_CU04 flying person.png" id="19_CU04 flying person" data-flag="@X" onclick="openSidebar('19_CU04 flying person',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\34_CB04 Aspiring Mastermind.png" id="34_CB04 Aspiring Mastermind" data-flag="@X" onclick="openSidebar('34_CB04 Aspiring Mastermind',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\49_CR04 Living Dynamo.png" id="49_CR04 Living Dynamo" data-flag="@X" onclick="openSidebar('49_CR04 Living Dynamo',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\64_CG04 Cityscape Ranger.png" id="64_CG04 Cityscape Ranger" data-flag="@X" onclick="openSidebar('64_CG04 Cityscape Ranger',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\5_CW05 Uninspiring Underseer.png" id="5_CW05 Uninspiring Underseer" data-flag="@X" onclick="openSidebar('5_CW05 Uninspiring Underseer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\20_CU05 Subzero Superhero.png" id="20_CU05 Subzero Superhero" data-flag="@X" onclick="openSidebar('20_CU05 Subzero Superhero',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\35_CB05 Coercion+.png" id="35_CB05 Coercion+" data-flag="@X" onclick="openSidebar('35_CB05 Coercion+',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\50_CR05 Crackling Lackey.png" id="50_CR05 Crackling Lackey" data-flag="@X" onclick="openSidebar('50_CR05 Crackling Lackey',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\65_CG05 Mister Guy.png" id="65_CG05 Mister Guy" data-flag="@X" onclick="openSidebar('65_CG05 Mister Guy',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\6_CW06 Blinding Blaster.png" id="6_CW06 Blinding Blaster" data-flag="@X" onclick="openSidebar('6_CW06 Blinding Blaster',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\21_CU06 Big Idiot.png" id="21_CU06 Big Idiot" data-flag="@X" onclick="openSidebar('21_CU06 Big Idiot',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\36_CB06 Audaciouser Thief.png" id="36_CB06 Audaciouser Thief" data-flag="@X" onclick="openSidebar('36_CB06 Audaciouser Thief',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\51_CR06 Barrage Blaster.png" id="51_CR06 Barrage Blaster" data-flag="@X" onclick="openSidebar('51_CR06 Barrage Blaster',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\66_CG06 backup super.png" id="66_CG06 backup super" data-flag="@X" onclick="openSidebar('66_CG06 backup super',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\7_CW07 guy backup.png" id="7_CW07 guy backup" data-flag="@X" onclick="openSidebar('7_CW07 guy backup',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\22_CU07 Aerial Vanguard.png" id="22_CU07 Aerial Vanguard" data-flag="@X" onclick="openSidebar('22_CU07 Aerial Vanguard',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\37_CB07 empty slot WB support.png" id="37_CB07 empty slot WB support" data-flag="@X" onclick="openSidebar('37_CB07 empty slot WB support',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\52_CR07 Hotheaded Vigilante.png" id="52_CR07 Hotheaded Vigilante" data-flag="@X" onclick="openSidebar('52_CR07 Hotheaded Vigilante',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\67_CG07 Muscle Man.png" id="67_CG07 Muscle Man" data-flag="@X" onclick="openSidebar('67_CG07 Muscle Man',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\8_CW08 the flash (flyer).png" id="8_CW08 the flash (flyer)" data-flag="@X" onclick="openSidebar('8_CW08 the flash (flyer)',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\23_CU08 Wilbur.png" id="23_CU08 Wilbur" data-flag="@X" onclick="openSidebar('23_CU08 Wilbur',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\38_CB08 Stoneglare Sniper.png" id="38_CB08 Stoneglare Sniper" data-flag="@X" onclick="openSidebar('38_CB08 Stoneglare Sniper',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\53_CR08 draw two enabler.png" id="53_CR08 draw two enabler" data-flag="@X" onclick="openSidebar('53_CR08 draw two enabler',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\68_CG08 Big Kaiju.png" id="68_CG08 Big Kaiju" data-flag="@X" onclick="openSidebar('68_CG08 Big Kaiju',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\9_CW09 Mister Depresso.png" id="9_CW09 Mister Depresso" data-flag="@X" onclick="openSidebar('9_CW09 Mister Depresso',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\24_CU09 Deflection Field.png" id="24_CU09 Deflection Field" data-flag="@X" onclick="openSidebar('24_CU09 Deflection Field',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\39_CB09 Backstreet Prowler.png" id="39_CB09 Backstreet Prowler" data-flag="@X" onclick="openSidebar('39_CB09 Backstreet Prowler',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\54_CR09 Magmatic Goliath.png" id="54_CR09 Magmatic Goliath" data-flag="@X" onclick="openSidebar('54_CR09 Magmatic Goliath',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\69_CG09 Big Doofus.png" id="69_CG09 Big Doofus" data-flag="@X" onclick="openSidebar('69_CG09 Big Doofus',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\10_CW10 Neighborhood Hero.png" id="10_CW10 Neighborhood Hero" data-flag="@X" onclick="openSidebar('10_CW10 Neighborhood Hero',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\25_CU10 No Escape.png" id="25_CU10 No Escape" data-flag="@X" onclick="openSidebar('25_CU10 No Escape',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\40_CB10 small removal.png" id="40_CB10 small removal" data-flag="@X" onclick="openSidebar('40_CB10 small removal',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\55_CR10 shock.png" id="55_CR10 shock" data-flag="@X" onclick="openSidebar('55_CR10 shock',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\70_CG10 forestcycler.png" id="70_CG10 forestcycler" data-flag="@X" onclick="openSidebar('70_CG10 forestcycler',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\11_CW11 Big Plainscycler.png" id="11_CW11 Big Plainscycler" data-flag="@X" onclick="openSidebar('11_CW11 Big Plainscycler',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\26_CU11 Consider.png" id="26_CU11 Consider" data-flag="@X" onclick="openSidebar('26_CU11 Consider',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\41_CB11 Invasive Enhancements.png" id="41_CB11 Invasive Enhancements" data-flag="@X" onclick="openSidebar('41_CB11 Invasive Enhancements',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\56_CR11 Power Up.png" id="56_CR11 Power Up" data-flag="@X" onclick="openSidebar('56_CR11 Power Up',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\71_CG11 Kapow!.png" id="71_CG11 Kapow!" data-flag="@X" onclick="openSidebar('71_CG11 Kapow!',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\12_CW12 Shoot Man.png" id="12_CW12 Shoot Man" data-flag="@X" onclick="openSidebar('12_CW12 Shoot Man',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\27_CU12 Prep Time.png" id="27_CU12 Prep Time" data-flag="@X" onclick="openSidebar('27_CU12 Prep Time',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\42_CB12 Experiment of Questionable Legality.png" id="42_CB12 Experiment of Questionable Legality" data-flag="@X" onclick="openSidebar('42_CB12 Experiment of Questionable Legality',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\57_CR12 rummage.png" id="57_CR12 rummage" data-flag="@X" onclick="openSidebar('57_CR12 rummage',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\72_CG12 finished bite spell.png" id="72_CG12 finished bite spell" data-flag="@X" onclick="openSidebar('72_CG12 finished bite spell',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\13_CW13 Not High and Dry.png" id="13_CW13 Not High and Dry" data-flag="@X" onclick="openSidebar('13_CW13 Not High and Dry',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\28_CU13 Alter Ego.png" id="28_CU13 Alter Ego" data-flag="@X" onclick="openSidebar('28_CU13 Alter Ego',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\43_CB13 Even More Disturbing Plot.png" id="43_CB13 Even More Disturbing Plot" data-flag="@X" onclick="openSidebar('43_CB13 Even More Disturbing Plot',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\58_CR13 not modal shatter.png" id="58_CR13 not modal shatter" data-flag="@X" onclick="openSidebar('58_CR13 not modal shatter',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\73_CG13 Arachnoid Adaptation.png" id="73_CG13 Arachnoid Adaptation" data-flag="@X" onclick="openSidebar('73_CG13 Arachnoid Adaptation',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\14_CW14 Act of Heroism.png" id="14_CW14 Act of Heroism" data-flag="@X" onclick="openSidebar('14_CW14 Act of Heroism',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\29_CU14 Atmokinesis.png" id="29_CU14 Atmokinesis" data-flag="@X" onclick="openSidebar('29_CU14 Atmokinesis',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\44_CB14 Covert Operation.png" id="44_CB14 Covert Operation" data-flag="@X" onclick="openSidebar('44_CB14 Covert Operation',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\59_CR14 Laser Vision.png" id="59_CR14 Laser Vision" data-flag="@X" onclick="openSidebar('59_CR14 Laser Vision',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\74_CG14 mana acceleration.png" id="74_CG14 mana acceleration" data-flag="@X" onclick="openSidebar('74_CG14 mana acceleration',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\15_CW15 not disenchant.png" id="15_CW15 not disenchant" data-flag="@X" onclick="openSidebar('15_CW15 not disenchant',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\30_CU15 Modal.png" id="30_CU15 Modal" data-flag="@X" onclick="openSidebar('30_CU15 Modal',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\45_CB15 sac a dude to kill a dude.png" id="45_CB15 sac a dude to kill a dude" data-flag="@X" onclick="openSidebar('45_CB15 sac a dude to kill a dude',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\60_CR15 Trick Shot.png" id="60_CR15 Trick Shot" data-flag="@X" onclick="openSidebar('60_CR15 Trick Shot',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\75_CG15 Not Origin Story.png" id="75_CG15 Not Origin Story" data-flag="@X" onclick="openSidebar('75_CG15 Not Origin Story',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="sets\SUP-files\img\1_CW01 Novice Aerialist.png" id="SUP_1_CW01 Novice Aerialist" data-flag="@X" onclick="openSidebar('SUP_1_CW01 Novice Aerialist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\16_CU01 Alleyway Sentry.png" id="SUP_16_CU01 Alleyway Sentry" data-flag="@X" onclick="openSidebar('SUP_16_CU01 Alleyway Sentry',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\31_CB01 Plasma Addict.png" id="SUP_31_CB01 Plasma Addict" data-flag="@X" onclick="openSidebar('SUP_31_CB01 Plasma Addict',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\46_CR01 Mouthy Merc.png" id="SUP_46_CR01 Mouthy Merc" data-flag="@X" onclick="openSidebar('SUP_46_CR01 Mouthy Merc',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\61_CG01 Llanowar Elves.png" id="SUP_61_CG01 Llanowar Elves" data-flag="@X" onclick="openSidebar('SUP_61_CG01 Llanowar Elves',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\2_CW02 Unassuming Reporter.png" id="SUP_2_CW02 Unassuming Reporter" data-flag="@X" onclick="openSidebar('SUP_2_CW02 Unassuming Reporter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\17_CU02 Sneaky Pete.png" id="SUP_17_CU02 Sneaky Pete" data-flag="@X" onclick="openSidebar('SUP_17_CU02 Sneaky Pete',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\32_CB02 BG Support.png" id="SUP_32_CB02 BG Support" data-flag="@X" onclick="openSidebar('SUP_32_CB02 BG Support',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\47_CR02 Aspiring Arsonist.png" id="SUP_47_CR02 Aspiring Arsonist" data-flag="@X" onclick="openSidebar('SUP_47_CR02 Aspiring Arsonist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\62_CG02 Skywatch Militant.png" id="SUP_62_CG02 Skywatch Militant" data-flag="@X" onclick="openSidebar('SUP_62_CG02 Skywatch Militant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\3_CW03 Superhero City Detective.png" id="SUP_3_CW03 Superhero City Detective" data-flag="@X" onclick="openSidebar('SUP_3_CW03 Superhero City Detective',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\18_CU03 Conniving Henchman.png" id="SUP_18_CU03 Conniving Henchman" data-flag="@X" onclick="openSidebar('SUP_18_CU03 Conniving Henchman',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\33_CB03 (Twisted Sister).png" id="SUP_33_CB03 (Twisted Sister)" data-flag="@X" onclick="openSidebar('SUP_33_CB03 (Twisted Sister)',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\48_CR03 Summon Minions.png" id="SUP_48_CR03 Summon Minions" data-flag="@X" onclick="openSidebar('SUP_48_CR03 Summon Minions',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\63_CG03 bear with set mechanic.png" id="SUP_63_CG03 bear with set mechanic" data-flag="@X" onclick="openSidebar('SUP_63_CG03 bear with set mechanic',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\4_CW04 Devoted Butler.png" id="SUP_4_CW04 Devoted Butler" data-flag="@X" onclick="openSidebar('SUP_4_CW04 Devoted Butler',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\19_CU04 flying person.png" id="SUP_19_CU04 flying person" data-flag="@X" onclick="openSidebar('SUP_19_CU04 flying person',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\34_CB04 Aspiring Mastermind.png" id="SUP_34_CB04 Aspiring Mastermind" data-flag="@X" onclick="openSidebar('SUP_34_CB04 Aspiring Mastermind',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\49_CR04 Living Dynamo.png" id="SUP_49_CR04 Living Dynamo" data-flag="@X" onclick="openSidebar('SUP_49_CR04 Living Dynamo',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\64_CG04 Cityscape Ranger.png" id="SUP_64_CG04 Cityscape Ranger" data-flag="@X" onclick="openSidebar('SUP_64_CG04 Cityscape Ranger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\5_CW05 Uninspiring Underseer.png" id="SUP_5_CW05 Uninspiring Underseer" data-flag="@X" onclick="openSidebar('SUP_5_CW05 Uninspiring Underseer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\20_CU05 Subzero Superhero.png" id="SUP_20_CU05 Subzero Superhero" data-flag="@X" onclick="openSidebar('SUP_20_CU05 Subzero Superhero',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\35_CB05 Coercion+.png" id="SUP_35_CB05 Coercion+" data-flag="@X" onclick="openSidebar('SUP_35_CB05 Coercion+',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\50_CR05 Crackling Lackey.png" id="SUP_50_CR05 Crackling Lackey" data-flag="@X" onclick="openSidebar('SUP_50_CR05 Crackling Lackey',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\65_CG05 Mister Guy.png" id="SUP_65_CG05 Mister Guy" data-flag="@X" onclick="openSidebar('SUP_65_CG05 Mister Guy',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\6_CW06 Blinding Blaster.png" id="SUP_6_CW06 Blinding Blaster" data-flag="@X" onclick="openSidebar('SUP_6_CW06 Blinding Blaster',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\21_CU06 Big Idiot.png" id="SUP_21_CU06 Big Idiot" data-flag="@X" onclick="openSidebar('SUP_21_CU06 Big Idiot',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\36_CB06 Audaciouser Thief.png" id="SUP_36_CB06 Audaciouser Thief" data-flag="@X" onclick="openSidebar('SUP_36_CB06 Audaciouser Thief',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\51_CR06 Barrage Blaster.png" id="SUP_51_CR06 Barrage Blaster" data-flag="@X" onclick="openSidebar('SUP_51_CR06 Barrage Blaster',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\66_CG06 backup super.png" id="SUP_66_CG06 backup super" data-flag="@X" onclick="openSidebar('SUP_66_CG06 backup super',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\7_CW07 guy backup.png" id="SUP_7_CW07 guy backup" data-flag="@X" onclick="openSidebar('SUP_7_CW07 guy backup',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\22_CU07 Aerial Vanguard.png" id="SUP_22_CU07 Aerial Vanguard" data-flag="@X" onclick="openSidebar('SUP_22_CU07 Aerial Vanguard',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\37_CB07 empty slot WB support.png" id="SUP_37_CB07 empty slot WB support" data-flag="@X" onclick="openSidebar('SUP_37_CB07 empty slot WB support',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\52_CR07 Hotheaded Vigilante.png" id="SUP_52_CR07 Hotheaded Vigilante" data-flag="@X" onclick="openSidebar('SUP_52_CR07 Hotheaded Vigilante',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\67_CG07 Muscle Man.png" id="SUP_67_CG07 Muscle Man" data-flag="@X" onclick="openSidebar('SUP_67_CG07 Muscle Man',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\8_CW08 the flash (flyer).png" id="SUP_8_CW08 the flash (flyer)" data-flag="@X" onclick="openSidebar('SUP_8_CW08 the flash (flyer)',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\23_CU08 Wilbur.png" id="SUP_23_CU08 Wilbur" data-flag="@X" onclick="openSidebar('SUP_23_CU08 Wilbur',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\38_CB08 Stoneglare Sniper.png" id="SUP_38_CB08 Stoneglare Sniper" data-flag="@X" onclick="openSidebar('SUP_38_CB08 Stoneglare Sniper',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\53_CR08 draw two enabler.png" id="SUP_53_CR08 draw two enabler" data-flag="@X" onclick="openSidebar('SUP_53_CR08 draw two enabler',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\68_CG08 Big Kaiju.png" id="SUP_68_CG08 Big Kaiju" data-flag="@X" onclick="openSidebar('SUP_68_CG08 Big Kaiju',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\9_CW09 Mister Depresso.png" id="SUP_9_CW09 Mister Depresso" data-flag="@X" onclick="openSidebar('SUP_9_CW09 Mister Depresso',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\24_CU09 Deflection Field.png" id="SUP_24_CU09 Deflection Field" data-flag="@X" onclick="openSidebar('SUP_24_CU09 Deflection Field',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\39_CB09 Backstreet Prowler.png" id="SUP_39_CB09 Backstreet Prowler" data-flag="@X" onclick="openSidebar('SUP_39_CB09 Backstreet Prowler',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\54_CR09 Magmatic Goliath.png" id="SUP_54_CR09 Magmatic Goliath" data-flag="@X" onclick="openSidebar('SUP_54_CR09 Magmatic Goliath',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\69_CG09 Big Doofus.png" id="SUP_69_CG09 Big Doofus" data-flag="@X" onclick="openSidebar('SUP_69_CG09 Big Doofus',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\10_CW10 Neighborhood Hero.png" id="SUP_10_CW10 Neighborhood Hero" data-flag="@X" onclick="openSidebar('SUP_10_CW10 Neighborhood Hero',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\25_CU10 No Escape.png" id="SUP_25_CU10 No Escape" data-flag="@X" onclick="openSidebar('SUP_25_CU10 No Escape',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\40_CB10 small removal.png" id="SUP_40_CB10 small removal" data-flag="@X" onclick="openSidebar('SUP_40_CB10 small removal',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\55_CR10 shock.png" id="SUP_55_CR10 shock" data-flag="@X" onclick="openSidebar('SUP_55_CR10 shock',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\70_CG10 forestcycler.png" id="SUP_70_CG10 forestcycler" data-flag="@X" onclick="openSidebar('SUP_70_CG10 forestcycler',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\11_CW11 Big Plainscycler.png" id="SUP_11_CW11 Big Plainscycler" data-flag="@X" onclick="openSidebar('SUP_11_CW11 Big Plainscycler',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\26_CU11 Consider.png" id="SUP_26_CU11 Consider" data-flag="@X" onclick="openSidebar('SUP_26_CU11 Consider',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\41_CB11 Invasive Enhancements.png" id="SUP_41_CB11 Invasive Enhancements" data-flag="@X" onclick="openSidebar('SUP_41_CB11 Invasive Enhancements',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\56_CR11 Power Up.png" id="SUP_56_CR11 Power Up" data-flag="@X" onclick="openSidebar('SUP_56_CR11 Power Up',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\71_CG11 Kapow!.png" id="SUP_71_CG11 Kapow!" data-flag="@X" onclick="openSidebar('SUP_71_CG11 Kapow!',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\12_CW12 Shoot Man.png" id="SUP_12_CW12 Shoot Man" data-flag="@X" onclick="openSidebar('SUP_12_CW12 Shoot Man',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\27_CU12 Prep Time.png" id="SUP_27_CU12 Prep Time" data-flag="@X" onclick="openSidebar('SUP_27_CU12 Prep Time',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\42_CB12 Experiment of Questionable Legality.png" id="SUP_42_CB12 Experiment of Questionable Legality" data-flag="@X" onclick="openSidebar('SUP_42_CB12 Experiment of Questionable Legality',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\57_CR12 rummage.png" id="SUP_57_CR12 rummage" data-flag="@X" onclick="openSidebar('SUP_57_CR12 rummage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\72_CG12 finished bite spell.png" id="SUP_72_CG12 finished bite spell" data-flag="@X" onclick="openSidebar('SUP_72_CG12 finished bite spell',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\13_CW13 Not High and Dry.png" id="SUP_13_CW13 Not High and Dry" data-flag="@X" onclick="openSidebar('SUP_13_CW13 Not High and Dry',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\28_CU13 Alter Ego.png" id="SUP_28_CU13 Alter Ego" data-flag="@X" onclick="openSidebar('SUP_28_CU13 Alter Ego',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\43_CB13 Even More Disturbing Plot.png" id="SUP_43_CB13 Even More Disturbing Plot" data-flag="@X" onclick="openSidebar('SUP_43_CB13 Even More Disturbing Plot',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\58_CR13 not modal shatter.png" id="SUP_58_CR13 not modal shatter" data-flag="@X" onclick="openSidebar('SUP_58_CR13 not modal shatter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\73_CG13 Arachnoid Adaptation.png" id="SUP_73_CG13 Arachnoid Adaptation" data-flag="@X" onclick="openSidebar('SUP_73_CG13 Arachnoid Adaptation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\14_CW14 Act of Heroism.png" id="SUP_14_CW14 Act of Heroism" data-flag="@X" onclick="openSidebar('SUP_14_CW14 Act of Heroism',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\29_CU14 Atmokinesis.png" id="SUP_29_CU14 Atmokinesis" data-flag="@X" onclick="openSidebar('SUP_29_CU14 Atmokinesis',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\44_CB14 Covert Operation.png" id="SUP_44_CB14 Covert Operation" data-flag="@X" onclick="openSidebar('SUP_44_CB14 Covert Operation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\59_CR14 Laser Vision.png" id="SUP_59_CR14 Laser Vision" data-flag="@X" onclick="openSidebar('SUP_59_CR14 Laser Vision',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\74_CG14 mana acceleration.png" id="SUP_74_CG14 mana acceleration" data-flag="@X" onclick="openSidebar('SUP_74_CG14 mana acceleration',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\15_CW15 not disenchant.png" id="SUP_15_CW15 not disenchant" data-flag="@X" onclick="openSidebar('SUP_15_CW15 not disenchant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\30_CU15 Modal.png" id="SUP_30_CU15 Modal" data-flag="@X" onclick="openSidebar('SUP_30_CU15 Modal',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\45_CB15 sac a dude to kill a dude.png" id="SUP_45_CB15 sac a dude to kill a dude" data-flag="@X" onclick="openSidebar('SUP_45_CB15 sac a dude to kill a dude',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\60_CR15 Trick Shot.png" id="SUP_60_CR15 Trick Shot" data-flag="@X" onclick="openSidebar('SUP_60_CR15 Trick Shot',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\75_CG15 Not Origin Story.png" id="SUP_75_CG15 Not Origin Story" data-flag="@X" onclick="openSidebar('SUP_75_CG15 Not Origin Story',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SUP_er" data-flag="@E" onclick="openSidebar('SUP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SUP_er" data-flag="@E" onclick="openSidebar('SUP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SUP_er" data-flag="@E" onclick="openSidebar('SUP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SUP_er" data-flag="@E" onclick="openSidebar('SUP_er',false)"></div>
 				<div id="gold" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\77_UM01 (WU Creature).png" id="77_UM01 (WU Creature)" data-flag="@X" onclick="openSidebar('77_UM01 (WU Creature)',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\79_UM02 (Mission Hunter).png" id="79_UM02 (Mission Hunter)" data-flag="@X" onclick="openSidebar('79_UM02 (Mission Hunter)',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\81_UM03 (BR Arcun).png" id="81_UM03 (BR Arcun)" data-flag="@X" onclick="openSidebar('81_UM03 (BR Arcun)',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\83_UM04 (Big Kaiju).png" id="83_UM04 (Big Kaiju)" data-flag="@X" onclick="openSidebar('83_UM04 (Big Kaiju)',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\85_UM05 Macaroni Man.png" id="85_UM05 Macaroni Man" data-flag="@X" onclick="openSidebar('85_UM05 Macaroni Man',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\78_UM01 flash enabler.png" id="78_UM01 flash enabler" data-flag="@X" onclick="openSidebar('78_UM01 flash enabler',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\80_UM02 Hired Hit.png" id="80_UM02 Hired Hit" data-flag="@X" onclick="openSidebar('80_UM02 Hired Hit',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\82_UM03 Head Honcho.png" id="82_UM03 Head Honcho" data-flag="@X" onclick="openSidebar('82_UM03 Head Honcho',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\84_UM04 Cityscape Raptor.png" id="84_UM04 Cityscape Raptor" data-flag="@X" onclick="openSidebar('84_UM04 Cityscape Raptor',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\86_UM05 the least sexualized poison ivy art i could find.png" id="86_UM05 the least sexualized poison ivy art i could find" data-flag="@X" onclick="openSidebar('86_UM05 the least sexualized poison ivy art i could find',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\87_UM06 Another Dude.png" id="87_UM06 Another Dude" data-flag="@X" onclick="openSidebar('87_UM06 Another Dude',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\89_UM07 (UR arcun).png" id="89_UM07 (UR arcun)" data-flag="@X" onclick="openSidebar('89_UM07 (UR arcun)',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\91_UM08 Reboot.png" id="91_UM08 Reboot" data-flag="@X" onclick="openSidebar('91_UM08 Reboot',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\93_UM09 Dynamic Duo.png" id="93_UM09 Dynamic Duo" data-flag="@X" onclick="openSidebar('93_UM09 Dynamic Duo',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\95_UM10 Make Fellas.png" id="95_UM10 Make Fellas" data-flag="@X" onclick="openSidebar('95_UM10 Make Fellas',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\88_UM06 Loyal Underling.png" id="88_UM06 Loyal Underling" data-flag="@X" onclick="openSidebar('88_UM06 Loyal Underling',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\90_UM07 Steel Heights Renegade.png" id="90_UM07 Steel Heights Renegade" data-flag="@X" onclick="openSidebar('90_UM07 Steel Heights Renegade',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\92_UM08 Renegade Webslinger.png" id="92_UM08 Renegade Webslinger" data-flag="@X" onclick="openSidebar('92_UM08 Renegade Webslinger',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\94_UM09 Overclock.png" id="94_UM09 Overclock" data-flag="@X" onclick="openSidebar('94_UM09 Overclock',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\96_UM10 Voltage Vanguard.png" id="96_UM10 Voltage Vanguard" data-flag="@X" onclick="openSidebar('96_UM10 Voltage Vanguard',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\76_The Big Bad.png" id="76_The Big Bad" data-flag="@X" onclick="openSidebar('76_The Big Bad',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\77_UM01 (WU Creature).png" id="SUP_77_UM01 (WU Creature)" data-flag="@X" onclick="openSidebar('SUP_77_UM01 (WU Creature)',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\79_UM02 (Mission Hunter).png" id="SUP_79_UM02 (Mission Hunter)" data-flag="@X" onclick="openSidebar('SUP_79_UM02 (Mission Hunter)',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\81_UM03 (BR Arcun).png" id="SUP_81_UM03 (BR Arcun)" data-flag="@X" onclick="openSidebar('SUP_81_UM03 (BR Arcun)',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\83_UM04 (Big Kaiju).png" id="SUP_83_UM04 (Big Kaiju)" data-flag="@X" onclick="openSidebar('SUP_83_UM04 (Big Kaiju)',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\85_UM05 Macaroni Man.png" id="SUP_85_UM05 Macaroni Man" data-flag="@X" onclick="openSidebar('SUP_85_UM05 Macaroni Man',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\78_UM01 flash enabler.png" id="SUP_78_UM01 flash enabler" data-flag="@X" onclick="openSidebar('SUP_78_UM01 flash enabler',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\80_UM02 Hired Hit.png" id="SUP_80_UM02 Hired Hit" data-flag="@X" onclick="openSidebar('SUP_80_UM02 Hired Hit',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\82_UM03 Head Honcho.png" id="SUP_82_UM03 Head Honcho" data-flag="@X" onclick="openSidebar('SUP_82_UM03 Head Honcho',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\84_UM04 Cityscape Raptor.png" id="SUP_84_UM04 Cityscape Raptor" data-flag="@X" onclick="openSidebar('SUP_84_UM04 Cityscape Raptor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\86_UM05 the least sexualized poison ivy art i could find.png" id="SUP_86_UM05 the least sexualized poison ivy art i could find" data-flag="@X" onclick="openSidebar('SUP_86_UM05 the least sexualized poison ivy art i could find',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SUP_er" data-flag="@E" onclick="openSidebar('SUP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SUP_er" data-flag="@E" onclick="openSidebar('SUP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SUP_er" data-flag="@E" onclick="openSidebar('SUP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SUP_er" data-flag="@E" onclick="openSidebar('SUP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SUP_er" data-flag="@E" onclick="openSidebar('SUP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\87_UM06 Another Dude.png" id="SUP_87_UM06 Another Dude" data-flag="@X" onclick="openSidebar('SUP_87_UM06 Another Dude',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\89_UM07 (UR arcun).png" id="SUP_89_UM07 (UR arcun)" data-flag="@X" onclick="openSidebar('SUP_89_UM07 (UR arcun)',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\91_UM08 Reboot.png" id="SUP_91_UM08 Reboot" data-flag="@X" onclick="openSidebar('SUP_91_UM08 Reboot',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\93_UM09 Dynamic Duo.png" id="SUP_93_UM09 Dynamic Duo" data-flag="@X" onclick="openSidebar('SUP_93_UM09 Dynamic Duo',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\95_UM10 Make Fellas.png" id="SUP_95_UM10 Make Fellas" data-flag="@X" onclick="openSidebar('SUP_95_UM10 Make Fellas',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\88_UM06 Loyal Underling.png" id="SUP_88_UM06 Loyal Underling" data-flag="@X" onclick="openSidebar('SUP_88_UM06 Loyal Underling',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\90_UM07 Steel Heights Renegade.png" id="SUP_90_UM07 Steel Heights Renegade" data-flag="@X" onclick="openSidebar('SUP_90_UM07 Steel Heights Renegade',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\92_UM08 Renegade Webslinger.png" id="SUP_92_UM08 Renegade Webslinger" data-flag="@X" onclick="openSidebar('SUP_92_UM08 Renegade Webslinger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\94_UM09 Overclock.png" id="SUP_94_UM09 Overclock" data-flag="@X" onclick="openSidebar('SUP_94_UM09 Overclock',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\96_UM10 Voltage Vanguard.png" id="SUP_96_UM10 Voltage Vanguard" data-flag="@X" onclick="openSidebar('SUP_96_UM10 Voltage Vanguard',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SUP_er" data-flag="@E" onclick="openSidebar('SUP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SUP_er" data-flag="@E" onclick="openSidebar('SUP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SUP_er" data-flag="@E" onclick="openSidebar('SUP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SUP_er" data-flag="@E" onclick="openSidebar('SUP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SUP_er" data-flag="@E" onclick="openSidebar('SUP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\76_The Big Bad.png" id="SUP_76_The Big Bad" data-flag="@X" onclick="openSidebar('SUP_76_The Big Bad',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SUP_e" data-flag="@E" onclick="openSidebar('SUP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SUP_e" data-flag="@E" onclick="openSidebar('SUP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SUP_e" data-flag="@E" onclick="openSidebar('SUP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SUP_e" data-flag="@E" onclick="openSidebar('SUP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SUP_er" data-flag="@E" onclick="openSidebar('SUP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SUP_er" data-flag="@E" onclick="openSidebar('SUP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SUP_er" data-flag="@E" onclick="openSidebar('SUP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SUP_er" data-flag="@E" onclick="openSidebar('SUP_er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\97_CA01 Sidekick Bot.png" id="97_CA01 Sidekick Bot" data-flag="@X" onclick="openSidebar('97_CA01 Sidekick Bot',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\98_CA02 Surveillance Drone.png" id="98_CA02 Surveillance Drone" data-flag="@X" onclick="openSidebar('98_CA02 Surveillance Drone',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\99_CA03 Colossatron.png" id="99_CA03 Colossatron" data-flag="@X" onclick="openSidebar('99_CA03 Colossatron',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\100_CA04 Utility Belt.png" id="100_CA04 Utility Belt" data-flag="@X" onclick="openSidebar('100_CA04 Utility Belt',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\101_CA05 Moxenite.png" id="101_CA05 Moxenite" data-flag="@X" onclick="openSidebar('101_CA05 Moxenite',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\102_CA06 Vibrant Cityscape.png" id="102_CA06 Vibrant Cityscape" data-flag="@X" onclick="openSidebar('102_CA06 Vibrant Cityscape',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\97_CA01 Sidekick Bot.png" id="SUP_97_CA01 Sidekick Bot" data-flag="@X" onclick="openSidebar('SUP_97_CA01 Sidekick Bot',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\98_CA02 Surveillance Drone.png" id="SUP_98_CA02 Surveillance Drone" data-flag="@X" onclick="openSidebar('SUP_98_CA02 Surveillance Drone',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\99_CA03 Colossatron.png" id="SUP_99_CA03 Colossatron" data-flag="@X" onclick="openSidebar('SUP_99_CA03 Colossatron',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\100_CA04 Utility Belt.png" id="SUP_100_CA04 Utility Belt" data-flag="@X" onclick="openSidebar('SUP_100_CA04 Utility Belt',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\101_CA05 Moxenite.png" id="SUP_101_CA05 Moxenite" data-flag="@X" onclick="openSidebar('SUP_101_CA05 Moxenite',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SUP_er" data-flag="@E" onclick="openSidebar('SUP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SUP_er" data-flag="@E" onclick="openSidebar('SUP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SUP_er" data-flag="@E" onclick="openSidebar('SUP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SUP_er" data-flag="@E" onclick="openSidebar('SUP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SUP_er" data-flag="@E" onclick="openSidebar('SUP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\102_CA06 Vibrant Cityscape.png" id="SUP_102_CA06 Vibrant Cityscape" data-flag="@X" onclick="openSidebar('SUP_102_CA06 Vibrant Cityscape',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SUP_e" data-flag="@E" onclick="openSidebar('SUP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SUP_e" data-flag="@E" onclick="openSidebar('SUP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SUP_e" data-flag="@E" onclick="openSidebar('SUP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SUP_e" data-flag="@E" onclick="openSidebar('SUP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SUP_er" data-flag="@E" onclick="openSidebar('SUP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SUP_er" data-flag="@E" onclick="openSidebar('SUP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SUP_er" data-flag="@E" onclick="openSidebar('SUP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SUP_er" data-flag="@E" onclick="openSidebar('SUP_er',false)"></div>
 				<div id="token" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\1t_Superhero Set Archetypes.png" id="1t_Superhero Set Archetypes" data-flag="@X" onclick="openSidebar('1t_Superhero Set Archetypes',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\4t_Drone.png" id="4t_Drone" data-flag="@X" onclick="openSidebar('4t_Drone',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\2t_Minion.png" id="2t_Minion" data-flag="@X" onclick="openSidebar('2t_Minion',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\SUP-files\img\3t_Minion.png" id="3t_Minion" data-flag="@X" onclick="openSidebar('3t_Minion',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\1t_Superhero Set Archetypes.png" id="SUP_1t_Superhero Set Archetypes" data-flag="@X" onclick="openSidebar('SUP_1t_Superhero Set Archetypes',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\4t_Drone.png" id="SUP_4t_Drone" data-flag="@X" onclick="openSidebar('SUP_4t_Drone',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\2t_Minion.png" id="SUP_2t_Minion" data-flag="@X" onclick="openSidebar('SUP_2t_Minion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SUP-files\img\3t_Minion.png" id="SUP_3t_Minion" data-flag="@X" onclick="openSidebar('SUP_3t_Minion',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SUP_e" data-flag="@E" onclick="openSidebar('SUP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SUP_er" data-flag="@E" onclick="openSidebar('SUP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SUP_er" data-flag="@E" onclick="openSidebar('SUP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SUP_er" data-flag="@E" onclick="openSidebar('SUP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SUP_er" data-flag="@E" onclick="openSidebar('SUP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SUP_er" data-flag="@E" onclick="openSidebar('SUP_er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
 		<div class="sidebar-container">
-			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_img" class="sidebar-img">
 			<img id="sidebar_h_img" class="sidebar-h-img">
 			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
 		</div>
@@ -394,19 +417,111 @@
 		let specialchars = "";
 
 	document.addEventListener('DOMContentLoaded', async function() {
-		await fetch('/lists/all-cards.json')
+		await fetch(rootPath + '/lists/all-cards.json')
 					.then(response => response.json())
 					.then(json => {
 						card_list = json;
 				}).catch(error => console.error('Error:', error));
 
-				await fetch('/resources/replacechars.txt')
+				await fetch(rootPath + '/resources/replacechars.txt')
 					.then(response => response.text())
 					.then(text => {
 						specialchars = text; 
 				}).catch(error => console.error('Error:', error));
 
 				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
 
 		preloadImgs = document.getElementsByClassName('preload-hidden');
 
@@ -441,13 +556,16 @@
 			const flag = img.getAttribute('data-flag');
 
 			if (flag === '@N') {
-				img.src = '/img/card_back.png';
+				img.src = rootPath + '/img/card_back.png';
 				img.removeAttribute("onclick");
 				img.style.cursor = 'default';
 			}
 			else
 			{
-				img.src = img.alt;
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
 
 				if (flag === '@E') {
 					img.removeAttribute("onclick");
@@ -601,16 +719,16 @@
 	});
 
 	function search() {
-		const url = new URL('search', window.location.origin);
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 		url.searchParams.append('search', document.getElementById("search").value);
-		window.location.href = url;
+		window.location.href = url.pathname + url.search;
 	}
 
 		function randomCard() {
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
 				let random_card = card_list_arrayified[i];
 
-				const url = new URL('card', window.location.origin);
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 				const params = {
 					set: random_card.set,
 					num: random_card.number,
@@ -620,7 +738,7 @@
 					url.searchParams.append(key, params[key]);
 				}
 
-				window.location.href = url;
+				window.location.href = url.pathname + url.search;
 			}
 	</script>
 </body>

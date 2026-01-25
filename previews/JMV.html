@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="icon" type="image/png" href="/sets/JMV-files/icon.png"/>
-	<link rel="stylesheet" href="/resources/header.css">
+	<link rel="icon" type="image/png" href="../sets/JMV-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
 	<title>JMV visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
 	<style>
 		@font-face {
 			font-family: Beleren;
-			src: url('/resources/beleren.ttf');
+			src: url('../resources/beleren.ttf');
 		}
 		body {
 			font-family: Arial, sans-serif;
@@ -45,13 +48,15 @@
 			left: 10%;
 			top: 10%;
 			width: 85%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.sidebar-img {
 			vertical-align: middle;
 			width: 100%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.close-btn {
-			background: url('/img/close.png') no-repeat;
+			background: url('../img/close.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 10%;
@@ -62,7 +67,7 @@
 			right: 4%;
 		}
 		.close-btn:hover {
-			background: url('/img/close-hover.png') no-repeat;
+			background: url('../img/close-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -82,6 +87,7 @@
 			display: block;
 			visibility: hidden;
 			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
 		}
 		.banner {
 			width: 100%;
@@ -102,9 +108,10 @@
 		.container img {
 			width: 100%;
 			height: auto;
+			border-radius: 3.733% / 2.677%;
 		}
 		.flip-btn {
-			background: url('/img/flip.png') no-repeat;
+			background: url('../img/flip.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 15%;
@@ -118,7 +125,7 @@
 			opacity: 0.5;
 		}
 		.flip-btn:hover {
-			background: url('/img/flip-hover.png') no-repeat;
+			background: url('../img/flip-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -174,124 +181,140 @@
 	</style>
 </head>
 <body>
-	<img class="preload-hidden" src="/img/dot.png" />
-	<img class="preload-hidden" src="/sets/JMV-files/logo.png" />
-	<img class="preload-hidden" src="/sets/KRK-files/icon.png" />
-		<img class="preload-hidden" src="/sets/MOX-files/icon.png" />
-		<img class="preload-hidden" src="/sets/GS2-files/icon.png" />
-		<img class="preload-hidden" src="/sets/JPK-files/icon.png" />
-		<img class="preload-hidden" src="/sets/STW-files/icon.png" />
-		<img class="preload-hidden" src="/sets/X24-files/icon.png" />
-		<img class="preload-hidden" src="/sets/X25-files/icon.png" />
-		<img class="preload-hidden" src="/sets/LOU-files/icon.png" />
-		<img class="preload-hidden" src="/sets/MRV-files/icon.png" />
-		<img class="preload-hidden" src="/sets/JMV-files/icon.png" />
-		<img class="preload-hidden" id="bg" src="/sets/JMV-files/bg.png" />
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/JMV-files/logo.png" />
+	<img class="preload-hidden" src="../sets/KRK-files/icon.png" />
+		<img class="preload-hidden" src="../sets/MOX-files/icon.png" />
+		<img class="preload-hidden" src="../sets/GS2-files/icon.png" />
+		<img class="preload-hidden" src="../sets/JPK-files/icon.png" />
+		<img class="preload-hidden" src="../sets/STW-files/icon.png" />
+		<img class="preload-hidden" src="../sets/X24-files/icon.png" />
+		<img class="preload-hidden" src="../sets/X25-files/icon.png" />
+		<img class="preload-hidden" src="../sets/LOU-files/icon.png" />
+		<img class="preload-hidden" src="../sets/MRV-files/icon.png" />
+		<img class="preload-hidden" src="../sets/JMV-files/icon.png" />
+		<img class="preload-hidden" id="bg" src="../sets/JMV-files/bg.png" />
 
 		<div class="header">
 		<div class="search-grid">
-			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
-			<img class="sg-icon" src="/img/search.png">
-			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
-			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
-			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
-			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
 		</div>
 	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
 
 	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
-		<a class="set-bar" href="JMV"><img src="/sets/JMV-files/icon.png">Marvel Jumpstart</a>
+		<a class="set-bar" href="../previews/JMV"><img src="../sets/JMV-files/icon.png">Marvel Jumpstart</a>
 	
-		<a class="set-bar inactive" href="KRK"><img src="/sets/KRK-files/icon.png">Seas of Krakonos</a>
+		<a class="set-bar inactive" href="../previews/KRK"><img src="../sets/KRK-files/icon.png">Seas of Krakonos</a>
 	
-		<a class="set-bar inactive" href="MOX"><img src="/sets/MOX-files/icon.png">Midnight Omens of Xogoa</a>
+		<a class="set-bar inactive" href="../previews/MOX"><img src="../sets/MOX-files/icon.png">Midnight Omens of Xogoa</a>
 	
-		<a class="set-bar inactive" href="GS2"><img src="/sets/GS2-files/icon.png">Global Series 2</a>
+		<a class="set-bar inactive" href="../previews/GS2"><img src="../sets/GS2-files/icon.png">Global Series 2</a>
 	
-		<a class="set-bar inactive" href="JPK"><img src="/sets/JPK-files/icon.png">Pokémon Trainer Jumpstart</a>
+		<a class="set-bar inactive" href="../previews/JPK"><img src="../sets/JPK-files/icon.png">Pokémon Trainer Jumpstart</a>
 	
-		<a class="set-bar inactive" href="STW"><img src="/sets/STW-files/icon.png">Star Wars Microset</a>
+		<a class="set-bar inactive" href="../previews/STW"><img src="../sets/STW-files/icon.png">Star Wars Microset</a>
 	
-		<a class="set-bar inactive" href="X24"><img src="/sets/X24-files/icon.png">Moxtober 2024</a>
+		<a class="set-bar inactive" href="../previews/X24"><img src="../sets/X24-files/icon.png">Moxtober 2024</a>
 	
-		<a class="set-bar inactive" href="X25"><img src="/sets/X25-files/icon.png">Moxtober 2025</a>
+		<a class="set-bar inactive" href="../previews/X25"><img src="../sets/X25-files/icon.png">Moxtober 2025</a>
 	
-		<a class="set-bar inactive" href="LOU"><img src="/sets/LOU-files/icon.png">Primordial Precons: The Last of Us</a>
+		<a class="set-bar inactive" href="../previews/LOU"><img src="../sets/LOU-files/icon.png">Primordial Precons: The Last of Us</a>
 	
-		<a class="set-bar inactive" href="MRV"><img src="/sets/MRV-files/icon.png">MRV-1610: The Reboot Edition</a>
+		<a class="set-bar inactive" href="../previews/MRV"><img src="../sets/MRV-files/icon.png">MRV-1610: The Reboot Edition</a>
 	
 		</div>
 		<div class="banner">
-		<img class="logo" src="/sets/JMV-files/logo.png">
+		<img class="logo" src="../sets/JMV-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\31_Invisible Woman.png" id="31_Invisible Woman" data-flag="@X" onclick="openSidebar('31_Invisible Woman',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\30_Human Torch.png" id="30_Human Torch" data-flag="@X" onclick="openSidebar('30_Human Torch',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\10_Mister Fantastic.png" id="10_Mister Fantastic" data-flag="@X" onclick="openSidebar('10_Mister Fantastic',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\32_Thing.png" id="32_Thing" data-flag="@X" onclick="openSidebar('32_Thing',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\34_HERBIE.png" id="34_HERBIE" data-flag="@X" onclick="openSidebar('34_HERBIE',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\11_Namor the Sub-Mariner.png" id="11_Namor the Sub-Mariner" data-flag="@X" onclick="openSidebar('11_Namor the Sub-Mariner',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\33_Dragon Man.png" id="33_Dragon Man" data-flag="@X" onclick="openSidebar('33_Dragon Man',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\4_Curiosity.png" id="4_Curiosity" data-flag="@X" onclick="openSidebar('4_Curiosity',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\5_Force Field.png" id="5_Force Field" data-flag="@X" onclick="openSidebar('5_Force Field',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\6_Founding of the Four.png" id="6_Founding of the Four" data-flag="@X" onclick="openSidebar('6_Founding of the Four',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\8_Lost in the Multiverse.png" id="8_Lost in the Multiverse" data-flag="@X" onclick="openSidebar('8_Lost in the Multiverse',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\7_Hypothesize.png" id="7_Hypothesize" data-flag="@X" onclick="openSidebar('7_Hypothesize',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\13_Pixie.png" id="13_Pixie" data-flag="@X" onclick="openSidebar('13_Pixie',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\2_Blink.png" id="2_Blink" data-flag="@X" onclick="openSidebar('2_Blink',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\9_Mirage.png" id="9_Mirage" data-flag="@X" onclick="openSidebar('9_Mirage',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\12_Nightcrawler.png" id="12_Nightcrawler" data-flag="@X" onclick="openSidebar('12_Nightcrawler',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\17_Shadowcat.png" id="17_Shadowcat" data-flag="@X" onclick="openSidebar('17_Shadowcat',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\16_Psylocke.png" id="16_Psylocke" data-flag="@X" onclick="openSidebar('16_Psylocke',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\36_Warlock.png" id="36_Warlock" data-flag="@X" onclick="openSidebar('36_Warlock',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\3_Cable.png" id="3_Cable" data-flag="@X" onclick="openSidebar('3_Cable',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\1_Bamf!.png" id="1_Bamf!" data-flag="@X" onclick="openSidebar('1_Bamf!',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\14_Portal Hopping.png" id="14_Portal Hopping" data-flag="@X" onclick="openSidebar('14_Portal Hopping',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\15_Psychic Knife.png" id="15_Psychic Knife" data-flag="@X" onclick="openSidebar('15_Psychic Knife',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\18_Temporal Paradox.png" id="18_Temporal Paradox" data-flag="@X" onclick="openSidebar('18_Temporal Paradox',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\35_Scorn.png" id="35_Scorn" data-flag="@X" onclick="openSidebar('35_Scorn',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\24_Scream.png" id="24_Scream" data-flag="@X" onclick="openSidebar('24_Scream',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\20_Carnage.png" id="20_Carnage" data-flag="@X" onclick="openSidebar('20_Carnage',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\19_Anti-Venom.png" id="19_Anti-Venom" data-flag="@X" onclick="openSidebar('19_Anti-Venom',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\27_Toxin.png" id="27_Toxin" data-flag="@X" onclick="openSidebar('27_Toxin',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\25_Shriek.png" id="25_Shriek" data-flag="@X" onclick="openSidebar('25_Shriek',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\28_Venom.png" id="28_Venom" data-flag="@X" onclick="openSidebar('28_Venom',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\23_Knull, King in Black.png" id="23_Knull, King in Black" data-flag="@X" onclick="openSidebar('23_Knull, King in Black',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\21_Frenzied Strike.png" id="21_Frenzied Strike" data-flag="@X" onclick="openSidebar('21_Frenzied Strike',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\26_Symbiote Spawning.png" id="26_Symbiote Spawning" data-flag="@X" onclick="openSidebar('26_Symbiote Spawning',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\29_We Are Venom.png" id="29_We Are Venom" data-flag="@X" onclick="openSidebar('29_We Are Venom',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\JMV-files\img\22_Klyntar Infection.png" id="22_Klyntar Infection" data-flag="@X" onclick="openSidebar('22_Klyntar Infection',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="sets\JMV-files\img\31_Invisible Woman.png" id="JMV_31_Invisible Woman" data-flag="@X" onclick="openSidebar('JMV_31_Invisible Woman',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JMV-files\img\30_Human Torch.png" id="JMV_30_Human Torch" data-flag="@X" onclick="openSidebar('JMV_30_Human Torch',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JMV-files\img\10_Mister Fantastic.png" id="JMV_10_Mister Fantastic" data-flag="@X" onclick="openSidebar('JMV_10_Mister Fantastic',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JMV-files\img\32_Thing.png" id="JMV_32_Thing" data-flag="@X" onclick="openSidebar('JMV_32_Thing',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JMV-files\img\34_HERBIE.png" id="JMV_34_HERBIE" data-flag="@X" onclick="openSidebar('JMV_34_HERBIE',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JMV-files\img\11_Namor the Sub-Mariner.png" id="JMV_11_Namor the Sub-Mariner" data-flag="@X" onclick="openSidebar('JMV_11_Namor the Sub-Mariner',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JMV-files\img\33_Dragon Man.png" id="JMV_33_Dragon Man" data-flag="@X" onclick="openSidebar('JMV_33_Dragon Man',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JMV-files\img\4_Curiosity.png" id="JMV_4_Curiosity" data-flag="@X" onclick="openSidebar('JMV_4_Curiosity',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JMV-files\img\5_Force Field.png" id="JMV_5_Force Field" data-flag="@X" onclick="openSidebar('JMV_5_Force Field',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JMV-files\img\6_Founding of the Four.png" id="JMV_6_Founding of the Four" data-flag="@X" onclick="openSidebar('JMV_6_Founding of the Four',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JMV-files\img\8_Lost in the Multiverse.png" id="JMV_8_Lost in the Multiverse" data-flag="@X" onclick="openSidebar('JMV_8_Lost in the Multiverse',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JMV-files\img\7_Hypothesize.png" id="JMV_7_Hypothesize" data-flag="@X" onclick="openSidebar('JMV_7_Hypothesize',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JMV_e" data-flag="@E" onclick="openSidebar('JMV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JMV_e" data-flag="@E" onclick="openSidebar('JMV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JMV_e" data-flag="@E" onclick="openSidebar('JMV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JMV_er" data-flag="@E" onclick="openSidebar('JMV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JMV_er" data-flag="@E" onclick="openSidebar('JMV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JMV_er" data-flag="@E" onclick="openSidebar('JMV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JMV_er" data-flag="@E" onclick="openSidebar('JMV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JMV_er" data-flag="@E" onclick="openSidebar('JMV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JMV-files\img\13_Pixie.png" id="JMV_13_Pixie" data-flag="@X" onclick="openSidebar('JMV_13_Pixie',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JMV-files\img\2_Blink.png" id="JMV_2_Blink" data-flag="@X" onclick="openSidebar('JMV_2_Blink',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JMV-files\img\9_Mirage.png" id="JMV_9_Mirage" data-flag="@X" onclick="openSidebar('JMV_9_Mirage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JMV-files\img\12_Nightcrawler.png" id="JMV_12_Nightcrawler" data-flag="@X" onclick="openSidebar('JMV_12_Nightcrawler',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JMV-files\img\17_Shadowcat.png" id="JMV_17_Shadowcat" data-flag="@X" onclick="openSidebar('JMV_17_Shadowcat',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JMV-files\img\16_Psylocke.png" id="JMV_16_Psylocke" data-flag="@X" onclick="openSidebar('JMV_16_Psylocke',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JMV-files\img\36_Warlock.png" id="JMV_36_Warlock" data-flag="@X" onclick="openSidebar('JMV_36_Warlock',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JMV-files\img\3_Cable.png" id="JMV_3_Cable" data-flag="@X" onclick="openSidebar('JMV_3_Cable',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JMV-files\img\1_Bamf!.png" id="JMV_1_Bamf!" data-flag="@X" onclick="openSidebar('JMV_1_Bamf!',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JMV-files\img\14_Portal Hopping.png" id="JMV_14_Portal Hopping" data-flag="@X" onclick="openSidebar('JMV_14_Portal Hopping',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JMV-files\img\15_Psychic Knife.png" id="JMV_15_Psychic Knife" data-flag="@X" onclick="openSidebar('JMV_15_Psychic Knife',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JMV-files\img\18_Temporal Paradox.png" id="JMV_18_Temporal Paradox" data-flag="@X" onclick="openSidebar('JMV_18_Temporal Paradox',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JMV_e" data-flag="@E" onclick="openSidebar('JMV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JMV_e" data-flag="@E" onclick="openSidebar('JMV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JMV_e" data-flag="@E" onclick="openSidebar('JMV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JMV_er" data-flag="@E" onclick="openSidebar('JMV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JMV_er" data-flag="@E" onclick="openSidebar('JMV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JMV_er" data-flag="@E" onclick="openSidebar('JMV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JMV_er" data-flag="@E" onclick="openSidebar('JMV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JMV_er" data-flag="@E" onclick="openSidebar('JMV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JMV-files\img\35_Scorn.png" id="JMV_35_Scorn" data-flag="@X" onclick="openSidebar('JMV_35_Scorn',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JMV-files\img\24_Scream.png" id="JMV_24_Scream" data-flag="@X" onclick="openSidebar('JMV_24_Scream',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JMV-files\img\20_Carnage.png" id="JMV_20_Carnage" data-flag="@X" onclick="openSidebar('JMV_20_Carnage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JMV-files\img\19_Anti-Venom.png" id="JMV_19_Anti-Venom" data-flag="@X" onclick="openSidebar('JMV_19_Anti-Venom',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JMV-files\img\27_Toxin.png" id="JMV_27_Toxin" data-flag="@X" onclick="openSidebar('JMV_27_Toxin',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JMV-files\img\25_Shriek.png" id="JMV_25_Shriek" data-flag="@X" onclick="openSidebar('JMV_25_Shriek',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JMV-files\img\28_Venom.png" id="JMV_28_Venom" data-flag="@X" onclick="openSidebar('JMV_28_Venom',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JMV-files\img\23_Knull, King in Black.png" id="JMV_23_Knull, King in Black" data-flag="@X" onclick="openSidebar('JMV_23_Knull, King in Black',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JMV-files\img\21_Frenzied Strike.png" id="JMV_21_Frenzied Strike" data-flag="@X" onclick="openSidebar('JMV_21_Frenzied Strike',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JMV-files\img\26_Symbiote Spawning.png" id="JMV_26_Symbiote Spawning" data-flag="@X" onclick="openSidebar('JMV_26_Symbiote Spawning',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JMV-files\img\29_We Are Venom.png" id="JMV_29_We Are Venom" data-flag="@X" onclick="openSidebar('JMV_29_We Are Venom',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JMV-files\img\22_Klyntar Infection.png" id="JMV_22_Klyntar Infection" data-flag="@X" onclick="openSidebar('JMV_22_Klyntar Infection',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JMV_e" data-flag="@E" onclick="openSidebar('JMV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JMV_e" data-flag="@E" onclick="openSidebar('JMV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JMV_e" data-flag="@E" onclick="openSidebar('JMV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JMV_er" data-flag="@E" onclick="openSidebar('JMV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JMV_er" data-flag="@E" onclick="openSidebar('JMV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JMV_er" data-flag="@E" onclick="openSidebar('JMV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JMV_er" data-flag="@E" onclick="openSidebar('JMV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JMV_er" data-flag="@E" onclick="openSidebar('JMV_er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
 		<div class="sidebar-container">
-			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_img" class="sidebar-img">
 			<img id="sidebar_h_img" class="sidebar-h-img">
 			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
 		</div>
@@ -304,19 +327,111 @@
 		let specialchars = "";
 
 	document.addEventListener('DOMContentLoaded', async function() {
-		await fetch('/lists/all-cards.json')
+		await fetch(rootPath + '/lists/all-cards.json')
 					.then(response => response.json())
 					.then(json => {
 						card_list = json;
 				}).catch(error => console.error('Error:', error));
 
-				await fetch('/resources/replacechars.txt')
+				await fetch(rootPath + '/resources/replacechars.txt')
 					.then(response => response.text())
 					.then(text => {
 						specialchars = text; 
 				}).catch(error => console.error('Error:', error));
 
 				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
 
 		preloadImgs = document.getElementsByClassName('preload-hidden');
 
@@ -351,13 +466,16 @@
 			const flag = img.getAttribute('data-flag');
 
 			if (flag === '@N') {
-				img.src = '/img/card_back.png';
+				img.src = rootPath + '/img/card_back.png';
 				img.removeAttribute("onclick");
 				img.style.cursor = 'default';
 			}
 			else
 			{
-				img.src = img.alt;
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
 
 				if (flag === '@E') {
 					img.removeAttribute("onclick");
@@ -511,16 +629,16 @@
 	});
 
 	function search() {
-		const url = new URL('search', window.location.origin);
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 		url.searchParams.append('search', document.getElementById("search").value);
-		window.location.href = url;
+		window.location.href = url.pathname + url.search;
 	}
 
 		function randomCard() {
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
 				let random_card = card_list_arrayified[i];
 
-				const url = new URL('card', window.location.origin);
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 				const params = {
 					set: random_card.set,
 					num: random_card.number,
@@ -530,7 +648,7 @@
 					url.searchParams.append(key, params[key]);
 				}
 
-				window.location.href = url;
+				window.location.href = url.pathname + url.search;
 			}
 	</script>
 </body>

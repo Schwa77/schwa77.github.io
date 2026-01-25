@@ -1,0 +1,3018 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>MMW</name>
+			<longname>Magic&apos;s Most Wanted</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-01-25</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>CW13 Lithomancy</name>
+			<text>Choose one—
+• Lithomancy deals X damage to target creature or planeswalker, where X is the number of creatures you control.
+• Destroy target artifact or enchantment.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/9_CW13 Lithomancy.png" num="9">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW04 Dusk Rose Devotee</name>
+			<text>Vengeance (When this creature dies with no decayed counters, return it to the battlefield with one. It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/4_CW04 Dusk Rose Devotee.png" num="4">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW06 Order Vanguard</name>
+			<text>Flying
+Legendary spells you cast cost {1} less to cast.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/6_CW06 Order Vanguard.png" num="6">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW05 Makindi Pilgrim</name>
+			<text>Lifelink</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/5_CW05 Makindi Pilgrim.png" num="5">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Kor Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW08 God-Pharaoh&apos;s Vanguard</name>
+			<text>Flying
+When this creature enters, you may return another creature you control to its owners hand. If you do, create two 2/2 black Zombie creature tokens with decayed. (A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/7_CW08 God-Pharaoh&apos;s Vanguard.png" num="7">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW12 Norn&apos;s Verdict</name>
+			<text>Choose one—
+• Target creature you control gets +2/+2 until end of turn.
+• Target attacking or blocking creature an opponent controls gets -2/-2 until end of turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/8_CW12 Norn&apos;s Verdict.png" num="8">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW03 Expendable Ranks</name>
+			<text>When this creature enters, choose one—
+• Search your library for a card named Expendable Ranks, reveal it, put it into your hand, then shuffle.
+• Put a +1/+1 counter on target creature you control.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/3_CW03 Expendable Ranks.png" num="3">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU04 Consulate Inspector</name>
+			<text>When this creature enters, look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/23_CU04 Consulate Inspector.png" num="23">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vedalken Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU13 Freeze Over</name>
+			<text>Choose one—
+• Counter target spell unless its controller pays {4}.
+• Tap up to two target creatures, then distribute two stun counters among them. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/30_CU13 Freeze Over.png" num="30">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU09 Consider</name>
+			<text>Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+Draw a card.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/28_CU09 Consider.png" num="28">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU07 Cunning Gambit</name>
+			<text>Target creature gains hexproof until end of turn. It connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/26_CU07 Cunning Gambit.png" num="26">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU08 All According to Plan</name>
+			<text>Counter target spell.
+Up to one target creature you control connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/27_CU08 All According to Plan.png" num="27">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU05 Alleyway Geist</name>
+			<text>Vigilance
+This creature can&apos;t be blocked as long as you&apos;ve cast a noncreature spell this turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/24_CU05 Alleyway Geist.png" num="24">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB03 Nymris&apos;s Scheme</name>
+			<text>When this enchantment enters, create a 1/1 blue and black Faerie Rogue creature token with flying.
+{B}, Sacrifice this enchantment: Target creature connives. Activate only as a sorcery. (To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/48_CB03 Nymris&apos;s Scheme.png" num="48">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB11 Grasp of the Ebon Hand</name>
+			<text>Target opponent reveals their hand. You may choose a nonland card from it. If you do, exile that card. If you don&apos;t, you draw two cards and you lose 2 life.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/53_CB11 Grasp of the Ebon Hand.png" num="53">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB13 Bloodlord&apos;s Tithe</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature or planeswalker.
+Exile target creature or planeswalker.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/54_CB13 Bloodlord&apos;s Tithe.png" num="54">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB10 Grave Robbery</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature.
+Draw two cards. Create a 2/2 black Zombie creature token with decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/52_CB10 Grave Robbery.png" num="52">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB09 Come to Collect</name>
+			<text>Target creature you control gets +1/+0 and gains lifelink and vengeance until end of turn. (When it dies with no decayed counters, return it to the battlefield with one. It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/51_CB09 Come to Collect.png" num="51">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB04 Cabal Vicar</name>
+			<text>{2}, Sacrifice a creature: This creature connives. Activate only as a sorcery. (To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/49_CB04 Cabal Vicar.png" num="49">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR02 Branded Pilferer</name>
+			<text>This creature can&apos;t block.
+When this creature enters, it connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/71_CR02 Branded Pilferer.png" num="71">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR11 Reveler&apos;s Ascension</name>
+			<text>Choose one —
+• Destroy target artifact.
+• Create two 1/1 red Satyr creature tokens with &quot;This token can&apos;t block.&quot;</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/77_CR11 Reveler&apos;s Ascension.png" num="77">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR09 Soulfire Strike</name>
+			<text>Target creature gets +2/+0 and gains trample until end of turn. When that creature dies this turn, create a 2/2 black Zombie creature token with decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/75_CR09 Soulfire Strike.png" num="75">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR08 Pillar of Flame</name>
+			<text>Pillar of Flame deals 2 damage to any target. If a creature dealt damage this way would die this turn, exile it instead. (Abilities that would trigger when that creature dies don&apos;t trigger.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/74_CR08 Pillar of Flame.png" num="74">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR10 Pailano Shakedown</name>
+			<text>As an additional cost to cast this spell, discard a card.
+Draw two cards. If the discarded card wasn&apos;t a land card, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/76_CR10 Pailano Shakedown.png" num="76">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR05 Sandslash Viashino</name>
+			<text>Machinate (Exile up to one card of each color from your graveyard as you cast this. Each card exiled pays for {1}.)
+When this creature enters, up to one target creature can&apos;t block this turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/72_CR05 Sandslash Viashino.png" num="72">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR06 Sanzoku Raider</name>
+			<text>Infamy — When this creature enters, if you attacked with a legendary creature or with three or more creatures this turn, this creature deals 2 damage to any target.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/73_CR06 Sanzoku Raider.png" num="73">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG06 Lotleth Gorger</name>
+			<text>Vengeance (When this creature dies with no decayed counters, return it to the battlefield with one. It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/93_CG06 Lotleth Gorger.png" num="93">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Troll</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG13 Relentless Pursuit</name>
+			<text>Reveal the top four cards of your library. You may put a creature card and/or a land card from among them into your hand. Put the rest into your graveyard.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/98_CG13 Relentless Pursuit.png" num="98">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG12 Land Grab</name>
+			<text>Search your library for a basic land card or a Lair card, put it onto the battlefield tapped, then shuffle.
+Create a 1/1 white Human Soldier creature token.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/97_CG12 Land Grab.png" num="97">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG11 Traitor&apos;s Ferocity</name>
+			<text>Target creature gets +3/+3 and gains trample until end of turn.
+Infamy — If you attacked this turn with a legendary creature or with three or more creatures, instead that creature gets +5/+5 until end of turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/96_CG11 Traitor&apos;s Ferocity.png" num="96">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG09 Claim the Golden City</name>
+			<text>Target creature you control fights target creature you don&apos;t control. If the creature you control would die this turn, return it to its owner&apos;s hand instead.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/95_CG09 Claim the Golden City.png" num="95">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG07 Copper Host Hulk</name>
+			<text>Machinate (Exile up to one card of each color from your graveyard as you cast this. Each card exiled pays for {1}.)
+When this creature enters, you gain 3 life.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/94_CG07 Copper Host Hulk.png" num="94">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phyrexian Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CM04 Gravewrap Acolyte</name>
+			<text>When this creature enters, create a 2/2 black Zombie creature token with decayed. When you do, exile up to one target card from a graveyard. (A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/129_CM04 Gravewrap Acolyte.png" num="129">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2W/B</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CM01 Senate Hussar</name>
+			<text>This spell costs {2} less to cast if you&apos;ve cast a noncreature spell this turn.
+Flash
+Flying</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/126_CM01 Senate Hussar.png" num="126">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3W/UW/U</manacost>
+				<cmc>5</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CM05 Gitrog Spawn</name>
+			<text>This creature enters with a +1/+1 counter on it for each creature that died under your control this turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/130_CM05 Gitrog Spawn.png" num="130">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Frog</type>
+				<maintype>Creature</maintype>
+				<manacost>2B/G</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CM02 Voldaren Attendants</name>
+			<text>Menace (This creature can&apos;t be blocked except by two or more creatures.)
+Whenever this creature deals combat damage to a player, it connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/127_CM02 Voldaren Attendants.png" num="127">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2B/RB/R</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CM03 Conclave Harbinger</name>
+			<text>When this creature enters, create a 3/3 green Centaur creature token.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/128_CM03 Conclave Harbinger.png" num="128">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2G/W</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CC02 Consulate Sentry</name>
+			<text>When this creature enters, create a 1/1 colorless Thopter artifact creature token with flying.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/132_CC02 Consulate Sentry.png" num="132">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CC06 Khopesh of the Trials</name>
+			<text>When this Equipment enters, create a 2/2 black Zombie creature token with decayed, then attach this Equipment to it. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)
+Equipped creature gets +1/+1.
+Equip {1}</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/135_CC06 Khopesh of the Trials.png" num="135">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CC03 Etherium Aberration</name>
+			<text>Machinate (Exile up to one card of each color from your graveyard as you cast this. Each card exiled pays for {1}.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/133_CC03 Etherium Aberration.png" num="133">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CC07 Evolving Wilds</name>
+			<text>{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/142_CC07 Evolving Wilds.png" num="142">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UW09 Moonsilver Retributor</name>
+			<text>Flying, vigilance
+Vengeance (When this creature dies with no decayed counters, return it to the battlefield with one. It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/17_UW09 Moonsilver Retributor.png" num="17">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW14 Incarcerate</name>
+			<text>Enchant creature
+Enchanted creature can&apos;t attack or block unless its controller pays {5}.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/20_UW14 Incarcerate.png" num="20">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UW06 Custodi Conjurer</name>
+			<text>When this creature enters, create a 1/1 white Spirit creature token with flying.
+Vengeance (When this creature dies with no decayed counters, return it to the battlefield with one. It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/16_UW06 Custodi Conjurer.png" num="16">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW10 Undying Devotion</name>
+			<text>Put a +1/+1 counter on each creature you control. They can&apos;t be sacrificed this turn.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/18_UW10 Undying Devotion.png" num="18">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UW03 Champion of the Trials</name>
+			<text>When this creature enters, create a 2/2 black Zombie creature token with decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)
+{1}, {T}: Target creature loses all abilities until end of turn. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/14_UW03 Champion of the Trials.png" num="14">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW12 Unravel</name>
+			<text>Exile target artifact or enchantment.
+Create a 2/2 black Zombie creature token with decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/19_UW12 Unravel.png" num="19">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UW05 Lord Konda&apos;s Faithful</name>
+			<text>Infamy — Whenever you attack with a legendary creature or with three or more creatures, this creature gains indestructible until end of turn. Put a +1/+1 counter on it.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/15_UW05 Lord Konda&apos;s Faithful.png" num="15">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU11 Masterful Mischief</name>
+			<text>Whenever a creature you control deals combat damage to a player or planeswalker, draw a card.
+{1}{U}, Discard this card: Create a 1/1 blue and black Faerie Rogue creature token with flying.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/41_UU11 Masterful Mischief.png" num="41">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU08 Luxa Shipbreaker</name>
+			<text>Ward—{4}, Exile four cards from your graveyard. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {4} and exiles four cards from their graveyard.)
+Whenever this creature enters or attacks, tap target creature an opponent controls and put a stun counter on it.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/38_UU08 Luxa Shipbreaker.png" num="38">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU05 Meletis Trickster</name>
+			<text>Flying
+Whenever this creature deals combat damage to a player, it connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/36_UU05 Meletis Trickster.png" num="36">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Siren</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU09 Twisted Teachings</name>
+			<text>Enchant creature
+Enchanted creature has flying and &quot;Whenever this creature deals combat damage to a player, it connives.&quot; (To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/39_UU09 Twisted Teachings.png" num="39">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU03 Rootwater Cutthroat</name>
+			<text>Flash
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When this creature enters, tap up to one target creature or planeswalker. It loses all abilities until end of turn.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/34_UU03 Rootwater Cutthroat.png" num="34">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU07 Call the Tempest</name>
+			<text>Machinate (Exile up to one card of each color from your graveyard as you cast this. Each card exiled pays for {1}.)
+Create two 2/2 blue Drake creature tokens with flying.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/37_UU07 Call the Tempest.png" num="37">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UU01 Augur of Bolas</name>
+			<text>When this creature enters, look at the top three cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. Put the rest on the bottom of your library in any order.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/33_UU01 Augur of Bolas.png" num="33">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB06 Bone Picker</name>
+			<text>This spell costs {3} less to cast if a creature died this turn.
+Flying, deathtouch</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/64_UB06 Bone Picker.png" num="64">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB11 Cursed Servitude</name>
+			<text>Return target creature card from your graveyard to the battlefield. It connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/68_UB11 Cursed Servitude.png" num="68">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UB03 Loyal Underling</name>
+			<text>When this creature dies, search your library for a legendary creature or planeswalker card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/62_UB03 Loyal Underling.png" num="62">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB08 Archfiend of Suffering</name>
+			<text>Flying
+When this creature enters, you may sacrifice another creature or discard a creature card. If you do, this creature deals 13 damage to up to one target creature or planeswalker.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/66_UB08 Archfiend of Suffering.png" num="66">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB07 Voldaren Viscount</name>
+			<text>When this creature enters, create two 1/1 black Bat creature tokens with flying.
+Whenever one or more creatures with flying you control deal combat damage to a player, you draw a card and you lose 1 life.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/65_UB07 Voldaren Viscount.png" num="65">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB01 Kalastria Nightblade</name>
+			<text>Lifelink
+Whenever this creature attacks, you may sacrifice another creature or planeswalker. If you do, this creature gets +1/+1 and gains flying until end of turn.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/60_UB01 Kalastria Nightblade.png" num="60">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB14 Chains of the Cabal</name>
+			<text>Return target creature card with mana value 3 or less from your graveyard to the battlefield tapped. Put a vengeance counter on it (When it dies with no decayed counters, return it to the battlefield with one. It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/70_UB14 Chains of the Cabal.png" num="70">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UR13 Endless Revel</name>
+			<text>Infamy — Whenever you attack with a legendary creature or with three or more creatures, exile the top card of your library. You may play that card until the end of your next turn.
+{3}{R}: Create a 1/1 red Satyr creature token with &quot;This token can&apos;t block.&quot;</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/89_UR13 Endless Revel.png" num="89">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR08 Furnace Splicer</name>
+			<text>When this creature enters, create two 3/3 colorless Phyrexian Golem artifact creature tokens.
+Golems you control have haste.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/85_UR08 Furnace Splicer.png" num="85">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phyrexian Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>5R</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR09 Opulent Outburst</name>
+			<text>Machinate (Exile up to one card of each color from your graveyard as you cast this. Each card exiled pays for {1}.)
+Opulent Outburst deals X damage to target creature or planeswalker.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/86_UR09 Opulent Outburst.png" num="86">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XR</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UR07 Arena Gorehorn</name>
+			<text>Haste
+Infamy — Whenever you attack with a legendary creature or with three or more creatures, creatures you control gain trample until end of turn.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/84_UR07 Arena Gorehorn.png" num="84">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Minotaur Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR02 Hellfire Fiend</name>
+			<text>Whenever another creature you control enters, this creature deals 1 damage to target player or planeswalker.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/81_UR02 Hellfire Fiend.png" num="81">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Devil</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR14 (Mardu Strike)</name>
+			<text>Machinate (Exile up to one card of each color from your graveyard as you cast this. Each card exiled pays for {1}.)
+Target creature gets +1/+1 and gains double strike until end of turn.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/90_UR14 (Mardu Strike).png" num="90">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UG01 Llanowar Outcast</name>
+			<text>{1}, {T}: Add two mana in any combination of colors. Spend this mana only to cast legendary spells or activate abilities of legendary sources.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/99_UG01 Llanowar Outcast.png" num="99">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UG05 Wavebreak Kelpie</name>
+			<text>This creature must be blocked if able.
+Vengeance (When this creature dies with no decayed counters, return it to the battlefield with one. It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/101_UG05 Wavebreak Kelpie.png" num="101">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UG04 Alpha Primadox</name>
+			<text>Trample
+Whenever this creature deals combat damage to a player or planeswalker, return a permanent you control to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/100_UG04 Alpha Primadox.png" num="100">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UG13 Ulvenwald Howls</name>
+			<text>Machinate (Exile up to one card of each color from your graveyard as you cast this. Each card exiled pays for {1}.)
+At the beginning of your upkeep, create a 2/2 green Wolf creature token.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/105_UG13 Ulvenwald Howls.png" num="105">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UG12 Overgrow</name>
+			<text>Return target permanent card from your graveyard to your hand. If it&apos;s legendary, you gain 3 life.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/104_UG12 Overgrow.png" num="104">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UG10 Roiling Regrowth</name>
+			<text>Sacrifice a land. Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/103_UG10 Roiling Regrowth.png" num="103">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UG06 Sidisi&apos;s Deathweaver</name>
+			<text>When this creature enters, surveil 3. (Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Whenever a creature card leaves your graveyard, create a 2/2 black Zombie creature token with decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/102_UG06 Sidisi&apos;s Deathweaver.png" num="102">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Snake Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UBG01 Lazotep Trumpeter</name>
+			<text>This spell costs {1} less to cast for each creature you controlled that died this turn.
+Trample</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/112_UBG01 Lazotep Trumpeter.png" num="112">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Elephant</type>
+				<maintype>Creature</maintype>
+				<manacost>4BG</manacost>
+				<cmc>6</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>7/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UBR01 Agent of the Black Rose</name>
+			<text>During your turn, this creature has first strike.
+Whenever you discard a nonland card, put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/114_UBR01 Agent of the Black Rose.png" num="114">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UGW01 Oba&apos;s Enforcer</name>
+			<text>When this creature enters, create a 2/2 white Knight creature token with vigilance.
+Vengeance (When this creature dies with no decayed counters, return it to the battlefield with one. It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/115_UGW01 Oba&apos;s Enforcer.png" num="115">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Centaur Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>URG01 (Duskmourn Horror)</name>
+			<text>Infamy — This spell costs {2} less to cast if you attacked this turn with a legendary creature or with three or more creatures.
+Trample
+Ward—{2}, Pay 2 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2} and pays 2 life.)</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/117_URG01 (Duskmourn Horror).png" num="117">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3RG</manacost>
+				<cmc>5</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>URW01 Frenzied Nacatl</name>
+			<text>Haste
+Infamy — Whenever you attack with a legendary creature or with three or more creatures, put a +1/+1 counter on another target creature.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/119_URW01 Frenzied Nacatl.png" num="119">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>URW02 Tin Street Dispatcher</name>
+			<text>Other creatures you control get +1/+0.
+At the beginning of combat on your turn, create a 1/1 white Human Soldier creature token. That token gains haste and attacks this combat if able.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/120_URW02 Tin Street Dispatcher.png" num="120">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Minotaur Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UUB02 Gift of the Fae Court</name>
+			<text>This spell costs {2} less to cast if you control a creature with flying.
+Surveil 2, then draw two cards. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/121_UUB02 Gift of the Fae Court.png" num="121">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UUR02 Izzet Burnspell</name>
+			<text>UUR02 Izzet Burnspell deals 4 damage to target creature or planeswalker.
+Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/122_UUR02 Izzet Burnspell.png" num="122">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UC04 Wurmcoil Prototype</name>
+			<text>Deathtouch, lifelink
+Vengeance (When this creature dies with no decayed counters, return it to the battlefield with one. It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/137_UC04 Wurmcoil Prototype.png" num="137">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Phyrexian Wurm</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UC07 Skittering Slicer</name>
+			<text>Equipped creature gets +1/+1.
+When equipped creature dies, you may put a soul counter on this Equipment. If you do, it becomes a 3/3 Horror creature. (It&apos;s no longer an Equipment.)
+Equip {2}</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/140_UC07 Skittering Slicer.png" num="140">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UC06 Skeletal Schooner</name>
+			<text>Menace
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/139_UC06 Skeletal Schooner.png" num="139">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Magic&apos;s Most Wanted Archetypes MMW</name>
+			<text>{WU}: Spellslinger Control
+{UB}: Flying
+{BR}: [b]Connive [/b]Discard
+{RG}: [b]Infamy [/b]Stompy
+{GW}: Self Bounce
+{WB}: Zombie Typal Go Wide
+{UR}: [b]Machinate [/b]Prowess Aggro
+{BG}: Aristocrats
+{RW}: [b]Infamy [/b]Go-Fast
+{GU}: [b]Machinate [/b]5C Ramp</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/1t_Magic&apos;s Most Wanted Archetypes.png" num="1">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Olivia Voldaren, Cool Title</name>
+			<text>Flying
+Whenever you discard a creature card, put a +1/+1 counter on Olivia Voldaren, then exile that card from your graveyard. You may play that card until your next end step.</text>
+			<set rarity="rare" picurl="https://schwa77.github.io/sets/MMW-files/img/109_Olivia Voldaren, Cool Title.png" num="109">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gray Merchant of Asphodel</name>
+			<text>When this creature enters, each opponent loses X life, where X is your devotion to black. You gain life equal to the life lost this way.</text>
+			<set rarity="special" picurl="https://schwa77.github.io/sets/MMW-files/img/157_Gray Merchant of Asphodel.png" num="157">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elves of Deep Shadow</name>
+			<text>{T}: Add {B}. This creature deals 1 damage to you.</text>
+			<set rarity="special" picurl="https://schwa77.github.io/sets/MMW-files/img/158_Elves of Deep Shadow.png" num="158">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blood Artist</name>
+			<text>Whenever this creature or another creature dies, target player loses 1 life and you gain 1 life.</text>
+			<set rarity="special" picurl="https://schwa77.github.io/sets/MMW-files/img/155_Blood Artist.png" num="155">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shambling Henchman</name>
+			<text>This creature can&apos;t block.
+Infamy — Whenever you attack with a legendary creature or with three or more creatures, return this creature from your graveyard to the battlefield tapped and attacking.</text>
+			<set rarity="rare" picurl="https://schwa77.github.io/sets/MMW-files/img/57_Shambling Henchman.png" num="57">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton Minion</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>(Adjective) Necromancer</name>
+			<text>Deathtouch
+Whenever a Shade, Skeleton, Specter, Spirit, Vampire, Wraith, or Zombie you control enters, you draw a card and you lose 1 life. This ability triggers only once each turn.</text>
+			<set rarity="rare" picurl="https://schwa77.github.io/sets/MMW-files/img/45_(Adjective) Necromancer.png" num="45">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sidisi, Coil of Qarsi</name>
+			<text>Vigilance
+{T}: The next spell you cast this turn gains machinate. (Exile up to one card of each color from your graveyard as you cast this. Each card exiled pays for {1}.)</text>
+			<set rarity="rare" picurl="https://schwa77.github.io/sets/MMW-files/img/110_Sidisi, Coil of Qarsi.png" num="110">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Snake Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>BGU</manacost>
+				<cmc>3</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hedron Crusher</name>
+			<text>This creature attacks each combat if able.
+Whenever this creature attacks, each opponent sacrifices a permanent.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/1_Hedron Crusher.png" num="1">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Eldrazi</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+				<pt>8/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Baleful Strix</name>
+			<text>Flying, deathtouch
+When this creature enters, draw a card.</text>
+			<set rarity="special" picurl="https://schwa77.github.io/sets/MMW-files/img/159_Baleful Strix.png" num="159">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Infernal Pact</name>
+			<text>Machinate (Exile up to one card of each color from your graveyard as you cast this. Each card exiled pays for {1}.)
+You draw three cards and you lose 3 life.</text>
+			<set rarity="rare" picurl="https://schwa77.github.io/sets/MMW-files/img/55_Infernal Pact.png" num="55">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rakka Mar, Pawn of Bolas</name>
+			<text>Ward—Pay 3 life.
+At the beginning of combat on your turn, create a 3/1 red Elemental creature token with haste. It attacks this combat if able.
+Whenever a creature you control attacks, add {R}. Until end of turn, you don&apos;t lose this mana as steps and phases end.</text>
+			<set rarity="rare" picurl="https://schwa77.github.io/sets/MMW-files/img/79_Rakka Mar, Pawn of Bolas.png" num="79">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sheoldred, Breaker of Wills</name>
+			<text>Creatures your opponents control have decayed. (A creature with decayed can&apos;t block. When it attacks, its controller sacrifices it at end of combat.)
+Other creatures you control have vengeance. (When a creature with vengeance dies with no decayed counters, its controller returns it to the battlefield with one.)</text>
+			<set rarity="mythic" picurl="https://schwa77.github.io/sets/MMW-files/img/59_Sheoldred, Breaker of Wills.png" num="59">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Phyrexian Praetor</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grave Titan</name>
+			<text>Deathtouch
+Whenever this creature enters or attacks, create two 2/2 black Zombie creature tokens.</text>
+			<set rarity="special" picurl="https://schwa77.github.io/sets/MMW-files/img/156_Grave Titan.png" num="156">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Faerie Rogue MMW</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/12t_Faerie Rogue.png" num="12">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Faerie Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Phyrexian Golem MMW</name>
+			<text></text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/13t_Phyrexian Golem.png" num="13">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Phyrexian Golem</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse_related>Basilica Splicer</reverse_related>
+			<reverse_related>Surgical Splicer</reverse_related>
+			<reverse_related>Dross Splicer</reverse_related>
+			<reverse_related count="2">Furnace Splicer</reverse_related>
+			<reverse_related>Maze Splicer</reverse_related>
+			<reverse_related>Elesh Norn, Paragon of Perfection</reverse_related>
+		</card>
+		<card>
+			<name>Centaur MMW</name>
+			<text></text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/11t_Centaur.png" num="11">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Centaur</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Zombie MMW</name>
+			<text>Decayed (This creature can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/7t_Zombie.png" num="7">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Satyr MMW</name>
+			<text>This creature can&apos;t block.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/10t_Satyr.png" num="10">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Satyr</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Zur, the Mad Mage</name>
+			<text>Flying
+Whenever Zur attacks, you may sacrifice another creature. If you do, search your library for an enchantment card with mana value X or less, where X is 1 plus the sacrificed creature&apos;s mana value. Put that card onto the battlefield, then shuffle.</text>
+			<set rarity="rare" picurl="https://schwa77.github.io/sets/MMW-files/img/125_Zur, the Mad Mage.png" num="125">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>WUB</manacost>
+				<cmc>3</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR03 (Ludevic&apos;s Grad Student)</name>
+			<text>Whenever you cast a noncreature spell, create a 2/2 black Zombie creature token with decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/82_UR03 (Ludevic&apos;s Grad Student).png" num="82">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Zombie MMW</name>
+			<text>Decayed (This creature can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/8t_Zombie.png" num="8">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Hellfire Scourge</name>
+			<text>Machinate (Exile up to one card of each color from your graveyard as you cast this. Each card exiled pays for {1}.)
+Flying, haste</text>
+			<set rarity="rare" picurl="https://schwa77.github.io/sets/MMW-files/img/78_Hellfire Scourge.png" num="78">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>5RR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>High Emperor Konda</name>
+			<text>During your turn, Konda has indestructible.
+When Konda enters, create Isamaru, a legendary 2/2 white Dog creature token.
+Whenever a legendary creature you control deals combat damage to a player, put a +1/+1 counter on it.</text>
+			<set rarity="rare" picurl="https://schwa77.github.io/sets/MMW-files/img/11_High Emperor Konda.png" num="11">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UWB02 Siege of the Bone Spire</name>
+			<text>At the beginning of your end step, return target creature card with mana value 3 or less from your graveyard to the battlefield tapped with a finality counter on it. It becomes a Zombie in addition to its other types. (If a creature with a finality counter on it would die, exile it instead. Abilities that would trigger when that creature dies don&apos;t trigger.)</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/124_UWB02 Siege of the Bone Spire.png" num="124">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Avatar of Woe</name>
+			<text>If there are ten or more creature cards total in all graveyards, this spell costs {6} less to cast.
+Fear
+{T}: Destroy target creature. It can&apos;t be regenerated.</text>
+			<set rarity="special" picurl="https://schwa77.github.io/sets/MMW-files/img/154_Avatar of Woe.png" num="154">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>6BB</manacost>
+				<cmc>8</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shadowborn Ritual</name>
+			<text>Whenever you cast a black spell, you lose 1 life and create a 1/1 black Human Cleric creature token.
+{B}, Sacrifice six Clerics: Search your library for a Demon card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="rare" picurl="https://schwa77.github.io/sets/MMW-files/img/56_Shadowborn Ritual.png" num="56">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UW01 Skyclave Cartographer</name>
+			<text>When this creature enters, you gain 1 life and surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+Vengeance (When this creature dies with no decayed counters, return it to the battlefield with one. It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/12_UW01 Skyclave Cartographer.png" num="12">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Kor Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU12 Copycrook</name>
+			<text>You may have this creature enter as a copy of any creature on the battlefield, except it has &quot;Whenever this creature attacks, it connives.&quot; (To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/42_UU12 Copycrook.png" num="42">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UGW02 Kinsbaile Valor</name>
+			<text>Exile target creature you control, then return it to the battlefield under its owner&apos;s control with two +1/+1 counters on it. You gain 2 life.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/116_UGW02 Kinsbaile Valor.png" num="116">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Plains 1</name>
+			<text></text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/144_Plains 1.png" num="144">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island 1</name>
+			<text></text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/146_Island 1.png" num="146">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp 1</name>
+			<text></text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/148_Swamp 1.png" num="148">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain 1</name>
+			<text></text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/150_Mountain 1.png" num="150">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest 1</name>
+			<text></text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/152_Forest 1.png" num="152">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains 2</name>
+			<text></text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/145_Plains 2.png" num="145">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island 2</name>
+			<text></text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/147_Island 2.png" num="147">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp 2</name>
+			<text></text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/149_Swamp 2.png" num="149">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest 2</name>
+			<text></text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/153_Forest 2.png" num="153">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain 2</name>
+			<text></text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/151_Mountain 2.png" num="151">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Isamaru MMW</name>
+			<text></text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/3t_Isamaru.png" num="3">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Token Creature — Dog</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Spirit MMW</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/4t_Spirit.png" num="4">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Drake MMW</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/5t_Drake.png" num="5">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Drake</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Human Cleric MMW</name>
+			<text></text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/6t_Human Cleric.png" num="6">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Treasure MMW</name>
+			<text>{T}, Sacrifice this token: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/15t_Treasure.png" num="15">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Elemental MMW</name>
+			<text></text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/9t_Elemental.png" num="9">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Human Soldier MMW</name>
+			<text></text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/2t_Human Soldier.png" num="2">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Thopter MMW</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/14t_Thopter.png" num="14">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Thopter</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>CW02 Unruly Mob</name>
+			<text>Whenever another creature you control dies, put a +1/+1 counter on Unruly Mob.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/2_CW02 Unruly Mob.png" num="2">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Heliod of Divine Radiance</name>
+			<text>Indestructible
+As long as you control fewer than five white permanents, Heliod isn&apos;t a creature.
+Creature tokens you control get +1/+1.
+{1}{W}, Sacrifice another nontoken creature or planeswalker: Create two tapped 1/1 white Human Soldier creature tokens.</text>
+			<set rarity="mythic" picurl="https://schwa77.github.io/sets/MMW-files/img/10_Heliod of Divine Radiance.png" num="10">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW02 Dutiful Bodyguard</name>
+			<text>Sacrifice this creature: Target legendary creature you control gains indestructible until end of turn.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/13_UW02 Dutiful Bodyguard.png" num="13">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU02 Screeching Phantom</name>
+			<text>Flash
+Flying
+Whenever this creature or another creature you control with flying enters, tap up to one target creature.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/21_CU02 Screeching Phantom.png" num="21">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU03 prowess man</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When this creature enters, draw a card.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/22_CU03 prowess man.png" num="22">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU06 Outcast Sphinx</name>
+			<text>This spell costs {1} less to cast for each creature you control with flying.
+Flying</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/25_CU06 Outcast Sphinx.png" num="25">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Sphinx</type>
+				<maintype>Creature</maintype>
+				<manacost>6U</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU11 Whispers of the Moon</name>
+			<text>Enchant creature
+When this Aura enters, mill three cards.
+Enchanted creature loses all abilities and gets -X/-0, where X is the total number of cards you own in exile and in your graveyard.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/29_CU11 Whispers of the Moon.png" num="29">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jin-Gitaxias, Excisor of Truth</name>
+			<text>Hexproof
+If you would draw one or more cards, instead draw twice that many cards.
+Whenever an opponent draws one or more cards, exile that many cards from the top of their library. You may cast spells exiled this way for as long as they remain exiled, and you may spend mana as though it were mana of any color to cast them.</text>
+			<set rarity="mythic" picurl="https://schwa77.github.io/sets/MMW-files/img/32_Jin-Gitaxias, Excisor of Truth.png" num="32">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Phyrexian Praetor</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jin-Gitaxias, Excisor of Truth</name>
+			<text>Vigilance
+Creatures you control have &quot;Whenever this permanent becomes the target of a spell for the first time each turn, counter that spell.&quot;
+Creatures you don&apos;t control have &quot;When this creature becomes the target of a spell or ability, sacrifice it.&quot;</text>
+			<set rarity="mythic" picurl="https://schwa77.github.io/sets/MMW-files/img/31_Jin-Gitaxias, Excisor of Truth.png" num="31">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Phyrexian Praetor</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU04 rainbow man</name>
+			<text>Whenever you cast a spell that&apos;s a color not among cards in your graveyard, draw a card.
+{T}: Until end of turn, target land you control becomes all basic land types in addition to its other types.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/35_UU04 rainbow man.png" num="35">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU10 Immortal Sun&apos;s Binding</name>
+			<text>Counter target creature or planeswalker spell. If a legendary spell is countered this way, exile it instead of putting it into its owner&apos;s graveyard.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/40_UU10 Immortal Sun&apos;s Binding.png" num="40">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UU13 Thirst for Power</name>
+			<text>Draw three cards, then discard two cards unless you discard a legendary card.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/43_UU13 Thirst for Power.png" num="43">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UU14 Convoluted Scheme</name>
+			<text>Target nonland permanent&apos;s owner puts it on the top or bottom of their library.
+Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/44_UU14 Convoluted Scheme.png" num="44">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB01 Hellspur Deadeye</name>
+			<text>Menace
+{3}{B}, Discard a card: Put three +1/+1 counters on this creature. It gains &quot;When this creature dies, draw a card.&quot; Activate only once.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/46_CB01 Hellspur Deadeye.png" num="46">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB02 Lurking Fenskull</name>
+			<text>Vengeance (When this creature dies with no decayed counters, return it to the battlefield with one. It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/47_CB02 Lurking Fenskull.png" num="47">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB05 Mage Tower Cheat</name>
+			<text>When Mage Tower Cheat enters the battlefield, choose one—
+• Create a 2/1 white and black Inkling creature token with flying.
+• Create two 1/1 black and green Pest creature tokens with &quot;When this creature dies, you gain 1 life.&quot;</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/50_CB05 Mage Tower Cheat.png" num="50">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sheoldred, Breaker of Wills</name>
+			<text>Creatures you control have ward—discard two cards. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player discards a card.)
+Whenever a creature an opponent controls becomes the target of a spell or ability you control, draw two cards.</text>
+			<set rarity="mythic" picurl="https://schwa77.github.io/sets/MMW-files/img/58_Sheoldred, Breaker of Wills.png" num="58">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Phyrexian Praetor</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB02 Sleepless Husk</name>
+			<text>Menace
+Decayed (This creature can&apos;t block. When it attacks, sacrifice it at end of combat.)
+Whenever you discard a card not named Sleepless Husk, if this card is in your graveyard, you may return this card to your hand.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/61_UB02 Sleepless Husk.png" num="61">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB05 Dross Splicer</name>
+			<text>When Dross Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token.
+Whenever a Golem you control dies, you draw a card and you lose 1 life.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/63_UB05 Dross Splicer.png" num="63">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phyrexian Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB10 Dark Deal</name>
+			<text>Each player discards all the cards in their hand, then draws that many cards minus one.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/67_UB10 Dark Deal.png" num="67">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UB13 Hunger of Aclazotz</name>
+			<text>Machinate (Exile up to one card of each color from your graveyard as you cast this. Each card exiled pays for {1}.)
+Hunger of Aclazotz deals 3 damage to any target and you gain 3 life.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/69_UB13 Hunger of Aclazotz.png" num="69">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UR01 Tajic&apos;s Flameblade</name>
+			<text>Infamy — This creature has double strike as long as you attacked with a legendary creature or with three or more creatures this turn.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/80_UR01 Tajic&apos;s Flameblade.png" num="80">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR04 Prodigious Pyrotechnician</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+At the beginning of your end step, this creature deals damage equal to its power to target player or planeswalker.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/83_UR04 Prodigious Pyrotechnician.png" num="83">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR10 Wield the Eludha</name>
+			<text>Gain control of target creature until end of turn. Untap it.
+Creatures you control get +1/+0 and gain haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/87_UR10 Wield the Eludha.png" num="87">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UR11 Rage of the Tuskeri</name>
+			<text>Target creature you control gains double strike until end of turn. Then it deals damage equal to twice its power to target creature or planeswalker you don&apos;t control.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/88_UR11 Rage of the Tuskeri.png" num="88">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG03 Stalking Thallid</name>
+			<text>Vigilance
+When this creature dies, create a 1/1 green Saproling creature token.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/91_CG03 Stalking Thallid.png" num="91">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fungus</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG05 Qal Sisma Sabertooth</name>
+			<text>As an additional cost to cast this spell, return a creature you control to your hand or pay {2}.
+Vigilance</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/92_CG05 Qal Sisma Sabertooth.png" num="92">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vorinclex, Force of Nature</name>
+			<text>Haste
+Whenever Vorinclex or another creature you control enters, creatures you control get +2/+2 and gain trample until your next turn.
+Whenever a creature an opponent controls enters, prevent all damage dealt by creatures that player controls until their next turn.</text>
+			<set rarity="mythic" picurl="https://schwa77.github.io/sets/MMW-files/img/106_Vorinclex, Force of Nature.png" num="106">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Phyrexian Praetor</type>
+				<maintype>Creature</maintype>
+				<manacost>6GG</manacost>
+				<cmc>8</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Harness the Conflux</name>
+			<text>Choose one —
+• Target opponent sacrifices a creature of their choice. You gain 3 life.
+• Target opponent discards a card. You may return a creature card from your graveyard to your hand.
+• Target opponent loses 3 life. Draw a card.</text>
+			<set rarity="rare" picurl="https://schwa77.github.io/sets/MMW-files/img/107_Harness the Conflux.png" num="107">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>UBR</manacost>
+				<cmc>3</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Kumena, Conqueror</name>
+			<text>At the beginning of combat on your turn, if you control ten or more permanents, put three +1/+1 counters on Kumena and draw a card. This ability triggers only once.
+{2}{G}{U}: Create a 1/1 blue Merfolk creature token with hexproof.</text>
+			<set rarity="rare" picurl="https://schwa77.github.io/sets/MMW-files/img/108_Kumena, Conqueror.png" num="108">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Merfolk Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stand Against Evil</name>
+			<text>When this enchantment enters, exile target creature or planeswalker.
+At the beginning of your first main phase, add {W}{U}{B}{R}{G}. This mana can&apos;t be spent to pay generic mana costs.</text>
+			<set rarity="mythic" picurl="https://schwa77.github.io/sets/MMW-files/img/111_Stand Against Evil.png" num="111">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3GW</manacost>
+				<cmc>5</cmc>
+				<colors>WG</colors>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UBG02 Feed the Grove</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature or pay {2}.
+Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/113_UBG02 Feed the Grove.png" num="113">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>URG02 domris actual ambush</name>
+			<text>Target creature you control gains indestructible until end of turn. Then it deals damage equal to its power to up to one target creature or planeswalker.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/118_URG02 domris actual ambush.png" num="118">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UWB01 Wayward Servant</name>
+			<text>Whenever another Zombie you control enters, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/123_UWB01 Wayward Servant.png" num="123">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CUR01 Noggle Cliffcaster</name>
+			<text>Whenever you cast a noncreature spell, this creature gets +1/+0 until end of turn, then surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/131_CUR01 Noggle Cliffcaster.png" num="131">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Noggle Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U/R</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CC05 Chromatic Prism</name>
+			<text>{1}, {T}: Add one mana of any color.
+Whenever this artifact becomes tapped, you may sacrifice it. If you do, draw a card.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MMW-files/img/134_CC05 Chromatic Prism.png" num="134">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UC02 Corrupted Myr</name>
+			<text>Vengeance (When this creature dies with no decayed counters, return it to the battlefield with one. It can&apos;t block. When it attacks, sacrifice it at end of combat.)
+{2}, Sacrifice this creature: Draw a card.
+Sacrifice this creature: Exile target player&apos;s graveyard.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/136_UC02 Corrupted Myr.png" num="136">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Phyrexian Myr</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UC05 Book of Vendettas</name>
+			<text>As this artifact enters, look at an opponent&apos;s hand, then choose any card name.
+Cards with the chosen name cost {2} more to cast, or {5} more if they&apos;re legendary.
+{2}, Sacrifice this artifact: Draw a card.</text>
+			<set rarity="rare" picurl="https://schwa77.github.io/sets/MMW-files/img/138_UC05 Book of Vendettas.png" num="138">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UC08 Oathsworn&apos;s Armaments</name>
+			<text>Equipped creature has first strike during your turn.
+Infamy — Equipped creature gets +2/+2 and has trample as long as you attacked with a legendary creature or with three or more creatures this turn.
+Equip {2}</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/MMW-files/img/141_UC08 Oathsworn&apos;s Armaments.png" num="141">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Glistening Void</name>
+			<text>{T}: Add {C}.
+{3}, {T}: Each player draws a card and gets a poison counter. (A player with ten or more poison counters loses the game.)
+{5}, {T}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+			<set rarity="rare" picurl="https://schwa77.github.io/sets/MMW-files/img/143_The Glistening Void.png" num="143">MMW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

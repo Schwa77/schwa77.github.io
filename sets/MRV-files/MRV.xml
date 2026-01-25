@@ -1,0 +1,3626 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>MRV</name>
+			<longname>MRV-1610: The Reboot Edition</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-01-25</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Spider-Man</name>
+			<text>Flash
+Vigilance, reach
+When Spider-Man enters, you may return another creature you control to its owner&apos;s hand.
+If another creature entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/171_Spider-Man.png" num="171">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spider Human Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ultimate Spider-Man</name>
+			<text>Vigilance, reach
+When Ultimate Spider-Man enters, choose up to one —
+• Return another target creature to its owner&apos;s hand.
+• Return target card in a graveyard to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/175_Ultimate Spider-Man.png" num="175">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spider Human Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Portal Hopping</name>
+			<text>Whenever you attack, choose up to one attacking creature you own. Exile it, then return it to the battlefield under your control tapped and attacking.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/23_Portal Hopping.png" num="23">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Invisible Woman</name>
+			<text>Flash
+When Invisible Woman enters, exile up to one other target creature you control, then return it to the battlefield under its owner&apos;s control with a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/15_Invisible Woman.png" num="15">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spider-Man Noir</name>
+			<text>Ward—{2}, Pay 2 life.
+Whenever another creature you control leaves the battlefield, investigate. This ability triggers only once per turn. (To investigate, create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/172_Spider-Man Noir.png" num="172">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spider Human Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Silvermane</name>
+			<text>When Silvermane enters, create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/196_Silvermane.png" num="196">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Cyborg Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Iron Man</name>
+			<text>Flying
+Whenever Iron Man deals combat damage to a player, look at the top three cards of your library. You may exile an artifact card from among them. Put the rest on the bottom of your library in a random order. You may play the exiled card until end of turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/166_Iron Man.png" num="166">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Artificer Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Astral Projection</name>
+			<text>Exile target creature. That creature&apos;s controller creates a 1/1 blue Illusion creature token with flying.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/4_Astral Projection.png" num="4">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Journey into Mystery</name>
+			<text>Flash
+When this enchantment enters, create two 1/1 green Insect creature tokens with flying, then exile up to one other target nonland permanent until this enchantment leaves the battlefield.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/16_Journey into Mystery.png" num="16">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Magik</name>
+			<text>Flash
+Ward—Exile a creature you control. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player exiles a creature they control.)
+When Magik enters, exile up to one target attacking or blocking creature until Magik leaves the battlefield.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/19_Magik.png" num="19">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Wizard Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blind Justice</name>
+			<text>Choose one—
+• Exile target tapped creature.
+• Exile target planeswalker that was activated this turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/7_Blind Justice.png" num="7">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Banish to Limbo</name>
+			<text>Put target creature or planeswalker on the bottom of its owner&apos;s library. Its owner may scry 1.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/5_Banish to Limbo.png" num="5">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Purge the Occult</name>
+			<text>Destroy target artifact, enchantment, or creature with power 4 or greater.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/24_Purge the Occult.png" num="24">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spider-Man 2099</name>
+			<text>Flash
+Flying
+When Spider-Man 2099 enters the battlefield, target spell loses all card types and abilities, and becomes an instant with &quot;Draw a card.&quot; until it resolves. (It keeps its colors and mana value.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/55_Spider-Man 2099.png" num="55">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spider Human Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vibranium Shield</name>
+			<text>Indestructible
+Equipped creature gets +2/+2 and has &quot;Whenever this creature attacks, target attacking creature gains indestructible until end of turn.&quot;
+Equip {2}</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/31_Vibranium Shield.png" num="31">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>All Gods Must Die</name>
+			<text>Destroy all legendary creatures.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/2_All Gods Must Die.png" num="2">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Suit Up</name>
+			<text>Search your library for an artifact or enchantment card with mana value X or less, put it onto the battlefield, then shuffle. When you put an Equipment onto the battlefield this way, you may attach it to target creature.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/29_Suit Up.png" num="29">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XW</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Think</name>
+			<text>Look at the top two cards of your library. Put one into your hand and the other into your graveyard.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/56_Think.png" num="56">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Psychic Knife</name>
+			<text>As an additional cost to cast this spell, return a creature you control to its owner&apos;s hand or pay {1}.
+Counter target spell.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/49_Psychic Knife.png" num="49">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Two Steps Ahead</name>
+			<text>Counter target spell unless its controller pays twice {X}.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/57_Two Steps Ahead.png" num="57">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XU</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mystic Arts</name>
+			<text>Counter target spell. If that spell is countered this way, you may cast a blue spell with mana value 2 or less from your hand without paying its mana cost.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/44_Mystic Arts.png" num="44">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Imperius Rex</name>
+			<text>Choose one —
+• Counter target spell unless its controller pays twice {X}.
+• Create an X/X blue Kraken creature token.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/37_Imperius Rex.png" num="37">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XUU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Scrutinize</name>
+			<text>Reveal the top four cards of your library. An opponent chooses a card revealed this way. Exile the chosen card, then put the rest into your hand.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/52_Scrutinize.png" num="52">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Kang the Conqueror</name>
+			<text>At the beginning of your upkeep, you may put a card exiled with Kang into its owner&apos;s hand.
+[+1]: Draw two cards, then exile two cards from your hand.
+[-2]: Exile another target nonland permanent with two time counters on it. It gains suspend.
+[-6]: Search your library for any number of noncreature, nonland cards and exile them. Then put up to three cards exiled with Kang into their owners&apos; hands.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/39_Kang the Conqueror.png" num="39">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Kang</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rescue Armor</name>
+			<text>Flash
+When Rescue Armor enters, exile target creature you own. Return it to the battlefield, then attach Rescue Armor to it.
+Equipped creature gets +1/+1 and has flying.
+Equip {2}</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/51_Rescue Armor.png" num="51">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Shifting Identity</name>
+			<text>Return target creature to its owner&apos;s hand. You may have a creature you control become a copy of it until end of turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/54_Shifting Identity.png" num="54">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Burning Fear</name>
+			<text>Destroy target creature if it has power, toughness, or mana value 2 or less.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/66_Burning Fear.png" num="66">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Take Aim</name>
+			<text>Destroy target creature that didn&apos;t enter this turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/92_Take Aim.png" num="92">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Elegy</name>
+			<text>Exile target creature or planeswalker. That permanent&apos;s controller loses 2 life.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/72_Elegy.png" num="72">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Death Spores</name>
+			<text>Death Spores deals 4 damage to target creature or planeswalker. You gain life equal to the amount of excess damage dealt this way.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/69_Death Spores.png" num="69">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hunt to Extinction</name>
+			<text>Destroy target creature or planeswalker with mana value 3 or less.
+Overload {3}{B}{B} (You may cast this spell for its overload cost. If you do, change &quot;target&quot; in its text to &quot;each.&quot;)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/78_Hunt to Extinction.png" num="78">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>No More</name>
+			<text>Target player sacrifices a creature or planeswalker. If you sacrificed a permanent this way, draw two cards.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/85_No More.png" num="85">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mister Negative</name>
+			<text>When Mister Negative enters the battlefield, target creature you don&apos;t control gets -X/-Y until end of turn, where X is its toughness and Y is its power. (For example, a 2/3 creature would get -3/-2 until end of turn.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/82_Mister Negative.png" num="82">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mephisto</name>
+			<text>[+2]: Create two 1/1 red Devil creature tokens with &quot;When this creature dies, it deals 1 damage to any target.&quot;
+[-3]: Target player draws three cards and loses 3 life.
+[-9]: You get an emblem with &quot;If you would draw a card, instead search your library for a card, put it into your hand, then shuffle.&quot;</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/81_Mephisto.png" num="81">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Mephisto</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Knull, King in Black</name>
+			<text>[+1]: Put a +1/+1 counter on up to one target creature. It gains indestructible until end of turn.
+[-3]: Create a 3/3 black Alien Dragon creature token with flying.
+[-8]: Each creature you don&apos;t control gets -X/-X until end of turn, where X is the number of creatures you control.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/80_Knull, King in Black.png" num="80">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Knull</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dormammu</name>
+			<text>[+2]: Each player discards a card. Dormammu deals 1 damage to each opponent.
+[-X]: Up to one target creature gets twice -X/-X until end of turn. You gain X life. 
+[-8]: Put all creature cards from all graveyards onto the battlefield under your control. Creatures you control gain haste until end of turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/71_Dormammu.png" num="71">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Dormammu</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Optic Blast</name>
+			<text>Optic Blast deals 3 damage to target creature or planeswalker. Excess damage is dealt to that permanent&apos;s controller instead.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/114_Optic Blast.png" num="114">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Trickshot</name>
+			<text>This spell can&apos;t be countered, and can target creatures with hexproof as though they didn&apos;t have hexproof.
+Trickshot deals 3 damage to any target.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/122_Trickshot.png" num="122">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fin Fang Foom</name>
+			<text>Flying
+Whenever Fin Fang Foom enters the battlefield or attacks, he deals 3 damage to each of up to three targets.
+{2}{R}, Discard Fin Fang Foom: He deals 3 damage to any target.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/104_Fin Fang Foom.png" num="104">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Alien Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>5RR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fastball Special</name>
+			<text>Choose one —
+• Fastball Special deals 3 damage to any target.
+• Sacrifice a creature. When you do, Fastball Special deals damage equal to the sacrificed creature&apos;s power to any target.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/102_Fastball Special.png" num="102">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fatal Attractions</name>
+			<text>Choose one or both —
+• Destroy all artifacts.
+• Fatal Attractions deals 4 damage to each creature and planeswalker.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/103_Fatal Attractions.png" num="103">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Energy Conduit</name>
+			<text>Choose one —
+• Energy Conduit deals 4 damage to any target.
+• Energy Conduit deals 2 damage to each creature and planeswalker you don&apos;t control.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/101_Energy Conduit.png" num="101">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fortune Favors the Bold</name>
+			<text>At the beginning of your upkeep, exile the top card of your library. You may play that card until end of turn.
+At the beginning of your end step, Fortune Favors the Bold deals damage to each player equal to the number of cards exiled with it.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/105_Fortune Favors the Bold.png" num="105">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Life-Model Decoy</name>
+			<text>Whenever you attack, you may have Life-Model Decoy become a copy of target attacking creature until end of turn, except it&apos;s a 0/0 colorless Robot artifact creature with &quot;This creature gets +1/+1 for each artifact you control.&quot; If you do, Life-Model Decoy becomes tapped and attacking.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/113_Life-Model Decoy.png" num="113">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>High Evolutionary</name>
+			<text>[+1]: Put two counters of your choice from among +1/+1, trample, and vigilance on up to one target creature. (You can choose the same counter twice.)
+[-1]: Create a 3/3 green Construct creature token.
+[-6]: You get an emblem with &quot;Whenever a creature you control deals combat damage to a player or planeswalker, put a +1/+1 counter on it and draw a card.&quot;</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/134_High Evolutionary.png" num="134">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Evolutionary</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>A Day Unlike Any Other</name>
+			<text>Untap target creature you control that attacked this turn. After this phase, there is an additional combat phase followed by an additional main phase.
+Overload {3}{R}{R} (You may cast this spell for its overload cost. If you do, change &quot;target&quot; in its text to &quot;each.&quot;)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/97_A Day Unlike Any Other.png" num="97">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hell Cycle</name>
+			<text>Menace
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Max speed — At the beginning of combat on your turn, Hell Cycle becomes a Demon artifact creature until end of turn.
+Crew 3</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/107_Hell Cycle.png" num="107">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Crowd Favorite</name>
+			<text>Spectacle {1}{R} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+Discard your hand, then draw three cards.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/96_Crowd Favorite.png" num="96">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Savage Land Expedition</name>
+			<text>Enchant land
+Whenever enchanted land is tapped for mana, its controller adds an additional one mana of any color.
+{4}{G}, Sacrifice this Aura: Create a 3/3 green Dinosaur creature token with trample. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/148_Savage Land Expedition.png" num="148">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Seismic Shifting</name>
+			<text>Search your library for up to two Forest cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/149_Seismic Shifting.png" num="149">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Into the Cosmos</name>
+			<text>Search your library for a land card with a basic land type, put that card onto the battlefield tapped, then shuffle.
+Up to one target creature explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/135_Into the Cosmos.png" num="135">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Origin Story</name>
+			<text>Look at the top five cards of your library. You may reveal a permanent card with mana value 3 or less from among them and put it into your hand. Put the rest on the bottom of your library in any order.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/142_Origin Story.png" num="142">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Kraven&apos;s Last Hunt</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Mill three cards. When you do, you may return a creature or land card from your graveyard to your hand.
+Until end of turn, you may cast creature spells from your graveyard. (You still pay their costs. Timing rules still apply.)
+​</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/138_Kraven&apos;s Last Hunt.png" num="138">MRV</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Clobber</name>
+			<text>Choose one —
+• Destroy target artifact or enchantment.
+• Target creature you control deals damage equal to its power to target creature or planeswalker you don&apos;t control.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/127_Clobber.png" num="127">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Maestro</name>
+			<text>[+1]: Until end of turn, Maestro becomes a 6/6 green Giant Noble creature with trample and indestructible. (He doesn&apos;t lose loyalty while he isn&apos;t a planeswalker.)
+[-2]: Up to two target creatures you control each deal damage equal to their power to target creature or planeswalker.
+[-7]: You get an emblem with &quot;Creatures you control are 6/6 Giants with trample in addition to their other types and abilities.&quot;</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/140_Maestro.png" num="140">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Banner</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Flora Colossus</name>
+			<text>Choose one — 
+• Search your library for up to two land cards, put them onto the battlefield tapped, then shuffle.
+• Create a green Treefolk creature token with reach and &quot;This token&apos;s power and toughness are each equal to the number of lands you control.&quot;
+Entwine {2} (Choose both if you pay the entwine cost.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/131_Flora Colossus.png" num="131">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Plot Armor</name>
+			<text>Target permanent gains hexproof and indestructible until end of turn. If it&apos;s a creature, it also gets +2/+2 until end of turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/143_Plot Armor.png" num="143">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Red Ghost</name>
+			<text>When Red Ghost enters, create three 2/2 green Ape creature tokens.
+Whenever a creature you control becomes blocked or becomes the target of a spell or ability, you may have that creature phase out. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/144_Red Ghost.png" num="144">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Scientist Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Captain America</name>
+			<text>Vigilance, reach
+Whenever Captain America attacks, put a +1/+1 counter on each attacking creature you control.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/8_Captain America.png" num="8">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Black Widow</name>
+			<text>Ward—Discard a card.
+Whenever Black Widow attacks, look at the top card of defending player&apos;s library and exile it face down. You may cast that card for as long as it remains exiled, and mana of any type can be spent to cast that spell.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/179_Black Widow.png" num="179">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1U/BU/B</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Havok</name>
+			<text>Flash
+When Havok enters, if you cast him, destroy target attacking creature.
+Overload {4}{W}{W} (You may cast this spell for its overload cost. If you do, change &quot;target&quot; in its text to &quot;each.&quot;)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/13_Havok.png" num="13">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Loki, God of Mischief</name>
+			<text>Flash
+When Loki enters, copy target spell, then return that spell to its owner&apos;s hand. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/41_Loki, God of Mischief.png" num="41">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Giant Wizard Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>White Tiger</name>
+			<text>When White Tiger enters and whenever you cast a creature spell, you gain 1 life and create a 1/1 green and white Cat Spirit creature token.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/184_White Tiger.png" num="184">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1G/WG/W</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blade</name>
+			<text>Once during each of your turns, you may cast a creature spell with mana value 1 from your graveyard. If you cast a spell this way, that creature enters with a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/180_Blade.png" num="180">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Vampire Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1W/B</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Man-Thing</name>
+			<text>Deathtouch 
+Whenever Man-Thing attacks, return target land card from your graveyard to the battlefield. It becomes a 4/3 Plant Horror creature that&apos;s tapped and attacking.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/183_Man-Thing.png" num="183">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Plant Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2B/GB/G</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lock Up</name>
+			<text>Flash
+When Lock Up enters, exile target creature or planeswalker until Lock Up leaves the battlefield.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/18_Lock Up.png" num="18">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Warpath</name>
+			<text>When Warpath enters, look at the top three cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order. If you revealed a Mutant this way, you gain 3 life.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/152_Warpath.png" num="152">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Warrior Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Beast</name>
+			<text>Beast can&apos;t be blocked by creatures with lesser power.
+Whenever you cast a creature spell, put a +1/+1 counter on Beast. If that spell was a Mutant, draw a card.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/178_Beast.png" num="178">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Beast Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2G/UG/U</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brood Spawning</name>
+			<text>Target player sacrifices a creature of their choice. Create a 2/2 black Insect creature token with flying.
+Flashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/65_Brood Spawning.png" num="65">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Summon the Horsemen</name>
+			<text>Return from your graveyard to the battlefield up to four target creature cards that each have mana value X or less.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/90_Summon the Horsemen.png" num="90">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XBBB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bishop</name>
+			<text>When Bishop enters the battlefield, up to one target artifact, instant, or sorcery card in your graveyard gains jump-start until end of turn. (You may cast it from your graveyard by discarding a card in addition to paying its other costs. If it would be put into a graveyard, exile it.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/95_Bishop.png" num="95">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Soldier Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Iron Fist</name>
+			<text>Kicker {3}{R}{R} (You may pay an additional {3}{R}{R} as you cast this spell.)
+When Iron Fist enters, if he was kicked, create a 4/4 red Dragon creature token with flying.
+At the beginning of combat on your turn, target creature you control gains first strike and haste until end of turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/109_Iron Fist.png" num="109">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Juggernaut</name>
+			<text>Menace
+Whenever Juggernaut becomes the target of a spell, Juggernaut deals 2 damage to that spell&apos;s controller.
+If a source you control would deal damage to a permanent or player, instead it deals double that damage.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/111_Juggernaut.png" num="111">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Juggernaut Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shocker</name>
+			<text>Haste
+When Shocker enters, he deals 2 damage to any target. If a creature is dealt damage this way, it can&apos;t block this turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/119_Shocker.png" num="119">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gambit</name>
+			<text>When Gambit enters, you may discard any number of cards. Gambit deals X damage to each opponent and you draw X cards, where X is the greatest number of sequential mana values among cards discarded this way. (Lands have mana value 0. If you discard one card, X is 1.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/106_Gambit.png" num="106">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Rogue Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ka-Zar // Savage Might</name>
+			<text>{T}: Add {G}.
+{2}{G}, {T}: Return Ka-Zar to its owner&apos;s hand. Activate only as a sorcery.
+
+---
+
+Create two 3/3 green Dinosaur creature tokens with trample. (Then exile this card. You may cast the creature later from exile.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/136_Ka-Zar.png" num="136">MRV</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior // Sorcery — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>1G // 4GG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ghost Rider</name>
+			<text>Ghost Rider can&apos;t block.
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Max speed — {3}{B}{B}: Return Ghost Rider from your graveyard to the battlefield with two +1/+1 counters on it.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/74_Ghost Rider.png" num="74">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spirit Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sinister Scheme</name>
+			<text>Return any number of target creature cards with total mana value 6 or less from your graveyard to the battlefield.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/88_Sinister Scheme.png" num="88">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BBB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spirit of Vengeance</name>
+			<text>Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Sacrifice this enchantment: Return target creature card with mana value less than or equal to your speed from your graveyard to the battlefield. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/89_Spirit of Vengeance.png" num="89">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Zabu</name>
+			<text>Vigilance
+The first creature spell you cast each turn costs {1} less to cast.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/153_Zabu.png" num="153">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vision</name>
+			<text>Flash
+Flying
+Whenever you cast a spell, you may phase out target creature. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/199_Vision.png" num="199">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Robot Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Silk</name>
+			<text>{2}{W}: Tap target creature. Until end of turn, its activated abilities can&apos;t be activated. Activate only during your turn and only once each turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/28_Silk.png" num="28">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spider Human Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jessica Jones</name>
+			<text>Vigilance
+When Jessica Jones enters, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)
+As long as you&apos;ve drawn two or more cards this turn, Jessica Jones has flying.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/38_Jessica Jones.png" num="38">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Detective Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shadowcat</name>
+			<text>Whenever Shadowcat enters or phases in, if you don&apos;t control a creature named Lockheed, create Lockheed, a legendary 2/2 blue Alien Dragon creature token with flying.
+At the beginning of your end step, Shadowcat phases out. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/53_Shadowcat.png" num="53">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Carnage</name>
+			<text>Carnage enters with a +1/+1 counter on it.
+Whenever another creature you control dies, put a +1/+1 counter on Carnage.
+When Carnage dies, put its counters on target creature you control.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/67_Carnage.png" num="67">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Symbiote Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Venom</name>
+			<text>Menace
+Creatures you control with counters on them have menace.
+At the beginning of combat on your turn, put a +1/+1 counter on another target creature you control.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/93_Venom.png" num="93">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Symbiote Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wasp</name>
+			<text>Flying
+When Wasp enters, scry 1. Then if you control another Hero, draw a card.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/59_Wasp.png" num="59">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Warlock</name>
+			<text>You may have Warlock enter as a copy of any permanent on the battlefield, except his name is Warlock and he&apos;s an artifact in addition to his other types.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/200_Warlock.png" num="200">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Alien Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thor, God of Thunder</name>
+			<text>Flying
+When Thor enters, he deals 3 damage to up to one target creature or planeswalker and you gain 3 life.
+Other creatures you control get +1/+1.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/174_Thor, God of Thunder.png" num="174">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — God Warrior Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>3RW</manacost>
+				<cmc>5</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Peni Parker</name>
+			<text>When Peni Parker enters, create SP//dr, a legendary 2/2 colorless Vehicle artifact token with crew 1. (It has &quot;Tap any number of creatures you control with total power 1 or greater: This Vehicle becomes an artifact creature until end of turn.&quot;)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/22_Peni Parker.png" num="22">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Artificer Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>SPDR MRV</name>
+			<text>Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/4t_SPDR.png" num="4">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<reverse_related>Peni Parker</reverse_related>
+		</card>
+		<card>
+			<name>Anti-Venom</name>
+			<text>When Anti-Venom enters, put a +1/+1 counter on target creature.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/3_Anti-Venom.png" num="3">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Symbiote Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Edwin Jarvis</name>
+			<text>When Edwin Jarvis enters, look at the top three cards of your library. You may reveal an artifact card or a legendary creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/11_Edwin Jarvis.png" num="11">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Advisor Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Moon Knight</name>
+			<text>When Moon Knight dies, if he attacked this turn, return him to the battlefield tapped under his owner&apos;s control at the beginning of the next end step.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/20_Moon Knight.png" num="20">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Mercenary Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shang-Chi</name>
+			<text>Vigilance, lifelink
+When Shang-Chi enters, choose one —
+• Put a +1/+1 counter on Shang-Chi.
+• Exile target artifact or enchantment until Shang-Chi leaves the battlefield.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/27_Shang-Chi.png" num="27">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Falcon</name>
+			<text>Flying
+When Falcon enters, create a 1/1 white Bird creature token with flying.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/12_Falcon.png" num="12">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Valkyrie</name>
+			<text>Flying
+Whenever Valkyrie attacks, you may put a creature card with mana value 2 or less from your hand or graveyard to the battlefield tapped and attacking.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/30_Valkyrie.png" num="30">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — God Warrior Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cosmo the Spacedog</name>
+			<text>Vigilance
+When Cosmo the Spacedog enters, look at target player&apos;s hand, then choose a nonland card type.
+Spells of the chosen type cost {1} more to cast.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/9_Cosmo the Spacedog.png" num="9">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dog Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Heimdall, the All-Seeing</name>
+			<text>Vigilance
+You may look at the top card of your library at any time.
+You may cast creature spells from the top of your library if they have mana value less than or equal to the number of creatures you control.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/14_Heimdall, the All-Seeing.png" num="14">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — God Warrior Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nick Fury</name>
+			<text>During your turn, Nick Fury has first strike.
+Whenever you attack, create a 1/1 white Soldier creature token that&apos;s tapped and attacking, then put a +1/+1 counter on an attacking creature you control.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/21_Nick Fury.png" num="21">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Black Bolt</name>
+			<text>Flying
+When Black Bolt enters, choose a noncreature, nonland card type.
+Each opponent can&apos;t cast spells of the chosen type.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/6_Black Bolt.png" num="6">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Inhuman Noble Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sentry</name>
+			<text>Flying, lifelink
+When Sentry dies, you may pay 4 life. If you do, create The Void, a legendary 4/4 black Avatar Villain creature token with flying and deathtouch.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/26_Sentry.png" num="26">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Void MRV</name>
+			<text>Flying, deathtouch</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/2t_Void.png" num="2">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Legendary Creature — Avatar Villain</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse_related>Sentry</reverse_related>
+		</card>
+		<card>
+			<name>Blink</name>
+			<text>Vigilance
+Whenever Blink deals combat damage to a player, exile target creature you control, then return it to the battlefield under its owner&apos;s control.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/33_Blink.png" num="33">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Nomad Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lockjaw</name>
+			<text>When Lockjaw enters, look at the top three cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in any order.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/40_Lockjaw.png" num="40">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Inhuman Dog Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wiccan</name>
+			<text>Flying
+Whenever Wiccan attacks, you may cast target instant or sorcery card from your graveyard. If that card would be put into your graveyard from anywhere this turn, exile it instead. (You still pay its costs.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/60_Wiccan.png" num="60">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Wizard Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Iceman</name>
+			<text>Ward {2}
+When Iceman enters, choose target creature. It loses all creature types and abilities and becomes a 0/4 blue Wall creature with defender for as long as you control Iceman.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/36_Iceman.png" num="36">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mystique</name>
+			<text>You may have Mystique enter as a copy of target creature, except her name is Mystique, and she has her other abilities.
+{3}{U}: Mystique becomes a copy of target creature, except her name is Mystique, and she has this ability. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/45_Mystique.png" num="45">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Rogue Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Psylocke</name>
+			<text>Ninjutsu {1}{U} ({1}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+Whenever Psylocke deals combat damage to a player, you may draw two cards. If you do, discard two cards.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/50_Psylocke.png" num="50">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Ninja Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cable</name>
+			<text>Flash
+When Cable enters, return target artifact, instant, or sorcery card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/34_Cable.png" num="34">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Soldier Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nightcrawler</name>
+			<text>Flash
+When Nightcrawler enters, scry 1.
+Whenever Nightcrawler attacks, exile him. After blockers are declared, return him to the battlefield. If it&apos;s his owner&apos;s combat phase, he enters tapped and attacking.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/46_Nightcrawler.png" num="46">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Rogue Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mysterio</name>
+			<text>Flying
+Illusions you control get +1/+1.
+Whenever you cast a noncreature spell, create a 1/1 blue Illusion creature token with flying.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/43_Mysterio.png" num="43">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Artificer Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elektra</name>
+			<text>Elektra can&apos;t block.
+Ninjutsu {1}{B} ({1}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+You may activate Elektra&apos;s ninjutsu ability from your graveyard.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/73_Elektra.png" num="73">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Ninja</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Swarm</name>
+			<text>When Swarm dies, create a number of 1/1 green Insect creature tokens with flying equal to his power.
+Escape—{3}{B}{B}, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)
+Swarm escapes with two +1/+1 counters on him.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/91_Swarm.png" num="91">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Soldier Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mole Man</name>
+			<text>{B}, {T}, Discard a card: Create a 2/1 black Mole Gremlin creature token with &quot;This creature can&apos;t block.&quot;
+Whenever you attack with three or more creatures, you draw a card and you lose 1 life.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/83_Mole Man.png" num="83">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Black Cat</name>
+			<text>Menace
+Whenever Black Cat deals combat damage to a player or planeswalker, you lose 1 life and create a Treasure token.
+{1}{B}, Sacrifice a Treasure: Draw a card.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/64_Black Cat.png" num="64">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Morbius</name>
+			<text>Flying, haste
+Whenever another creature or planeswalker dies, create a Blood token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&quot;)
+{B}{B}, Sacrifice two Blood tokens: Return Morbius from your graveyard to the battlefield. He can&apos;t block this turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/84_Morbius.png" num="84">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crossbones</name>
+			<text>Whenever a creature you control dies, each opponent loses 1 life.
+At the beginning of your end step, each opponent who lost 4 or more life this turn discards a card.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/68_Crossbones.png" num="68">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Mercenary Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hobgoblin</name>
+			<text>Flying
+When Hobgoblin enters, you lose 1 life, then look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/76_Hobgoblin.png" num="76">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Goblin Human Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Hood</name>
+			<text>When The Hood enters, mill four cards. You may put a creature or planeswalker card from among the cards milled this way into your hand.
+Planeswalkers you control have &quot;[+2]: Create a 1/1 red Devil creature token with ‘When this creature dies, it deals 1 damage to any target.&apos;&quot;</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/77_The Hood.png" num="77">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warlock Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kingpin</name>
+			<text>Sacrifice a creature: You gain 2 life.
+{B}, Discard a card: Create a tapped 2/2 black Mercenary creature token.
+{B}{B}, Pay 2 life: Draw a card.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/79_Kingpin.png" num="79">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prowler</name>
+			<text>If an opponent was dealt combat damage this turn, you may pay {B}{B} rather than pay this spell&apos;s mana cost.
+Ward—Pay 2 life.
+At the beginning of your end step, if an opponent was dealt combat damage this turn, you may draw a card.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/87_Prowler.png" num="87">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Doctor Doom</name>
+			<text>You may play lands and cast spells from your graveyard.
+If a card would be put into your graveyard from anywhere other than your library or hand, exile it instead.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/70_Doctor Doom.png" num="70">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warlock Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Omega Red</name>
+			<text>Haste
+When Omega Red enters, each other creature gets -3/-3 until end of turn.
+Whenever a creature dies, put a +1/+1 counter on Omega Red.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/86_Omega Red.png" num="86">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Annihilus</name>
+			<text>Flying
+When Annihilus enters, create two 2/2 black Alien Insect creature tokens with flying.
+Whenever Annihilus or another creature you control dies, each opponent loses life equal to that creature&apos;s power.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/62_Annihilus.png" num="62">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hela, Goddess of Death</name>
+			<text>Indestructible
+When Hela enters, search your library for up to two creature cards, put them into your graveyard, then shuffle.
+{2}{B}{B}: Exile target creature card from a graveyard. Create a token that&apos;s a copy of it, except it&apos;s a 4/4 black Zombie.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/75_Hela, Goddess of Death.png" num="75">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — God Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>4BBB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kate Bishop</name>
+			<text>As long as it&apos;s your turn, Kate Bishop has first strike.
+When Kate Bishop enters or attacks, she deals 1 damage to target player or planeswalker.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/112_Kate Bishop.png" num="112">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Archer Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Quicksilver</name>
+			<text>Haste
+As long as Quicksilver entered the battlefield this turn, he gets +1/+0 and can&apos;t be blocked except by creatures with haste.
+Dash {R}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it&apos;s returned from the battlefield to its owner&apos;s hand at the beginning of the next end step.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/116_Quicksilver.png" num="116">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Red Guardian</name>
+			<text>Red Guardian can&apos;t block.
+Whenever Red Guardian attacks, target creature with lesser power can&apos;t block this turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/117_Red Guardian.png" num="117">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jubilee</name>
+			<text>Jubilee can&apos;t block.
+Whenever you cast a noncreature spell, put a +1/+1 counter on Jubilee.
+Remove three +1/+1 counters from Jubilee: Discard your hand, then draw three cards.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/110_Jubilee.png" num="110">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deadpool</name>
+			<text>Deadpool can&apos;t block.
+While Deadpool is outside the game, you may put him into your hand by revealing him and exiling a red card from your hand.
+If Deadpool would be put into a graveyard or exile from anywhere, you may instead put him into your sideboard.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/98_Deadpool.png" num="98">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pyro</name>
+			<text>Whenever Pyro enters or you cast a red spell, create a 1/1 red Elemental creature token with haste and &quot;This creature attacks each combat if able.&quot;</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/115_Pyro.png" num="115">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Taskmaster</name>
+			<text>Haste
+Whenever Taskmaster attacks, you may have him become a copy of another target creature until end of turn, except his name is still Taskmaster and he has this ability.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/121_Taskmaster.png" num="121">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Mercenary Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Storm</name>
+			<text>Flash
+Flying
+When Storm enters, if you cast her, copy target instant or sorcery spell twice. You may choose new targets for the copies.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/120_Storm.png" num="120">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Drax the Destroyer</name>
+			<text>Trample
+Whenever another creature you control enters, Drax deals damage equal to that creature&apos;s power to up to one target creature or planeswalker. Excess damage is dealt to that permanent&apos;s controller.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/99_Drax the Destroyer.png" num="99">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Avatar Warrior Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Snowbird</name>
+			<text>Flying
+{T}: Add {G}.
+{1}{G}: Until end of turn, Snowbird becomes a 2/2 Bear creature and loses all other abilities. Activate only outside of combat.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/150_Snowbird.png" num="150">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crystal</name>
+			<text>{T}: Add one mana of any color.
+{4}{G}{G}: Create a 3/3 green Elemental creature token. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/129_Crystal.png" num="129">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Inhuman Noble Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Diablo</name>
+			<text>{T}: Add {G}. When you spend this mana to cast a creature spell, scry 1.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/130_Diablo.png" num="130">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Absorbing Man</name>
+			<text>Trample
+Absorbing Man gets +1/+1 for each card type among permanents you control. (The permanent card types are artifact, battle, creature, enchantment, land, and planeswalker.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/124_Absorbing Man.png" num="124">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lizard</name>
+			<text>Whenever Lizard enters or attacks, you may exile target card from a graveyard. If you do, Lizard gains indestructible until end of turn. Then if you exiled a creature card this way, put a +1/+1 counter on Lizard.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/139_Lizard.png" num="139">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Lizard Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Multiple Man</name>
+			<text>When Multiple Man enters, choose X. You may choose the same mode more than once.
+• Create a 3/2 green Mutant Rogue Hero creature token.
+• Put a +1/+1 counter on each creature you control.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/141_Multiple Man.png" num="141">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Rogue Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>XXGG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Black Panther</name>
+			<text>When Black Panther enters, return up to one target land card and up to one target creature card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/126_Black Panther.png" num="126">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Noble Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hawkeye</name>
+			<text>Vigilance, reach
+You may have Hawkeye assign combat damage as though he weren&apos;t blocked.
+When Hawkeye enters, he deals damage equal to his power to target creature with flying you don&apos;t control.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/133_Hawkeye.png" num="133">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Archer Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rogue</name>
+			<text>Deathtouch
+Whenever you cast a creature spell, you may have Rogue become a copy of that creature until end of turn, except her name is Rogue and she has deathtouch and this ability.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/146_Rogue.png" num="146">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Rogue Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gorilla-Man</name>
+			<text>When Gorilla-Man enters, mill four cards.
+When Gorilla-Man dies, you may exile him. When you do, exile target creature card from your graveyard. Create a token that&apos;s a copy of that card, except it&apos;s a 3/3 green Ape in addition to its other types and has this ability.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/132_Gorilla-Man.png" num="132">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Ape Mercenary Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Abomination</name>
+			<text>Trample, haste
+{2}{G}, Sacrifice two creatures: Return Abomination from your graveyard to the battlefield. He can&apos;t block this turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/123_Abomination.png" num="123">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Giant Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Colossus</name>
+			<text>Trample
+Whenever Colossus attacks, until end of turn, another target attacking creature you control gets +X/+X and gains trample, where X is Colossus&apos;s power as this ability resolves.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/128_Colossus.png" num="128">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kraven the Hunter</name>
+			<text>When Kraven the Hunter enters, if he was cast, search your library for a green creature card with mana value X or less, where X is the number of creatures you control. Put that card onto the battlefield, then shuffle.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/137_Kraven the Hunter.png" num="137">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rhino</name>
+			<text>This spell can&apos;t be countered.
+Rhino has hexproof if he hasn&apos;t dealt damage to a player or planeswalker yet.
+Whenever a creature dealt combat damage by Rhino this turn dies, put two +1/+1 counters on Rhino.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/145_Rhino.png" num="145">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deathlok</name>
+			<text>Modular X (This creature enters with X +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.)
+{4}: Put a +1/+1 counter on Deathlok. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/189_Deathlok.png" num="189">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Cyborg Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>X</manacost>
+				<cmc>0</cmc>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ultron</name>
+			<text>This spell costs {1} less to cast for each artifact you control.
+Flying, trample
+Sacrifice an artifact: Ultron gains indestructible until end of turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/198_Ultron.png" num="198">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Robot Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>8</manacost>
+				<cmc>8</cmc>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Machine Man</name>
+			<text>Machine Man gets +1/+1 for each artifact you control.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/195_Machine Man.png" num="195">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Robot Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Silver Surfer</name>
+			<text>Flying
+When Silver Surfer enters, search your library for a land card and put it onto the battlefield tapped. Then shuffle.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/1_Silver Surfer.png" num="1">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Avatar Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Casket of Ancient Winters</name>
+			<text>Casket of Ancient Winters enters tapped. When it does, choose a color other than blue.
+{T}: Add {U} or one mana of the chosen color.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/186_Casket of Ancient Winters.png" num="186">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Crimson Gem of Cyttorak</name>
+			<text>Crimson Gem of Cyttorak enters tapped. When it does, choose a color other than red.
+{T}: Add {R} or one mana of the chosen color.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/187_Crimson Gem of Cyttorak.png" num="187">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Darkhold</name>
+			<text>Darkhold enters tapped. When it does, choose a color other than black.
+{T}: Add {B} or one mana of the chosen color.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/188_Darkhold.png" num="188">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Eye of Agamotto</name>
+			<text>Eye of Agamotto enters tapped. When it does, choose a color other than white.
+{T}: Add {W} or one mana of the chosen color.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/190_Eye of Agamotto.png" num="190">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jade Tiger Amulet</name>
+			<text>Jade Tiger Amulet enters tapped. When it does, choose a color other than green.
+{T}: Add {G} or one mana of the chosen color.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/194_Jade Tiger Amulet.png" num="194">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Infinity Gems</name>
+			<text>{T}: Add one mana of any color.
+As long as you control six or more artifacts, you may cast spells from your hand without paying their mana costs.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/192_Infinity Gems.png" num="192">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Black Vortex</name>
+			<text>Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+As you cast spells from your hand, they gain cascade.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/185_Black Vortex.png" num="185">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Iron Man Armor</name>
+			<text>Equipped creature has flying.
+Whenever you draw a card, equipped creature gets +1/+1 until end of turn.
+Whenever equipped creature attacks, you may draw a card. If you do, discard a card.
+Equip {2}</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/193_Iron Man Armor.png" num="193">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Staff of One</name>
+			<text>Staff of One enters tapped unless you&apos;ve lost life this turn.
+{T}: Search your library for an instant or sorcery card, exile it, then shuffle. Until end of turn, you may cast that spell by paying life equal to its mana value rather than paying its mana cost. Activate only during your turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/197_Staff of One.png" num="197">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Doctor Strange</name>
+			<text>Flying, prowess
+Once each turn, when you cast an instant, sorcery, or enchantment spell, you may copy that spell. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/162_Doctor Strange.png" num="162">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Delusions of Grandeur</name>
+			<text>Counter target spell. Its controller loses life equal to its mana value.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/161_Delusions of Grandeur.png" num="161">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UUB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Emma Frost</name>
+			<text>When Emma Frost enters, gain control of target creature. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/163_Emma Frost.png" num="163">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>World War Hulk</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after VII.)
+Reveal cards from the top of your library until you reveal a creature card with mana value equal to the number of lore counters on World War Hulk. Put that card onto the battlefield, then put the rest of the cards onto the bottom of your library in a random order.
+​
+​</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/177_World War Hulk.png" num="177">MRV</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Avengers Assemble</name>
+			<text>Choose X, then create a creature token for each of the chosen characteristics.
+• 2/2 white God with vigilance and lifelink.
+• 2/3 blue Artificer with flying and ward {2}.
+• 1/3 black Shapeshifter with deathtouch.
+• 2/1 red Warrior with flying and haste.
+• 3/2 green Giant with trample.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/156_Avengers Assemble.png" num="156">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XGW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bring to Balance</name>
+			<text>Each player sacrifices half the creatures they control. Repeat this process for artifacts, enchantments, and planeswalkers. Then, each player discards half their hand. Round up each time.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/157_Bring to Balance.png" num="157">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wolverine</name>
+			<text>Trample
+When Wolverine enters, he fights up to one target creature you don&apos;t control.
+{1}: Wolverine gains indestructible until end of turn. Tap him.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/176_Wolverine.png" num="176">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Berserker Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>3RG</manacost>
+				<cmc>5</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cloak and Dagger</name>
+			<text>Whenever Cloak and Dagger attack, choose one —
+• Each opponent discards a card.
+• Cloak and Dagger deal 2 damage to each opponent and you gain 2 life.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/158_Cloak and Dagger.png" num="158">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glimpse Infinite Realities</name>
+			<text>Reveal the top four cards of your library, then separate them into two piles. An opponent chooses one of the piles. You put the chosen pile into your hand, then Glimpse Infinite Realities deals damage to that opponent equal to the total mana value of the other pile.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/164_Glimpse Infinite Realities.png" num="164">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Magneto</name>
+			<text>Flying, ward {2}
+At the beginning of combat on your turn, you may have any number of target noncreature artifacts you control become 3/3 artifact creatures with haste until end of turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/168_Magneto.png" num="168">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>3UR</manacost>
+				<cmc>5</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mister Sinister</name>
+			<text>{1}, {T}, Sacrifice a creature or discard a creature card: Put a +1/+1 counter on Mister Sinister. When you do, search your library for a creature card and reveal it. If it has mana value less than Mister Sinister&apos;s power, put it on to the battlefield. Otherwise, put it into your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/169_Mister Sinister.png" num="169">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Scientist Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cyclops</name>
+			<text>Vigilance
+Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+Whenever Cyclops mentors a creature, both he and that creature gain first strike until end of turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/160_Cyclops.png" num="160">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ant-Man</name>
+			<text>Whenever Ant-Man enters, create a 1/1 green Insect creature token with flying.
+{X}{GU}: Until end of turn, target creature you control has base power and toughness X/X. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/155_Ant-Man.png" num="155">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Scientist Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Collector</name>
+			<text>[+1]: Choose a nonland card type. Until end of turn, spells you cast of that type cost {1} less to cast.
+[-2]: Draw two cards. If there are four or more card types among permanents you control, instead draw four cards.
+[-6]: You get an emblem with &quot;You may cast spells that share a card type with a permanent you control without paying their mana costs.&quot;</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/159_The Collector.png" num="159">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Collector</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hulk</name>
+			<text>This spell can&apos;t be countered.
+Trample, haste
+Whenever Hulk becomes the target of a spell or ability you don&apos;t control, he deals damage equal to his power to any target.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/165_Hulk.png" num="165">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Giant Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>5RG</manacost>
+				<cmc>7</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Daredevil</name>
+			<text>Vigilance, ward {1}
+Creatures your opponents control enter tapped.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/10_Daredevil.png" num="10">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Annihilation Wave</name>
+			<text>Destroy each nonland permanent with mana value X or less. Then if X was 3 or greater, create three 2/2 black Insect creature tokens with flying.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/154_Annihilation Wave.png" num="154">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XBBG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Thanos, the Mad Titan</name>
+			<text>[+1]: You may draw a card. If you don&apos;t, create a Treasure token. Repeat this process once.
+[-4]: Search your library for a multicolored card, exile it, then shuffle. You may cast that spell
+without paying its mana cost.
+[-9]: For each opponent, exile half of the permanents that player controls, rounded up.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/173_Thanos, the Mad Titan.png" num="173">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Thanos</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2/W2/U2/B2/R2/G</manacost>
+				<cmc>10</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<loyalty>6</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Scarlet Witch</name>
+			<text>At the beginning of your precombat main phase, you may discard a card. If you do, exile the top card of your library. You may play that card this turn.
+Whenever you cast a noncreature spell, Scarlet Witch deals 1 damage to each opponent.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/118_Scarlet Witch.png" num="118">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Wizard Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Green Goblin</name>
+			<text>Flying
+Green Goblin can&apos;t block.
+Whenever a player loses life, put a +1/+1 counter on Green Goblin. This ability triggers only once per turn for each player.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/182_Green Goblin.png" num="182">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Goblin Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>1B/RB/R</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Electro</name>
+			<text>Electro can&apos;t block.
+Whenever Electro attacks, he deals 1 damage to each player.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/100_Electro.png" num="100">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sandman</name>
+			<text>Lands you control enter untapped.
+Landfall — Whenever a land you control enters, create a 1/1 green Sand creature token.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/147_Sandman.png" num="147">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Sand Elemental Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sand MRV</name>
+			<text></text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/3t_Sand.png" num="3">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Sand</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse_related>Sandman</reverse_related>
+		</card>
+		<card>
+			<name>Professor X</name>
+			<text>{3}{U}: Look at the top card of your library. If it&apos;s a Mutant creature card, you may put it onto the battlefield tapped. Otherwise, put it into your hand.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/48_Professor X.png" num="48">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Advisor Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Winter Soldier</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature or pay {2}.
+When Winter Soldier enters, he deals 3 damage to up to one target creature or planeswalker.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/94_Winter Soldier.png" num="94">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Assassin Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Killmonger</name>
+			<text>When Killmonger enters, create a 2/2 green Cat creature token.
+{1}{B}, Sacrifice a creature: Draw a card.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/167_Killmonger.png" num="167">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Mercenary Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thing</name>
+			<text>Trample
+Whenever Thing attacks while you control four or more creatures, double his power until end of turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/151_Thing.png" num="151">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Golem Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nightmare</name>
+			<text>[+1]: Look at the top two cards of your library. Put one of them into your hand then exile the other.
+[-2]: Each opponent exiles a creature they control. Each opponent who can&apos;t exiles a card from their hand.
+[-4]: Put a permanent card exiled with Nightmare onto the battlefield under your control.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/170_Nightmare.png" num="170">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Nightmare</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Khonshu, God of the Moon</name>
+			<text>[+1]: Put a +1/+1 counter on up to one target creature you control. It gains vigilance until end of turn.
+[-2]: Create two 1/1 white Cleric creature tokens with lifelink.
+[-6]: You get an emblem with &quot;At the beginning of combat on your turn, put three +1/+1 counters on target creature you control. It gains vigilance and indestructible until end of turn.&quot;</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/17_Khonshu, God of the Moon.png" num="17">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Khonshu</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Baron Mordo</name>
+			<text>Lifelink
+Whenever you cast an instant or sorcery spell, you may pay life equal to its mana value. If you do, copy that spell. You may choose new targets for the copy.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/63_Baron Mordo.png" num="63">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warlock Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ragnarok</name>
+			<text>Choose two card types from among creature, planeswalker, artifact, and enchantment. For each permanent with one or more card types chosen this way, its controller shuffles it into their library.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/25_Ragnarok.png" num="25">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Days of Future Past</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Return all nonland permanents with mana value 2 or less to their owner&apos;s hands.
+Draw two cards, then discard two cards.
+Exile this Saga. When you do, take an extra turn after this one.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/35_Days of Future Past.png" num="35">MRV</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Absolute Zero</name>
+			<text>Choose one—
+• Counter target spell unless its controller pays {2}.
+• Tap target nonland permanent and put two stun counters on it. For as long as that permanent remains tapped, its activated abilities can&apos;t be activated.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/32_Absolute Zero.png" num="32">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Precognition</name>
+			<text>Look at the top three cards of your library, then put them all on top or bottom of your library in any order.
+Draw a card.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/47_Precognition.png" num="47">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vigorous Research</name>
+			<text>Surveil 2, then draw a card. If this spell wasn&apos;t cast from your hand, create a tapped 2/2 colorless Robot artifact creature token. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Flashback {4}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/58_Vigorous Research.png" num="58">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mister Fantastic</name>
+			<text>Vigilance, reach
+Whenever you draw your second card each turn, create a 2/2 colorless Robot artifact creature token.
+Whenever you draw your fourth card each turn, put four +1/+1 counters on Mister Fantastic.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/42_Mister Fantastic.png" num="42">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Scientist Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Age of Ultron</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Each player sacrifices a nonartifact creature.
+Return up to one target creature or artifact card from your graveyard to the battlefield. You lose life equal to its mana value.
+​</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/61_Age of Ultron.png" num="61">MRV</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Human Torch</name>
+			<text>Flying
+Whenever you attack for the first time each turn, untap up to four target attacking creatures. After this phase, there is an additional combat phase.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/108_Human Torch.png" num="108">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>H.E.R.B.I.E.</name>
+			<text>When H.E.R.B.I.E. enters, search your library for a Hero card, reveal it, then shuffle. If that card is named Invisible Woman, Mister Fantastic, Human Torch, or Thing, put it into your hand. Otherwise, put that card on top of your library.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/191_H.E.R.B.I.E..png" num="191">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Robot Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Academy Training</name>
+			<text>At the beginning of combat on your turn, put a +1/+1 counter on target creature you control. Until end of turn, it gains &quot;Whenever this creature deals combat damage to a player or planeswalker, draw a card.&quot;</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/125_Academy Training.png" num="125">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ghost-Spider</name>
+			<text>Flash
+When Ghost-Spider enters, target creature gains double strike until end of turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/181_Ghost-Spider.png" num="181">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spider Human Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1R/WR/W</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Start Your Engines! MRV</name>
+			<text>Whenever an opponent loses life during your turn, if your speed is 1 or greater, increase your speed by 1. Max speed is 4. This ability triggers only once each turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/MRV-files/img/1t_Start Your Engines!.png" num="1">MRV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token</type>
+				<maintype>Token</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,643 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>JMV</name>
+			<longname>Marvel Jumpstart</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-01-25</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Bamf!</name>
+			<text>Exile target creature. You may return it to the battlefield under its owner&apos;s control. If you don&apos;t, return it to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/1_Bamf!.png" num="1">JMV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Blink</name>
+			<text>Vigilance
+Whenever Blink deals combat damage to a player, exile target creature you control, then return it to the battlefield under its owner&apos;s control.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/2_Blink.png" num="2">JMV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Nomad Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cable</name>
+			<text>Flash
+When Cable enters, return target artifact, instant, or sorcery card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/3_Cable.png" num="3">JMV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Soldier Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mirage</name>
+			<text>Reach
+When Mirage enters, tap up to one target creature and put a stun counter on it. If you controlled that creature, draw a card. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/9_Mirage.png" num="9">JMV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Archer Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nightcrawler</name>
+			<text>Flash
+When Nightcrawler enters, scry 1.
+Whenever Nightcrawler attacks, exile him. After blockers are declared, return him to the battlefield. If it&apos;s his owner&apos;s combat phase, he enters tapped and attacking.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/12_Nightcrawler.png" num="12">JMV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Rogue Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pixie</name>
+			<text>Flying
+When Pixie enters, scry 1. Then if you control another Mutant, draw a card.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/13_Pixie.png" num="13">JMV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Faerie Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Portal Hopping</name>
+			<text>Flash
+When this enchantment enters, exile up to one target creature, then return it to the battlefield under its owner&apos;s control.
+{3}{U}: Exile up to one target creature, then return it to the battlefield under its owner&apos;s control.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/14_Portal Hopping.png" num="14">JMV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Psychic Knife</name>
+			<text>As an additional cost to cast this spell, return a creature you control to its owner&apos;s hand or pay {1}.
+Counter target spell.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/15_Psychic Knife.png" num="15">JMV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Psylocke</name>
+			<text>Ninjutsu {1}{U} ({1}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+Whenever Psylocke deals combat damage to a player, you may draw two cards. If you do, discard two cards.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/16_Psylocke.png" num="16">JMV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Ninja Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shadowcat</name>
+			<text>Whenever Shadowcat enters or phases in, if you don&apos;t control a creature named Lockheed, create Lockheed, a legendary 2/2 blue Alien Dragon creature token with flying.
+At the beginning of your end step, Shadowcat phases out. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/17_Shadowcat.png" num="17">JMV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Temporal Paradox</name>
+			<text>Put target creature or spell on top of its owner&apos;s library.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/18_Temporal Paradox.png" num="18">JMV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Warlock</name>
+			<text>You may have Warlock enter as a copy of any permanent on the battlefield, except his name is Warlock and he&apos;s an artifact in addition to his other types.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/36_Warlock.png" num="36">JMV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Alien Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>HERBIE</name>
+			<text>Flying
+Exhaust — {4}: Scry 2, then put two +1/+1 counters on H.E.R.B.I.E.. Activate only as a sorcery. (Activate each exhaust ability only once.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/34_HERBIE.png" num="34">JMV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mister Fantastic</name>
+			<text>Whenever you draw a card, put a +1/+1 counter on Mister Fantastic.
+At the beginning of your end step, if you control four or more modified creatures, create a 2/2 colorless Robot creature token. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/10_Mister Fantastic.png" num="10">JMV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Scientist Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Invisible Woman</name>
+			<text>Flash
+When Invisible Woman enters, put a shield counter on target creature you control. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/31_Invisible Woman.png" num="31">JMV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Scientist Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1W/U</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thing</name>
+			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+You may have modified creatures you control deal combat damage as though they weren&apos;t blocked. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/32_Thing.png" num="32">JMV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Scientist Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>3G/UG/U</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hypothesize</name>
+			<text>Put a +1/+1 counter on target creature you control. It can&apos;t be blocked this turn.
+Flashback {4}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/7_Hypothesize.png" num="7">JMV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Venom</name>
+			<text>Menace
+Creatures you control with counters on them have menace.
+At the beginning of combat on your turn, put a +1/+1 counter on another target creature you control.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/28_Venom.png" num="28">JMV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Symbiote Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Carnage</name>
+			<text>Carnage enters with a +1/+1 counter on it.
+Whenever another creature you control dies, put a +1/+1 counter on Carnage.
+When Carnage dies, put its counters on target creature you control.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/20_Carnage.png" num="20">JMV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Symbiote Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scream</name>
+			<text>When Scream dies, each opponent loses X life and you gain X life, where X is its power.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/24_Scream.png" num="24">JMV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Symbiote Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Curiosity</name>
+			<text>Enchant creature
+Whenever enchanted creature deals damage to an opponent, you may draw a card.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/4_Curiosity.png" num="4">JMV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Human Torch</name>
+			<text>Flying
+Whenever Human Torch attacks, if he&apos;s modified, you may switch his power and toughness until end of turn. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/30_Human Torch.png" num="30">JMV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Scientist Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1U/RU/R</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lost in the Multiverse</name>
+			<text>Counter target spell unless its controller pays twice {X}.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/8_Lost in the Multiverse.png" num="8">JMV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XU</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Founding of the Four</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Draw two cards, then discard a card.
+Distribute a flying, vigilance, prowess, and +1/+1 counter among up to four target creatures you control. (Whenever you cast a noncreature spell, a creature with prowess gets +1/+1 until end of turn.)
+​</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/6_Founding of the Four.png" num="6">JMV</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dragon Man</name>
+			<text>Flying
+When Dragon Man enters, look at the top four cards of your library. You may reveal a creature, Aura, or Equipment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/33_Dragon Man.png" num="33">JMV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Dragon Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Namor the Sub-Mariner</name>
+			<text>Ward {1}
+When Namor enters, create Trident of Neptune, a legendary Equipment artifact with &quot;Equipped creature gets +2/+2 and has vigilance&quot; and equip {3}.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/11_Namor the Sub-Mariner.png" num="11">JMV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Merfolk Mutant Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Force Field</name>
+			<text>Choose one—
+• Untap target creature and put a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
+• Tap target creature and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/5_Force Field.png" num="5">JMV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Knull, King in Black</name>
+			<text>Ward—Discard a card.
+When Knull enters, you may sacrifice another creature. If you do, create a 3/3 black Symbiote Dragon creature token.
+{4}{B}{B}: Symbiotes you control get +2/+2 and gain deathtouch until end of turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/23_Knull, King in Black.png" num="23">JMV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Symbiote God</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>We Are Venom</name>
+			<text>At the beginning of your upkeep, you may pay 1 life. If you do, create a 1/1 black Symbiote creature token with &quot;This token can&apos;t block&quot; and &quot;When this token dies, put a +1/+1 counter on target creature you control.&quot;</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/29_We Are Venom.png" num="29">JMV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Anti-Venom</name>
+			<text>Flash
+When Anti-Venom enters, put a +1/+1 counter on target creature. It gains indestructible until end of turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/19_Anti-Venom.png" num="19">JMV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Symbiote Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Symbiote Spawning</name>
+			<text>You draw a card and you lose 1 life. 
+Create a 1/1 black Symbiote creature token with &quot;This token can&apos;t block&quot; and &quot;When this token dies, put a +1/+1 counter on target creature you control.&quot;
+Flashback {4}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/26_Symbiote Spawning.png" num="26">JMV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Klyntar Infection</name>
+			<text>Destroy target creature.
+Put a +1/+1 counter on a creature you control. It becomes a Symbiote in addition to its other types.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/22_Klyntar Infection.png" num="22">JMV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Scorn</name>
+			<text>Scorn enters with X +1/+1 counters on it.
+{3}{B}: Return Scorn from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/35_Scorn.png" num="35">JMV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Symbiote Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>X</manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frenzied Strike</name>
+			<text>Target creature gets -X/-X until end of turn, where X is 3 or the greatest power among creatures you control, whichever is greater.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/21_Frenzied Strike.png" num="21">JMV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Toxin</name>
+			<text>Deathtouch
+Whenever Toxin attacks, you may sacrifice another creature. If you do, create two 1/1 black Symbiote creature tokens with &quot;This token can&apos;t block&quot; and &quot;When this token dies, put a +1/+1 counter on target creature you control.&quot;</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/27_Toxin.png" num="27">JMV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Symbiote Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shriek</name>
+			<text>Flying
+Whenever one or more creatures you control with counters on them deal combat damage to a player, exile the top card of that player&apos;s library. Until end of turn, you may play that card, and mana of any type can be spent to cast it.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JMV-files/img/25_Shriek.png" num="25">JMV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

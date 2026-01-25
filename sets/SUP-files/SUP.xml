@@ -1,0 +1,1844 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>SUP</name>
+			<longname>Schwambled Egg&apos;s Comic Book Productions</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-01-25</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Superhero Set Archetypes SUP</name>
+			<text>{WU}: Flash Control
+{UB}: Token Death
+{BR}: Conspire Control
+{RG}: Energy
+{GW}: Backup Counters OR Battalion
+{WB}: Sidekick Aristocrats
+{UR}: Draw Two
+{BG}: Ramp w/Reanimator Subtheme
+{RW}: Supercharge
+{GU}: Self-Bounce OR Backup Counters</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/1t_Superhero Set Archetypes.png" num="1">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>UM06 Loyal Underling</name>
+			<text>Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.
+Sidekick {1}{W}{B} ({1}{W}{B}, Exile this card from your graveyard: Create a token that&apos;s a copy of it, except it&apos;s 1/1. Activate only as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/SUP-files/img/88_UM06 Loyal Underling.png" num="88">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM07 Steel Heights Renegade</name>
+			<text>Flying
+When this creature enters, you may discard a card. If you do, create two Mission tokens. (They&apos;re colorless battles an opponent protects with 2 defense and &quot;When this battle is defeated, draw a card.&quot;)</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/SUP-files/img/90_UM07 Steel Heights Renegade.png" num="90">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM09 Overclock</name>
+			<text>When this enchantment enters, you get {E}{E}.
+Whenever you get one or more {E}, target creature you control gets +1/+0 and gains first strike until end of turn. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/SUP-files/img/94_UM09 Overclock.png" num="94">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM03 Head Honcho</name>
+			<text>When this creature enters, create two 1/1 blue, black, and red Minion creature tokens.
+Whenever you cast or copy an instant or sorcery spell, this creature deals 1 damage to each opponent.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/SUP-files/img/82_UM03 Head Honcho.png" num="82">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Minion SUP</name>
+			<text></text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/2t_Minion.png" num="2">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Minion</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Minion SUP</name>
+			<text></text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/3t_Minion.png" num="3">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Minion</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>UM09 Dynamic Duo</name>
+			<text>Haste
+Supercharge — Create a 1/1 red and white Warrior creature token that&apos;s tapped and attacking. (Whenever this creature attacks, you get {E}. Then you may spend {E}{E}{E} to activate its supercharge ability.)</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/SUP-files/img/93_UM09 Dynamic Duo.png" num="93">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM03 (BR Arcun)</name>
+			<text>Conspire (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)
+Exile the top card of your library and up to one target creature card from your graveyard. You may play cards exiled this way until the end of your next turn.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/SUP-files/img/81_UM03 (BR Arcun).png" num="81">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UM04 (Big Kaiju)</name>
+			<text>Reach, deathtouch
+When this creature enters, it deals 4 damage to target creature, planeswalker, or battle.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/SUP-files/img/83_UM04 (Big Kaiju).png" num="83">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>5RG</manacost>
+				<cmc>7</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM01 (WU Creature)</name>
+			<text>Flash
+Flying
+At the beginning of your end step, if you haven&apos;t cast a spell this turn, put a +1/+1 counter on this creature and you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/SUP-files/img/77_UM01 (WU Creature).png" num="77">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM07 (UR arcun)</name>
+			<text>Whenever you draw your second card each turn, create a 1/1 colorless Drone artifact creature token with flying.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/SUP-files/img/89_UM07 (UR arcun).png" num="89">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Drone SUP</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/4t_Drone.png" num="4">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Drone</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>UM02 (Mission Hunter)</name>
+			<text>Menace, lifelink
+Whenever a token you control is put into the graveyard from the battlefield, surveil 1. If this is the third time this ability has triggered this turn, each opponent loses 3 life. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/SUP-files/img/79_UM02 (Mission Hunter).png" num="79">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM01 flash enabler</name>
+			<text>You gain 3 life. Scry 1, then draw a card.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/SUP-files/img/78_UM01 flash enabler.png" num="78">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UM08 Reboot</name>
+			<text>Return target permanent card with mana value 3 or less from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/SUP-files/img/91_UM08 Reboot.png" num="91">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UM08 Renegade Webslinger</name>
+			<text>Reach
+At the beginning of your end step, if a creature died this turn, create a 1/2 green Spider creature token with reach.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/SUP-files/img/92_UM08 Renegade Webslinger.png" num="92">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mutant Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM02 Hired Hit</name>
+			<text>When this enchantment enters, create a 2/2 black Mercenary creature token.
+{2}{U}{B}: Create a Mission token. (It&apos;s a colorless battle an opponent protects with 2 defense and &quot;When this battle is defeated, draw a card.&quot;)</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/SUP-files/img/80_UM02 Hired Hit.png" num="80">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM04 Cityscape Raptor</name>
+			<text>{T}: Add {R} or {G}.
+{4}{R}{G}, {T}: Create a 3/3 green Dinosaur creature token with trample.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/SUP-files/img/84_UM04 Cityscape Raptor.png" num="84">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM05 the least sexualized poison ivy art i could find</name>
+			<text>When this creature enters, create a 1/1 green and blue Plant creature token with vigilance.
+Sidekick {G}{W} ({G}{W}, Exile this card from your graveyard: Create a token that&apos;s a copy of it, except it&apos;s 1/1. Activate only as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/SUP-files/img/86_UM05 the least sexualized poison ivy art i could find.png" num="86">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dryad</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM05 Macaroni Man</name>
+			<text>Vigilance
+Supercharge — Distribute three +1/+1 counters among any number of creatures you control. (Whenever this creature attacks, you get {E}. Then you may spend {E}{E}{E} to activate its supercharge ability.)</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/SUP-files/img/85_UM05 Macaroni Man.png" num="85">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Linguini</type>
+				<maintype>Creature</maintype>
+				<manacost>3GW</manacost>
+				<cmc>5</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM06 Another Dude</name>
+			<text>Flying, deathtouch
+{1}, Sacrifice another creature: This creature gains lifelink and indestructible until end of turn.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/SUP-files/img/87_UM06 Another Dude.png" num="87">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>3WB</manacost>
+				<cmc>5</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM10 Voltage Vanguard</name>
+			<text>Backup 1 (When this creature enters, put a +1/+1 counter on target creature. If that&apos;s another creature, it gains the following abilities until end of turn.)
+Flying
+Whenever this creature deals combat damage to a player or battle, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/SUP-files/img/96_UM10 Voltage Vanguard.png" num="96">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3GU</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM10 Make Fellas</name>
+			<text>Create two 1/1 blue and green Plant creature tokens with vigilance.
+Put a +1/+1 counter on each creature you control.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/SUP-files/img/95_UM10 Make Fellas.png" num="95">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR14 Laser Vision</name>
+			<text>Choose one—
+• Laser Vision deals 4 damage to target creature, planeswalker, or battle.
+• Destroy target artifact.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/59_CR14 Laser Vision.png" num="59">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB14 Covert Operation</name>
+			<text>Destroy target creature or planeswalker.
+Create a Mission token. (It&apos;s a colorless battle an opponent protects with 2 defense and &quot;When this battle is defeated, draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/44_CB14 Covert Operation.png" num="44">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB13 Even More Disturbing Plot</name>
+			<text>Return target creature or planeswalker card from your graveyard to your hand.
+Conspire (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/43_CB13 Even More Disturbing Plot.png" num="43">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB01 Plasma Addict</name>
+			<text>Whenever a token you control is put into the graveyard from the battlefield, each opponent loses 1 life.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/31_CB01 Plasma Addict.png" num="31">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB09 Backstreet Prowler</name>
+			<text>When this creature enters, each opponent loses 3 life and you gain 3 life.
+Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/39_CB09 Backstreet Prowler.png" num="39">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB03 (Twisted Sister)</name>
+			<text>As long as you&apos;ve cast an instant or sorcery spell this turn, this creature gets +1/+1 and has lifelink. (Damage dealt by this creature also causes you to gain that much life.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/33_CB03 (Twisted Sister).png" num="33">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB15 sac a dude to kill a dude</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature or pay {4}.
+Destroy target creature.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/45_CB15 sac a dude to kill a dude.png" num="45">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB06 Audaciouser Thief</name>
+			<text>Whenever this creature attacks, you may pay 1 life. If you do, draw a card.
+Sidekick {1}{B} ({1}{B}, Exile this card from your graveyard: Create a token that&apos;s a copy of it, except it&apos;s 1/1. Activate only as a sorcery.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/36_CB06 Audaciouser Thief.png" num="36">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB02 BG Support</name>
+			<text>Flying
+When this creature enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/32_CB02 BG Support.png" num="32">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — NOT a Combo Piece</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB07 empty slot WB support</name>
+			<text>Menace
+Sidekick {B} ({B}, Exile this card from your graveyard: Create a token that&apos;s a copy of it, except it&apos;s 1/1. Activate only as a sorcery.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/37_CB07 empty slot WB support.png" num="37">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB10 small removal</name>
+			<text>Exile target creature with mana value 3 or less.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/40_CB10 small removal.png" num="40">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB11 Invasive Enhancements</name>
+			<text>Put a +1/+1 counter on target creature. It gains deathtouch and indestructible until end of turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/41_CB11 Invasive Enhancements.png" num="41">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB04 Aspiring Mastermind</name>
+			<text>{2}{B}, Sacrifice a creature or token: You gain 1 life and draw a card.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/34_CB04 Aspiring Mastermind.png" num="34">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB05 Coercion+</name>
+			<text>Target opponent reveals their hand. You may choose a nonland card from it. That player discards that card. 
+Create a 2/2 black Mercenary creature token.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/35_CB05 Coercion+.png" num="35">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR12 rummage</name>
+			<text>Discard up to two cards, then draw that many cards.
+Create a Mission token. (It&apos;s a colorless battle an opponent protects with 2 defense and &quot;When this battle is defeated, draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/57_CR12 rummage.png" num="57">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR10 shock</name>
+			<text>shock deals 2 damage to any target.
+Conspire (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/55_CR10 shock.png" num="55">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR06 Barrage Blaster</name>
+			<text>Reach
+Whenever you draw your second card each turn, this creature deals 2 damage to target player, planeswalker, or battle.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/51_CR06 Barrage Blaster.png" num="51">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR11 Power Up</name>
+			<text>Target creature you control gets +1/+0 and gains first strike until end of turn. Scry 1.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/56_CR11 Power Up.png" num="56">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR09 Magmatic Goliath</name>
+			<text>Haste
+Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/54_CR09 Magmatic Goliath.png" num="54">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR07 Hotheaded Vigilante</name>
+			<text>Trample
+Whenever you cast or copy an instant or sorcery spell, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/52_CR07 Hotheaded Vigilante.png" num="52">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR03 Summon Minions</name>
+			<text>Create two 1/1 blue, black, and red Minion creature tokens.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/48_CR03 Summon Minions.png" num="48">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR02 Aspiring Arsonist</name>
+			<text>Supercharge — Target creature gets +2/+0 and gains menace until end of turn. (Whenever this creature attacks, you get {E}. Then you may spend {E}{E}{E} to activate its supercharge ability. A creature with menace can&apos;t be blocked except by two or more creatures.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/47_CR02 Aspiring Arsonist.png" num="47">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR01 Mouthy Merc</name>
+			<text>Agile (This creature deals combat damage first as long as it&apos;s attacking.)
+Supercharge — Create a 2/2 black Mercenary creature token that&apos;s tapped and attacking. (Whenever this creature attacks, you get {E}. Then you may spend {E}{E}{E} to activate its supercharge ability.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/46_CR01 Mouthy Merc.png" num="46">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR15 Trick Shot</name>
+			<text>Trick Shot deals 6 damage to target creature and 2 damage to up to one other target creature token.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/60_CR15 Trick Shot.png" num="60">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR13 not modal shatter</name>
+			<text>not modal shatter deals 1 damage to each creature your opponents control. Each creature dealt damage this way can&apos;t block this turn.
+You get {E}{E}.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/58_CR13 not modal shatter.png" num="58">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Big Bad</name>
+			<text>Instant and sorcery spells you cast have conspire. (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it. Multiple instances of conspire can be paid separately.)</text>
+			<set rarity="mythic" picurl="https://schwa77.github.io/sets/SUP-files/img/76_The Big Bad.png" num="76">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>UBR</manacost>
+				<cmc>3</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG11 Kapow!</name>
+			<text>Put a +1/+1 counter on target creature you control. It fights target creature an opponent controls.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/71_CG11 Kapow!.png" num="71">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG03 bear with set mechanic</name>
+			<text>{3}{G}: This creature gets +2/+2 until end of turn.
+Sidekick {1}{G} ({1}{G}, Exile this card from your graveyard: Create a token that&apos;s a copy of it, except it&apos;s 1/1. Activate only as a sorcery.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/63_CG03 bear with set mechanic.png" num="63">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Boar</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG06 backup super</name>
+			<text>Backup 1 (When this creature enters, put a +1/+1 counter on target creature. If that&apos;s another creature, it gains the following abilities until end of turn.)
+Trample</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/66_CG06 backup super.png" num="66">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG14 mana acceleration</name>
+			<text>Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Create a Mission token. (It&apos;s a colorless battle an opponent protects with 2 defense and &quot;When this battle is defeated, draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/74_CG14 mana acceleration.png" num="74">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG15 Not Origin Story</name>
+			<text>Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+You get {E}{E} (two energy counters).</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/75_CG15 Not Origin Story.png" num="75">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG05 Mister Guy</name>
+			<text>When this creature enters, create a 2/2 green Bear Boar Wolf creature token.
+Sidekick {4}{G}{G} ({4}{G}{G}, Exile this card from your graveyard: Create a token that&apos;s a copy of it, except it&apos;s 1/1. Activate only as a sorcery.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/65_CG05 Mister Guy.png" num="65">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG13 Arachnoid Adaptation</name>
+			<text>Target creature gets +2/+2 and gains reach until end of turn. Untap it.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/73_CG13 Arachnoid Adaptation.png" num="73">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG08 Big Kaiju</name>
+			<text>Trample
+Supercharge — Put a +1/+1 counter on this creature. Untap it. (Whenever this creature attacks, you get {E}. Then you may spend {E}{E}{E} to activate its supercharge ability.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/68_CG08 Big Kaiju.png" num="68">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Livestock</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG10 forestcycler</name>
+			<text>Trample
+Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/70_CG10 forestcycler.png" num="70">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Big Dumper</type>
+				<maintype>Creature</maintype>
+				<manacost>6GG</manacost>
+				<cmc>8</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>9/9</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG04 Cityscape Ranger</name>
+			<text>When this creature enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle. You get {E}{E} (two energy counters).</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/64_CG04 Cityscape Ranger.png" num="64">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG02 Skywatch Militant</name>
+			<text>Defender
+As long as this creature has a counter on it, it can attack as though it didn&apos;t have defender.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/62_CG02 Skywatch Militant.png" num="62">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG01 Llanowar Elves</name>
+			<text>{T}: Add {G}.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/61_CG01 Llanowar Elves.png" num="61">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR04 Living Dynamo</name>
+			<text>When this creature enters, you get {E}{E}.
+{T}: Add {R}. When you spend this mana to cast a creature spell, it gains haste until end of turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/49_CR04 Living Dynamo.png" num="49">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB08 Stoneglare Sniper</name>
+			<text>Deathtouch
+Sidekick {1}{B} ({1}{B}, Exile this card from your graveyard: Create a token that&apos;s a copy of it, except it&apos;s 1/1. Activate only as a sorcery.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/38_CB08 Stoneglare Sniper.png" num="38">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Gorgon Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB12 Experiment of Questionable Legality</name>
+			<text>Surveil 2, then draw two cards. You lose 2 life. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/42_CB12 Experiment of Questionable Legality.png" num="42">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR05 Crackling Lackey</name>
+			<text>Whenever you cast or copy an instant or sorcery spell, this creature deals 1 damage to each opponent.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/50_CR05 Crackling Lackey.png" num="50">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR08 draw two enabler</name>
+			<text>Trample
+Whenever this creature attacks, you may discard a card. If you do, draw a card.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/53_CR08 draw two enabler.png" num="53">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Big Boy</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG07 Muscle Man</name>
+			<text>Supercharge — Target creature you control must be blocked this turn if able. (Whenever this creature attacks, you get {E}. Then you may spend {E}{E}{E} to activate its supercharge ability.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/67_CG07 Muscle Man.png" num="67">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Seattle Mariner</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG09 Big Doofus</name>
+			<text>Backup 2 (When this creature enters, put two +1/+1 counters on target creature. If that&apos;s another creature, it gains the following abilities until end of turn.)
+This creature can&apos;t be blocked by more than one creature.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/69_CG09 Big Doofus.png" num="69">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Big Doofus</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG12 finished bite spell</name>
+			<text>Kicker {2} (You may pay an additional {2} as you cast this spell.)
+Target creature you control deals damage equal to its power to target creature an opponent controls. If this spell was kicked, the creature you control deals twice that much damage instead.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/72_CG12 finished bite spell.png" num="72">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW03 Superhero City Detective</name>
+			<text>When this creature dies, put a +1/+1 counter on target creature you control.
+Sidekick {3}{W} ({3}{W}, Exile this card from your graveyard: Create a token that&apos;s a copy of it, except it&apos;s 1/1. Activate only as a sorcery.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/3_CW03 Superhero City Detective.png" num="3">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW02 Unassuming Reporter</name>
+			<text>Supercharge — Until end of turn, this creature gets +1/+1, gains flying, and becomes a Knight in addition to its other types. (Whenever this creature attacks, you get {E}. Then you may spend {E}{E}{E} to activate its supercharge ability.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/2_CW02 Unassuming Reporter.png" num="2">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW15 not disenchant</name>
+			<text>Target creature you control gets +1/+0 and gains flying until end of turn.
+Create a Mission token. (It&apos;s a colorless battle an opponent protects with 2 defense and &quot;When this battle is defeated, draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/15_CW15 not disenchant.png" num="15">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW14 Act of Heroism</name>
+			<text>Untap target creature. It gets +2/+2 until end of turn and can block an additional creature this turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/14_CW14 Act of Heroism.png" num="14">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW04 Devoted Butler</name>
+			<text>At the beginning of your end step, if you didn&apos;t cast a spell during your main phase this turn, scry 1.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/4_CW04 Devoted Butler.png" num="4">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW13 Not High and Dry</name>
+			<text>Flash
+When this enchantment enters, exile target artifact or creature an opponent controls until this enchantment leaves the battlefield.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/13_CW13 Not High and Dry.png" num="13">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW12 Shoot Man</name>
+			<text>Shoot Man deals 3 damage to target attacking or blocking creature. If you spent {E} this turn, destroy that creature instead.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/12_CW12 Shoot Man.png" num="12">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW11 Big Plainscycler</name>
+			<text>When this creature enters, create a white 3/3 Foo creature token. 
+Plainscycling {2}. ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/11_CW11 Big Plainscycler.png" num="11">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Foo</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW10 Neighborhood Hero</name>
+			<text>Supercharge — Target creature you control gets +2/+0 and gains indestructible until end of turn. (Whenever this creature attacks, you get {E}. Then you may spend {E}{E}{E} to activate its supercharge ability.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/10_CW10 Neighborhood Hero.png" num="10">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW09 Mister Depresso</name>
+			<text>Vigilance
+At the beginning of your end step, if a creature died under your control this turn, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/9_CW09 Mister Depresso.png" num="9">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Sad Superhero</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW08 the flash (flyer)</name>
+			<text>Flash
+Flying</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/8_CW08 the flash (flyer).png" num="8">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW07 guy backup</name>
+			<text>Backup 1 (When this creature enters, put a +1/+1 counter on target creature. If that&apos;s another creature, it gains the following abilities until end of turn.)
+Agile (This creature deals combat damage first as long as it&apos;s attacking.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/7_CW07 guy backup.png" num="7">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Guy Backup</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW06 Blinding Blaster</name>
+			<text>Supercharge — Tap target creature. (Whenever this creature attacks, you get {E}. Then you may spend {E}{E}{E} to activate its supercharge ability.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/6_CW06 Blinding Blaster.png" num="6">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW05 Uninspiring Underseer</name>
+			<text>Flying
+When this creature enters, you gain 2 life and you get {E}{E} (two energy counters).</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/5_CW05 Uninspiring Underseer.png" num="5">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW01 Novice Aerialist</name>
+			<text>Flying
+Sidekick {1}{W} ({1}{W}, Exile this card from your graveyard: Create a token that&apos;s a copy of it, except it&apos;s 1/1. Activate only as a sorcery.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/1_CW01 Novice Aerialist.png" num="1">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU15 Modal</name>
+			<text>Counter target spell unless its controller pays {2}. If they do, you create a Mission token. (It&apos;s a colorless battle an opponent protects with 2 defense and &quot;When this battle is defeated, draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/30_CU15 Modal.png" num="30">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU13 Alter Ego</name>
+			<text>Enchant creature
+Enchanted creature loses all abilities and is a Citizen creature with base power and toughness 1/1. (It loses all other card types and creature types.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/28_CU13 Alter Ego.png" num="28">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU05 Subzero Superhero</name>
+			<text>When this creature enters, tap target creature an opponent controls. Then put X stun counters on that creature, where X is the number of creatures you control with counters on them. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/20_CU05 Subzero Superhero.png" num="20">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU14 Atmokinesis</name>
+			<text>The owner of target nonland permanent puts it on the top or bottom of their library.
+Create a Mission token. (It&apos;s a colorless battle an opponent protects with 2 defense and &quot;When this battle is defeated, draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/29_CU14 Atmokinesis.png" num="29">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU12 Prep Time</name>
+			<text>Draw two cards, then discard a card.
+Create a Mission token. (It&apos;s a colorless battle an opponent protects with 2 defense and &quot;When this battle is defeated, draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/27_CU12 Prep Time.png" num="27">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU11 Consider</name>
+			<text>Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+Draw a card.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/26_CU11 Consider.png" num="26">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU10 No Escape</name>
+			<text>Counter target creature or planeswalker spell. If that spell is countered this way, exile it instead of putting it into its owner&apos;s graveyard.
+Scry 1.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/25_CU10 No Escape.png" num="25">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU01 Alleyway Sentry</name>
+			<text>Whenever a token you control is put into the graveyard from the battlefield, surveil 1. (Look at the top card of your library. You may put it into your graveyard. If defeating an Encounter triggers this ability, surveil before you draw.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/16_CU01 Alleyway Sentry.png" num="16">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU08 Wilbur</name>
+			<text>Flash
+Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/23_CU08 Wilbur.png" num="23">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Whale Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU07 Aerial Vanguard</name>
+			<text>Backup 1 (When this creature enters, put a +1/+1 counter on target creature. If that&apos;s another creature, it gains the following abilities until end of turn.)
+Flying</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/22_CU07 Aerial Vanguard.png" num="22">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU06 Big Idiot</name>
+			<text>Vigilance
+Whenever you draw your second card each turn, put a +1/+1 counter on Big Idiot.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/21_CU06 Big Idiot.png" num="21">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Big Idiot</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU02 Sneaky Pete</name>
+			<text>Whenever this creature attacks, if it isn&apos;t attacking a player, it gets +1/+0 until end of turn and can&apos;t be blocked this turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/17_CU02 Sneaky Pete.png" num="17">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Peter</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU03 Conniving Henchman</name>
+			<text>When this creature enters, draw a card, then discard a card. When you discard a nonland card this way, put a +1/+1 counter on target creature you control.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/18_CU03 Conniving Henchman.png" num="18">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Minion</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU09 Deflection Field</name>
+			<text>Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/24_CU09 Deflection Field.png" num="24">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU04 flying person</name>
+			<text>Flying
+When this creature enters, create a Mission token. (It&apos;s a colorless battle an opponent protects with 2 defense and &quot;When this battle is defeated, draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/19_CU04 flying person.png" num="19">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CA01 Sidekick Bot</name>
+			<text>When this creature enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Sidekick {2} ({2}, Exile this card from your graveyard: Create a token that&apos;s a copy of it, except it&apos;s 1/1. Activate only as a sorcery.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/97_CA01 Sidekick Bot.png" num="97">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Friend</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CA05 Moxenite</name>
+			<text>{1}, {T}: Add one mana of any color.
+{7}, {T}, Sacrifice this artifact: Exile target nonland permanent.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/101_CA05 Moxenite.png" num="101">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CA04 Utility Belt</name>
+			<text>Equipped creature gets +1/+1 and has vigilance and &quot;Whenever this creature attacks, tap target creature defending player controls with power 2 or less.&quot;
+Equip {2}</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/100_CA04 Utility Belt.png" num="100">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CA03 Colossatron</name>
+			<text>Trample
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/99_CA03 Colossatron.png" num="99">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CA06 Vibrant Cityscape</name>
+			<text>{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/102_CA06 Vibrant Cityscape.png" num="102">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CA02 Surveillance Drone</name>
+			<text>Flying
+When this creature enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/SUP-files/img/98_CA02 Surveillance Drone.png" num="98">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Drone</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

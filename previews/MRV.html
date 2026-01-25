@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="icon" type="image/png" href="/sets/MRV-files/icon.png"/>
-	<link rel="stylesheet" href="/resources/header.css">
+	<link rel="icon" type="image/png" href="../sets/MRV-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
 	<title>MRV visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
 	<style>
 		@font-face {
 			font-family: Beleren;
-			src: url('/resources/beleren.ttf');
+			src: url('../resources/beleren.ttf');
 		}
 		body {
 			font-family: Arial, sans-serif;
@@ -45,13 +48,15 @@
 			left: 10%;
 			top: 10%;
 			width: 85%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.sidebar-img {
 			vertical-align: middle;
 			width: 100%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.close-btn {
-			background: url('/img/close.png') no-repeat;
+			background: url('../img/close.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 10%;
@@ -62,7 +67,7 @@
 			right: 4%;
 		}
 		.close-btn:hover {
-			background: url('/img/close-hover.png') no-repeat;
+			background: url('../img/close-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -82,6 +87,7 @@
 			display: block;
 			visibility: hidden;
 			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
 		}
 		.banner {
 			width: 100%;
@@ -102,9 +108,10 @@
 		.container img {
 			width: 100%;
 			height: auto;
+			border-radius: 3.733% / 2.677%;
 		}
 		.flip-btn {
-			background: url('/img/flip.png') no-repeat;
+			background: url('../img/flip.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 15%;
@@ -118,7 +125,7 @@
 			opacity: 0.5;
 		}
 		.flip-btn:hover {
-			background: url('/img/flip-hover.png') no-repeat;
+			background: url('../img/flip-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -174,334 +181,350 @@
 	</style>
 </head>
 <body>
-	<img class="preload-hidden" src="/img/dot.png" />
-	<img class="preload-hidden" src="/sets/MRV-files/logo.png" />
-	<img class="preload-hidden" src="/sets/KRK-files/icon.png" />
-		<img class="preload-hidden" src="/sets/MOX-files/icon.png" />
-		<img class="preload-hidden" src="/sets/GS2-files/icon.png" />
-		<img class="preload-hidden" src="/sets/JPK-files/icon.png" />
-		<img class="preload-hidden" src="/sets/STW-files/icon.png" />
-		<img class="preload-hidden" src="/sets/X24-files/icon.png" />
-		<img class="preload-hidden" src="/sets/X25-files/icon.png" />
-		<img class="preload-hidden" src="/sets/LOU-files/icon.png" />
-		<img class="preload-hidden" src="/sets/MRV-files/icon.png" />
-		<img class="preload-hidden" src="/sets/JMV-files/icon.png" />
-		<img class="preload-hidden" id="bg" src="/sets/MRV-files/bg.png" />
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/MRV-files/logo.png" />
+	<img class="preload-hidden" src="../sets/KRK-files/icon.png" />
+		<img class="preload-hidden" src="../sets/MOX-files/icon.png" />
+		<img class="preload-hidden" src="../sets/GS2-files/icon.png" />
+		<img class="preload-hidden" src="../sets/JPK-files/icon.png" />
+		<img class="preload-hidden" src="../sets/STW-files/icon.png" />
+		<img class="preload-hidden" src="../sets/X24-files/icon.png" />
+		<img class="preload-hidden" src="../sets/X25-files/icon.png" />
+		<img class="preload-hidden" src="../sets/LOU-files/icon.png" />
+		<img class="preload-hidden" src="../sets/MRV-files/icon.png" />
+		<img class="preload-hidden" src="../sets/JMV-files/icon.png" />
+		<img class="preload-hidden" id="bg" src="../sets/MRV-files/bg.png" />
 
 		<div class="header">
 		<div class="search-grid">
-			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
-			<img class="sg-icon" src="/img/search.png">
-			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
-			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
-			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
-			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
 		</div>
 	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
 
 	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
-		<a class="set-bar" href="MRV"><img src="/sets/MRV-files/icon.png">MRV-1610: The Reboot Edition</a>
+		<a class="set-bar" href="../previews/MRV"><img src="../sets/MRV-files/icon.png">MRV-1610: The Reboot Edition</a>
 	
-		<a class="set-bar inactive" href="KRK"><img src="/sets/KRK-files/icon.png">Seas of Krakonos</a>
+		<a class="set-bar inactive" href="../previews/KRK"><img src="../sets/KRK-files/icon.png">Seas of Krakonos</a>
 	
-		<a class="set-bar inactive" href="MOX"><img src="/sets/MOX-files/icon.png">Midnight Omens of Xogoa</a>
+		<a class="set-bar inactive" href="../previews/MOX"><img src="../sets/MOX-files/icon.png">Midnight Omens of Xogoa</a>
 	
-		<a class="set-bar inactive" href="GS2"><img src="/sets/GS2-files/icon.png">Global Series 2</a>
+		<a class="set-bar inactive" href="../previews/GS2"><img src="../sets/GS2-files/icon.png">Global Series 2</a>
 	
-		<a class="set-bar inactive" href="JPK"><img src="/sets/JPK-files/icon.png">Pokémon Trainer Jumpstart</a>
+		<a class="set-bar inactive" href="../previews/JPK"><img src="../sets/JPK-files/icon.png">Pokémon Trainer Jumpstart</a>
 	
-		<a class="set-bar inactive" href="STW"><img src="/sets/STW-files/icon.png">Star Wars Microset</a>
+		<a class="set-bar inactive" href="../previews/STW"><img src="../sets/STW-files/icon.png">Star Wars Microset</a>
 	
-		<a class="set-bar inactive" href="X24"><img src="/sets/X24-files/icon.png">Moxtober 2024</a>
+		<a class="set-bar inactive" href="../previews/X24"><img src="../sets/X24-files/icon.png">Moxtober 2024</a>
 	
-		<a class="set-bar inactive" href="X25"><img src="/sets/X25-files/icon.png">Moxtober 2025</a>
+		<a class="set-bar inactive" href="../previews/X25"><img src="../sets/X25-files/icon.png">Moxtober 2025</a>
 	
-		<a class="set-bar inactive" href="LOU"><img src="/sets/LOU-files/icon.png">Primordial Precons: The Last of Us</a>
+		<a class="set-bar inactive" href="../previews/LOU"><img src="../sets/LOU-files/icon.png">Primordial Precons: The Last of Us</a>
 	
-		<a class="set-bar inactive" href="JMV"><img src="/sets/JMV-files/icon.png">Marvel Jumpstart</a>
+		<a class="set-bar inactive" href="../previews/JMV"><img src="../sets/JMV-files/icon.png">Marvel Jumpstart</a>
 	
 		</div>
 		<div class="banner">
-		<img class="logo" src="/sets/MRV-files/logo.png">
+		<img class="logo" src="../sets/MRV-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\2_All Gods Must Die.png" id="2_All Gods Must Die" data-flag="@X" onclick="openSidebar('2_All Gods Must Die',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\32_Absolute Zero.png" id="32_Absolute Zero" data-flag="@X" onclick="openSidebar('32_Absolute Zero',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\61_Age of Ultron.png" id="61_Age of Ultron" data-flag="@X" onclick="openSidebar('61_Age of Ultron',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\95_Bishop.png" id="95_Bishop" data-flag="@X" onclick="openSidebar('95_Bishop',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\123_Abomination.png" id="123_Abomination" data-flag="@X" onclick="openSidebar('123_Abomination',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\3_Anti-Venom.png" id="3_Anti-Venom" data-flag="@X" onclick="openSidebar('3_Anti-Venom',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\33_Blink.png" id="33_Blink" data-flag="@X" onclick="openSidebar('33_Blink',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\62_Annihilus.png" id="62_Annihilus" data-flag="@X" onclick="openSidebar('62_Annihilus',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\96_Crowd Favorite.png" id="96_Crowd Favorite" data-flag="@X" onclick="openSidebar('96_Crowd Favorite',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\124_Absorbing Man.png" id="124_Absorbing Man" data-flag="@X" onclick="openSidebar('124_Absorbing Man',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\4_Astral Projection.png" id="4_Astral Projection" data-flag="@X" onclick="openSidebar('4_Astral Projection',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\34_Cable.png" id="34_Cable" data-flag="@X" onclick="openSidebar('34_Cable',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\63_Baron Mordo.png" id="63_Baron Mordo" data-flag="@X" onclick="openSidebar('63_Baron Mordo',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\97_A Day Unlike Any Other.png" id="97_A Day Unlike Any Other" data-flag="@X" onclick="openSidebar('97_A Day Unlike Any Other',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\125_Academy Training.png" id="125_Academy Training" data-flag="@X" onclick="openSidebar('125_Academy Training',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\5_Banish to Limbo.png" id="5_Banish to Limbo" data-flag="@X" onclick="openSidebar('5_Banish to Limbo',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\35_Days of Future Past.png" id="35_Days of Future Past" data-flag="@X" onclick="openSidebar('35_Days of Future Past',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\64_Black Cat.png" id="64_Black Cat" data-flag="@X" onclick="openSidebar('64_Black Cat',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\98_Deadpool.png" id="98_Deadpool" data-flag="@X" onclick="openSidebar('98_Deadpool',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\126_Black Panther.png" id="126_Black Panther" data-flag="@X" onclick="openSidebar('126_Black Panther',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\6_Black Bolt.png" id="6_Black Bolt" data-flag="@X" onclick="openSidebar('6_Black Bolt',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\36_Iceman.png" id="36_Iceman" data-flag="@X" onclick="openSidebar('36_Iceman',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\65_Brood Spawning.png" id="65_Brood Spawning" data-flag="@X" onclick="openSidebar('65_Brood Spawning',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\99_Drax the Destroyer.png" id="99_Drax the Destroyer" data-flag="@X" onclick="openSidebar('99_Drax the Destroyer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\127_Clobber.png" id="127_Clobber" data-flag="@X" onclick="openSidebar('127_Clobber',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\7_Blind Justice.png" id="7_Blind Justice" data-flag="@X" onclick="openSidebar('7_Blind Justice',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\37_Imperius Rex.png" id="37_Imperius Rex" data-flag="@X" onclick="openSidebar('37_Imperius Rex',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\66_Burning Fear.png" id="66_Burning Fear" data-flag="@X" onclick="openSidebar('66_Burning Fear',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\100_Electro.png" id="100_Electro" data-flag="@X" onclick="openSidebar('100_Electro',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\128_Colossus.png" id="128_Colossus" data-flag="@X" onclick="openSidebar('128_Colossus',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\8_Captain America.png" id="8_Captain America" data-flag="@X" onclick="openSidebar('8_Captain America',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\38_Jessica Jones.png" id="38_Jessica Jones" data-flag="@X" onclick="openSidebar('38_Jessica Jones',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\67_Carnage.png" id="67_Carnage" data-flag="@X" onclick="openSidebar('67_Carnage',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\101_Energy Conduit.png" id="101_Energy Conduit" data-flag="@X" onclick="openSidebar('101_Energy Conduit',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\129_Crystal.png" id="129_Crystal" data-flag="@X" onclick="openSidebar('129_Crystal',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\9_Cosmo the Spacedog.png" id="9_Cosmo the Spacedog" data-flag="@X" onclick="openSidebar('9_Cosmo the Spacedog',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\39_Kang the Conqueror.png" id="39_Kang the Conqueror" data-flag="@X" onclick="openSidebar('39_Kang the Conqueror',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\68_Crossbones.png" id="68_Crossbones" data-flag="@X" onclick="openSidebar('68_Crossbones',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\102_Fastball Special.png" id="102_Fastball Special" data-flag="@X" onclick="openSidebar('102_Fastball Special',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\130_Diablo.png" id="130_Diablo" data-flag="@X" onclick="openSidebar('130_Diablo',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\10_Daredevil.png" id="10_Daredevil" data-flag="@X" onclick="openSidebar('10_Daredevil',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\40_Lockjaw.png" id="40_Lockjaw" data-flag="@X" onclick="openSidebar('40_Lockjaw',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\69_Death Spores.png" id="69_Death Spores" data-flag="@X" onclick="openSidebar('69_Death Spores',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\103_Fatal Attractions.png" id="103_Fatal Attractions" data-flag="@X" onclick="openSidebar('103_Fatal Attractions',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\131_Flora Colossus.png" id="131_Flora Colossus" data-flag="@X" onclick="openSidebar('131_Flora Colossus',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\11_Edwin Jarvis.png" id="11_Edwin Jarvis" data-flag="@X" onclick="openSidebar('11_Edwin Jarvis',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\41_Loki, God of Mischief.png" id="41_Loki, God of Mischief" data-flag="@X" onclick="openSidebar('41_Loki, God of Mischief',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\70_Doctor Doom.png" id="70_Doctor Doom" data-flag="@X" onclick="openSidebar('70_Doctor Doom',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\104_Fin Fang Foom.png" id="104_Fin Fang Foom" data-flag="@X" onclick="openSidebar('104_Fin Fang Foom',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\132_Gorilla-Man.png" id="132_Gorilla-Man" data-flag="@X" onclick="openSidebar('132_Gorilla-Man',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\12_Falcon.png" id="12_Falcon" data-flag="@X" onclick="openSidebar('12_Falcon',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\42_Mister Fantastic.png" id="42_Mister Fantastic" data-flag="@X" onclick="openSidebar('42_Mister Fantastic',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\71_Dormammu.png" id="71_Dormammu" data-flag="@X" onclick="openSidebar('71_Dormammu',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\105_Fortune Favors the Bold.png" id="105_Fortune Favors the Bold" data-flag="@X" onclick="openSidebar('105_Fortune Favors the Bold',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\133_Hawkeye.png" id="133_Hawkeye" data-flag="@X" onclick="openSidebar('133_Hawkeye',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\13_Havok.png" id="13_Havok" data-flag="@X" onclick="openSidebar('13_Havok',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\43_Mysterio.png" id="43_Mysterio" data-flag="@X" onclick="openSidebar('43_Mysterio',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\72_Elegy.png" id="72_Elegy" data-flag="@X" onclick="openSidebar('72_Elegy',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\106_Gambit.png" id="106_Gambit" data-flag="@X" onclick="openSidebar('106_Gambit',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\134_High Evolutionary.png" id="134_High Evolutionary" data-flag="@X" onclick="openSidebar('134_High Evolutionary',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\14_Heimdall, the All-Seeing.png" id="14_Heimdall, the All-Seeing" data-flag="@X" onclick="openSidebar('14_Heimdall, the All-Seeing',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\44_Mystic Arts.png" id="44_Mystic Arts" data-flag="@X" onclick="openSidebar('44_Mystic Arts',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\73_Elektra.png" id="73_Elektra" data-flag="@X" onclick="openSidebar('73_Elektra',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\107_Hell Cycle.png" id="107_Hell Cycle" data-flag="@X" onclick="openSidebar('107_Hell Cycle',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\135_Into the Cosmos.png" id="135_Into the Cosmos" data-flag="@X" onclick="openSidebar('135_Into the Cosmos',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\15_Invisible Woman.png" id="15_Invisible Woman" data-flag="@X" onclick="openSidebar('15_Invisible Woman',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\45_Mystique.png" id="45_Mystique" data-flag="@X" onclick="openSidebar('45_Mystique',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\74_Ghost Rider.png" id="74_Ghost Rider" data-flag="@X" onclick="openSidebar('74_Ghost Rider',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\108_Human Torch.png" id="108_Human Torch" data-flag="@X" onclick="openSidebar('108_Human Torch',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\136_Ka-Zar.png" id="136_Ka-Zar" data-flag="@X" onclick="openSidebar('136_Ka-Zar',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\16_Journey into Mystery.png" id="16_Journey into Mystery" data-flag="@X" onclick="openSidebar('16_Journey into Mystery',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\46_Nightcrawler.png" id="46_Nightcrawler" data-flag="@X" onclick="openSidebar('46_Nightcrawler',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\75_Hela, Goddess of Death.png" id="75_Hela, Goddess of Death" data-flag="@X" onclick="openSidebar('75_Hela, Goddess of Death',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\109_Iron Fist.png" id="109_Iron Fist" data-flag="@X" onclick="openSidebar('109_Iron Fist',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\137_Kraven the Hunter.png" id="137_Kraven the Hunter" data-flag="@X" onclick="openSidebar('137_Kraven the Hunter',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\17_Khonshu, God of the Moon.png" id="17_Khonshu, God of the Moon" data-flag="@X" onclick="openSidebar('17_Khonshu, God of the Moon',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\47_Precognition.png" id="47_Precognition" data-flag="@X" onclick="openSidebar('47_Precognition',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\76_Hobgoblin.png" id="76_Hobgoblin" data-flag="@X" onclick="openSidebar('76_Hobgoblin',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\110_Jubilee.png" id="110_Jubilee" data-flag="@X" onclick="openSidebar('110_Jubilee',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\138_Kraven's Last Hunt.png" id="138_Kravens Last Hunt" data-flag="@X" onclick="openSidebar('138_Kravens Last Hunt',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\18_Lock Up.png" id="18_Lock Up" data-flag="@X" onclick="openSidebar('18_Lock Up',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\48_Professor X.png" id="48_Professor X" data-flag="@X" onclick="openSidebar('48_Professor X',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\77_The Hood.png" id="77_The Hood" data-flag="@X" onclick="openSidebar('77_The Hood',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\111_Juggernaut.png" id="111_Juggernaut" data-flag="@X" onclick="openSidebar('111_Juggernaut',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\139_Lizard.png" id="139_Lizard" data-flag="@X" onclick="openSidebar('139_Lizard',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\19_Magik.png" id="19_Magik" data-flag="@X" onclick="openSidebar('19_Magik',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\49_Psychic Knife.png" id="49_Psychic Knife" data-flag="@X" onclick="openSidebar('49_Psychic Knife',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\78_Hunt to Extinction.png" id="78_Hunt to Extinction" data-flag="@X" onclick="openSidebar('78_Hunt to Extinction',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\112_Kate Bishop.png" id="112_Kate Bishop" data-flag="@X" onclick="openSidebar('112_Kate Bishop',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\140_Maestro.png" id="140_Maestro" data-flag="@X" onclick="openSidebar('140_Maestro',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\20_Moon Knight.png" id="20_Moon Knight" data-flag="@X" onclick="openSidebar('20_Moon Knight',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\50_Psylocke.png" id="50_Psylocke" data-flag="@X" onclick="openSidebar('50_Psylocke',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\79_Kingpin.png" id="79_Kingpin" data-flag="@X" onclick="openSidebar('79_Kingpin',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\113_Life-Model Decoy.png" id="113_Life-Model Decoy" data-flag="@X" onclick="openSidebar('113_Life-Model Decoy',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\141_Multiple Man.png" id="141_Multiple Man" data-flag="@X" onclick="openSidebar('141_Multiple Man',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\21_Nick Fury.png" id="21_Nick Fury" data-flag="@X" onclick="openSidebar('21_Nick Fury',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\51_Rescue Armor.png" id="51_Rescue Armor" data-flag="@X" onclick="openSidebar('51_Rescue Armor',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\80_Knull, King in Black.png" id="80_Knull, King in Black" data-flag="@X" onclick="openSidebar('80_Knull, King in Black',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\114_Optic Blast.png" id="114_Optic Blast" data-flag="@X" onclick="openSidebar('114_Optic Blast',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\142_Origin Story.png" id="142_Origin Story" data-flag="@X" onclick="openSidebar('142_Origin Story',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\22_Peni Parker.png" id="22_Peni Parker" data-flag="@X" onclick="openSidebar('22_Peni Parker',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\52_Scrutinize.png" id="52_Scrutinize" data-flag="@X" onclick="openSidebar('52_Scrutinize',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\81_Mephisto.png" id="81_Mephisto" data-flag="@X" onclick="openSidebar('81_Mephisto',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\115_Pyro.png" id="115_Pyro" data-flag="@X" onclick="openSidebar('115_Pyro',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\143_Plot Armor.png" id="143_Plot Armor" data-flag="@X" onclick="openSidebar('143_Plot Armor',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\23_Portal Hopping.png" id="23_Portal Hopping" data-flag="@X" onclick="openSidebar('23_Portal Hopping',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\53_Shadowcat.png" id="53_Shadowcat" data-flag="@X" onclick="openSidebar('53_Shadowcat',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\82_Mister Negative.png" id="82_Mister Negative" data-flag="@X" onclick="openSidebar('82_Mister Negative',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\116_Quicksilver.png" id="116_Quicksilver" data-flag="@X" onclick="openSidebar('116_Quicksilver',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\144_Red Ghost.png" id="144_Red Ghost" data-flag="@X" onclick="openSidebar('144_Red Ghost',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\24_Purge the Occult.png" id="24_Purge the Occult" data-flag="@X" onclick="openSidebar('24_Purge the Occult',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\54_Shifting Identity.png" id="54_Shifting Identity" data-flag="@X" onclick="openSidebar('54_Shifting Identity',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\83_Mole Man.png" id="83_Mole Man" data-flag="@X" onclick="openSidebar('83_Mole Man',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\117_Red Guardian.png" id="117_Red Guardian" data-flag="@X" onclick="openSidebar('117_Red Guardian',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\145_Rhino.png" id="145_Rhino" data-flag="@X" onclick="openSidebar('145_Rhino',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\25_Ragnarok.png" id="25_Ragnarok" data-flag="@X" onclick="openSidebar('25_Ragnarok',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\55_Spider-Man 2099.png" id="55_Spider-Man 2099" data-flag="@X" onclick="openSidebar('55_Spider-Man 2099',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\84_Morbius.png" id="84_Morbius" data-flag="@X" onclick="openSidebar('84_Morbius',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\118_Scarlet Witch.png" id="118_Scarlet Witch" data-flag="@X" onclick="openSidebar('118_Scarlet Witch',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\146_Rogue.png" id="146_Rogue" data-flag="@X" onclick="openSidebar('146_Rogue',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\26_Sentry.png" id="26_Sentry" data-flag="@X" onclick="openSidebar('26_Sentry',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\56_Think.png" id="56_Think" data-flag="@X" onclick="openSidebar('56_Think',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\85_No More.png" id="85_No More" data-flag="@X" onclick="openSidebar('85_No More',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\119_Shocker.png" id="119_Shocker" data-flag="@X" onclick="openSidebar('119_Shocker',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\147_Sandman.png" id="147_Sandman" data-flag="@X" onclick="openSidebar('147_Sandman',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\27_Shang-Chi.png" id="27_Shang-Chi" data-flag="@X" onclick="openSidebar('27_Shang-Chi',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\57_Two Steps Ahead.png" id="57_Two Steps Ahead" data-flag="@X" onclick="openSidebar('57_Two Steps Ahead',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\86_Omega Red.png" id="86_Omega Red" data-flag="@X" onclick="openSidebar('86_Omega Red',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\120_Storm.png" id="120_Storm" data-flag="@X" onclick="openSidebar('120_Storm',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\148_Savage Land Expedition.png" id="148_Savage Land Expedition" data-flag="@X" onclick="openSidebar('148_Savage Land Expedition',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\28_Silk.png" id="28_Silk" data-flag="@X" onclick="openSidebar('28_Silk',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\58_Vigorous Research.png" id="58_Vigorous Research" data-flag="@X" onclick="openSidebar('58_Vigorous Research',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\87_Prowler.png" id="87_Prowler" data-flag="@X" onclick="openSidebar('87_Prowler',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\121_Taskmaster.png" id="121_Taskmaster" data-flag="@X" onclick="openSidebar('121_Taskmaster',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\149_Seismic Shifting.png" id="149_Seismic Shifting" data-flag="@X" onclick="openSidebar('149_Seismic Shifting',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\29_Suit Up.png" id="29_Suit Up" data-flag="@X" onclick="openSidebar('29_Suit Up',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\59_Wasp.png" id="59_Wasp" data-flag="@X" onclick="openSidebar('59_Wasp',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\88_Sinister Scheme.png" id="88_Sinister Scheme" data-flag="@X" onclick="openSidebar('88_Sinister Scheme',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\122_Trickshot.png" id="122_Trickshot" data-flag="@X" onclick="openSidebar('122_Trickshot',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\150_Snowbird.png" id="150_Snowbird" data-flag="@X" onclick="openSidebar('150_Snowbird',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\30_Valkyrie.png" id="30_Valkyrie" data-flag="@X" onclick="openSidebar('30_Valkyrie',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\60_Wiccan.png" id="60_Wiccan" data-flag="@X" onclick="openSidebar('60_Wiccan',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\89_Spirit of Vengeance.png" id="89_Spirit of Vengeance" data-flag="@X" onclick="openSidebar('89_Spirit of Vengeance',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\151_Thing.png" id="151_Thing" data-flag="@X" onclick="openSidebar('151_Thing',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\31_Vibranium Shield.png" id="31_Vibranium Shield" data-flag="@X" onclick="openSidebar('31_Vibranium Shield',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\90_Summon the Horsemen.png" id="90_Summon the Horsemen" data-flag="@X" onclick="openSidebar('90_Summon the Horsemen',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\152_Warpath.png" id="152_Warpath" data-flag="@X" onclick="openSidebar('152_Warpath',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\91_Swarm.png" id="91_Swarm" data-flag="@X" onclick="openSidebar('91_Swarm',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\153_Zabu.png" id="153_Zabu" data-flag="@X" onclick="openSidebar('153_Zabu',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\92_Take Aim.png" id="92_Take Aim" data-flag="@X" onclick="openSidebar('92_Take Aim',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\93_Venom.png" id="93_Venom" data-flag="@X" onclick="openSidebar('93_Venom',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\94_Winter Soldier.png" id="94_Winter Soldier" data-flag="@X" onclick="openSidebar('94_Winter Soldier',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="sets\MRV-files\img\2_All Gods Must Die.png" id="MRV_2_All Gods Must Die" data-flag="@X" onclick="openSidebar('MRV_2_All Gods Must Die',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\32_Absolute Zero.png" id="MRV_32_Absolute Zero" data-flag="@X" onclick="openSidebar('MRV_32_Absolute Zero',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\61_Age of Ultron.png" id="MRV_61_Age of Ultron" data-flag="@X" onclick="openSidebar('MRV_61_Age of Ultron',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\95_Bishop.png" id="MRV_95_Bishop" data-flag="@X" onclick="openSidebar('MRV_95_Bishop',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\123_Abomination.png" id="MRV_123_Abomination" data-flag="@X" onclick="openSidebar('MRV_123_Abomination',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\3_Anti-Venom.png" id="MRV_3_Anti-Venom" data-flag="@X" onclick="openSidebar('MRV_3_Anti-Venom',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\33_Blink.png" id="MRV_33_Blink" data-flag="@X" onclick="openSidebar('MRV_33_Blink',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\62_Annihilus.png" id="MRV_62_Annihilus" data-flag="@X" onclick="openSidebar('MRV_62_Annihilus',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\96_Crowd Favorite.png" id="MRV_96_Crowd Favorite" data-flag="@X" onclick="openSidebar('MRV_96_Crowd Favorite',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\124_Absorbing Man.png" id="MRV_124_Absorbing Man" data-flag="@X" onclick="openSidebar('MRV_124_Absorbing Man',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\4_Astral Projection.png" id="MRV_4_Astral Projection" data-flag="@X" onclick="openSidebar('MRV_4_Astral Projection',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\34_Cable.png" id="MRV_34_Cable" data-flag="@X" onclick="openSidebar('MRV_34_Cable',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\63_Baron Mordo.png" id="MRV_63_Baron Mordo" data-flag="@X" onclick="openSidebar('MRV_63_Baron Mordo',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\97_A Day Unlike Any Other.png" id="MRV_97_A Day Unlike Any Other" data-flag="@X" onclick="openSidebar('MRV_97_A Day Unlike Any Other',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\125_Academy Training.png" id="MRV_125_Academy Training" data-flag="@X" onclick="openSidebar('MRV_125_Academy Training',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\5_Banish to Limbo.png" id="MRV_5_Banish to Limbo" data-flag="@X" onclick="openSidebar('MRV_5_Banish to Limbo',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\35_Days of Future Past.png" id="MRV_35_Days of Future Past" data-flag="@X" onclick="openSidebar('MRV_35_Days of Future Past',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\64_Black Cat.png" id="MRV_64_Black Cat" data-flag="@X" onclick="openSidebar('MRV_64_Black Cat',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\98_Deadpool.png" id="MRV_98_Deadpool" data-flag="@X" onclick="openSidebar('MRV_98_Deadpool',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\126_Black Panther.png" id="MRV_126_Black Panther" data-flag="@X" onclick="openSidebar('MRV_126_Black Panther',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\6_Black Bolt.png" id="MRV_6_Black Bolt" data-flag="@X" onclick="openSidebar('MRV_6_Black Bolt',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\36_Iceman.png" id="MRV_36_Iceman" data-flag="@X" onclick="openSidebar('MRV_36_Iceman',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\65_Brood Spawning.png" id="MRV_65_Brood Spawning" data-flag="@X" onclick="openSidebar('MRV_65_Brood Spawning',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\99_Drax the Destroyer.png" id="MRV_99_Drax the Destroyer" data-flag="@X" onclick="openSidebar('MRV_99_Drax the Destroyer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\127_Clobber.png" id="MRV_127_Clobber" data-flag="@X" onclick="openSidebar('MRV_127_Clobber',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\7_Blind Justice.png" id="MRV_7_Blind Justice" data-flag="@X" onclick="openSidebar('MRV_7_Blind Justice',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\37_Imperius Rex.png" id="MRV_37_Imperius Rex" data-flag="@X" onclick="openSidebar('MRV_37_Imperius Rex',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\66_Burning Fear.png" id="MRV_66_Burning Fear" data-flag="@X" onclick="openSidebar('MRV_66_Burning Fear',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\100_Electro.png" id="MRV_100_Electro" data-flag="@X" onclick="openSidebar('MRV_100_Electro',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\128_Colossus.png" id="MRV_128_Colossus" data-flag="@X" onclick="openSidebar('MRV_128_Colossus',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\8_Captain America.png" id="MRV_8_Captain America" data-flag="@X" onclick="openSidebar('MRV_8_Captain America',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\38_Jessica Jones.png" id="MRV_38_Jessica Jones" data-flag="@X" onclick="openSidebar('MRV_38_Jessica Jones',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\67_Carnage.png" id="MRV_67_Carnage" data-flag="@X" onclick="openSidebar('MRV_67_Carnage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\101_Energy Conduit.png" id="MRV_101_Energy Conduit" data-flag="@X" onclick="openSidebar('MRV_101_Energy Conduit',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\129_Crystal.png" id="MRV_129_Crystal" data-flag="@X" onclick="openSidebar('MRV_129_Crystal',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\9_Cosmo the Spacedog.png" id="MRV_9_Cosmo the Spacedog" data-flag="@X" onclick="openSidebar('MRV_9_Cosmo the Spacedog',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\39_Kang the Conqueror.png" id="MRV_39_Kang the Conqueror" data-flag="@X" onclick="openSidebar('MRV_39_Kang the Conqueror',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\68_Crossbones.png" id="MRV_68_Crossbones" data-flag="@X" onclick="openSidebar('MRV_68_Crossbones',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\102_Fastball Special.png" id="MRV_102_Fastball Special" data-flag="@X" onclick="openSidebar('MRV_102_Fastball Special',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\130_Diablo.png" id="MRV_130_Diablo" data-flag="@X" onclick="openSidebar('MRV_130_Diablo',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\10_Daredevil.png" id="MRV_10_Daredevil" data-flag="@X" onclick="openSidebar('MRV_10_Daredevil',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\40_Lockjaw.png" id="MRV_40_Lockjaw" data-flag="@X" onclick="openSidebar('MRV_40_Lockjaw',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\69_Death Spores.png" id="MRV_69_Death Spores" data-flag="@X" onclick="openSidebar('MRV_69_Death Spores',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\103_Fatal Attractions.png" id="MRV_103_Fatal Attractions" data-flag="@X" onclick="openSidebar('MRV_103_Fatal Attractions',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\131_Flora Colossus.png" id="MRV_131_Flora Colossus" data-flag="@X" onclick="openSidebar('MRV_131_Flora Colossus',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\11_Edwin Jarvis.png" id="MRV_11_Edwin Jarvis" data-flag="@X" onclick="openSidebar('MRV_11_Edwin Jarvis',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\41_Loki, God of Mischief.png" id="MRV_41_Loki, God of Mischief" data-flag="@X" onclick="openSidebar('MRV_41_Loki, God of Mischief',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\70_Doctor Doom.png" id="MRV_70_Doctor Doom" data-flag="@X" onclick="openSidebar('MRV_70_Doctor Doom',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\104_Fin Fang Foom.png" id="MRV_104_Fin Fang Foom" data-flag="@X" onclick="openSidebar('MRV_104_Fin Fang Foom',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\132_Gorilla-Man.png" id="MRV_132_Gorilla-Man" data-flag="@X" onclick="openSidebar('MRV_132_Gorilla-Man',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\12_Falcon.png" id="MRV_12_Falcon" data-flag="@X" onclick="openSidebar('MRV_12_Falcon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\42_Mister Fantastic.png" id="MRV_42_Mister Fantastic" data-flag="@X" onclick="openSidebar('MRV_42_Mister Fantastic',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\71_Dormammu.png" id="MRV_71_Dormammu" data-flag="@X" onclick="openSidebar('MRV_71_Dormammu',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\105_Fortune Favors the Bold.png" id="MRV_105_Fortune Favors the Bold" data-flag="@X" onclick="openSidebar('MRV_105_Fortune Favors the Bold',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\133_Hawkeye.png" id="MRV_133_Hawkeye" data-flag="@X" onclick="openSidebar('MRV_133_Hawkeye',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\13_Havok.png" id="MRV_13_Havok" data-flag="@X" onclick="openSidebar('MRV_13_Havok',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\43_Mysterio.png" id="MRV_43_Mysterio" data-flag="@X" onclick="openSidebar('MRV_43_Mysterio',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\72_Elegy.png" id="MRV_72_Elegy" data-flag="@X" onclick="openSidebar('MRV_72_Elegy',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\106_Gambit.png" id="MRV_106_Gambit" data-flag="@X" onclick="openSidebar('MRV_106_Gambit',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\134_High Evolutionary.png" id="MRV_134_High Evolutionary" data-flag="@X" onclick="openSidebar('MRV_134_High Evolutionary',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\14_Heimdall, the All-Seeing.png" id="MRV_14_Heimdall, the All-Seeing" data-flag="@X" onclick="openSidebar('MRV_14_Heimdall, the All-Seeing',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\44_Mystic Arts.png" id="MRV_44_Mystic Arts" data-flag="@X" onclick="openSidebar('MRV_44_Mystic Arts',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\73_Elektra.png" id="MRV_73_Elektra" data-flag="@X" onclick="openSidebar('MRV_73_Elektra',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\107_Hell Cycle.png" id="MRV_107_Hell Cycle" data-flag="@X" onclick="openSidebar('MRV_107_Hell Cycle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\135_Into the Cosmos.png" id="MRV_135_Into the Cosmos" data-flag="@X" onclick="openSidebar('MRV_135_Into the Cosmos',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\15_Invisible Woman.png" id="MRV_15_Invisible Woman" data-flag="@X" onclick="openSidebar('MRV_15_Invisible Woman',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\45_Mystique.png" id="MRV_45_Mystique" data-flag="@X" onclick="openSidebar('MRV_45_Mystique',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\74_Ghost Rider.png" id="MRV_74_Ghost Rider" data-flag="@X" onclick="openSidebar('MRV_74_Ghost Rider',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\108_Human Torch.png" id="MRV_108_Human Torch" data-flag="@X" onclick="openSidebar('MRV_108_Human Torch',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\136_Ka-Zar.png" id="MRV_136_Ka-Zar" data-flag="@X" onclick="openSidebar('MRV_136_Ka-Zar',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\16_Journey into Mystery.png" id="MRV_16_Journey into Mystery" data-flag="@X" onclick="openSidebar('MRV_16_Journey into Mystery',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\46_Nightcrawler.png" id="MRV_46_Nightcrawler" data-flag="@X" onclick="openSidebar('MRV_46_Nightcrawler',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\75_Hela, Goddess of Death.png" id="MRV_75_Hela, Goddess of Death" data-flag="@X" onclick="openSidebar('MRV_75_Hela, Goddess of Death',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\109_Iron Fist.png" id="MRV_109_Iron Fist" data-flag="@X" onclick="openSidebar('MRV_109_Iron Fist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\137_Kraven the Hunter.png" id="MRV_137_Kraven the Hunter" data-flag="@X" onclick="openSidebar('MRV_137_Kraven the Hunter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\17_Khonshu, God of the Moon.png" id="MRV_17_Khonshu, God of the Moon" data-flag="@X" onclick="openSidebar('MRV_17_Khonshu, God of the Moon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\47_Precognition.png" id="MRV_47_Precognition" data-flag="@X" onclick="openSidebar('MRV_47_Precognition',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\76_Hobgoblin.png" id="MRV_76_Hobgoblin" data-flag="@X" onclick="openSidebar('MRV_76_Hobgoblin',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\110_Jubilee.png" id="MRV_110_Jubilee" data-flag="@X" onclick="openSidebar('MRV_110_Jubilee',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\138_Kraven's Last Hunt.png" id="MRV_138_Kravens Last Hunt" data-flag="@X" onclick="openSidebar('MRV_138_Kravens Last Hunt',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\18_Lock Up.png" id="MRV_18_Lock Up" data-flag="@X" onclick="openSidebar('MRV_18_Lock Up',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\48_Professor X.png" id="MRV_48_Professor X" data-flag="@X" onclick="openSidebar('MRV_48_Professor X',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\77_The Hood.png" id="MRV_77_The Hood" data-flag="@X" onclick="openSidebar('MRV_77_The Hood',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\111_Juggernaut.png" id="MRV_111_Juggernaut" data-flag="@X" onclick="openSidebar('MRV_111_Juggernaut',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\139_Lizard.png" id="MRV_139_Lizard" data-flag="@X" onclick="openSidebar('MRV_139_Lizard',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\19_Magik.png" id="MRV_19_Magik" data-flag="@X" onclick="openSidebar('MRV_19_Magik',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\49_Psychic Knife.png" id="MRV_49_Psychic Knife" data-flag="@X" onclick="openSidebar('MRV_49_Psychic Knife',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\78_Hunt to Extinction.png" id="MRV_78_Hunt to Extinction" data-flag="@X" onclick="openSidebar('MRV_78_Hunt to Extinction',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\112_Kate Bishop.png" id="MRV_112_Kate Bishop" data-flag="@X" onclick="openSidebar('MRV_112_Kate Bishop',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\140_Maestro.png" id="MRV_140_Maestro" data-flag="@X" onclick="openSidebar('MRV_140_Maestro',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\20_Moon Knight.png" id="MRV_20_Moon Knight" data-flag="@X" onclick="openSidebar('MRV_20_Moon Knight',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\50_Psylocke.png" id="MRV_50_Psylocke" data-flag="@X" onclick="openSidebar('MRV_50_Psylocke',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\79_Kingpin.png" id="MRV_79_Kingpin" data-flag="@X" onclick="openSidebar('MRV_79_Kingpin',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\113_Life-Model Decoy.png" id="MRV_113_Life-Model Decoy" data-flag="@X" onclick="openSidebar('MRV_113_Life-Model Decoy',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\141_Multiple Man.png" id="MRV_141_Multiple Man" data-flag="@X" onclick="openSidebar('MRV_141_Multiple Man',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\21_Nick Fury.png" id="MRV_21_Nick Fury" data-flag="@X" onclick="openSidebar('MRV_21_Nick Fury',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\51_Rescue Armor.png" id="MRV_51_Rescue Armor" data-flag="@X" onclick="openSidebar('MRV_51_Rescue Armor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\80_Knull, King in Black.png" id="MRV_80_Knull, King in Black" data-flag="@X" onclick="openSidebar('MRV_80_Knull, King in Black',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\114_Optic Blast.png" id="MRV_114_Optic Blast" data-flag="@X" onclick="openSidebar('MRV_114_Optic Blast',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\142_Origin Story.png" id="MRV_142_Origin Story" data-flag="@X" onclick="openSidebar('MRV_142_Origin Story',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\22_Peni Parker.png" id="MRV_22_Peni Parker" data-flag="@X" onclick="openSidebar('MRV_22_Peni Parker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\52_Scrutinize.png" id="MRV_52_Scrutinize" data-flag="@X" onclick="openSidebar('MRV_52_Scrutinize',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\81_Mephisto.png" id="MRV_81_Mephisto" data-flag="@X" onclick="openSidebar('MRV_81_Mephisto',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\115_Pyro.png" id="MRV_115_Pyro" data-flag="@X" onclick="openSidebar('MRV_115_Pyro',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\143_Plot Armor.png" id="MRV_143_Plot Armor" data-flag="@X" onclick="openSidebar('MRV_143_Plot Armor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\23_Portal Hopping.png" id="MRV_23_Portal Hopping" data-flag="@X" onclick="openSidebar('MRV_23_Portal Hopping',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\53_Shadowcat.png" id="MRV_53_Shadowcat" data-flag="@X" onclick="openSidebar('MRV_53_Shadowcat',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\82_Mister Negative.png" id="MRV_82_Mister Negative" data-flag="@X" onclick="openSidebar('MRV_82_Mister Negative',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\116_Quicksilver.png" id="MRV_116_Quicksilver" data-flag="@X" onclick="openSidebar('MRV_116_Quicksilver',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\144_Red Ghost.png" id="MRV_144_Red Ghost" data-flag="@X" onclick="openSidebar('MRV_144_Red Ghost',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\24_Purge the Occult.png" id="MRV_24_Purge the Occult" data-flag="@X" onclick="openSidebar('MRV_24_Purge the Occult',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\54_Shifting Identity.png" id="MRV_54_Shifting Identity" data-flag="@X" onclick="openSidebar('MRV_54_Shifting Identity',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\83_Mole Man.png" id="MRV_83_Mole Man" data-flag="@X" onclick="openSidebar('MRV_83_Mole Man',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\117_Red Guardian.png" id="MRV_117_Red Guardian" data-flag="@X" onclick="openSidebar('MRV_117_Red Guardian',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\145_Rhino.png" id="MRV_145_Rhino" data-flag="@X" onclick="openSidebar('MRV_145_Rhino',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\25_Ragnarok.png" id="MRV_25_Ragnarok" data-flag="@X" onclick="openSidebar('MRV_25_Ragnarok',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\55_Spider-Man 2099.png" id="MRV_55_Spider-Man 2099" data-flag="@X" onclick="openSidebar('MRV_55_Spider-Man 2099',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\84_Morbius.png" id="MRV_84_Morbius" data-flag="@X" onclick="openSidebar('MRV_84_Morbius',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\118_Scarlet Witch.png" id="MRV_118_Scarlet Witch" data-flag="@X" onclick="openSidebar('MRV_118_Scarlet Witch',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\146_Rogue.png" id="MRV_146_Rogue" data-flag="@X" onclick="openSidebar('MRV_146_Rogue',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\26_Sentry.png" id="MRV_26_Sentry" data-flag="@X" onclick="openSidebar('MRV_26_Sentry',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\56_Think.png" id="MRV_56_Think" data-flag="@X" onclick="openSidebar('MRV_56_Think',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\85_No More.png" id="MRV_85_No More" data-flag="@X" onclick="openSidebar('MRV_85_No More',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\119_Shocker.png" id="MRV_119_Shocker" data-flag="@X" onclick="openSidebar('MRV_119_Shocker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\147_Sandman.png" id="MRV_147_Sandman" data-flag="@X" onclick="openSidebar('MRV_147_Sandman',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\27_Shang-Chi.png" id="MRV_27_Shang-Chi" data-flag="@X" onclick="openSidebar('MRV_27_Shang-Chi',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\57_Two Steps Ahead.png" id="MRV_57_Two Steps Ahead" data-flag="@X" onclick="openSidebar('MRV_57_Two Steps Ahead',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\86_Omega Red.png" id="MRV_86_Omega Red" data-flag="@X" onclick="openSidebar('MRV_86_Omega Red',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\120_Storm.png" id="MRV_120_Storm" data-flag="@X" onclick="openSidebar('MRV_120_Storm',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\148_Savage Land Expedition.png" id="MRV_148_Savage Land Expedition" data-flag="@X" onclick="openSidebar('MRV_148_Savage Land Expedition',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\28_Silk.png" id="MRV_28_Silk" data-flag="@X" onclick="openSidebar('MRV_28_Silk',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\58_Vigorous Research.png" id="MRV_58_Vigorous Research" data-flag="@X" onclick="openSidebar('MRV_58_Vigorous Research',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\87_Prowler.png" id="MRV_87_Prowler" data-flag="@X" onclick="openSidebar('MRV_87_Prowler',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\121_Taskmaster.png" id="MRV_121_Taskmaster" data-flag="@X" onclick="openSidebar('MRV_121_Taskmaster',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\149_Seismic Shifting.png" id="MRV_149_Seismic Shifting" data-flag="@X" onclick="openSidebar('MRV_149_Seismic Shifting',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\29_Suit Up.png" id="MRV_29_Suit Up" data-flag="@X" onclick="openSidebar('MRV_29_Suit Up',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\59_Wasp.png" id="MRV_59_Wasp" data-flag="@X" onclick="openSidebar('MRV_59_Wasp',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\88_Sinister Scheme.png" id="MRV_88_Sinister Scheme" data-flag="@X" onclick="openSidebar('MRV_88_Sinister Scheme',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\122_Trickshot.png" id="MRV_122_Trickshot" data-flag="@X" onclick="openSidebar('MRV_122_Trickshot',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\150_Snowbird.png" id="MRV_150_Snowbird" data-flag="@X" onclick="openSidebar('MRV_150_Snowbird',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\30_Valkyrie.png" id="MRV_30_Valkyrie" data-flag="@X" onclick="openSidebar('MRV_30_Valkyrie',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\60_Wiccan.png" id="MRV_60_Wiccan" data-flag="@X" onclick="openSidebar('MRV_60_Wiccan',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\89_Spirit of Vengeance.png" id="MRV_89_Spirit of Vengeance" data-flag="@X" onclick="openSidebar('MRV_89_Spirit of Vengeance',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\151_Thing.png" id="MRV_151_Thing" data-flag="@X" onclick="openSidebar('MRV_151_Thing',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\31_Vibranium Shield.png" id="MRV_31_Vibranium Shield" data-flag="@X" onclick="openSidebar('MRV_31_Vibranium Shield',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\90_Summon the Horsemen.png" id="MRV_90_Summon the Horsemen" data-flag="@X" onclick="openSidebar('MRV_90_Summon the Horsemen',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\152_Warpath.png" id="MRV_152_Warpath" data-flag="@X" onclick="openSidebar('MRV_152_Warpath',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\91_Swarm.png" id="MRV_91_Swarm" data-flag="@X" onclick="openSidebar('MRV_91_Swarm',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\153_Zabu.png" id="MRV_153_Zabu" data-flag="@X" onclick="openSidebar('MRV_153_Zabu',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\92_Take Aim.png" id="MRV_92_Take Aim" data-flag="@X" onclick="openSidebar('MRV_92_Take Aim',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\93_Venom.png" id="MRV_93_Venom" data-flag="@X" onclick="openSidebar('MRV_93_Venom',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\94_Winter Soldier.png" id="MRV_94_Winter Soldier" data-flag="@X" onclick="openSidebar('MRV_94_Winter Soldier',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRV_er" data-flag="@E" onclick="openSidebar('MRV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRV_er" data-flag="@E" onclick="openSidebar('MRV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRV_er" data-flag="@E" onclick="openSidebar('MRV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRV_er" data-flag="@E" onclick="openSidebar('MRV_er',false)"></div>
 				<div id="gold" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\162_Doctor Strange.png" id="162_Doctor Strange" data-flag="@X" onclick="openSidebar('162_Doctor Strange',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\161_Delusions of Grandeur.png" id="161_Delusions of Grandeur" data-flag="@X" onclick="openSidebar('161_Delusions of Grandeur',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\167_Killmonger.png" id="167_Killmonger" data-flag="@X" onclick="openSidebar('167_Killmonger',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\165_Hulk.png" id="165_Hulk" data-flag="@X" onclick="openSidebar('165_Hulk',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\156_Avengers Assemble.png" id="156_Avengers Assemble" data-flag="@X" onclick="openSidebar('156_Avengers Assemble',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\163_Emma Frost.png" id="163_Emma Frost" data-flag="@X" onclick="openSidebar('163_Emma Frost',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\182_Green Goblin.png" id="182_Green Goblin" data-flag="@X" onclick="openSidebar('182_Green Goblin',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\176_Wolverine.png" id="176_Wolverine" data-flag="@X" onclick="openSidebar('176_Wolverine',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\171_Spider-Man.png" id="171_Spider-Man" data-flag="@X" onclick="openSidebar('171_Spider-Man',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\170_Nightmare.png" id="170_Nightmare" data-flag="@X" onclick="openSidebar('170_Nightmare',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\177_World War Hulk.png" id="177_World War Hulk" data-flag="@X" onclick="openSidebar('177_World War Hulk',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\184_White Tiger.png" id="184_White Tiger" data-flag="@X" onclick="openSidebar('184_White Tiger',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\179_Black Widow.png" id="179_Black Widow" data-flag="@X" onclick="openSidebar('179_Black Widow',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\157_Bring to Balance.png" id="157_Bring to Balance" data-flag="@X" onclick="openSidebar('157_Bring to Balance',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\164_Glimpse Infinite Realities.png" id="164_Glimpse Infinite Realities" data-flag="@X" onclick="openSidebar('164_Glimpse Infinite Realities',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\154_Annihilation Wave.png" id="154_Annihilation Wave" data-flag="@X" onclick="openSidebar('154_Annihilation Wave',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\160_Cyclops.png" id="160_Cyclops" data-flag="@X" onclick="openSidebar('160_Cyclops',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\155_Ant-Man.png" id="155_Ant-Man" data-flag="@X" onclick="openSidebar('155_Ant-Man',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\158_Cloak and Dagger.png" id="158_Cloak and Dagger" data-flag="@X" onclick="openSidebar('158_Cloak and Dagger',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\166_Iron Man.png" id="166_Iron Man" data-flag="@X" onclick="openSidebar('166_Iron Man',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\169_Mister Sinister.png" id="169_Mister Sinister" data-flag="@X" onclick="openSidebar('169_Mister Sinister',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\174_Thor, God of Thunder.png" id="174_Thor, God of Thunder" data-flag="@X" onclick="openSidebar('174_Thor, God of Thunder',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\159_The Collector.png" id="159_The Collector" data-flag="@X" onclick="openSidebar('159_The Collector',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\172_Spider-Man Noir.png" id="172_Spider-Man Noir" data-flag="@X" onclick="openSidebar('172_Spider-Man Noir',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\168_Magneto.png" id="168_Magneto" data-flag="@X" onclick="openSidebar('168_Magneto',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\183_Man-Thing.png" id="183_Man-Thing" data-flag="@X" onclick="openSidebar('183_Man-Thing',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\181_Ghost-Spider.png" id="181_Ghost-Spider" data-flag="@X" onclick="openSidebar('181_Ghost-Spider',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\175_Ultimate Spider-Man.png" id="175_Ultimate Spider-Man" data-flag="@X" onclick="openSidebar('175_Ultimate Spider-Man',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\180_Blade.png" id="180_Blade" data-flag="@X" onclick="openSidebar('180_Blade',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\178_Beast.png" id="178_Beast" data-flag="@X" onclick="openSidebar('178_Beast',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\173_Thanos, the Mad Titan.png" id="173_Thanos, the Mad Titan" data-flag="@X" onclick="openSidebar('173_Thanos, the Mad Titan',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\162_Doctor Strange.png" id="MRV_162_Doctor Strange" data-flag="@X" onclick="openSidebar('MRV_162_Doctor Strange',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\161_Delusions of Grandeur.png" id="MRV_161_Delusions of Grandeur" data-flag="@X" onclick="openSidebar('MRV_161_Delusions of Grandeur',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\167_Killmonger.png" id="MRV_167_Killmonger" data-flag="@X" onclick="openSidebar('MRV_167_Killmonger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\165_Hulk.png" id="MRV_165_Hulk" data-flag="@X" onclick="openSidebar('MRV_165_Hulk',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\156_Avengers Assemble.png" id="MRV_156_Avengers Assemble" data-flag="@X" onclick="openSidebar('MRV_156_Avengers Assemble',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\163_Emma Frost.png" id="MRV_163_Emma Frost" data-flag="@X" onclick="openSidebar('MRV_163_Emma Frost',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\182_Green Goblin.png" id="MRV_182_Green Goblin" data-flag="@X" onclick="openSidebar('MRV_182_Green Goblin',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\176_Wolverine.png" id="MRV_176_Wolverine" data-flag="@X" onclick="openSidebar('MRV_176_Wolverine',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\171_Spider-Man.png" id="MRV_171_Spider-Man" data-flag="@X" onclick="openSidebar('MRV_171_Spider-Man',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\170_Nightmare.png" id="MRV_170_Nightmare" data-flag="@X" onclick="openSidebar('MRV_170_Nightmare',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\177_World War Hulk.png" id="MRV_177_World War Hulk" data-flag="@X" onclick="openSidebar('MRV_177_World War Hulk',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\184_White Tiger.png" id="MRV_184_White Tiger" data-flag="@X" onclick="openSidebar('MRV_184_White Tiger',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\179_Black Widow.png" id="MRV_179_Black Widow" data-flag="@X" onclick="openSidebar('MRV_179_Black Widow',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRV_er" data-flag="@E" onclick="openSidebar('MRV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRV_er" data-flag="@E" onclick="openSidebar('MRV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRV_er" data-flag="@E" onclick="openSidebar('MRV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRV_er" data-flag="@E" onclick="openSidebar('MRV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRV_er" data-flag="@E" onclick="openSidebar('MRV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\157_Bring to Balance.png" id="MRV_157_Bring to Balance" data-flag="@X" onclick="openSidebar('MRV_157_Bring to Balance',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\164_Glimpse Infinite Realities.png" id="MRV_164_Glimpse Infinite Realities" data-flag="@X" onclick="openSidebar('MRV_164_Glimpse Infinite Realities',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\154_Annihilation Wave.png" id="MRV_154_Annihilation Wave" data-flag="@X" onclick="openSidebar('MRV_154_Annihilation Wave',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\160_Cyclops.png" id="MRV_160_Cyclops" data-flag="@X" onclick="openSidebar('MRV_160_Cyclops',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\155_Ant-Man.png" id="MRV_155_Ant-Man" data-flag="@X" onclick="openSidebar('MRV_155_Ant-Man',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\158_Cloak and Dagger.png" id="MRV_158_Cloak and Dagger" data-flag="@X" onclick="openSidebar('MRV_158_Cloak and Dagger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\166_Iron Man.png" id="MRV_166_Iron Man" data-flag="@X" onclick="openSidebar('MRV_166_Iron Man',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\169_Mister Sinister.png" id="MRV_169_Mister Sinister" data-flag="@X" onclick="openSidebar('MRV_169_Mister Sinister',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\174_Thor, God of Thunder.png" id="MRV_174_Thor, God of Thunder" data-flag="@X" onclick="openSidebar('MRV_174_Thor, God of Thunder',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\159_The Collector.png" id="MRV_159_The Collector" data-flag="@X" onclick="openSidebar('MRV_159_The Collector',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\172_Spider-Man Noir.png" id="MRV_172_Spider-Man Noir" data-flag="@X" onclick="openSidebar('MRV_172_Spider-Man Noir',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\168_Magneto.png" id="MRV_168_Magneto" data-flag="@X" onclick="openSidebar('MRV_168_Magneto',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\183_Man-Thing.png" id="MRV_183_Man-Thing" data-flag="@X" onclick="openSidebar('MRV_183_Man-Thing',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\181_Ghost-Spider.png" id="MRV_181_Ghost-Spider" data-flag="@X" onclick="openSidebar('MRV_181_Ghost-Spider',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\175_Ultimate Spider-Man.png" id="MRV_175_Ultimate Spider-Man" data-flag="@X" onclick="openSidebar('MRV_175_Ultimate Spider-Man',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\180_Blade.png" id="MRV_180_Blade" data-flag="@X" onclick="openSidebar('MRV_180_Blade',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\178_Beast.png" id="MRV_178_Beast" data-flag="@X" onclick="openSidebar('MRV_178_Beast',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRV_er" data-flag="@E" onclick="openSidebar('MRV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRV_er" data-flag="@E" onclick="openSidebar('MRV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRV_er" data-flag="@E" onclick="openSidebar('MRV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRV_er" data-flag="@E" onclick="openSidebar('MRV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRV_er" data-flag="@E" onclick="openSidebar('MRV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\173_Thanos, the Mad Titan.png" id="MRV_173_Thanos, the Mad Titan" data-flag="@X" onclick="openSidebar('MRV_173_Thanos, the Mad Titan',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRV_er" data-flag="@E" onclick="openSidebar('MRV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRV_er" data-flag="@E" onclick="openSidebar('MRV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRV_er" data-flag="@E" onclick="openSidebar('MRV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRV_er" data-flag="@E" onclick="openSidebar('MRV_er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\1_Silver Surfer.png" id="1_Silver Surfer" data-flag="@X" onclick="openSidebar('1_Silver Surfer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\185_Black Vortex.png" id="185_Black Vortex" data-flag="@X" onclick="openSidebar('185_Black Vortex',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\186_Casket of Ancient Winters.png" id="186_Casket of Ancient Winters" data-flag="@X" onclick="openSidebar('186_Casket of Ancient Winters',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\187_Crimson Gem of Cyttorak.png" id="187_Crimson Gem of Cyttorak" data-flag="@X" onclick="openSidebar('187_Crimson Gem of Cyttorak',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\188_Darkhold.png" id="188_Darkhold" data-flag="@X" onclick="openSidebar('188_Darkhold',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\189_Deathlok.png" id="189_Deathlok" data-flag="@X" onclick="openSidebar('189_Deathlok',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\190_Eye of Agamotto.png" id="190_Eye of Agamotto" data-flag="@X" onclick="openSidebar('190_Eye of Agamotto',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\191_H.E.R.B.I.E..png" id="191_H.E.R.B.I.E." data-flag="@X" onclick="openSidebar('191_H.E.R.B.I.E.',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\192_Infinity Gems.png" id="192_Infinity Gems" data-flag="@X" onclick="openSidebar('192_Infinity Gems',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\193_Iron Man Armor.png" id="193_Iron Man Armor" data-flag="@X" onclick="openSidebar('193_Iron Man Armor',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\194_Jade Tiger Amulet.png" id="194_Jade Tiger Amulet" data-flag="@X" onclick="openSidebar('194_Jade Tiger Amulet',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\195_Machine Man.png" id="195_Machine Man" data-flag="@X" onclick="openSidebar('195_Machine Man',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\196_Silvermane.png" id="196_Silvermane" data-flag="@X" onclick="openSidebar('196_Silvermane',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\197_Staff of One.png" id="197_Staff of One" data-flag="@X" onclick="openSidebar('197_Staff of One',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\198_Ultron.png" id="198_Ultron" data-flag="@X" onclick="openSidebar('198_Ultron',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\199_Vision.png" id="199_Vision" data-flag="@X" onclick="openSidebar('199_Vision',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\200_Warlock.png" id="200_Warlock" data-flag="@X" onclick="openSidebar('200_Warlock',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\1_Silver Surfer.png" id="MRV_1_Silver Surfer" data-flag="@X" onclick="openSidebar('MRV_1_Silver Surfer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\185_Black Vortex.png" id="MRV_185_Black Vortex" data-flag="@X" onclick="openSidebar('MRV_185_Black Vortex',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\186_Casket of Ancient Winters.png" id="MRV_186_Casket of Ancient Winters" data-flag="@X" onclick="openSidebar('MRV_186_Casket of Ancient Winters',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\187_Crimson Gem of Cyttorak.png" id="MRV_187_Crimson Gem of Cyttorak" data-flag="@X" onclick="openSidebar('MRV_187_Crimson Gem of Cyttorak',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\188_Darkhold.png" id="MRV_188_Darkhold" data-flag="@X" onclick="openSidebar('MRV_188_Darkhold',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\189_Deathlok.png" id="MRV_189_Deathlok" data-flag="@X" onclick="openSidebar('MRV_189_Deathlok',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\190_Eye of Agamotto.png" id="MRV_190_Eye of Agamotto" data-flag="@X" onclick="openSidebar('MRV_190_Eye of Agamotto',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\191_H.E.R.B.I.E..png" id="MRV_191_H.E.R.B.I.E." data-flag="@X" onclick="openSidebar('MRV_191_H.E.R.B.I.E.',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\192_Infinity Gems.png" id="MRV_192_Infinity Gems" data-flag="@X" onclick="openSidebar('MRV_192_Infinity Gems',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\193_Iron Man Armor.png" id="MRV_193_Iron Man Armor" data-flag="@X" onclick="openSidebar('MRV_193_Iron Man Armor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\194_Jade Tiger Amulet.png" id="MRV_194_Jade Tiger Amulet" data-flag="@X" onclick="openSidebar('MRV_194_Jade Tiger Amulet',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\195_Machine Man.png" id="MRV_195_Machine Man" data-flag="@X" onclick="openSidebar('MRV_195_Machine Man',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\196_Silvermane.png" id="MRV_196_Silvermane" data-flag="@X" onclick="openSidebar('MRV_196_Silvermane',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\197_Staff of One.png" id="MRV_197_Staff of One" data-flag="@X" onclick="openSidebar('MRV_197_Staff of One',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\198_Ultron.png" id="MRV_198_Ultron" data-flag="@X" onclick="openSidebar('MRV_198_Ultron',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\199_Vision.png" id="MRV_199_Vision" data-flag="@X" onclick="openSidebar('MRV_199_Vision',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\200_Warlock.png" id="MRV_200_Warlock" data-flag="@X" onclick="openSidebar('MRV_200_Warlock',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRV_er" data-flag="@E" onclick="openSidebar('MRV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRV_er" data-flag="@E" onclick="openSidebar('MRV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRV_er" data-flag="@E" onclick="openSidebar('MRV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRV_er" data-flag="@E" onclick="openSidebar('MRV_er',false)"></div>
 				<div id="token" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\1t_Start Your Engines!.png" id="1t_Start Your Engines!" data-flag="@X" onclick="openSidebar('1t_Start Your Engines!',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\4t_SPDR.png" id="4t_SPDR" data-flag="@X" onclick="openSidebar('4t_SPDR',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\2t_Void.png" id="2t_Void" data-flag="@X" onclick="openSidebar('2t_Void',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRV-files\img\3t_Sand.png" id="3t_Sand" data-flag="@X" onclick="openSidebar('3t_Sand',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\1t_Start Your Engines!.png" id="MRV_1t_Start Your Engines!" data-flag="@X" onclick="openSidebar('MRV_1t_Start Your Engines!',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\4t_SPDR.png" id="MRV_4t_SPDR" data-flag="@X" onclick="openSidebar('MRV_4t_SPDR',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\2t_Void.png" id="MRV_2t_Void" data-flag="@X" onclick="openSidebar('MRV_2t_Void',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRV-files\img\3t_Sand.png" id="MRV_3t_Sand" data-flag="@X" onclick="openSidebar('MRV_3t_Sand',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRV_e" data-flag="@E" onclick="openSidebar('MRV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRV_er" data-flag="@E" onclick="openSidebar('MRV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRV_er" data-flag="@E" onclick="openSidebar('MRV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRV_er" data-flag="@E" onclick="openSidebar('MRV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRV_er" data-flag="@E" onclick="openSidebar('MRV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRV_er" data-flag="@E" onclick="openSidebar('MRV_er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
 		<div class="sidebar-container">
-			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_img" class="sidebar-img">
 			<img id="sidebar_h_img" class="sidebar-h-img">
 			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
 		</div>
@@ -514,19 +537,111 @@
 		let specialchars = "";
 
 	document.addEventListener('DOMContentLoaded', async function() {
-		await fetch('/lists/all-cards.json')
+		await fetch(rootPath + '/lists/all-cards.json')
 					.then(response => response.json())
 					.then(json => {
 						card_list = json;
 				}).catch(error => console.error('Error:', error));
 
-				await fetch('/resources/replacechars.txt')
+				await fetch(rootPath + '/resources/replacechars.txt')
 					.then(response => response.text())
 					.then(text => {
 						specialchars = text; 
 				}).catch(error => console.error('Error:', error));
 
 				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
 
 		preloadImgs = document.getElementsByClassName('preload-hidden');
 
@@ -561,13 +676,16 @@
 			const flag = img.getAttribute('data-flag');
 
 			if (flag === '@N') {
-				img.src = '/img/card_back.png';
+				img.src = rootPath + '/img/card_back.png';
 				img.removeAttribute("onclick");
 				img.style.cursor = 'default';
 			}
 			else
 			{
-				img.src = img.alt;
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
 
 				if (flag === '@E') {
 					img.removeAttribute("onclick");
@@ -721,16 +839,16 @@
 	});
 
 	function search() {
-		const url = new URL('search', window.location.origin);
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 		url.searchParams.append('search', document.getElementById("search").value);
-		window.location.href = url;
+		window.location.href = url.pathname + url.search;
 	}
 
 		function randomCard() {
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
 				let random_card = card_list_arrayified[i];
 
-				const url = new URL('card', window.location.origin);
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 				const params = {
 					set: random_card.set,
 					num: random_card.number,
@@ -740,7 +858,7 @@
 					url.searchParams.append(key, params[key]);
 				}
 
-				window.location.href = url;
+				window.location.href = url.pathname + url.search;
 			}
 	</script>
 </body>

@@ -1,0 +1,302 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>JPK</name>
+			<longname>Pokémon Trainer Jumpstart</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-01-25</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Tremorstep Tyrant</name>
+			<text>Trample, haste
+When this creature enters, it gets +X/+X until end of turn, where X is the number of creature cards in your graveyard.</text>
+			<set rarity="rare" picurl="https://schwa77.github.io/sets/JPK-files/img/13_Tremorstep Tyrant.png" num="13">JPK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>4GGG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thriving Grove</name>
+			<text>This land enters tapped. As it enters, choose a color other than green.
+{T}: Add {G} or one mana of the chosen color.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JPK-files/img/14_Thriving Grove.png" num="14">JPK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Lumbering Mammoth</name>
+			<text>This spell costs {1} less to cast for each creature card in your graveyard.
+Trample</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/JPK-files/img/6_Lumbering Mammoth.png" num="6">JPK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elephant</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Seafloor Scrounger</name>
+			<text>{G}, Sacrifice this creature: Mill four cards. You may return a creature card from among them to your hand.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JPK-files/img/9_Seafloor Scrounger.png" num="9">JPK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Trilobite</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JPK-files/img/15_Forest.png" num="15">JPK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Bellowing Bulwark</name>
+			<text>Vigilance, reach
+When this creature enters, you gain life equal to the number of creature cards in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/JPK-files/img/2_Bellowing Bulwark.png" num="2">JPK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hatch</name>
+			<text>Mill three cards, then you may return a creature card and/or a land card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JPK-files/img/5_Hatch.png" num="5">JPK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fossil Deposit</name>
+			<text>When this enchantment enters, mill two cards.
+Whenever a creature card is put into your graveyard from anywhere, create a 1/1 green Nautilus creature token. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/JPK-files/img/4_Fossil Deposit.png" num="4">JPK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rowdy Runt</name>
+			<text>When this creature enters, create a 3/3 green Dinosaur creature token with trample.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JPK-files/img/8_Rowdy Runt.png" num="8">JPK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Filter Feeder</name>
+			<text>When this creature enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{T}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JPK-files/img/3_Filter Feeder.png" num="3">JPK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Starfish</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Titanic Tallneck</name>
+			<text>Reach
+As long as there are three or more creature cards in your graveyard, this creature gets +3/+0 and has vigilance.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JPK-files/img/12_Titanic Tallneck.png" num="12">JPK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shieldback Snapper</name>
+			<text>This creature enters with a flying counter on it if a creature card in your graveyard has flying. The same is true for first strike, double strike, deathtouch, hexproof, indestructible, lifelink, menace, reach, trample, vigilance, and haste.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/JPK-files/img/10_Shieldback Snapper.png" num="10">JPK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Turtle</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Swoop Down</name>
+			<text>Target creature you control fights up to one target creature you don&apos;t control. (Each deals damage equal to its power to the other.)
+Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JPK-files/img/11_Swoop Down.png" num="11">JPK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Super Nerd</name>
+			<text></text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JPK-files/img/1_Super Nerd.png" num="1">JPK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nautilus JPK</name>
+			<text></text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JPK-files/img/2t_Nautilus.png" num="2">JPK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Nautilus</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Rapid Adaptation</name>
+			<text>Target creature gains deathtouch and reach until end of turn.
+Draw a card.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JPK-files/img/7_Rapid Adaptation.png" num="7">JPK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dinosaur JPK</name>
+			<text>Trample</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/JPK-files/img/1t_Dinosaur.png" num="1">JPK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

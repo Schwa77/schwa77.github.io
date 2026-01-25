@@ -867,7 +867,7 @@
 			"type": "",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MMW-files/img/1_Magic's Most Wanted Archetypes.png"
+				"en": "https://schwa77.github.io/sets/MMW-files/img/1t_Magic's Most Wanted Archetypes.png"
 			}
 		},
 		{
@@ -1007,7 +1007,7 @@
 			"type": "Token Creature — Faerie Rogue",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MMW-files/img/12_Faerie Rogue.png"
+				"en": "https://schwa77.github.io/sets/MMW-files/img/12t_Faerie Rogue.png"
 			}
 		},
 		{
@@ -1017,7 +1017,7 @@
 			"type": "Token Artifact Creature — Phyrexian Golem",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MMW-files/img/13_Phyrexian Golem.png"
+				"en": "https://schwa77.github.io/sets/MMW-files/img/13t_Phyrexian Golem.png"
 			}
 		},
 		{
@@ -1027,7 +1027,7 @@
 			"type": "Token Creature — Centaur",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MMW-files/img/11_Centaur.png"
+				"en": "https://schwa77.github.io/sets/MMW-files/img/11t_Centaur.png"
 			}
 		},
 		{
@@ -1037,7 +1037,7 @@
 			"type": "Token Creature — Zombie",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MMW-files/img/7_Zombie.png"
+				"en": "https://schwa77.github.io/sets/MMW-files/img/7t_Zombie.png"
 			}
 		},
 		{
@@ -1047,7 +1047,7 @@
 			"type": "Token Creature — Satyr",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MMW-files/img/10_Satyr.png"
+				"en": "https://schwa77.github.io/sets/MMW-files/img/10t_Satyr.png"
 			}
 		},
 		{
@@ -1077,7 +1077,7 @@
 			"type": "Token Creature — Zombie",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MMW-files/img/8_Zombie.png"
+				"en": "https://schwa77.github.io/sets/MMW-files/img/8t_Zombie.png"
 			}
 		},
 		{
@@ -1267,7 +1267,7 @@
 			"type": "Legendary Token Creature — Dog",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MMW-files/img/3_Isamaru.png"
+				"en": "https://schwa77.github.io/sets/MMW-files/img/3t_Isamaru.png"
 			}
 		},
 		{
@@ -1277,7 +1277,7 @@
 			"type": "Token Creature — Spirit",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MMW-files/img/4_Spirit.png"
+				"en": "https://schwa77.github.io/sets/MMW-files/img/4t_Spirit.png"
 			}
 		},
 		{
@@ -1287,7 +1287,7 @@
 			"type": "Token Creature — Drake",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MMW-files/img/5_Drake.png"
+				"en": "https://schwa77.github.io/sets/MMW-files/img/5t_Drake.png"
 			}
 		},
 		{
@@ -1297,7 +1297,7 @@
 			"type": "Token Creature — Human Cleric",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MMW-files/img/6_Human Cleric.png"
+				"en": "https://schwa77.github.io/sets/MMW-files/img/6t_Human Cleric.png"
 			}
 		},
 		{
@@ -1307,7 +1307,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MMW-files/img/15_Treasure.png"
+				"en": "https://schwa77.github.io/sets/MMW-files/img/15t_Treasure.png"
 			}
 		},
 		{
@@ -1317,7 +1317,7 @@
 			"type": "Token Creature — Elemental",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MMW-files/img/9_Elemental.png"
+				"en": "https://schwa77.github.io/sets/MMW-files/img/9t_Elemental.png"
 			}
 		},
 		{
@@ -1327,7 +1327,7 @@
 			"type": "Token Creature — Human Soldier",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MMW-files/img/2_Human Soldier.png"
+				"en": "https://schwa77.github.io/sets/MMW-files/img/2t_Human Soldier.png"
 			}
 		},
 		{
@@ -1337,7 +1337,7 @@
 			"type": "Token Artifact Creature — Thopter",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MMW-files/img/14_Thopter.png"
+				"en": "https://schwa77.github.io/sets/MMW-files/img/14t_Thopter.png"
 			}
 		},
 		{
