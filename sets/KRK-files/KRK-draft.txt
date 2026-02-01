@@ -11,13 +11,13 @@
 			}
 		},
 		{
-			"name": "Ria, Master Smith",
+			"name": "The Living Forge",
 			"rarity": "rare",
-			"mana_cost": "{2}{W}{W}",
-			"type": "Legendary Creature — Human Artificer",
-			"collector_number": "31",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Artifact Creature — Artificer",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/31_Ria, Master Smith.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/20_The Living Forge.png"
 			}
 		},
 		{
@@ -45,9 +45,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "22",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/22_Marquisian Flagship.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/23_Marquisian Flagship.png"
 			}
 		},
 		{
@@ -85,9 +85,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "21",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/21_Marquisian Commander.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/22_Marquisian Commander.png"
 			}
 		},
 		{
@@ -125,9 +125,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Sorcery",
-			"collector_number": "29",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/29_Refurbish.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/30_Refurbish.png"
 			}
 		},
 		{
@@ -145,9 +145,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "24",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/24_Marquisian Skyship.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/25_Marquisian Skyship.png"
 			}
 		},
 		{
@@ -155,9 +155,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "20",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/20_Maroon.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/21_Maroon.png"
 			}
 		},
 		{
@@ -891,13 +891,13 @@
 			}
 		},
 		{
-			"name": "M-80, Clockwork Captain",
+			"name": "M-80, Clockwork Crewmate",
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact Creature — Pirate",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/249_M-80, Clockwork Captain.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/249_M-80, Clockwork Crewmate.png"
 			}
 		},
 		{
@@ -1143,7 +1143,7 @@
 		{
 			"name": "Rising Tide",
 			"rarity": "mythic",
-			"mana_cost": "{4}{G}",
+			"mana_cost": "{3}{G}",
 			"type": "Enchantment",
 			"collector_number": "200",
 			"image_uris": {
@@ -1165,9 +1165,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{X}{W}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "30",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/30_Restore Order.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/31_Restore Order.png"
 			}
 		},
 		{
@@ -1245,9 +1245,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Scout",
-			"collector_number": "25",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/25_Novice Navigator.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/26_Novice Navigator.png"
 			}
 		},
 		{
@@ -1431,13 +1431,13 @@
 			}
 		},
 		{
-			"name": "Trade Route Navigator",
+			"name": "Trade Route Navigators",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Merchant",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/38_Trade Route Navigator.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/38_Trade Route Navigators.png"
 			}
 		},
 		{
@@ -1475,9 +1475,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "27",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/27_Quickdraw.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/28_Quickdraw.png"
 			}
 		},
 		{
@@ -1505,9 +1505,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "26",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/26_Parry.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/27_Parry.png"
 			}
 		},
 		{
@@ -1525,9 +1525,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Sorcery",
-			"collector_number": "28",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/28_Rally the Isles.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/29_Rally the Isles.png"
 			}
 		},
 		{
@@ -1535,9 +1535,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "23",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/23_Marquisian Rescuers.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/24_Marquisian Rescuers.png"
 			}
 		},
 		{
@@ -1761,13 +1761,13 @@
 			}
 		},
 		{
-			"name": "Seabound Wraith",
+			"name": "Seabound Spirit",
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Spirit Pirate",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/118_Seabound Wraith.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/118_Seabound Spirit.png"
 			}
 		},
 		{
@@ -2061,13 +2061,13 @@
 			}
 		},
 		{
-			"name": "Marquisian Quartermaster",
+			"name": "Marquisian Seafarer",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Elf Soldier",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/196_Marquisian Quartermaster.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/196_Marquisian Seafarer.png"
 			}
 		},
 		{
@@ -2395,9 +2395,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Serpent",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/17t_Serpent.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/18t_Serpent.png"
 			}
 		},
 		{
@@ -2405,9 +2405,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Reminder",
-			"collector_number": "19",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/19t_On An Adventure.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/20t_On An Adventure.png"
 			}
 		},
 		{
@@ -2415,9 +2415,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Construct",
-			"collector_number": "20",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/20t_Construct.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/21t_Construct.png"
 			}
 		},
 		{
@@ -2425,9 +2425,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Artifact",
-			"collector_number": "21",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/21t_Daring Adventures.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/22t_Daring Adventures.png"
 			}
 		},
 		{
@@ -2435,9 +2435,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "22",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/22t_Treasure.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/23t_Treasure.png"
 			}
 		},
 		{
@@ -2445,9 +2445,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Equipment",
-			"collector_number": "24",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/24t_Weapon.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/25t_Weapon.png"
 			}
 		},
 		{
@@ -2455,9 +2455,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Vehicle",
-			"collector_number": "23",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/23t_Vehicle.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/24t_Vehicle.png"
 			}
 		},
 		{
@@ -2585,9 +2585,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Land",
-			"collector_number": "25",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/25t_Everywhere.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/26t_Everywhere.png"
 			}
 		},
 		{
@@ -2625,9 +2625,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Shark",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/18t_Shark.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/19t_Shark.png"
 			}
 		},
 		{
@@ -2781,13 +2781,13 @@
 			}
 		},
 		{
-			"name": "Pirate Token A (M20)",
+			"name": "Pirate Token (A)",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Pirate",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/11t_Pirate Token A (M20).png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/11t_Pirate Token (A).png"
 			}
 		},
 		{
@@ -2795,9 +2795,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Zombie",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/14t_Zombie.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/15t_Zombie.png"
 			}
 		},
 		{
@@ -2805,9 +2805,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Dragon",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/15t_Dragon.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/16t_Dragon.png"
 			}
 		},
 		{
@@ -2815,29 +2815,29 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/16t_Elemental.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/17t_Elemental.png"
 			}
 		},
 		{
-			"name": "Pirate Token B (M20)",
+			"name": "Pirate Token (B)",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Pirate",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/12t_Pirate Token B (M20).png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/12t_Pirate Token (B).png"
 			}
 		},
 		{
-			"name": "Pirate Token B (M20)",
+			"name": "Pirate Token (C)",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Pirate",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/13t_Pirate Token B (M20).png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/13t_Pirate Token (C).png"
 			}
 		},
 		{
@@ -2975,9 +2975,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Emblem",
-			"collector_number": "27",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/27t_Lilith, Seafaring Scribe Emblem.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/28t_Lilith, Seafaring Scribe Emblem.png"
 			}
 		},
 		{
@@ -2985,16 +2985,26 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Emblem",
-			"collector_number": "26",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/26t_Kiora, Voice of the Deep Emblem.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/27t_Kiora, Voice of the Deep Emblem.png"
+			}
+		},
+		{
+			"name": "Pirate Token (D)",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Pirate",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/KRK-files/img/14t_Pirate Token (D).png"
 			}
 		}
 	]
 
 [rare(1)]
 	5 Emperor Almicar
-	5 Ria, Master Smith
+	5 The Living Forge
 	5 Druno, Marquisian Collector
 	5 Tell No Tales
 	5 Marquisian Flagship
@@ -3030,7 +3040,7 @@
 	5 Ruin Delvers
 	5 The Glorybound
 	5 Beachside Barter
-	5 M-80, Clockwork Captain
+	5 M-80, Clockwork Crewmate
 	5 Maelstrom Flagship
 	5 Veteran Cartographer
 	5 Journey's Preparation
@@ -3166,7 +3176,7 @@
 	5 Treasure Hunter
 	5 Edgeseeker Helmsman
 	5 Ironworks Seahawk
-	5 Trade Route Navigator
+	5 Trade Route Navigators
 	5 Governor's Representative
 	5 Deft Commodore
 	5 Imperial Bombardiers
@@ -3199,7 +3209,7 @@
 	5 Tandem Hirelings
 	5 Shipwreck Revenant
 	5 Azla's Rotcrew
-	5 Seabound Wraith
+	5 Seabound Spirit
 	5 Glorybound Scallywags
 	5 Poach
 	5 Last Gasp
@@ -3229,7 +3239,7 @@
 	5 Flourishing Reef
 	5 Trenchcaller Champion
 	5 Trenchcaller Vassal
-	5 Marquisian Quartermaster
+	5 Marquisian Seafarer
 	5 Octoplant
 	5 Dreadtide Deckhands
 	5 Aelython Vanguard

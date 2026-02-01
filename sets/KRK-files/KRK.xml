@@ -5,7 +5,7 @@
 			<name>KRK</name>
 			<longname>Seas of Krakonos</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-01-25</releasedate>
+			<releasedate>2026-02-01</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -28,20 +28,21 @@ When Emperor Almicar enters, if you cast it, look at the top five cards of your 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Ria, Master Smith</name>
-			<text>First strike
-Whenever Ria attacks, create a token that&apos;s a copy of target artifact you control. If you create an Equipment token this way, you may attach it to a creature you control. If you create a Vehicle token this way, you may have it become an artifact creature until end of turn that&apos;s tapped and attacking.</text>
-			<set rarity="rare" picurl="https://schwa77.github.io/sets/KRK-files/img/31_Ria, Master Smith.png" num="31">KRK</set>
+			<name>The Living Forge</name>
+			<text>Whenever The Living Forge attacks, choose one —
+• Create a token that&apos;s a copy of target Equipment you control. When you do, attach it to up to one target creature you control.
+• Create a token that&apos;s a copy of target Vehicle you control. It enters as an artifact creature that&apos;s tapped and attacking.</text>
+			<set rarity="rare" picurl="https://schwa77.github.io/sets/KRK-files/img/20_The Living Forge.png" num="20">KRK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Human Artificer</type>
+				<type>Legendary Artifact Creature — Artificer</type>
 				<maintype>Creature</maintype>
-				<manacost>2WW</manacost>
-				<cmc>4</cmc>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>3/4</pt>
+				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -81,9 +82,9 @@ If an opponent would draw a card except the first one they draw in each of their
 		</card>
 		<card>
 			<name>Marquisian Flagship</name>
-			<text>Whenever this Vehicle attacks, return target nonland permanent card with mana value 3 or less from your graveyard to the battlefield tapped.
-Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="rare" picurl="https://schwa77.github.io/sets/KRK-files/img/22_Marquisian Flagship.png" num="22">KRK</set>
+			<text>Whenever Marquisian Flagship attacks, return target nonland permanent card with mana value 3 or less from your graveyard to the battlefield tapped.
+Crew 3</text>
+			<set rarity="rare" picurl="https://schwa77.github.io/sets/KRK-files/img/23_Marquisian Flagship.png" num="23">KRK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -99,7 +100,7 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
 		</card>
 		<card>
 			<name>Spectral Sabers</name>
-			<text>When this Equipment enters, create a 1/1 white Spirit creature token with flying and attach this Equipment to it.
+			<text>When Spectral Sabers enters, create a 1/1 white Spirit creature token with flying and attach this Equipment to it.
 Equipped creature gets +1/+1 for each artifact you control.
 Equip {3}</text>
 			<set rarity="rare" picurl="https://schwa77.github.io/sets/KRK-files/img/33_Spectral Sabers.png" num="33">KRK</set>
@@ -136,7 +137,7 @@ Return target nonland permanent card with mana value 3 or less from your graveya
 		</card>
 		<card>
 			<name>Crimza Taal Envoy</name>
-			<text>When this creature enters, you may search your library for an artifact card or a card with an Adventure, reveal it, then shuffle and put that card on top.</text>
+			<text>When Crimza Taal Envoy enters, you may search your library for an artifact card or a card with an Adventure, reveal it, then shuffle and put that card on top.</text>
 			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/3_Crimza Taal Envoy.png" num="3">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -153,12 +154,12 @@ Return target nonland permanent card with mana value 3 or less from your graveya
 		</card>
 		<card>
 			<name>Marquisian Commander // Supply Run</name>
-			<text>When this creature enters, you may attach target Equipment you control to it.
+			<text>When Marquisian Commander enters, you may attach target Equipment you control to it.
 
 ---
 
 Create a Weapon token. (It&apos;s an Equipment artifact with &quot;Equipped creature gets +1/+1&quot; and equip {2}. Then exile this card. You may cast the creature later from exile.)</text>
-			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/21_Marquisian Commander.png" num="21">KRK</set>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/22_Marquisian Commander.png" num="22">KRK</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -228,7 +229,7 @@ Equip {2}</text>
 		<card>
 			<name>Refurbish</name>
 			<text>Return target artifact card from your graveyard to the battlefield.</text>
-			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/29_Refurbish.png" num="29">KRK</set>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/30_Refurbish.png" num="30">KRK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -261,9 +262,9 @@ Enchanted permanent loses all types and abilities and is an artifact with &quot;
 		<card>
 			<name>Marquisian Skyship</name>
 			<text>Flying
-Whenever this Vehicle or another artifact you control enters, create a 1/1 white Soldier creature token. This ability triggers only once each turn.
+Whenever Marquisian Skyship or another artifact you control enters, create a 1/1 white Soldier creature token. This ability triggers only once each turn.
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/24_Marquisian Skyship.png" num="24">KRK</set>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/25_Marquisian Skyship.png" num="25">KRK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -280,7 +281,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 		<card>
 			<name>Maroon</name>
 			<text>Exile target tapped creature. Phase out all Vehicles that creature crewed this turn. (Treat them and anything attached to them as though they don&apos;t exist until their controller&apos;s next turn.)</text>
-			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/20_Maroon.png" num="20">KRK</set>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/21_Maroon.png" num="21">KRK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -331,7 +332,7 @@ Whenever you cast a spell, remove a slumber counter from Davijan. If that spell 
 		</card>
 		<card>
 			<name>Saddled Scuttleback</name>
-			<text>When this creature enters, you may search your library for a Crab, Fish, Jellyfish, Kraken, Leviathan, Merfolk, Nautilus, Octopus, Otter, Oyster, Pirate, Seal, Serpent, Shark, Shrimp, Sponge, Squid, Starfish, Trilobite, Turtle, Whale, or Island card, reveal it, put it into your hand, then shuffle.</text>
+			<text>When Saddled Scuttleback enters, you may search your library for a Crab, Fish, Jellyfish, Kraken, Leviathan, Merfolk, Nautilus, Octopus, Otter, Oyster, Pirate, Seal, Serpent, Shark, Shrimp, Sponge, Squid, Starfish, Trilobite, Turtle, Whale, or Island card, reveal it, put it into your hand, then shuffle.</text>
 			<set rarity="rare" picurl="https://schwa77.github.io/sets/KRK-files/img/68_Saddled Scuttleback.png" num="68">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -348,7 +349,7 @@ Whenever you cast a spell, remove a slumber counter from Davijan. If that spell 
 		</card>
 		<card>
 			<name>Shifting Sailor // Dastardly Heist</name>
-			<text>You may have this creature enter as a copy of a creature or artifact you control.
+			<text>You may have Shifting Sailor enter as a copy of a creature or artifact you control.
 
 ---
 
@@ -382,7 +383,7 @@ Whenever one or more Pirates you control deals combat damage to a player who con
 				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>2/1</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -404,9 +405,9 @@ Whenever one or more Pirates you control deals combat damage to a player who con
 		</card>
 		<card>
 			<name>Thalassophobia</name>
-			<text>When this enchantment enters, draw a card.
+			<text>When Thalassophobia enters, draw a card.
 Whenever you draw a card, create a tapped 1/1 blue Tentacle creature token.
-Sacrifice this enchantment and eight Tentacles: Search your library for a Kraken, Leviathan, Octopus, or Serpent creature card and put it onto the battlefield, then shuffle.</text>
+Sacrifice Thalassophobia and eight Tentacles: Search your library for a Kraken, Leviathan, Octopus, or Serpent creature card and put it onto the battlefield, then shuffle.</text>
 			<set rarity="rare" picurl="https://schwa77.github.io/sets/KRK-files/img/74_Thalassophobia.png" num="74">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -423,7 +424,7 @@ Sacrifice this enchantment and eight Tentacles: Search your library for a Kraken
 		<card>
 			<name>Brineborn Cutthroat</name>
 			<text>Flash
-Whenever you cast a spell during an opponent&apos;s turn, put a +1/+1 counter on this creature.</text>
+Whenever you cast a spell during an opponent&apos;s turn, put a +1/+1 counter on Brineborn Cutthroat.</text>
 			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/46_Brineborn Cutthroat.png" num="46">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -441,7 +442,7 @@ Whenever you cast a spell during an opponent&apos;s turn, put a +1/+1 counter on
 		<card>
 			<name>Ghostcrew Captain // Ghost Story</name>
 			<text>Flash
-When this creature enters, tap it and up to one target creature or artifact you don&apos;t control.
+When Ghostcrew Captain enters, tap it and up to one target creature or artifact you don&apos;t control.
 
 ---
 
@@ -463,7 +464,7 @@ Tap up to two target creatures. (Then exile this card. You may cast the creature
 		<card>
 			<name>Hullhide Colossus</name>
 			<text>Vigilance
-Whenever another artifact you control enters, put a +1/+1 counter on this creature.</text>
+Whenever another artifact you control enters, put a +1/+1 counter on Hullhide Colossus.</text>
 			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/56_Hullhide Colossus.png" num="56">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -480,8 +481,8 @@ Whenever another artifact you control enters, put a +1/+1 counter on this creatu
 		</card>
 		<card>
 			<name>Deep Sea Devastator</name>
-			<text>This creature can&apos;t be blocked except by Krakens, Leviathans, Octopuses, and Serpents.
-When this creature enters, if you control another Kraken, Leviathan, Octopus, or Serpent, you may return target creature or Vehicle to its owner&apos;s hand.</text>
+			<text>Deep Sea Devastator can&apos;t be blocked except by Krakens, Leviathans, Octopuses, and Serpents.
+When Deep Sea Devastator enters, if you control another Kraken, Leviathan, Octopus, or Serpent, you may return target creature or Vehicle to its owner&apos;s hand.</text>
 			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/51_Deep Sea Devastator.png" num="51">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -515,7 +516,7 @@ When this creature enters, if you control another Kraken, Leviathan, Octopus, or
 		<card>
 			<name>Skysail Galleon</name>
 			<text>Flying
-Whenever this Vehicle deals combat damage to a player or planeswalker, draw a card.
+Whenever Skysail Galleon deals combat damage to a player or planeswalker, draw a card.
 Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
 			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/72_Skysail Galleon.png" num="72">KRK</set>
 			<prop>
@@ -534,7 +535,7 @@ Crew 1 (Tap any number of creatures you control with total power 1 or more: This
 		<card>
 			<name>Ironworks Frigate</name>
 			<text>Vigilance
-Whenever you cast a noncreature spell, you may have this Vehicle become an artifact creature until end of turn.
+Whenever you cast a noncreature spell, you may have Ironworks Frigate become an artifact creature until end of turn.
 Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
 			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/57_Ironworks Frigate.png" num="57">KRK</set>
 			<prop>
@@ -593,8 +594,8 @@ Whenever you cast a spell, you may pay life equal to its mana value. If you do, 
 		<card>
 			<name>Dreadtide Flagship</name>
 			<text>Menace
-Exile an artifact or creature card from your graveyard: This Vehicle becomes an artifact creature until end of turn.
-Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+Exile an artifact or creature card from your graveyard: Dreadtide Flagship becomes an artifact creature until end of turn.
+Crew 1</text>
 			<set rarity="rare" picurl="https://schwa77.github.io/sets/KRK-files/img/99_Dreadtide Flagship.png" num="99">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -682,7 +683,7 @@ When Alkar of the Floating Horde enters, exile up to one target creature or Vehi
 		</card>
 		<card>
 			<name>Raider&apos;s Remains // Death&apos;s Toll</name>
-			<text>This creature can&apos;t block.
+			<text>Raider&apos;s Remains can&apos;t block.
 You may cast this card as an Adventure from your graveyard. (You may play it from exile later.)
 
 ---
@@ -758,7 +759,7 @@ Whenever you sacrifice a creature or artifact, create a 1/1 white Spirit creatur
 		<card>
 			<name>Azla&apos;s Monstrosity</name>
 			<text>As an additional cost to cast this spell, pay {1}{B}, sacrifice a creature, or discard a card.
-When this creature enters, each opponent sacrifices a creature of their choice and discards a card.</text>
+When Azla&apos;s Monstrosity enters, each opponent sacrifices a creature of their choice and discards a card.</text>
 			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/89_Azla&apos;s Monstrosity.png" num="89">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -775,7 +776,7 @@ When this creature enters, each opponent sacrifices a creature of their choice a
 		</card>
 		<card>
 			<name>Dreadtide Grunt // Death&apos;s Bounty</name>
-			<text>{1}, Sacrifice a creature or artifact: Put a +1/+1 counter on this creature.
+			<text>{1}, Sacrifice a creature or artifact: Put a +1/+1 counter on Dreadtide Grunt.
 
 ---
 
@@ -796,7 +797,7 @@ Sacrifice a creature or artifact. When you do, draw two cards. (Then exile this 
 		</card>
 		<card>
 			<name>March of the Dreadtide</name>
-			<text>When this enchantment enters, plunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)
+			<text>When March of the Dreadtide enters, plunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)
 Whenever you draw your second card each turn, create a 2/2 black Zombie creature token.</text>
 			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/112_March of the Dreadtide.png" num="112">KRK</set>
 			<prop>
@@ -813,8 +814,8 @@ Whenever you draw your second card each turn, create a 2/2 black Zombie creature
 		</card>
 		<card>
 			<name>What Lurks Beneath</name>
-			<text>When this enchantment enters, you may return target creature card from your graveyard to your hand.
-{3}{B}{B}, Sacrifice this enchantment: Return target creature card from your graveyard to the battlefield. It can&apos;t block this turn.</text>
+			<text>When What Lurks Beneath enters, you may return target creature card from your graveyard to your hand.
+{3}{B}{B}, Sacrifice What Lurks Beneath: Return target creature card from your graveyard to the battlefield. It can&apos;t block this turn.</text>
 			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/125_What Lurks Beneath.png" num="125">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -905,7 +906,7 @@ Choose any number of other permanents you control with Adventures. You may cast 
 		<card>
 			<name>Charismatic Captain</name>
 			<text>At the beginning of combat on your turn, create a 2/1 black Pirate creature token with &quot;This token can&apos;t block.&quot; It gains haste until end of turn.
-Whenever this creature attacks, gain control of target artifact with mana value less than or equal to the number of attacking Pirates you control.</text>
+Whenever Charismatic Captain attacks, gain control of target artifact with mana value less than or equal to the number of attacking Pirates you control.</text>
 			<set rarity="rare" picurl="https://schwa77.github.io/sets/KRK-files/img/134_Charismatic Captain.png" num="134">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -923,7 +924,7 @@ Whenever this creature attacks, gain control of target artifact with mana value 
 		<card>
 			<name>Mapcaster Mage</name>
 			<text>Flash
-When this creature enters, you may cast a copy of an Adventure spell from target permanent card with an Adventure in your graveyard. (You still pay its costs.)</text>
+When Mapcaster Mage enters, you may cast a copy of an Adventure spell from target permanent card with an Adventure in your graveyard. (You still pay its costs.)</text>
 			<set rarity="rare" picurl="https://schwa77.github.io/sets/KRK-files/img/153_Mapcaster Mage.png" num="153">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -940,7 +941,7 @@ When this creature enters, you may cast a copy of an Adventure spell from target
 		</card>
 		<card>
 			<name>Tavern Gambler // All In</name>
-			<text>When this creature enters, exile up to one target instant or sorcery card from your graveyard. Until end of turn, you may cast that card.
+			<text>When Tavern Gambler enters, exile up to one target instant or sorcery card from your graveyard. Until end of turn, you may cast that card.
 
 ---
 
@@ -961,8 +962,8 @@ Search your library for a card, put that card into your hand, discard a card at 
 		</card>
 		<card>
 			<name>Firebrand Flagship</name>
-			<text>Whenever this Vehicle attacks, create a token that&apos;s a copy of a creature that crewed it this turn. That token enters tapped and attacking. Exile the token at end of combat.
-Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<text>Whenever Firebrand Flagship attacks, create a token that&apos;s a copy of a creature that crewed it this turn. That token enters tapped and attacking. Exile the token at end of combat.
+Crew 3</text>
 			<set rarity="rare" picurl="https://schwa77.github.io/sets/KRK-files/img/137_Firebrand Flagship.png" num="137">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -995,7 +996,7 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
 		</card>
 		<card>
 			<name>Powder Monkeys</name>
-			<text>When this creature enters, choose one—
+			<text>When Powder Monkeys enters, choose one —
 • It deals 1 damage to any target.
 • Destroy target artifact.</text>
 			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/157_Powder Monkeys.png" num="157">KRK</set>
@@ -1014,8 +1015,8 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
 		</card>
 		<card>
 			<name>Twinshot Renegade</name>
-			<text>When this creature enters, plunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)
-Whenever you sacrifice a permanent, you may have this creature deal 1 damage to any target. Do this only once per turn.</text>
+			<text>When Twinshot Renegade enters, plunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)
+Whenever you sacrifice a permanent, Twinshot Renegade deals 1 damage to any target. This ability triggers only once each turn.</text>
 			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/166_Twinshot Renegade.png" num="166">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1053,7 +1054,8 @@ Discard a card. If you do, draw two cards. (Then exile this card. You may cast t
 		</card>
 		<card>
 			<name>Macrawcodiles</name>
-			<text>Whenever you cast an Adventure spell, put a +1/+1 counter on this creature. It gains flying until end of turn.</text>
+			<text>Haste
+Whenever you cast an Adventure spell, put a +1/+1 counter on Macrawcodiles. It gains flying until end of turn.</text>
 			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/151_Macrawcodiles.png" num="151">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1090,7 +1092,7 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
 		<card>
 			<name>Deserter&apos;s Dinghy</name>
 			<text>Haste, menace
-When this Vehicle enters, it becomes an artifact creature until end of turn.
+When Deserter&apos;s Dinghy enters, it becomes an artifact creature until end of turn.
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
 			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/135_Deserter&apos;s Dinghy.png" num="135">KRK</set>
 			<prop>
@@ -1108,7 +1110,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 		</card>
 		<card>
 			<name>Jadon&apos;s Messenger</name>
-			<text>{R}, Sacrifice an artifact: Return target artifact card from your graveyard to the battlefield. That artifact gains haste until end of turn and deals damage equal to its mana value to this creature.</text>
+			<text>{R}, Sacrifice an artifact: Return target artifact card from your graveyard to the battlefield. That artifact gains haste until end of turn and deals damage equal to its mana value to Jadon&apos;s Messenger. Activate only as a sorcery.</text>
 			<set rarity="rare" picurl="https://schwa77.github.io/sets/KRK-files/img/150_Jadon&apos;s Messenger.png" num="150">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1125,7 +1127,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 		</card>
 		<card>
 			<name>Frenetic Freebooter // Good Fortune</name>
-			<text>During your turn, this creature has first strike.
+			<text>During your turn, Frenetic Freebooter has first strike.
 
 ---
 
@@ -1164,7 +1166,7 @@ Plunder. (Create a Treasure token, or sacrifice an artifact to draw a card. Then
 		</card>
 		<card>
 			<name>Gangplank Marauders // All Aboard!</name>
-			<text>When this creature enters, other creatures you control get +1/+1 and gain trample until end of turn.
+			<text>When Gangplank Marauders enters, other creatures you control get +1/+1 and gain trample until end of turn.
 
 ---
 
@@ -1206,7 +1208,7 @@ Create an X/X blue Kraken creature token. (Then exile this card. You may cast th
 		</card>
 		<card>
 			<name>Octotyrant</name>
-			<text>When this creature enters, create eight 1/1 blue Tentacle creature tokens.</text>
+			<text>When Octotyrant enters, create eight 1/1 blue Tentacle creature tokens.</text>
 			<set rarity="rare" picurl="https://schwa77.github.io/sets/KRK-files/img/198_Octotyrant.png" num="198">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1223,7 +1225,7 @@ Create an X/X blue Kraken creature token. (Then exile this card. You may cast th
 		</card>
 		<card>
 			<name>Dreadtide Hellraiser // Churn the Waters</name>
-			<text>When this creature enters, return target card from your graveyard to your hand.
+			<text>When Dreadtide Hellraiser enters, return target card from your graveyard to your hand.
 
 ---
 
@@ -1245,7 +1247,7 @@ Mill three cards. You gain 3 life. (Then exile this card. You may cast the creat
 		<card>
 			<name>Kiora&apos;s Coiler</name>
 			<text>Trample
-Whenever another Kraken, Leviathan, Octopus, or Serpent you control enters, this creature fights up to one target creature.</text>
+Whenever another Kraken, Leviathan, Octopus, or Serpent you control enters, Kiora&apos;s Coiler fights up to one target creature.</text>
 			<set rarity="rare" picurl="https://schwa77.github.io/sets/KRK-files/img/192_Kiora&apos;s Coiler.png" num="192">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1262,7 +1264,7 @@ Whenever another Kraken, Leviathan, Octopus, or Serpent you control enters, this
 		</card>
 		<card>
 			<name>Malvo&apos;s Quartermaster</name>
-			<text>When this creature enters, plunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)
+			<text>When Malvo&apos;s Quartermaster enters, plunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)
 {T}, Sacrifice a Treasure: Create a tapped colorless land token named Everywhere that is every basic land type. (It has &quot;{T}: Add {W}, {U}, {B}, {R}, or {G}.&quot;)</text>
 			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/194_Malvo&apos;s Quartermaster.png" num="194">KRK</set>
 			<prop>
@@ -1280,8 +1282,8 @@ Whenever another Kraken, Leviathan, Octopus, or Serpent you control enters, this
 		</card>
 		<card>
 			<name>Imperial Expeditioner</name>
-			<text>When this creature enters, create a 1/1 white Soldier creature token.
-This creature gets +1/+1 for each creature you control.</text>
+			<text>When Imperial Expeditioner enters, create a 1/1 white Soldier creature token.
+Imperial Expeditioner gets +1/+1 for each creature you control.</text>
 			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/187_Imperial Expeditioner.png" num="187">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1298,8 +1300,8 @@ This creature gets +1/+1 for each creature you control.</text>
 		</card>
 		<card>
 			<name>Great Wight</name>
-			<text>This creature can&apos;t be blocked by creatures with power 2 or less.
-This creature enters with a number of +1/+1 counters on it equal to the greatest power among creature cards in your graveyard.</text>
+			<text>Great Wight can&apos;t be blocked by creatures with power 2 or less.
+Great Wight enters with a number of +1/+1 counters on it equal to the greatest power among creature cards in your graveyard.</text>
 			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/185_Great Wight.png" num="185">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1366,7 +1368,7 @@ Exile Fortunate Flotsam.</text>
 		</card>
 		<card>
 			<name>Horizon Communer // Land Ho!</name>
-			<text>Whenever this creature attacks, you may pay {W}{U}{B}{R}{G}. If you do, create a 3/3 green Elemental creature token.
+			<text>Whenever Horizon Communer attacks, you may pay {W}{U}{B}{R}{G}. If you do, create a 3/3 green Elemental creature token.
 
 ---
 
@@ -1470,7 +1472,7 @@ Destroy target creature or planeswalker. (Then exile this card. You may cast the
 		<card>
 			<name>Ruin Delvers</name>
 			<text>Menace
-Whenever this creature attacks, you may put a creature card with mana value 3 or less from your hand or exiled on an Adventure onto the battlefield tapped and attacking. Return that creature to your hand at end of combat.</text>
+Whenever Ruin Delvers attacks, you may put a creature card with mana value 3 or less from your hand or exiled on an Adventure onto the battlefield tapped and attacking. Return that creature to your hand at end of combat.</text>
 			<set rarity="rare" picurl="https://schwa77.github.io/sets/KRK-files/img/228_Ruin Delvers.png" num="228">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1487,8 +1489,8 @@ Whenever this creature attacks, you may put a creature card with mana value 3 or
 		</card>
 		<card>
 			<name>Sewer Skulk</name>
-			<text>Menace
-Whenever you draw your second card each turn, put a +1/+1 counter on this creature.</text>
+			<text>Menace (This creature can&apos;t be blocked except by two or more creatures.)
+Whenever you draw your second card each turn, put a +1/+1 counter on Sewer Skulk.</text>
 			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/231_Sewer Skulk.png" num="231">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1505,9 +1507,9 @@ Whenever you draw your second card each turn, put a +1/+1 counter on this creatu
 		</card>
 		<card>
 			<name>Glorybound Cutthroat</name>
-			<text>This creature can&apos;t block.
-Whenever you sacrifice another creature or an artifact, put a +1/+1 counter on this creature.
-{3}{B}{R}, Sacrifice this creature: It deals damage equal to its power to any target.</text>
+			<text>Glorybound Cutthroat can&apos;t block.
+Whenever you sacrifice another creature or an artifact, put a +1/+1 counter on Glorybound Cutthroat.
+{3}{B}{R}, Sacrifice Glorybound Cutthroat: It deals damage equal to its power to target creature or planeswalker.</text>
 			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/216_Glorybound Cutthroat.png" num="216">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1542,8 +1544,8 @@ Whenever you create one or more noncreature tokens for the first time each turn,
 		</card>
 		<card>
 			<name>Cunning Quartermaster</name>
-			<text>When this creature enters, search your library for a Vehicle card, reveal it, and put it into your hand. Then shuffle.
-Whenever this creature crews a Vehicle, that Vehicle gets +1/+1 and gains trample until end of turn.</text>
+			<text>When Cunning Quartermaster enters, search your library for a Vehicle card, reveal it, and put it into your hand. Then shuffle.
+Whenever Cunning Quartermaster crews a Vehicle, that Vehicle gets +1/+1 and gains trample until end of turn.</text>
 			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/212_Cunning Quartermaster.png" num="212">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1645,10 +1647,10 @@ Crew 3</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>M-80, Clockwork Captain</name>
-			<text>When M-80, Clockwork Captain enters, plunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)
+			<name>M-80, Clockwork Crewmate</name>
+			<text>When M-80, Clockwork Crewmate enters, plunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)
 Whenever you cast a spell, if mana from an artifact source was spent to cast it, create a 1/1 colorless Construct artifact creature token.</text>
-			<set rarity="rare" picurl="https://schwa77.github.io/sets/KRK-files/img/249_M-80, Clockwork Captain.png" num="249">KRK</set>
+			<set rarity="rare" picurl="https://schwa77.github.io/sets/KRK-files/img/249_M-80, Clockwork Crewmate.png" num="249">KRK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1662,7 +1664,7 @@ Whenever you cast a spell, if mana from an artifact source was spent to cast it,
 		</card>
 		<card>
 			<name>Animated Hoard</name>
-			<text>{T}, Sacrifice this creature: Add one mana of any color.
+			<text>{T}, Sacrifice Animated Hoard: Add one mana of any color.
 {2}, Exile this card and another artifact card from from your graveyard: Draw a card.</text>
 			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/237_Animated Hoard.png" num="237">KRK</set>
 			<prop>
@@ -1678,7 +1680,7 @@ Whenever you cast a spell, if mana from an artifact source was spent to cast it,
 		</card>
 		<card>
 			<name>Marquisian Sentry</name>
-			<text>Whenever this creature enters or becomes tapped, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<text>Whenever Marquisian Sentry enters or becomes tapped, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
 			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/250_Marquisian Sentry.png" num="250">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1709,8 +1711,8 @@ Sacrifice three Treasures: Return this card from your graveyard to the battlefie
 		</card>
 		<card>
 			<name>Lantern of the Lost</name>
-			<text>When this artifact enters, exile target card from a graveyard.
-{1}, {T}, Exile this artifact: Exile all cards from all graveyards, then draw a card.</text>
+			<text>When Lantern of the Lost enters, exile target card from a graveyard.
+{1}, {T}, Exile Lantern of the Lost: Exile all cards from all graveyards, then draw a card.</text>
 			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/248_Lantern of the Lost.png" num="248">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1724,7 +1726,7 @@ Sacrifice three Treasures: Return this card from your graveyard to the battlefie
 		</card>
 		<card>
 			<name>Shoreline Beacon</name>
-			<text>When this artifact enters, draw a card.
+			<text>When Shoreline Beacon enters, draw a card.
 {4}, {T}: Target artifact or creature can&apos;t be blocked this turn. If that permanent is a Vehicle, you may have it become a creature until end of turn.</text>
 			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/257_Shoreline Beacon.png" num="257">KRK</set>
 			<prop>
@@ -1739,7 +1741,7 @@ Sacrifice three Treasures: Return this card from your graveyard to the battlefie
 		</card>
 		<card>
 			<name>Pillager&apos;s Galleon</name>
-			<text>Whenever this Vehicle deals combat damage to a player or planeswalker, plunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)
+			<text>Whenever Pillager&apos;s Galleon deals combat damage to a player or planeswalker, plunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)
 Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
 			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/252_Pillager&apos;s Galleon.png" num="252">KRK</set>
 			<prop>
@@ -1756,7 +1758,7 @@ Crew 1 (Tap any number of creatures you control with total power 1 or more: This
 		<card>
 			<name>Spectral Sloop</name>
 			<text>Vigilance
-Whenever this Vehicle deals combat damage to a player or planeswalker, create a tapped 2/2 black Zombie creature token.
+Whenever Spectral Sloop deals combat damage to a player or planeswalker, create a tapped 2/2 black Zombie creature token.
 Crew 2</text>
 			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/258_Spectral Sloop.png" num="258">KRK</set>
 			<prop>
@@ -1772,8 +1774,8 @@ Crew 2</text>
 		</card>
 		<card>
 			<name>Ironworks Arsenal</name>
-			<text>This artifact with three arms counters on it.
-{T}, Remove an arms counter from this artifact: Create a Weapon token. You may attach it to up to one target creature. Activate only as a sorcery. (It&apos;s an Equipment artifact with &quot;Equipped creature gets +1/+1&quot; and equip {2}.)</text>
+			<text>Ironworks Arsenal with three arms counters on it.
+{T}, Remove an arms counter from Ironworks Arsenal: Create a Weapon token. You may attach it to up to one target creature. Activate only as a sorcery. (It&apos;s an Equipment artifact with &quot;Equipped creature gets +1/+1&quot; and equip {2}.)</text>
 			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/246_Ironworks Arsenal.png" num="246">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1787,8 +1789,8 @@ Crew 2</text>
 		</card>
 		<card>
 			<name>Pilferer&apos;s Pouch</name>
-			<text>This artifact enters tapped with three coin counters on it.
-{T}, Remove a coin counter from this artifact: Plunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)</text>
+			<text>Pilferer&apos;s Pouch enters tapped with three coin counters on it.
+{T}, Remove a coin counter from Pilferer&apos;s Pouch: Plunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)</text>
 			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/251_Pilferer&apos;s Pouch.png" num="251">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1855,7 +1857,7 @@ You may cast spells from the top of your library if they&apos;re Adventures or p
 		</card>
 		<card>
 			<name>Journey&apos;s Preparation</name>
-			<text>When this enchantment enters, search your library for an artifact card, reveal it, put it into your hand, then shuffle.
+			<text>When Journey&apos;s Preparation enters, search your library for an artifact card, reveal it, put it into your hand, then shuffle.
 Creatures you control crew Vehicles as though their power were 2 greater.</text>
 			<set rarity="rare" picurl="https://schwa77.github.io/sets/KRK-files/img/221_Journey&apos;s Preparation.png" num="221">KRK</set>
 			<prop>
@@ -1891,8 +1893,8 @@ At the beginning of combat on your turn, up to one target token you control beco
 		<card>
 			<name>Fleetcrusher Titan</name>
 			<text>Trample
-When this creature enters, destroy target nonland permanent you don&apos;t control.
-When this creature dies, create two 4/4 green Serpent creature tokens with trample.</text>
+When Fleetcrusher Titan enters, destroy target nonland permanent you don&apos;t control.
+When Fleetcrusher Titan dies, create two 4/4 green Serpent creature tokens with trample.</text>
 			<set rarity="rare" picurl="https://schwa77.github.io/sets/KRK-files/img/215_Fleetcrusher Titan.png" num="215">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1960,8 +1962,8 @@ When this creature dies, create two 4/4 green Serpent creature tokens with tramp
 		<card>
 			<name>Ironworks Skysail</name>
 			<text>Flying, vigilance
-As long as you control three or more artifacts, this Vehicle is an artifact creature.
-Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+As long as you control three or more artifacts, Ironworks Skysail is an artifact creature.
+Crew 2</text>
 			<set rarity="rare" picurl="https://schwa77.github.io/sets/KRK-files/img/247_Ironworks Skysail.png" num="247">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1976,8 +1978,8 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 		</card>
 		<card>
 			<name>Protean Schooner</name>
-			<text>Whenever a creature with flying crews this Vehicle, this Vehicle gains flying until end of turn. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance. (You can crew a Vehicle that&apos;s already a creature.)
-Crew 2</text>
+			<text>Whenever a creature with flying crews Protean Schooner, Protean Schooner gains flying until end of turn. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance.
+Crew 2. Activate only once each turn.</text>
 			<set rarity="rare" picurl="https://schwa77.github.io/sets/KRK-files/img/254_Protean Schooner.png" num="254">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1992,7 +1994,7 @@ Crew 2</text>
 		</card>
 		<card>
 			<name>Beyond the Horizon</name>
-			<text>This spell costs {1} less to cast for each artifact you control. (After applying discounts to cast, you may sacrifice Treasures for mana to pay remaining costs.)
+			<text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control. After applying discounts to cast, you may sacrifice Treasures for mana to pay remaining costs.)
 If it isn&apos;t an extra turn, take an extra turn after this one. Exile Beyond the Horizon.</text>
 			<set rarity="mythic" picurl="https://schwa77.github.io/sets/KRK-files/img/44_Beyond the Horizon.png" num="44">KRK</set>
 			<prop>
@@ -2010,7 +2012,7 @@ If it isn&apos;t an extra turn, take an extra turn after this one. Exile Beyond 
 		<card>
 			<name>Hellfire Dreadnought</name>
 			<text>Trample
-When this Vehicle enters, it deals 6 damage to up to one target creature or planeswalker.
+When Hellfire Dreadnought enters, it deals 6 damage to up to one target creature or planeswalker.
 Crew 3</text>
 			<set rarity="rare" picurl="https://schwa77.github.io/sets/KRK-files/img/245_Hellfire Dreadnought.png" num="245">KRK</set>
 			<prop>
@@ -2045,7 +2047,7 @@ Crew 3</text>
 		<card>
 			<name>Wayfinder&apos;s Telescope</name>
 			<text>Whenever equipped creature attacks, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
-{W}{U}{B}{R}{G}, Sacrifice this Equipment: Draw two cards.
+{W}{U}{B}{R}{G}, Sacrifice Wayfinder&apos;s Telescope: Draw two cards.
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</text>
 			<set rarity="rare" picurl="https://schwa77.github.io/sets/KRK-files/img/264_Wayfinder&apos;s Telescope.png" num="264">KRK</set>
 			<prop>
@@ -2061,24 +2063,24 @@ Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
 		</card>
 		<card>
 			<name>Rising Tide</name>
-			<text>When this enchantment enters, search your library for a land card and put it onto the battlefield tapped. Then shuffle.
-At the beginning of combat on your turn, if you&apos;ve spent {W}{U}{B}{R}{G} this turn, untap up to five target lands you control. They become 2/2 Elemental creatures with indestructible and haste until end of turn.</text>
+			<text>When Rising Tide enters, search your library for a land card and put it onto the battlefield tapped. Then shuffle.
+At the beginning of combat on your turn, untap target land you control. You may have it become an X/X Elemental creature with haste until end of turn, where X is the number of colors among permanents you control. It&apos;s still a land.</text>
 			<set rarity="mythic" picurl="https://schwa77.github.io/sets/KRK-files/img/200_Rising Tide.png" num="200">KRK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>4G</manacost>
-				<cmc>5</cmc>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
 				<colors>G</colors>
-				<coloridentity>WUBRG</coloridentity>
+				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Cursed Coins</name>
-			<text>{T}: Put a greed counter on this artifact. You lose X life and add X mana in any combination of colors, where X is the number of greed counters on this artifact.</text>
+			<text>{T}: Put a greed counter on Cursed Coins. You lose X life and add X mana in any combination of colors, where X is the number of greed counters on Cursed Coins.</text>
 			<set rarity="rare" picurl="https://schwa77.github.io/sets/KRK-files/img/241_Cursed Coins.png" num="241">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -2093,7 +2095,7 @@ At the beginning of combat on your turn, if you&apos;ve spent {W}{U}{B}{R}{G} th
 		<card>
 			<name>Restore Order</name>
 			<text>Create X 0/0 white Soldier Army creature tokens with &quot;This creature gets +1/+1 for each creature you control.&quot;</text>
-			<set rarity="mythic" picurl="https://schwa77.github.io/sets/KRK-files/img/30_Restore Order.png" num="30">KRK</set>
+			<set rarity="mythic" picurl="https://schwa77.github.io/sets/KRK-files/img/31_Restore Order.png" num="31">KRK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2180,7 +2182,7 @@ Equip {3}</text>
 		<card>
 			<name>Rum Guzzler</name>
 			<text>Haste
-Whenever this creature attacks, reveal cards from the top of your library until you reveal exactly two nonland cards. Choose one of them. You may cast the chosen spell without paying its mana cost. Then target opponent may cast the spell not chosen this way without paying its mana cost. Then shuffle.</text>
+Whenever Rum Guzzler attacks, reveal cards from the top of your library until you reveal exactly two nonland cards. Choose one of them. You may cast the chosen spell without paying its mana cost. Then target opponent may cast the spell not chosen this way without paying its mana cost. Then shuffle.</text>
 			<set rarity="mythic" picurl="https://schwa77.github.io/sets/KRK-files/img/229_Rum Guzzler.png" num="229">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -2198,7 +2200,7 @@ Whenever this creature attacks, reveal cards from the top of your library until 
 		<card>
 			<name>Grand Admiral</name>
 			<text>Prowess
-When this creature dies, create an X/X colorless Vehicle artifact token with crew 1, where X is this creature&apos;s power.</text>
+When Grand Admiral dies, create an X/X colorless Vehicle artifact token with crew 1, where X is Grand Admiral&apos;s power.</text>
 			<set rarity="mythic" picurl="https://schwa77.github.io/sets/KRK-files/img/13_Grand Admiral.png" num="13">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -2216,7 +2218,7 @@ When this creature dies, create an X/X colorless Vehicle artifact token with cre
 		<card>
 			<name>Sword of Greed and Glory</name>
 			<text>Equipped creature gets +2/+2 and has protection from multicolored.
-Whenever equipped creature deals combat damage to a player, plunder, then exile the top card of that player&apos;s library. Until end of turn, you may play that card. (To plunder, create a Treasure token, or sacrifice an artifact to draw a card.)
+Whenever equipped creature deals combat damage to a player, exile the top card of that player&apos;s library. Until end of turn, you may play that card. Then plunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)
 Equip {2}</text>
 			<set rarity="mythic" picurl="https://schwa77.github.io/sets/KRK-files/img/261_Sword of Greed and Glory.png" num="261">KRK</set>
 			<prop>
@@ -2231,8 +2233,8 @@ Equip {2}</text>
 		</card>
 		<card>
 			<name>Novice Navigator</name>
-			<text>When this creature enters, create a 1/1 white Soldier creature token and a Weapon token. (It&apos;s an Equipment artifact with &quot;Equipped creature gets +1/+1&quot; and equip {2}.)</text>
-			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/25_Novice Navigator.png" num="25">KRK</set>
+			<text>When Novice Navigator enters, create a 1/1 white Soldier creature token and a Weapon token. (It&apos;s an Equipment artifact with &quot;Equipped creature gets +1/+1&quot; and equip {2}.)</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/26_Novice Navigator.png" num="26">KRK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2294,7 +2296,7 @@ Equip {2}</text>
 		<card>
 			<name>Dockside Warden // Brandish</name>
 			<text>Double strike
-When this creature enters, you may put an Equipment card with mana value X or less from your hand onto the battlefield and attach it to this creature.
+When Dockside Warden enters, you may put an Equipment card with mana value X or less from your hand onto the battlefield and attach it to Dockside Warden.
 
 ---
 
@@ -2372,7 +2374,7 @@ Put target artifact or enchantment on the bottom of its owner&apos;s library. (T
 		<card>
 			<name>Trenchlurker Titan // Here Be Monsters</name>
 			<text>Ward {4}
-This creature can&apos;t be blocked by Pirates or Vehicles.
+Trenchlurker Titan can&apos;t be blocked by Pirates or Vehicles.
 
 ---
 
@@ -2434,7 +2436,7 @@ Return to the battlefield target nonland permanent card in your graveyard that w
 		<card>
 			<name>Tideweaver Gull</name>
 			<text>Flying
-Whenever this creature attacks, if you&apos;ve cast a noncreature spell this turn, tap target creature or artifact.</text>
+Whenever Tideweaver Gull attacks, if you&apos;ve cast a noncreature spell this turn, tap target creature or artifact.</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/37_Tideweaver Gull.png" num="37">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -2451,7 +2453,7 @@ Whenever this creature attacks, if you&apos;ve cast a noncreature spell this tur
 		</card>
 		<card>
 			<name>Standard-Issue Flintlock</name>
-			<text>When this Equipment enters, create a 1/1 white Soldier creature token.
+			<text>When Standard-Issue Flintlock enters, create a 1/1 white Soldier creature token.
 Equipped creature gets +1/+1.
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/34_Standard-Issue Flintlock.png" num="34">KRK</set>
@@ -2524,7 +2526,7 @@ You gain 3 life. Scry 1. (Then exile this card. You may cast the creature later 
 		</card>
 		<card>
 			<name>Treasure Hunter</name>
-			<text>When this creature enters, you may return target artifact card from your graveyard to your hand.</text>
+			<text>When Treasure Hunter enters, you may return target artifact card from your graveyard to your hand.</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/39_Treasure Hunter.png" num="39">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -2578,9 +2580,9 @@ Equip abilities you activate cost {1} less to activate.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Trade Route Navigator</name>
-			<text>When this creature enters, create a Weapon token, then you may attach it to another target creature you control. (It&apos;s an Equipment artifact with &quot;Equipped creature gets +1/+1&quot; and equip {2}.)</text>
-			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/38_Trade Route Navigator.png" num="38">KRK</set>
+			<name>Trade Route Navigators</name>
+			<text>When Trade Route Navigators enters, create a Weapon token, then you may attach it to another target creature you control. (It&apos;s an Equipment artifact with &quot;Equipped creature gets +1/+1&quot; and equip {2}.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/38_Trade Route Navigators.png" num="38">KRK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2596,7 +2598,8 @@ Equip abilities you activate cost {1} less to activate.</text>
 		</card>
 		<card>
 			<name>Governor&apos;s Representative // Enact Policy</name>
-			<text>Whenever another creature you control enters, put a +1/+1 counter on this creature.
+			<text>Whenever another creature you control enters, put a +1/+1 counter 
+on Governor&apos;s Representative.
 
 ---
 
@@ -2617,7 +2620,7 @@ Exile target nontoken creature, then return it to the battlefield under its owne
 		</card>
 		<card>
 			<name>Deft Commodore // Rally the Sailors</name>
-			<text>When this creature enters, creatures you control get +1/+0 until end of turn.
+			<text>When Deft Commodore enters, creatures you control get +1/+0 until end of turn.
 
 ---
 
@@ -2658,7 +2661,7 @@ Vigilance</text>
 			<name>Quickdraw</name>
 			<text>Quickdraw deals 2 damage to target attacking or blocking creature. 
 Create a Weapon token. (It&apos;s an Equipment artifact with &quot;Equipped creature gets +1/+1&quot; and equip {2}.)</text>
-			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/27_Quickdraw.png" num="27">KRK</set>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/28_Quickdraw.png" num="28">KRK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2674,7 +2677,7 @@ Create a Weapon token. (It&apos;s an Equipment artifact with &quot;Equipped crea
 		<card>
 			<name>High and Dry</name>
 			<text>Flash
-When this enchantment enters, exile up to one target creature or planeswalker until this enchantment leaves the battlefield.</text>
+When High and Dry enters, exile up to one target creature or planeswalker until this enchantment leaves the battlefield.</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/14_High and Dry.png" num="14">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -2709,7 +2712,7 @@ When this enchantment enters, exile up to one target creature or planeswalker un
 		<card>
 			<name>Parry</name>
 			<text>Target creature you control gets +2/+2 until end of turn. If you control an artifact, it also gains first strike until end of turn.</text>
-			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/26_Parry.png" num="26">KRK</set>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/27_Parry.png" num="27">KRK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2741,7 +2744,7 @@ When this enchantment enters, exile up to one target creature or planeswalker un
 		<card>
 			<name>Rally the Isles</name>
 			<text>Untap each permanent you control that&apos;s a creature and/or Vehicle, then put a +1/+1 counter on each of them.</text>
-			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/28_Rally the Isles.png" num="28">KRK</set>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/29_Rally the Isles.png" num="29">KRK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2757,8 +2760,8 @@ When this enchantment enters, exile up to one target creature or planeswalker un
 		<card>
 			<name>Marquisian Rescuers</name>
 			<text>Flash
-When this creature enters, you may return another target permanent you control to its owner&apos;s hand.</text>
-			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/23_Marquisian Rescuers.png" num="23">KRK</set>
+When Marquisian Rescuers enters, you may return another target permanent you control to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/24_Marquisian Rescuers.png" num="24">KRK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2792,7 +2795,7 @@ When this creature enters, you may return another target permanent you control t
 		<card>
 			<name>Welkin Tern</name>
 			<text>Flying
-This creature can block only creatures with flying.</text>
+Welkin Tern can block only creatures with flying.</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/82_Welkin Tern.png" num="82">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -2809,7 +2812,7 @@ This creature can block only creatures with flying.</text>
 		</card>
 		<card>
 			<name>Crimza Taal Smuggler // Pickpocket</name>
-			<text>As long as you&apos;ve drawn two or more cards this turn, this creature can&apos;t be blocked.
+			<text>As long as you&apos;ve drawn two or more cards this turn, Crimza Taal Smuggler can&apos;t be blocked.
 
 ---
 
@@ -2830,7 +2833,7 @@ Draw a card, then discard a card. (Then exile this card. You may cast the creatu
 		</card>
 		<card>
 			<name>Aelython Renegade</name>
-			<text>When this creature enters, plunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)</text>
+			<text>When Aelython Renegade enters, plunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/43_Aelython Renegade.png" num="43">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -2847,7 +2850,7 @@ Draw a card, then discard a card. (Then exile this card. You may cast the creatu
 		</card>
 		<card>
 			<name>Shipwreck Kraken</name>
-			<text>When this creature enters, tap target creature or artifact an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
+			<text>When Shipwreck Kraken enters, tap target creature or artifact an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/70_Shipwreck Kraken.png" num="70">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -2886,7 +2889,7 @@ Target creature gets -4/-0 until end of turn. (Then exile this card. You may cas
 		<card>
 			<name>Forgotten Chronicler</name>
 			<text>Defender
-As long as you&apos;ve cast a noncreature spell this turn, this creature can attack as though it didn&apos;t have defender.</text>
+As long as you&apos;ve cast a noncreature spell this turn, Forgotten Chronicler can attack as though it didn&apos;t have defender.</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/52_Forgotten Chronicler.png" num="52">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -2937,8 +2940,8 @@ Plunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)</te
 		<card>
 			<name>Lost at Sea</name>
 			<text>Enchant creature or Vehicle
-When this Aura enters, you may reveal a Kraken, Leviathan, Octopus, or Serpent card from your hand. If you do, tap enchanted permanent.
-Enchanted permanent doesn&apos;t untap during its controller&apos;s untap step.</text>
+When Lost at Sea enters, you may behold a Kraken, Leviathan, Octopus, or Serpent. If you do, tap enchanted permanent. (To behold a Kraken, Leviathan, Octopus, or Serpent, choose one you control or reveal one from your hand.)
+Enchanted permanent can&apos;t become untapped and its activated abilities can&apos;t be activated.</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/60_Lost at Sea.png" num="60">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3004,7 +3007,7 @@ Enchanted permanent doesn&apos;t untap during its controller&apos;s untap step.<
 		</card>
 		<card>
 			<name>Ghostly Galleon</name>
-			<text>When this Vehicle enters, look at the top four cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom in a random order.
+			<text>When Ghostly Galleon enters, look at the top four cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom in a random order.
 Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/54_Ghostly Galleon.png" num="54">KRK</set>
 			<prop>
@@ -3055,7 +3058,7 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
 		</card>
 		<card>
 			<name>Arrogant Crewmate</name>
-			<text>When this creature dies, plunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)</text>
+			<text>When Arrogant Crewmate dies, plunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/87_Arrogant Crewmate.png" num="87">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3074,7 +3077,7 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
 			<name>Skyship Ambusher</name>
 			<text>Flash
 Flying
-When this creature enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+When Skyship Ambusher enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/121_Skyship Ambusher.png" num="121">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3112,7 +3115,7 @@ Target creature gets -1/-1 until end of turn. (Then exile this card. You may cas
 		</card>
 		<card>
 			<name>Tandem Hirelings</name>
-			<text>When this creature enters, create a 2/1 black Pirate creature token with &quot;This token can&apos;t block.&quot;</text>
+			<text>When Tandem Hirelings enters, create a 2/1 black Pirate creature token with &quot;This token can&apos;t block.&quot;</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/123_Tandem Hirelings.png" num="123">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3167,14 +3170,14 @@ Mill two cards. Create a 2/2 black Zombie creature token. (Then exile this card.
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Seabound Wraith // Covetous Greed</name>
+			<name>Seabound Spirit // Covetous Greed</name>
 			<text>Flying, deathtouch
-When this creature dies, put it on the bottom of its owner&apos;s library.
+When Seabound Spirit dies, put it on the bottom of its owner&apos;s library.
 
 ---
 
 Return target creature or artifact card from your graveyard to your hand. (Then exile this card. You may cast the creature later from exile.)</text>
-			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/118_Seabound Wraith.png" num="118">KRK</set>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/118_Seabound Spirit.png" num="118">KRK</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -3190,7 +3193,7 @@ Return target creature or artifact card from your graveyard to your hand. (Then 
 		</card>
 		<card>
 			<name>Glorybound Scallywags</name>
-			<text>When this creature enters, target creature you don&apos;t control gets -X/-X until end of turn, where X is the number of creatures you control.</text>
+			<text>When Glorybound Scallywags enters, target creature you don&apos;t control gets -X/-X until end of turn, where X is the number of creatures you control.</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/108_Glorybound Scallywags.png" num="108">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3324,7 +3327,7 @@ Return target creature card from your graveyard to the battlefield.</text>
 		<card>
 			<name>Gemseeker Grottle</name>
 			<text>Haste
-When this creature dies, plunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)</text>
+When Gemseeker Grottle dies, plunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/142_Gemseeker Grottle.png" num="142">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3342,7 +3345,7 @@ When this creature dies, plunder. (Create a Treasure token, or sacrifice an arti
 		<card>
 			<name>Munitions Mage // Broadside</name>
 			<text>Haste
-This creature can&apos;t block.
+Munitions Mage can&apos;t block.
 
 ---
 
@@ -3363,7 +3366,7 @@ Target creature can&apos;t block this turn. (Then exile this card. You may cast 
 		</card>
 		<card>
 			<name>Flintlock Sharpshot</name>
-			<text>Whenever this creature becomes tapped, it deals 1 damage to target player or planeswalker.</text>
+			<text>Whenever Flintlock Sharpshot becomes tapped, it deals 1 damage to target player or planeswalker.</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/139_Flintlock Sharpshot.png" num="139">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3418,8 +3421,8 @@ Flare deals 2 damage to target player or planeswalker. (Then exile this card. Yo
 		</card>
 		<card>
 			<name>Rowdy Cannoneer</name>
-			<text>Menace
-{1}, Sacrifice another creature or an artifact: This creature deals 1 damage to target player or planeswalker.</text>
+			<text>Menace (This creature can&apos;t be blocked except by two or more creatures.)
+{1}, Sacrifice another creature or an artifact: Rowdy Cannoneer deals 1 damage to target player or planeswalker.</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/161_Rowdy Cannoneer.png" num="161">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3457,8 +3460,8 @@ Fiery Barrage deals 1 damage to each creature you don&apos;t control. (Then exil
 		</card>
 		<card>
 			<name>Savvy Duelist</name>
-			<text>During your turn, this creature has first strike.
-Whenever you cast an Adventure spell or a spell from exile, this creature deals 1 damage to target player or planeswalker.</text>
+			<text>During your turn, Savvy Duelist has first strike.
+Whenever you cast an Adventure spell or a spell from exile, Savvy Duelist deals 1 damage to target player or planeswalker.</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/162_Savvy Duelist.png" num="162">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3475,7 +3478,7 @@ Whenever you cast an Adventure spell or a spell from exile, this creature deals 
 		</card>
 		<card>
 			<name>Glorybound Knaves // Buccaneer&apos;s Blitz</name>
-			<text>When this creature enters, you may sacrifice a creature or artifact. If you do, this creature deals 2 damage to any target.
+			<text>When Glorybound Knaves enters, you may sacrifice a creature or artifact. If you do, this creature deals 2 damage to any target.
 
 ---
 
@@ -3579,7 +3582,7 @@ Draw two cards. Plunder. (Create a Treasure token, or sacrifice an artifact to d
 		</card>
 		<card>
 			<name>Bombarding Brigantine</name>
-			<text>When this Vehicle enters, it deals 2 damage to target player or planeswalker.
+			<text>When Bombarding Brigantine enters, it deals 2 damage to target player or planeswalker.
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/131_Bombarding Brigantine.png" num="131">KRK</set>
 			<prop>
@@ -3631,7 +3634,8 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 		</card>
 		<card>
 			<name>Glittering Trove</name>
-			<text>Whenever this artifact enters or is put into a graveyard from the battlefield, create a 2/1 black Pirate creature token with &quot;This token can&apos;t block.&quot;</text>
+			<text>Whenever Glittering Trove enters or is put into a graveyard from the battlefield, create a 2/1 black Pirate creature token with &quot;This token can&apos;t block.&quot;
+{3}{R}, Discard a card, Sacrifice Glittering Trove: Draw a card.</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/143_Glittering Trove.png" num="143">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3648,7 +3652,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 		<card>
 			<name>Flourishing Reef</name>
 			<text>Enchant land
-When this Aura enters the battlefield, create a 1/1 blue Fish creature token.
+When Flourishing Reef enters the battlefield, create a 1/1 blue Fish creature token.
 Enchanted land has &quot;{T}: Add one mana of any color.&quot;</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/181_Flourishing Reef.png" num="181">KRK</set>
 			<prop>
@@ -3665,7 +3669,7 @@ Enchanted land has &quot;{T}: Add one mana of any color.&quot;</text>
 		</card>
 		<card>
 			<name>Trenchcaller Champion</name>
-			<text>When this creature enters or dies, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<text>When Trenchcaller Champion enters or dies, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/207_Trenchcaller Champion.png" num="207">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3698,14 +3702,14 @@ Enchanted land has &quot;{T}: Add one mana of any color.&quot;</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Marquisian Quartermaster // Steady Sailing</name>
+			<name>Marquisian Seafarer // Steady Sailing</name>
 			<text>Vigilance
 {T}: Untap target basic land.
 
 ---
 
 Search your library for a basic land card, reveal it, put it into your hand, then shuffle. (Then exile this card. You may cast the creature later from exile.)</text>
-			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/196_Marquisian Quartermaster.png" num="196">KRK</set>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/196_Marquisian Seafarer.png" num="196">KRK</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -3721,7 +3725,7 @@ Search your library for a basic land card, reveal it, put it into your hand, the
 		</card>
 		<card>
 			<name>Octoplant</name>
-			<text>When this creature enters, look at the top three cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest into your graveyard.</text>
+			<text>When Octoplant enters, look at the top three cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest into your graveyard.</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/197_Octoplant.png" num="197">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3738,7 +3742,7 @@ Search your library for a basic land card, reveal it, put it into your hand, the
 		</card>
 		<card>
 			<name>Dreadtide Deckhands</name>
-			<text>When this creature enters, create a 2/2 black Zombie creature token.</text>
+			<text>When Dreadtide Deckhands enters, create a 2/2 black Zombie creature token.</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/177_Dreadtide Deckhands.png" num="177">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3774,7 +3778,7 @@ Put a +1/+1 counter on target creature. It must be blocked this turn if able. (T
 		</card>
 		<card>
 			<name>Curio Collectors</name>
-			<text>When this creature enters, plunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)</text>
+			<text>When Curio Collectors enters, plunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/174_Curio Collectors.png" num="174">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3813,7 +3817,7 @@ Target creature gets +2/+2 and gains reach until end of turn. Untap it. (Then ex
 		<card>
 			<name>Abyssal Behemoth</name>
 			<text>This spell costs {1} less to cast for each creature card in your graveyard.
-When this creature enters, you gain 4 life.</text>
+When Abyssal Behemoth enters, you gain 4 life.</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/168_Abyssal Behemoth.png" num="168">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3830,7 +3834,7 @@ When this creature enters, you gain 4 life.</text>
 		</card>
 		<card>
 			<name>Ancient Megalodon // Chum Trail</name>
-			<text>This creature can&apos;t be blocked by more than one creature.
+			<text>Ancient Megalodon can&apos;t be blocked by more than one creature.
 
 ---
 
@@ -3969,7 +3973,7 @@ Plunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)</te
 		<card>
 			<name>Beachcomber&apos;s Bane</name>
 			<text>Trample
-Whenever a permanent with an Adventure you control enters, put a +1/+1 counter on this creature. (It doesn&apos;t need to have gone on the Adventure first.)</text>
+Whenever a permanent with an Adventure you control enters, put a +1/+1 counter on Beachcomber&apos;s Bane. (It doesn&apos;t need to have gone on the Adventure first.)</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/171_Beachcomber&apos;s Bane.png" num="171">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3986,8 +3990,8 @@ Whenever a permanent with an Adventure you control enters, put a +1/+1 counter o
 		</card>
 		<card>
 			<name>Aureate Elemental</name>
-			<text>When this creature enters, scry 2.
-When this creature dies, draw a card.</text>
+			<text>When Aureate Elemental enters, scry 2.
+When Aureate Elemental dies, draw a card.</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/238_Aureate Elemental.png" num="238">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4002,7 +4006,7 @@ When this creature dies, draw a card.</text>
 		</card>
 		<card>
 			<name>Expedition Map</name>
-			<text>{2}, {T}, Sacrifice this artifact: Search your library for a land card, reveal it, put it into your hand, then shuffle.</text>
+			<text>{2}, {T}, Sacrifice Expedition Map: Search your library for a land card, reveal it, put it into your hand, then shuffle.</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/242_Expedition Map.png" num="242">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4016,7 +4020,7 @@ When this creature dies, draw a card.</text>
 		</card>
 		<card>
 			<name>Glittering Spoils</name>
-			<text>When this artifact enters, you may draw a card. If you do, discard a card.
+			<text>When Glittering Spoils enters, you may draw a card. If you do, discard a card.
 {T}: Add one mana of any color.</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/243_Glittering Spoils.png" num="243">KRK</set>
 			<prop>
@@ -4031,7 +4035,7 @@ When this creature dies, draw a card.</text>
 		</card>
 		<card>
 			<name>Pirate&apos;s Cutlass</name>
-			<text>When this Equipment enters, attach it to target Pirate you control.
+			<text>When Pirate&apos;s Cutlass enters, attach it to target Pirate you control.
 Equipped creature gets +2/+1.
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/253_Pirate&apos;s Cutlass.png" num="253">KRK</set>
@@ -4047,7 +4051,7 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 		</card>
 		<card>
 			<name>Rusted Mariner</name>
-			<text>When this creature enters, plunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)</text>
+			<text>When Rusted Mariner enters, plunder. (Create a Treasure token, or sacrifice an artifact to draw a card.)</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/255_Rusted Mariner.png" num="255">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4064,7 +4068,7 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 			<name>Towering Dreadnought</name>
 			<text>Trample
 Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)
-Pirate Crew 1 (Tap any number of Pirate you control with total power 1 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+Pirate Crew 1 (Tap any number of Pirates you control with total power 1 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/262_Towering Dreadnought.png" num="262">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4079,7 +4083,7 @@ Pirate Crew 1 (Tap any number of Pirate you control with total power 1 or greate
 		</card>
 		<card>
 			<name>Voyager&apos;s Vessel</name>
-			<text>When this Vehicle enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+			<text>When Voyager&apos;s Vessel enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/263_Voyager&apos;s Vessel.png" num="263">KRK</set>
 			<prop>
@@ -4095,8 +4099,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 		</card>
 		<card>
 			<name>Captain&apos;s Orders</name>
-			<text>Create two 1/1 white Soldier creature tokens.
-If you control four or more creatures, each opponent loses 2 life and you gain 2 life.</text>
+			<text>Create two 1/1 white Soldier creature tokens. Then if you control four or more creatures, each opponent loses 2 life and you gain 2 life.</text>
 			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/211_Captain&apos;s Orders.png" num="211">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4113,7 +4116,7 @@ If you control four or more creatures, each opponent loses 2 life and you gain 2
 		<card>
 			<name>Ravenous Wavekite</name>
 			<text>Flying
-Sacrifice five other artifacts and/or creatures: This creature deals 5 damage to each opponent.</text>
+Sacrifice five other artifacts and/or creatures: Ravenous Wavekite deals 5 damage to each opponent.</text>
 			<set rarity="rare" picurl="https://schwa77.github.io/sets/KRK-files/img/227_Ravenous Wavekite.png" num="227">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4131,7 +4134,7 @@ Sacrifice five other artifacts and/or creatures: This creature deals 5 damage to
 		<card>
 			<name>Rapacious Tyrant</name>
 			<text>Flying, haste
-When this creature enters, you may discard your hand. If you do, plunder seven times. (To plunder, create a Treasure token, or sacrifice an artifact to draw a card.)</text>
+When Rapacious Tyrant enters, you may discard your hand. If you do, plunder seven times. (To plunder, create a Treasure token, or sacrifice an artifact to draw a card.)</text>
 			<set rarity="mythic" picurl="https://schwa77.github.io/sets/KRK-files/img/159_Rapacious Tyrant.png" num="159">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4169,8 +4172,7 @@ Target Vehicle you control becomes an artifact creature until end of turn. (Then
 		</card>
 		<card>
 			<name>Dragon-Eye Lookout</name>
-			<text>First strike
-Whenever this creature attacks, if you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn, create a 4/4 red Dragon creature token that&apos;s tapped and attacking.</text>
+			<text>Whenever Dragon-Eye Lookout attacks, you may sacrifice two Treasures. If you do, create a 4/4 red Dragon creature token that&apos;s tapped and attacking.</text>
 			<set rarity="rare" picurl="https://schwa77.github.io/sets/KRK-files/img/214_Dragon-Eye Lookout.png" num="214">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4180,7 +4182,7 @@ Whenever this creature attacks, if you&apos;ve spent {W}{U}{B}{R}{G} to cast spe
 				<manacost>RG</manacost>
 				<cmc>2</cmc>
 				<colors>RG</colors>
-				<coloridentity>WUBRG</coloridentity>
+				<coloridentity>RG</coloridentity>
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
@@ -4204,7 +4206,7 @@ Whenever this creature attacks, if you&apos;ve spent {W}{U}{B}{R}{G} to cast spe
 		<card>
 			<name>Ship-Scale Behemoth</name>
 			<text>Trample
-You may have this creature enter as a copy of any creature or artifact on the battlefield, except it&apos;s a 6/6 Leviathan in addition to its other types and has trample.</text>
+You may have Ship-Scale Behemoth enter as a copy of any creature or artifact on the battlefield, except it&apos;s a 6/6 Leviathan in addition to its other types and has trample.</text>
 			<set rarity="rare" picurl="https://schwa77.github.io/sets/KRK-files/img/232_Ship-Scale Behemoth.png" num="232">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4243,7 +4245,7 @@ Draw a card. Each opponent discards a card. (Then exile this card. You may cast 
 		</card>
 		<card>
 			<name>Tidal Visionary</name>
-			<text>When this creature enters, draw a card.</text>
+			<text>When Tidal Visionary enters, draw a card.</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/77_Tidal Visionary.png" num="77">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4280,7 +4282,7 @@ Draw a card. Each opponent discards a card. (Then exile this card. You may cast 
 		<card>
 			<name>Serpent KRK</name>
 			<text>Trample</text>
-			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/17t_Serpent.png" num="17">KRK</set>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/18t_Serpent.png" num="18">KRK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4302,7 +4304,7 @@ Draw a card. Each opponent discards a card. (Then exile this card. You may cast 
 		<card>
 			<name>On An Adventure KRK</name>
 			<text>After an Adventure resolves, you can place the exiled card here. You may cast the creature from exile.</text>
-			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/19t_On An Adventure.png" num="19">KRK</set>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/20t_On An Adventure.png" num="20">KRK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4362,7 +4364,7 @@ Draw a card. Each opponent discards a card. (Then exile this card. You may cast 
 		<card>
 			<name>Construct KRK</name>
 			<text></text>
-			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/20t_Construct.png" num="20">KRK</set>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/21t_Construct.png" num="21">KRK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4380,7 +4382,7 @@ Draw a card. Each opponent discards a card. (Then exile this card. You may cast 
 		<card>
 			<name>Daring Adventures KRK</name>
 			<text>{2}, {T}: Draw a card.</text>
-			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/21t_Daring Adventures.png" num="21">KRK</set>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/22t_Daring Adventures.png" num="22">KRK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4396,7 +4398,7 @@ Draw a card. Each opponent discards a card. (Then exile this card. You may cast 
 		<card>
 			<name>Treasure KRK</name>
 			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/22t_Treasure.png" num="22">KRK</set>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/23t_Treasure.png" num="23">KRK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4447,7 +4449,7 @@ Draw a card. Each opponent discards a card. (Then exile this card. You may cast 
 			<name>Weapon KRK</name>
 			<text>Equipped creature gets +1/+1.
 Equip {2}</text>
-			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/24t_Weapon.png" num="24">KRK</set>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/25t_Weapon.png" num="25">KRK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4469,7 +4471,7 @@ Equip {2}</text>
 		<card>
 			<name>Vehicle KRK</name>
 			<text>Crew 1 (Tap any number of creatures you control with total power 1 or more: This token becomes an artifact creature until end of turn.)</text>
-			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/23t_Vehicle.png" num="23">KRK</set>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/24t_Vehicle.png" num="24">KRK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4485,7 +4487,7 @@ Equip {2}</text>
 		</card>
 		<card>
 			<name>Search Beyond the Empire</name>
-			<text>When this enchantment enters, look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom in a random order.
+			<text>When Search Beyond the Empire enters, look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom in a random order.
 Permanent spells you cast with an Adventure cost {1} less to cast. (They don&apos;t need to have gone on the Adventure first.)</text>
 			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/202_Search Beyond the Empire.png" num="202">KRK</set>
 			<prop>
@@ -4586,7 +4588,7 @@ Whenever a creature with an Adventure you control enters, that creature gets +1/
 		<card>
 			<name>Emperor&apos;s Executioner // Find Guilty</name>
 			<text>Flash
-This creature can&apos;t block.
+Emperor&apos;s Executioner can&apos;t block.
 
 ---
 
@@ -4607,8 +4609,8 @@ Each opponent sacrifices a creature or planeswalker of their choice. (Then exile
 		</card>
 		<card>
 			<name>Sunken Casket</name>
-			<text>When this artifact is put into a graveyard from the battlefield, create a tapped 2/2 black Zombie creature token.
-{6}, {T}, Sacrifice this artifact: Target creature gets -6/-6 until end of turn.</text>
+			<text>When Sunken Casket is put into a graveyard from the battlefield, create a tapped 2/2 black Zombie creature token.
+{6}, {T}, Sacrifice Sunken Casket: Target creature gets -6/-6 until end of turn.</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/260_Sunken Casket.png" num="260">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4622,7 +4624,7 @@ Each opponent sacrifices a creature or planeswalker of their choice. (Then exile
 		</card>
 		<card>
 			<name>Reefbed Hatchling</name>
-			<text>{5}{U}, Sacrifice this creature: Reveal the top eight cards of your library. You may put a Kraken, Leviathan, Octopus, or Serpent card from among them onto the battlefield. Put the rest on the bottom of your library in a random order. Activate only as a sorcery.</text>
+			<text>{5}{U}, Sacrifice Reefbed Hatchling: Reveal the top eight cards of your library. You may put a Kraken, Leviathan, Octopus, or Serpent card from among them onto the battlefield. Put the rest on the bottom of your library in a random order. Activate only as a sorcery.</text>
 			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/66_Reefbed Hatchling.png" num="66">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4639,8 +4641,8 @@ Each opponent sacrifices a creature or planeswalker of their choice. (Then exile
 		</card>
 		<card>
 			<name>Dreadtide Marauder</name>
-			<text>When this creature enters, you may sacrifice another creature or an artifact. When you do, destroy target creature, planeswalker, or Vehicle.
-When this creature dies, create two 2/1 black Pirate creature tokens with &quot;This token can&apos;t block.&quot;</text>
+			<text>When Dreadtide Marauder enters, you may sacrifice another creature or an artifact. When you do, destroy target creature, planeswalker, or Vehicle.
+When Dreadtide Marauder dies, create two 2/1 black Pirate creature tokens with &quot;This token can&apos;t block.&quot;</text>
 			<set rarity="rare" picurl="https://schwa77.github.io/sets/KRK-files/img/101_Dreadtide Marauder.png" num="101">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4678,7 +4680,7 @@ Discard a card, then draw a card. You may put a land card from your hand onto th
 		</card>
 		<card>
 			<name>Storm Coast Drakemaster</name>
-			<text>When this creature enters, create a 1/1 blue Drake creature token with flying.</text>
+			<text>When Storm Coast Drakemaster enters, create a 1/1 blue Drake creature token with flying.</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/73_Storm Coast Drakemaster.png" num="73">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4696,7 +4698,7 @@ Discard a card, then draw a card. You may put a land card from your hand onto th
 		<card>
 			<name>Everywhere KRK</name>
 			<text>This land is a Plains, Island, Swamp, Mountain, and Forest. ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</text>
-			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/25t_Everywhere.png" num="25">KRK</set>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/26t_Everywhere.png" num="26">KRK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4712,8 +4714,8 @@ Discard a card, then draw a card. You may put a land card from your hand onto th
 		</card>
 		<card>
 			<name>Loose Cargo</name>
-			<text>When this artifact enters, each opponent discards a card.
-{3}{B}{B}, Sacrifice this artifact: Create two 2/1 black Pirate creature tokens with &quot;This token can&apos;t block.&quot;</text>
+			<text>When Loose Cargo enters, each opponent discards a card.
+{3}{B}{B}, Sacrifice Loose Cargo: Create two 2/1 black Pirate creature tokens with &quot;This token can&apos;t block.&quot;</text>
 			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/111_Loose Cargo.png" num="111">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4765,7 +4767,7 @@ Other Krakens, Leviathans, Octopuses, and Serpents you control have trample.</te
 		<card>
 			<name>Shark KRK</name>
 			<text></text>
-			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/18t_Shark.png" num="18">KRK</set>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/19t_Shark.png" num="19">KRK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4783,8 +4785,8 @@ Other Krakens, Leviathans, Octopuses, and Serpents you control have trample.</te
 		</card>
 		<card>
 			<name>Maelstrom&apos;s Maw</name>
-			<text>When this enchantment enters, create a 4/4 green Serpent creature token with trample.
-Whenever you cast a Kraken, Leviathan, Octopus, or Serpent spell, you may return this enchantment to its owner&apos;s hand.</text>
+			<text>When Maelstrom&apos;s Maw enters, create a 4/4 green Serpent creature token with trample.
+Whenever you cast a Kraken, Leviathan, Octopus, or Serpent spell, you may return Maelstrom&apos;s Maw to its owner&apos;s hand.</text>
 			<set rarity="rare" picurl="https://schwa77.github.io/sets/KRK-files/img/193_Maelstrom&apos;s Maw.png" num="193">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4800,8 +4802,8 @@ Whenever you cast a Kraken, Leviathan, Octopus, or Serpent spell, you may return
 		</card>
 		<card>
 			<name>Marooned Mutineer</name>
-			<text>This creature can&apos;t block.
-This creature has haste as long as you control an artifact.</text>
+			<text>Marooned Mutineer can&apos;t block.
+Marooned Mutineer has haste as long as you control an artifact.</text>
 			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/154_Marooned Mutineer.png" num="154">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4819,7 +4821,7 @@ This creature has haste as long as you control an artifact.</text>
 		<card>
 			<name>Hired Hand</name>
 			<text>First strike, haste
-Whenever this creature deals combat damage to a player or planeswalker, if you spent mana from a Treasure to cast a spell this turn, create a 2/1 black Pirate creature token with &quot;This token can&apos;t block.&quot;</text>
+Whenever Hired Hand deals combat damage to a player or planeswalker, if you spent mana from a Treasure to cast a spell this turn, create a 2/1 black Pirate creature token with &quot;This token can&apos;t block.&quot;</text>
 			<set rarity="rare" picurl="https://schwa77.github.io/sets/KRK-files/img/148_Hired Hand.png" num="148">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4838,7 +4840,7 @@ Whenever this creature deals combat damage to a player or planeswalker, if you s
 			<name>Eye of the Eight Winds</name>
 			<text>{T}: Add {C}.
 {T}: Add one mana of any color. Spend this mana only to cast Kraken, Leviathan, Octopus, or Serpent spells.
-{8}: This land becomes an 8/8 Octopus creature until end of turn.</text>
+{8}: Eye of the Eight Winds becomes an 8/8 Octopus creature until end of turn.</text>
 			<set rarity="rare" picurl="https://schwa77.github.io/sets/KRK-files/img/265_Eye of the Eight Winds.png" num="265">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -5039,7 +5041,7 @@ Whenever this creature deals combat damage to a player or planeswalker, if you s
 		<card>
 			<name>Affectionate Mimic</name>
 			<text>{T}, Sacrifice this creature: Add one mana of any color.
-If you would create one or more tokens, you may instead create that many tokens that are copies of this creature, except they don&apos;t have this ability.</text>
+If you would create one or more tokens, you may instead create that many tokens that are copies of Affectionate Mimic, except they don&apos;t have this ability.</text>
 			<set rarity="rare" picurl="https://schwa77.github.io/sets/KRK-files/img/236_Affectionate Mimic.png" num="236">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -5073,9 +5075,9 @@ If you would create one or more tokens, you may instead create that many tokens 
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Pirate Token A (M20) KRK</name>
+			<name>Pirate Token (A) KRK</name>
 			<text>This token can&apos;t block.</text>
-			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/11t_Pirate Token A (M20).png" num="11">KRK</set>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/11t_Pirate Token (A).png" num="11">KRK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5101,7 +5103,7 @@ If you would create one or more tokens, you may instead create that many tokens 
 		<card>
 			<name>Zombie KRK</name>
 			<text></text>
-			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/14t_Zombie.png" num="14">KRK</set>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/15t_Zombie.png" num="15">KRK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5124,7 +5126,7 @@ If you would create one or more tokens, you may instead create that many tokens 
 		<card>
 			<name>Dragon KRK</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/15t_Dragon.png" num="15">KRK</set>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/16t_Dragon.png" num="16">KRK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5143,7 +5145,7 @@ If you would create one or more tokens, you may instead create that many tokens 
 		<card>
 			<name>Elemental KRK</name>
 			<text></text>
-			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/16t_Elemental.png" num="16">KRK</set>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/17t_Elemental.png" num="17">KRK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5160,9 +5162,9 @@ If you would create one or more tokens, you may instead create that many tokens 
 			<reverse_related>Horizon Communer</reverse_related>
 		</card>
 		<card>
-			<name>Pirate Token B (M20) KRK</name>
+			<name>Pirate Token (B) KRK</name>
 			<text>This token can&apos;t block.</text>
-			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/12t_Pirate Token B (M20).png" num="12">KRK</set>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/12t_Pirate Token (B).png" num="12">KRK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5186,9 +5188,9 @@ If you would create one or more tokens, you may instead create that many tokens 
 			<reverse_related>Beachside Barter</reverse_related>
 		</card>
 		<card>
-			<name>Pirate Token B (M20) KRK</name>
+			<name>Pirate Token (C) KRK</name>
 			<text>This token can&apos;t block.</text>
-			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/13t_Pirate Token B (M20).png" num="13">KRK</set>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/13t_Pirate Token (C).png" num="13">KRK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5213,8 +5215,8 @@ If you would create one or more tokens, you may instead create that many tokens 
 		</card>
 		<card>
 			<name>Partners in Crime</name>
-			<text>When this enchantment enters, create two 2/1 black Pirate creature tokens with &quot;This token can&apos;t block.&quot; They gain haste until end of turn.
-{3}{R}{R}, Sacrifice this enchantment: Creatures you control get +2/+1 and gain trample until end of turn. Activate only as a sorcery.</text>
+			<text>When Partners in Crime enters, create two 2/1 black Pirate creature tokens with &quot;This token can&apos;t block.&quot; They gain haste until end of turn.
+{3}{R}{R}, Sacrifice Partners in Crime: Creatures you control get +2/+1 and gain trample until end of turn. Activate only as a sorcery.</text>
 			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/156_Partners in Crime.png" num="156">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -5230,7 +5232,7 @@ If you would create one or more tokens, you may instead create that many tokens 
 		</card>
 		<card>
 			<name>Brackish Channeler // Call the Depths</name>
-			<text>When this creature enters, return up to one target creature or artifact to its owner&apos;s hand.
+			<text>When Brackish Channeler enters, return up to one target creature or artifact to its owner&apos;s hand.
 
 ---
 
@@ -5251,7 +5253,7 @@ Up to one target artifact or creature you control becomes a 4/4 Kraken creature 
 		</card>
 		<card>
 			<name>Razorfin</name>
-			<text>When this creature enters, destroy up to one target artifact.</text>
+			<text>When Razorfin enters, destroy up to one target artifact.</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/160_Razorfin.png" num="160">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -5286,9 +5288,9 @@ Up to one target artifact or creature you control becomes a 4/4 Kraken creature 
 		<card>
 			<name>Edgeseeker Flagship</name>
 			<text>Trample
-This Vehicle enters with four +1/+1 counters on it.
+Edgeseeker Flagship enters with four +1/+1 counters on it.
 Landfall — Whenever a land you control enters, put two +1/+1 counters on this Vehicle. You may have it become an artifact creature until end of turn.
-Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+Crew 2</text>
 			<set rarity="rare" picurl="https://schwa77.github.io/sets/KRK-files/img/180_Edgeseeker Flagship.png" num="180">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -5327,7 +5329,7 @@ Return target artifact or creature to its owner&apos;s hand. (Then exile this ca
 		<card>
 			<name>Corsair&apos;s Companion</name>
 			<text>Flying
-Whenever this creature becomes tapped, another target creature or Vehicle you control gains flying until end of turn.</text>
+Whenever Corsair&apos;s Companion becomes tapped, another target creature or Vehicle you control gains flying until end of turn.</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/47_Corsair&apos;s Companion.png" num="47">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -5345,7 +5347,7 @@ Whenever this creature becomes tapped, another target creature or Vehicle you co
 		<card>
 			<name>Thieving Accomplice</name>
 			<text>Flying
-Whenever an artifact you control enters, this creature gets +1/+1 until end of turn. If that artifact was a Vehicle, instead put a +1/+1 counter on this creature.</text>
+Whenever an artifact you control enters, Thieving Accomplice gets +1/+1 until end of turn. If that artifact was a Vehicle, instead put a +1/+1 counter on Thieving Accomplice.</text>
 			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/75_Thieving Accomplice.png" num="75">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -5362,7 +5364,7 @@ Whenever an artifact you control enters, this creature gets +1/+1 until end of t
 		</card>
 		<card>
 			<name>Uncharted Haven</name>
-			<text>This land enters tapped. As it enters, choose a color.
+			<text>Uncharted Haven enters tapped. As it enters, choose a color.
 {T}: Add one mana of the chosen color.</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/267_Uncharted Haven.png" num="267">KRK</set>
 			<prop>
@@ -5392,7 +5394,7 @@ Whenever an artifact you control enters, this creature gets +1/+1 until end of t
 		</card>
 		<card>
 			<name>Tortun Turncoat</name>
-			<text>When this creature enters, it deals 2 damage to target player or planeswalker and you gain 2 life.</text>
+			<text>When Tortun Turncoat enters, it deals 2 damage to target player or planeswalker and you gain 2 life.</text>
 			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/124_Tortun Turncoat.png" num="124">KRK</set>
 			<prop>
 				<layout>normal</layout>
@@ -5409,7 +5411,7 @@ Whenever an artifact you control enters, this creature gets +1/+1 until end of t
 		</card>
 		<card>
 			<name>Corsair Firebomb</name>
-			<text>When this Equipment enters, it deals 2 damage to up to one target creature or planeswalker.
+			<text>When Corsair Firebomb enters, it deals 2 damage to up to one target creature or planeswalker.
 Whenever equipped creature becomes blocked, it deals 1 damage to each creature blocking it.
 Equip {1}</text>
 			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/KRK-files/img/240_Corsair Firebomb.png" num="240">KRK</set>
@@ -5443,7 +5445,7 @@ Hellfire Volley deals 2 damage to each creature.</text>
 		<card>
 			<name>Lilith, Seafaring Scribe Emblem KRK</name>
 			<text>Whenever an opponent casts their first spell each turn, you gain control of it and may choose new targets.</text>
-			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/27t_Lilith, Seafaring Scribe Emblem.png" num="27">KRK</set>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/28t_Lilith, Seafaring Scribe Emblem.png" num="28">KRK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5458,7 +5460,7 @@ Hellfire Volley deals 2 damage to each creature.</text>
 		<card>
 			<name>Kiora, Voice of the Deep Emblem KRK</name>
 			<text>Whenever you cast a creature spell, search your library for a creature card with equal or lesser mana value and put it onto the battlefield. Then shuffle.</text>
-			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/26t_Kiora, Voice of the Deep Emblem.png" num="26">KRK</set>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/27t_Kiora, Voice of the Deep Emblem.png" num="27">KRK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5469,6 +5471,32 @@ Hellfire Volley deals 2 damage to each creature.</text>
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
+		</card>
+		<card>
+			<name>Pirate Token (D) KRK</name>
+			<text>This token can&apos;t block.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/KRK-files/img/14t_Pirate Token (D).png" num="14">KRK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse_related count="2">Dreadtide Marauder</reverse_related>
+			<reverse_related count="2">Loose Cargo</reverse_related>
+			<reverse_related>Tandem Hirelings</reverse_related>
+			<reverse_related>Audra, Raucous Rallier</reverse_related>
+			<reverse_related>Charismatic Captain</reverse_related>
+			<reverse_related>Glittering Trove</reverse_related>
+			<reverse_related>Glorybound Knaves</reverse_related>
+			<reverse_related>Beachside Barter</reverse_related>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

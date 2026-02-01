@@ -1,4 +1,687 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+The Living Forge added.
+M-80, Clockwork Crewmate added.
+Trade Route Navigators added.
+Seabound Spirit added.
+Marquisian Seafarer added.
+Pirate Token (A) added.
+Pirate Token (B) added.
+Pirate Token (C) added.
+Pirate Token (D) added.
+
+Ria, Master Smith removed.
+M-80, Clockwork Captain removed.
+Trade Route Navigator removed.
+Seabound Wraith removed.
+Marquisian Quartermaster removed.
+Pirate Token A (M20) removed.
+Pirate Token B (M20) removed.
+Pirate Token B (M20) removed.
+
+Marquisian Flagship
+rules_text: Whenever this Vehicle attacks, return target nonland permanent card with mana value 3 or less from your graveyard to the battlefield tapped.
+Crew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Whenever Marquisian Flagship attacks, return target nonland permanent card with mana value 3 or less from your graveyard to the battlefield tapped.
+Crew 3
+
+Spectral Sabers
+rules_text: When this Equipment enters, create a 1/1 white Spirit creature token with flying and attach this Equipment to it.
+Equipped creature gets +1/+1 for each artifact you control.
+Equip {3} => When Spectral Sabers enters, create a 1/1 white Spirit creature token with flying and attach this Equipment to it.
+Equipped creature gets +1/+1 for each artifact you control.
+Equip {3}
+
+Crimza Taal Envoy
+rules_text: When this creature enters, you may search your library for an artifact card or a card with an Adventure, reveal it, then shuffle and put that card on top. => When Crimza Taal Envoy enters, you may search your library for an artifact card or a card with an Adventure, reveal it, then shuffle and put that card on top.
+
+Marquisian Commander
+rules_text: When this creature enters, you may attach target Equipment you control to it. => When Marquisian Commander enters, you may attach target Equipment you control to it.
+
+Windrider Roc
+
+Marquisian Skyship
+rules_text: Flying
+Whenever this Vehicle or another artifact you control enters, create a 1/1 white Soldier creature token. This ability triggers only once each turn.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Flying
+Whenever Marquisian Skyship or another artifact you control enters, create a 1/1 white Soldier creature token. This ability triggers only once each turn.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Saddled Scuttleback
+rules_text: When this creature enters, you may search your library for a Crab, Fish, Jellyfish, Kraken, Leviathan, Merfolk, Nautilus, Octopus, Otter, Oyster, Pirate, Seal, Serpent, Shark, Shrimp, Sponge, Squid, Starfish, Trilobite, Turtle, Whale, or Island card, reveal it, put it into your hand, then shuffle. => When Saddled Scuttleback enters, you may search your library for a Crab, Fish, Jellyfish, Kraken, Leviathan, Merfolk, Nautilus, Octopus, Otter, Oyster, Pirate, Seal, Serpent, Shark, Shrimp, Sponge, Squid, Starfish, Trilobite, Turtle, Whale, or Island card, reveal it, put it into your hand, then shuffle.
+
+Shifting Sailor
+rules_text: You may have this creature enter as a copy of a creature or artifact you control. => You may have Shifting Sailor enter as a copy of a creature or artifact you control.
+
+Glorybound Seablade
+pt: 2/1 => 2/2
+
+Thalassophobia
+rules_text: When this enchantment enters, draw a card.
+Whenever you draw a card, create a tapped 1/1 blue Tentacle creature token.
+Sacrifice this enchantment and eight Tentacles: Search your library for a Kraken, Leviathan, Octopus, or Serpent creature card and put it onto the battlefield, then shuffle. => When Thalassophobia enters, draw a card.
+Whenever you draw a card, create a tapped 1/1 blue Tentacle creature token.
+Sacrifice Thalassophobia and eight Tentacles: Search your library for a Kraken, Leviathan, Octopus, or Serpent creature card and put it onto the battlefield, then shuffle.
+
+Brineborn Cutthroat
+rules_text: Flash
+Whenever you cast a spell during an opponent's turn, put a +1/+1 counter on this creature. => Flash
+Whenever you cast a spell during an opponent's turn, put a +1/+1 counter on Brineborn Cutthroat.
+
+Ghostcrew Captain
+rules_text: Flash
+When this creature enters, tap it and up to one target creature or artifact you don't control. => Flash
+When Ghostcrew Captain enters, tap it and up to one target creature or artifact you don't control.
+
+Hullhide Colossus
+rules_text: Vigilance
+Whenever another artifact you control enters, put a +1/+1 counter on this creature. => Vigilance
+Whenever another artifact you control enters, put a +1/+1 counter on Hullhide Colossus.
+
+Deep Sea Devastator
+rules_text: This creature can't be blocked except by Krakens, Leviathans, Octopuses, and Serpents.
+When this creature enters, if you control another Kraken, Leviathan, Octopus, or Serpent, you may return target creature or Vehicle to its owner's hand. => Deep Sea Devastator can't be blocked except by Krakens, Leviathans, Octopuses, and Serpents.
+When Deep Sea Devastator enters, if you control another Kraken, Leviathan, Octopus, or Serpent, you may return target creature or Vehicle to its owner's hand.
+
+Skysail Galleon
+rules_text: Flying
+Whenever this Vehicle deals combat damage to a player or planeswalker, draw a card.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Flying
+Whenever Skysail Galleon deals combat damage to a player or planeswalker, draw a card.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Ironworks Frigate
+rules_text: Vigilance
+Whenever you cast a noncreature spell, you may have this Vehicle become an artifact creature until end of turn.
+Crew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Vigilance
+Whenever you cast a noncreature spell, you may have Ironworks Frigate become an artifact creature until end of turn.
+Crew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Dreadtide Flagship
+rules_text: Menace
+Exile an artifact or creature card from your graveyard: This Vehicle becomes an artifact creature until end of turn.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Menace
+Exile an artifact or creature card from your graveyard: Dreadtide Flagship becomes an artifact creature until end of turn.
+Crew 1
+
+Raider's Remains
+rules_text: This creature can't block.
+You may cast this card as an Adventure from your graveyard. [i](You may play it from exile later.)[/i] => Raider's Remains can't block.
+You may cast this card as an Adventure from your graveyard. [i](You may play it from exile later.)[/i]
+
+Azla's Monstrosity
+rules_text: As an additional cost to cast this spell, pay {1}{B}, sacrifice a creature, or discard a card.
+When this creature enters, each opponent sacrifices a creature of their choice and discards a card. => As an additional cost to cast this spell, pay {1}{B}, sacrifice a creature, or discard a card.
+When Azla's Monstrosity enters, each opponent sacrifices a creature of their choice and discards a card.
+
+Dreadtide Grunt
+rules_text: {1}, Sacrifice a creature or artifact: Put a +1/+1 counter on this creature. => {1}, Sacrifice a creature or artifact: Put a +1/+1 counter on Dreadtide Grunt.
+
+March of the Dreadtide
+rules_text: When this enchantment enters, plunder. [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i]
+Whenever you draw your second card each turn, create a 2/2 black Zombie creature token. => When March of the Dreadtide enters, plunder. [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i]
+Whenever you draw your second card each turn, create a 2/2 black Zombie creature token.
+
+What Lurks Beneath
+rules_text: When this enchantment enters, you may return target creature card from your graveyard to your hand.
+{3}{B}{B}, Sacrifice this enchantment: Return target creature card from your graveyard to the battlefield. It can't block this turn. => When What Lurks Beneath enters, you may return target creature card from your graveyard to your hand.
+{3}{B}{B}, Sacrifice What Lurks Beneath: Return target creature card from your graveyard to the battlefield. It can't block this turn.
+
+Charismatic Captain
+rules_text: At the beginning of combat on your turn, create a 2/1 black Pirate creature token with “This token can't block.” It gains haste until end of turn.
+Whenever this creature attacks, gain control of target artifact with mana value less than or equal to the number of attacking Pirates you control. => At the beginning of combat on your turn, create a 2/1 black Pirate creature token with “This token can't block.” It gains haste until end of turn.
+Whenever Charismatic Captain attacks, gain control of target artifact with mana value less than or equal to the number of attacking Pirates you control.
+
+Mapcaster Mage
+rules_text: Flash
+When this creature enters, you may cast a copy of an Adventure spell from target permanent card with an Adventure in your graveyard. [i](You still pay its costs.)[/i] => Flash
+When Mapcaster Mage enters, you may cast a copy of an Adventure spell from target permanent card with an Adventure in your graveyard. [i](You still pay its costs.)[/i]
+
+Tavern Gambler
+rules_text: When this creature enters, exile up to one target instant or sorcery card from your graveyard. Until end of turn, you may cast that card. => When Tavern Gambler enters, exile up to one target instant or sorcery card from your graveyard. Until end of turn, you may cast that card.
+
+Firebrand Flagship
+rules_text: Whenever this Vehicle attacks, create a token that's a copy of a creature that crewed it this turn. That token enters tapped and attacking. Exile the token at end of combat.
+Crew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Whenever Firebrand Flagship attacks, create a token that's a copy of a creature that crewed it this turn. That token enters tapped and attacking. Exile the token at end of combat.
+Crew 3
+
+Powder Monkeys
+rules_text: When this creature enters, choose one—
+• It deals 1 damage to any target.
+• Destroy target artifact. => When Powder Monkeys enters, choose one —
+• It deals 1 damage to any target.
+• Destroy target artifact.
+
+Twinshot Renegade
+rules_text: When this creature enters, plunder. [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i]
+Whenever you sacrifice a permanent, you may have this creature deal 1 damage to any target. Do this only once per turn. => When Twinshot Renegade enters, plunder. [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i]
+Whenever you sacrifice a permanent, Twinshot Renegade deals 1 damage to any target. This ability triggers only once each turn.
+
+Macrawcodiles
+rules_text: Whenever you cast an Adventure spell, put a +1/+1 counter on this creature. It gains flying until end of turn. => Haste
+Whenever you cast an Adventure spell, put a +1/+1 counter on Macrawcodiles. It gains flying until end of turn.
+
+Deserter's Dinghy
+rules_text: Haste, menace
+When this Vehicle enters, it becomes an artifact creature until end of turn.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Haste, menace
+When Deserter's Dinghy enters, it becomes an artifact creature until end of turn.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Jadon's Messenger
+rules_text: {R}, Sacrifice an artifact: Return target artifact card from your graveyard to the battlefield. That artifact gains haste until end of turn and deals damage equal to its mana value to this creature. => {R}, Sacrifice an artifact: Return target artifact card from your graveyard to the battlefield. That artifact gains haste until end of turn and deals damage equal to its mana value to Jadon's Messenger. Activate only as a sorcery.
+
+Frenetic Freebooter
+rules_text: During your turn, this creature has first strike. => During your turn, Frenetic Freebooter has first strike.
+
+Gangplank Marauders
+rules_text: When this creature enters, other creatures you control get +1/+1 and gain trample until end of turn. => When Gangplank Marauders enters, other creatures you control get +1/+1 and gain trample until end of turn.
+
+Octotyrant
+rules_text: When this creature enters, create eight 1/1 blue Tentacle creature tokens. => When Octotyrant enters, create eight 1/1 blue Tentacle creature tokens.
+
+Dreadtide Hellraiser
+rules_text: When this creature enters, return target card from your graveyard to your hand. => When Dreadtide Hellraiser enters, return target card from your graveyard to your hand.
+
+Kiora's Coiler
+rules_text: Trample
+Whenever another Kraken, Leviathan, Octopus, or Serpent you control enters, this creature fights up to one target creature. => Trample
+Whenever another Kraken, Leviathan, Octopus, or Serpent you control enters, Kiora's Coiler fights up to one target creature.
+
+Malvo's Quartermaster
+rules_text: When this creature enters, plunder. [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i]
+{T}, Sacrifice a Treasure: Create a tapped colorless land token named Everywhere that is every basic land type. [i](It has “{T}: Add {W}, {U}, {B}, {R}, or {G}.”)[/i] => When Malvo's Quartermaster enters, plunder. [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i]
+{T}, Sacrifice a Treasure: Create a tapped colorless land token named Everywhere that is every basic land type. [i](It has “{T}: Add {W}, {U}, {B}, {R}, or {G}.”)[/i]
+
+Imperial Expeditioner
+rules_text: When this creature enters, create a 1/1 white Soldier creature token.
+This creature gets +1/+1 for each creature you control. => When Imperial Expeditioner enters, create a 1/1 white Soldier creature token.
+Imperial Expeditioner gets +1/+1 for each creature you control.
+
+Great Wight
+rules_text: This creature can't be blocked by creatures with power 2 or less.
+This creature enters with a number of +1/+1 counters on it equal to the greatest power among creature cards in your graveyard. => Great Wight can't be blocked by creatures with power 2 or less.
+Great Wight enters with a number of +1/+1 counters on it equal to the greatest power among creature cards in your graveyard.
+
+Dry Land
+
+Horizon Communer
+rules_text: Whenever this creature attacks, you may pay {W}{U}{B}{R}{G}. If you do, create a 3/3 green Elemental creature token. => Whenever Horizon Communer attacks, you may pay {W}{U}{B}{R}{G}. If you do, create a 3/3 green Elemental creature token.
+
+Ruin Delvers
+rules_text: Menace
+Whenever this creature attacks, you may put a creature card with mana value 3 or less from your hand or exiled on an Adventure onto the battlefield tapped and attacking. Return that creature to your hand at end of combat. => Menace
+Whenever Ruin Delvers attacks, you may put a creature card with mana value 3 or less from your hand or exiled on an Adventure onto the battlefield tapped and attacking. Return that creature to your hand at end of combat.
+
+Sewer Skulk
+rules_text: Menace
+Whenever you draw your second card each turn, put a +1/+1 counter on this creature. => Menace [i](This creature can't be blocked except by two or more creatures.)[/i]
+Whenever you draw your second card each turn, put a +1/+1 counter on Sewer Skulk.
+
+Glorybound Cutthroat
+rules_text: This creature can't block.
+Whenever you sacrifice another creature or an artifact, put a +1/+1 counter on this creature.
+{3}{B}{R}, Sacrifice this creature: It deals damage equal to its power to any target. => Glorybound Cutthroat can't block.
+Whenever you sacrifice another creature or an artifact, put a +1/+1 counter on Glorybound Cutthroat.
+{3}{B}{R}, Sacrifice Glorybound Cutthroat: It deals damage equal to its power to target creature or planeswalker.
+
+Cunning Quartermaster
+rules_text: When this creature enters, search your library for a Vehicle card, reveal it, and put it into your hand. Then shuffle.
+Whenever this creature crews a Vehicle, that Vehicle gets +1/+1 and gains trample until end of turn. => When Cunning Quartermaster enters, search your library for a Vehicle card, reveal it, and put it into your hand. Then shuffle.
+Whenever Cunning Quartermaster crews a Vehicle, that Vehicle gets +1/+1 and gains trample until end of turn.
+
+Animated Hoard
+rules_text: {T}, Sacrifice this creature: Add one mana of any color.
+{2}, Exile this card and another artifact card from from your graveyard: Draw a card. => {T}, Sacrifice Animated Hoard: Add one mana of any color.
+{2}, Exile this card and another artifact card from from your graveyard: Draw a card.
+
+Marquisian Sentry
+rules_text: Whenever this creature enters or becomes tapped, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Whenever Marquisian Sentry enters or becomes tapped, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Lantern of the Lost
+rules_text: When this artifact enters, exile target card from a graveyard.
+{1}, {T}, Exile this artifact: Exile all cards from all graveyards, then draw a card. => When Lantern of the Lost enters, exile target card from a graveyard.
+{1}, {T}, Exile Lantern of the Lost: Exile all cards from all graveyards, then draw a card.
+
+Shoreline Beacon
+rules_text: When this artifact enters, draw a card.
+{4}, {T}: Target artifact or creature can't be blocked this turn. If that permanent is a Vehicle, you may have it become a creature until end of turn. => When Shoreline Beacon enters, draw a card.
+{4}, {T}: Target artifact or creature can't be blocked this turn. If that permanent is a Vehicle, you may have it become a creature until end of turn.
+
+Pillager's Galleon
+rules_text: Whenever this Vehicle deals combat damage to a player or planeswalker, plunder. [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i]
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Whenever Pillager's Galleon deals combat damage to a player or planeswalker, plunder. [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i]
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Spectral Sloop
+rules_text: Vigilance
+Whenever this Vehicle deals combat damage to a player or planeswalker, create a tapped 2/2 black Zombie creature token.
+Crew 2 => Vigilance
+Whenever Spectral Sloop deals combat damage to a player or planeswalker, create a tapped 2/2 black Zombie creature token.
+Crew 2
+
+Ironworks Arsenal
+rules_text: This artifact with three arms counters on it.
+{T}, Remove an arms counter from this artifact: Create a Weapon token. You may attach it to up to one target creature. Activate only as a sorcery. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i] => Ironworks Arsenal with three arms counters on it.
+{T}, Remove an arms counter from Ironworks Arsenal: Create a Weapon token. You may attach it to up to one target creature. Activate only as a sorcery. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+
+Pilferer's Pouch
+rules_text: This artifact enters tapped with three coin counters on it.
+{T}, Remove a coin counter from this artifact: Plunder. [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i] => Pilferer's Pouch enters tapped with three coin counters on it.
+{T}, Remove a coin counter from Pilferer's Pouch: Plunder. [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i]
+
+Journey's Preparation
+rules_text: When this enchantment enters, search your library for an artifact card, reveal it, put it into your hand, then shuffle.
+Creatures you control crew Vehicles as though their power were 2 greater. => When Journey's Preparation enters, search your library for an artifact card, reveal it, put it into your hand, then shuffle.
+Creatures you control crew Vehicles as though their power were 2 greater.
+
+Fleetcrusher Titan
+rules_text: Trample
+When this creature enters, destroy target nonland permanent you don't control.
+When this creature dies, create two 4/4 green Serpent creature tokens with trample. => Trample
+When Fleetcrusher Titan enters, destroy target nonland permanent you don't control.
+When Fleetcrusher Titan dies, create two 4/4 green Serpent creature tokens with trample.
+
+Ironworks Skysail
+rules_text: Flying, vigilance
+As long as you control three or more artifacts, this Vehicle is an artifact creature.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Flying, vigilance
+As long as you control three or more artifacts, Ironworks Skysail is an artifact creature.
+Crew 2
+
+Protean Schooner
+rules_text: Whenever a creature with flying crews this Vehicle, this Vehicle gains flying until end of turn. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance. [i](You can crew a Vehicle that's already a creature.)[/i]
+Crew 2 => Whenever a creature with flying crews Protean Schooner, Protean Schooner gains flying until end of turn. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance.
+Crew 2. Activate only once each turn.
+
+Beyond the Horizon
+rules_text: This spell costs {1} less to cast for each artifact you control. [i](After applying discounts to cast, you may sacrifice Treasures for mana to pay remaining costs.)[/i]
+If it isn't an extra turn, take an extra turn after this one. Exile Beyond the Horizon. => Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control. After applying discounts to cast, you may sacrifice Treasures for mana to pay remaining costs.)[/i]
+If it isn't an extra turn, take an extra turn after this one. Exile Beyond the Horizon.
+
+Hellfire Dreadnought
+rules_text: Trample
+When this Vehicle enters, it deals 6 damage to up to one target creature or planeswalker.
+Crew 3 => Trample
+When Hellfire Dreadnought enters, it deals 6 damage to up to one target creature or planeswalker.
+Crew 3
+
+Wayfinder's Telescope
+rules_text: Whenever equipped creature attacks, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{W}{U}{B}{R}{G}, Sacrifice this Equipment: Draw two cards.
+Equip {1} [i]({1}: Attach to target creature you control. Equip only as a sorcery.)[/i] => Whenever equipped creature attacks, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{W}{U}{B}{R}{G}, Sacrifice Wayfinder's Telescope: Draw two cards.
+Equip {1} [i]({1}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+Rising Tide
+cost: {4}{G} => {3}{G}
+rules_text: When this enchantment enters, search your library for a land card and put it onto the battlefield tapped. Then shuffle.
+At the beginning of combat on your turn, if you've spent {W}{U}{B}{R}{G} this turn, untap up to five target lands you control. They become 2/2 Elemental creatures with indestructible and haste until end of turn. => When Rising Tide enters, search your library for a land card and put it onto the battlefield tapped. Then shuffle.
+At the beginning of combat on your turn, untap target land you control. You may have it become an X/X Elemental creature with haste until end of turn, where X is the number of colors among permanents you control. It's still a land.
+
+Cursed Coins
+rules_text: {T}: Put a greed counter on this artifact. You lose X life and add X mana in any combination of colors, where X is the number of greed counters on this artifact. => {T}: Put a greed counter on Cursed Coins. You lose X life and add X mana in any combination of colors, where X is the number of greed counters on Cursed Coins.
+
+Restore Order
+
+Rum Guzzler
+rules_text: Haste
+Whenever this creature attacks, reveal cards from the top of your library until you reveal exactly two nonland cards. Choose one of them. You may cast the chosen spell without paying its mana cost. Then target opponent may cast the spell not chosen this way without paying its mana cost. Then shuffle. => Haste
+Whenever Rum Guzzler attacks, reveal cards from the top of your library until you reveal exactly two nonland cards. Choose one of them. You may cast the chosen spell without paying its mana cost. Then target opponent may cast the spell not chosen this way without paying its mana cost. Then shuffle.
+
+Grand Admiral
+rules_text: Prowess
+When this creature dies, create an X/X colorless Vehicle artifact token with crew 1, where X is this creature's power. => Prowess
+When Grand Admiral dies, create an X/X colorless Vehicle artifact token with crew 1, where X is Grand Admiral's power.
+
+Sword of Greed and Glory
+rules_text: Equipped creature gets +2/+2 and has protection from multicolored.
+Whenever equipped creature deals combat damage to a player, plunder, then exile the top card of that player's library. Until end of turn, you may play that card. [i](To plunder, create a Treasure token, or sacrifice an artifact to draw a card.)[/i]
+Equip {2} => Equipped creature gets +2/+2 and has protection from multicolored.
+Whenever equipped creature deals combat damage to a player, exile the top card of that player's library. Until end of turn, you may play that card. Then plunder. [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i]
+Equip {2}
+
+Novice Navigator
+rules_text: When this creature enters, create a 1/1 white Soldier creature token and a Weapon token. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i] => When Novice Navigator enters, create a 1/1 white Soldier creature token and a Weapon token. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+
+Dockside Warden
+rules_text: Double strike
+When this creature enters, you may put an Equipment card with mana value X or less from your hand onto the battlefield and attach it to this creature. => Double strike
+When Dockside Warden enters, you may put an Equipment card with mana value X or less from your hand onto the battlefield and attach it to Dockside Warden.
+
+Trenchlurker Titan
+rules_text: Ward {4}
+This creature can't be blocked by Pirates or Vehicles. => Ward {4}
+Trenchlurker Titan can't be blocked by Pirates or Vehicles.
+
+Tideweaver Gull
+rules_text: Flying
+Whenever this creature attacks, if you've cast a noncreature spell this turn, tap target creature or artifact. => Flying
+Whenever Tideweaver Gull attacks, if you've cast a noncreature spell this turn, tap target creature or artifact.
+
+Standard-Issue Flintlock
+rules_text: When this Equipment enters, create a 1/1 white Soldier creature token.
+Equipped creature gets +1/+1.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i] => When Standard-Issue Flintlock enters, create a 1/1 white Soldier creature token.
+Equipped creature gets +1/+1.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+Landing Party
+
+Treasure Hunter
+rules_text: When this creature enters, you may return target artifact card from your graveyard to your hand. => When Treasure Hunter enters, you may return target artifact card from your graveyard to your hand.
+
+Governor's Representative
+rules_text: Whenever another creature you control enters, put a +1/+1 counter on this creature. => Whenever another creature you control enters, put a +1/+1 counter 
+on Governor's Representative.
+
+Deft Commodore
+rules_text: When this creature enters, creatures you control get +1/+0 until end of turn. => When Deft Commodore enters, creatures you control get +1/+0 until end of turn.
+
+High and Dry
+rules_text: Flash
+When this enchantment enters, exile up to one target creature or planeswalker until this enchantment leaves the battlefield. => Flash
+When High and Dry enters, exile up to one target creature or planeswalker until this enchantment leaves the battlefield.
+
+Edgeseeker's Valor
+
+Parry
+
+Rally the Isles
+
+Marquisian Rescuers
+rules_text: Flash
+When this creature enters, you may return another target permanent you control to its owner's hand. => Flash
+When Marquisian Rescuers enters, you may return another target permanent you control to its owner's hand.
+
+Welkin Tern
+rules_text: Flying
+This creature can block only creatures with flying. => Flying
+Welkin Tern can block only creatures with flying.
+
+Crimza Taal Smuggler
+rules_text: As long as you've drawn two or more cards this turn, this creature can't be blocked. => As long as you've drawn two or more cards this turn, Crimza Taal Smuggler can't be blocked.
+
+Aelython Renegade
+rules_text: When this creature enters, plunder. [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i] => When Aelython Renegade enters, plunder. [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i]
+
+Shipwreck Kraken
+rules_text: When this creature enters, tap target creature or artifact an opponent controls and put a stun counter on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i] => When Shipwreck Kraken enters, tap target creature or artifact an opponent controls and put a stun counter on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+
+Forgotten Chronicler
+rules_text: Defender
+As long as you've cast a noncreature spell this turn, this creature can attack as though it didn't have defender. => Defender
+As long as you've cast a noncreature spell this turn, Forgotten Chronicler can attack as though it didn't have defender.
+
+Lost at Sea
+rules_text: Enchant creature or Vehicle
+When this Aura enters, you may reveal a Kraken, Leviathan, Octopus, or Serpent card from your hand. If you do, tap enchanted permanent.
+Enchanted permanent doesn't untap during its controller's untap step. => Enchant creature or Vehicle
+When Lost at Sea enters, you may behold a Kraken, Leviathan, Octopus, or Serpent. If you do, tap enchanted permanent. [i](To behold a Kraken, Leviathan, Octopus, or Serpent, choose one you control or reveal one from your hand.)[/i]
+Enchanted permanent can't become untapped and its activated abilities can't be activated.
+
+Ghostly Galleon
+rules_text: When this Vehicle enters, look at the top four cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom in a random order.
+Crew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => When Ghostly Galleon enters, look at the top four cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom in a random order.
+Crew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Shore Up
+
+Arrogant Crewmate
+rules_text: When this creature dies, plunder. [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i] => When Arrogant Crewmate dies, plunder. [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i]
+
+Skyship Ambusher
+rules_text: Flash
+Flying
+When this creature enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Flash
+Flying
+When Skyship Ambusher enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Tandem Hirelings
+rules_text: When this creature enters, create a 2/1 black Pirate creature token with “This token can't block.” => When Tandem Hirelings enters, create a 2/1 black Pirate creature token with “This token can't block.”
+
+Glorybound Scallywags
+rules_text: When this creature enters, target creature you don't control gets -X/-X until end of turn, where X is the number of creatures you control. => When Glorybound Scallywags enters, target creature you don't control gets -X/-X until end of turn, where X is the number of creatures you control.
+
+Gemseeker Grottle
+rules_text: Haste
+When this creature dies, plunder. [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i] => Haste
+When Gemseeker Grottle dies, plunder. [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i]
+
+Munitions Mage
+rules_text: Haste
+This creature can't block. => Haste
+Munitions Mage can't block.
+
+Flintlock Sharpshot
+rules_text: Whenever this creature becomes tapped, it deals 1 damage to target player or planeswalker. => Whenever Flintlock Sharpshot becomes tapped, it deals 1 damage to target player or planeswalker.
+
+Rowdy Cannoneer
+rules_text: Menace
+{1}, Sacrifice another creature or an artifact: This creature deals 1 damage to target player or planeswalker. => Menace [i](This creature can't be blocked except by two or more creatures.)[/i]
+{1}, Sacrifice another creature or an artifact: Rowdy Cannoneer deals 1 damage to target player or planeswalker.
+
+Savvy Duelist
+rules_text: During your turn, this creature has first strike.
+Whenever you cast an Adventure spell or a spell from exile, this creature deals 1 damage to target player or planeswalker. => During your turn, Savvy Duelist has first strike.
+Whenever you cast an Adventure spell or a spell from exile, Savvy Duelist deals 1 damage to target player or planeswalker.
+
+Glorybound Knaves
+rules_text: When this creature enters, you may sacrifice a creature or artifact. If you do, this creature deals 2 damage to any target. => When Glorybound Knaves enters, you may sacrifice a creature or artifact. If you do, this creature deals 2 damage to any target.
+
+Bombarding Brigantine
+rules_text: When this Vehicle enters, it deals 2 damage to target player or planeswalker.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => When Bombarding Brigantine enters, it deals 2 damage to target player or planeswalker.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Tavern Brawl
+
+Glittering Trove
+rules_text: Whenever this artifact enters or is put into a graveyard from the battlefield, create a 2/1 black Pirate creature token with “This token can't block.” => Whenever Glittering Trove enters or is put into a graveyard from the battlefield, create a 2/1 black Pirate creature token with “This token can't block.”
+{3}{R}, Discard a card, Sacrifice Glittering Trove: Draw a card.
+
+Flourishing Reef
+rules_text: Enchant land
+When this Aura enters the battlefield, create a 1/1 blue Fish creature token.
+Enchanted land has “{T}: Add one mana of any color.” => Enchant land
+When Flourishing Reef enters the battlefield, create a 1/1 blue Fish creature token.
+Enchanted land has “{T}: Add one mana of any color.”
+
+Trenchcaller Champion
+rules_text: When this creature enters or dies, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => When Trenchcaller Champion enters or dies, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Octoplant
+rules_text: When this creature enters, look at the top three cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest into your graveyard. => When Octoplant enters, look at the top three cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest into your graveyard.
+
+Dreadtide Deckhands
+rules_text: When this creature enters, create a 2/2 black Zombie creature token. => When Dreadtide Deckhands enters, create a 2/2 black Zombie creature token.
+
+Curio Collectors
+rules_text: When this creature enters, plunder. [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i] => When Curio Collectors enters, plunder. [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i]
+
+Abyssal Behemoth
+rules_text: This spell costs {1} less to cast for each creature card in your graveyard.
+When this creature enters, you gain 4 life. => This spell costs {1} less to cast for each creature card in your graveyard.
+When Abyssal Behemoth enters, you gain 4 life.
+
+Ancient Megalodon
+rules_text: This creature can't be blocked by more than one creature. => Ancient Megalodon can't be blocked by more than one creature.
+
+Beachcomber's Bane
+rules_text: Trample
+Whenever a permanent with an Adventure you control enters, put a +1/+1 counter on this creature. [i](It doesn't need to have gone on the Adventure first.)[/i] => Trample
+Whenever a permanent with an Adventure you control enters, put a +1/+1 counter on Beachcomber's Bane. [i](It doesn't need to have gone on the Adventure first.)[/i]
+
+Aureate Elemental
+rules_text: When this creature enters, scry 2.
+When this creature dies, draw a card. => When Aureate Elemental enters, scry 2.
+When Aureate Elemental dies, draw a card.
+
+Expedition Map
+rules_text: {2}, {T}, Sacrifice this artifact: Search your library for a land card, reveal it, put it into your hand, then shuffle. => {2}, {T}, Sacrifice Expedition Map: Search your library for a land card, reveal it, put it into your hand, then shuffle.
+
+Glittering Spoils
+rules_text: When this artifact enters, you may draw a card. If you do, discard a card.
+{T}: Add one mana of any color. => When Glittering Spoils enters, you may draw a card. If you do, discard a card.
+{T}: Add one mana of any color.
+
+Pirate's Cutlass
+rules_text: When this Equipment enters, attach it to target Pirate you control.
+Equipped creature gets +2/+1.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i] => When Pirate's Cutlass enters, attach it to target Pirate you control.
+Equipped creature gets +2/+1.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+Rusted Mariner
+rules_text: When this creature enters, plunder. [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i] => When Rusted Mariner enters, plunder. [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i]
+
+Towering Dreadnought
+rules_text: Trample
+Crew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+Pirate Crew 1 [i](Tap any number of Pirate you control with total power 1 or greater: This Vehicle becomes an artifact creature until end of turn.)[/i] => Trample
+Crew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+Pirate Crew 1 [i](Tap any number of Pirates you control with total power 1 or greater: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Voyager's Vessel
+rules_text: When this Vehicle enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => When Voyager's Vessel enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Captain's Orders
+rules_text: Create two 1/1 white Soldier creature tokens.
+If you control four or more creatures, each opponent loses 2 life and you gain 2 life. => Create two 1/1 white Soldier creature tokens. Then if you control four or more creatures, each opponent loses 2 life and you gain 2 life.
+
+Ravenous Wavekite
+rules_text: Flying
+Sacrifice five other artifacts and/or creatures: This creature deals 5 damage to each opponent. => Flying
+Sacrifice five other artifacts and/or creatures: Ravenous Wavekite deals 5 damage to each opponent.
+
+Rapacious Tyrant
+rules_text: Flying, haste
+When this creature enters, you may discard your hand. If you do, plunder seven times. [i](To plunder, create a Treasure token, or sacrifice an artifact to draw a card.)[/i] => Flying, haste
+When Rapacious Tyrant enters, you may discard your hand. If you do, plunder seven times. [i](To plunder, create a Treasure token, or sacrifice an artifact to draw a card.)[/i]
+
+Dragon-Eye Lookout
+rules_text: First strike
+Whenever this creature attacks, if you've spent {W}{U}{B}{R}{G} to cast spells this turn, create a 4/4 red Dragon creature token that's tapped and attacking. => Whenever Dragon-Eye Lookout attacks, you may sacrifice two Treasures. If you do, create a 4/4 red Dragon creature token that's tapped and attacking.
+
+Ship-Scale Behemoth
+rules_text: Trample
+You may have this creature enter as a copy of any creature or artifact on the battlefield, except it's a 6/6 Leviathan in addition to its other types and has trample. => Trample
+You may have Ship-Scale Behemoth enter as a copy of any creature or artifact on the battlefield, except it's a 6/6 Leviathan in addition to its other types and has trample.
+
+Tidal Visionary
+rules_text: When this creature enters, draw a card. => When Tidal Visionary enters, draw a card.
+
+Search Beyond the Empire
+rules_text: When this enchantment enters, look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom in a random order.
+Permanent spells you cast with an Adventure cost {1} less to cast. [i](They don't need to have gone on the Adventure first.)[/i] => When Search Beyond the Empire enters, look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom in a random order.
+Permanent spells you cast with an Adventure cost {1} less to cast. [i](They don't need to have gone on the Adventure first.)[/i]
+
+Boundless Horizons
+
+Emperor's Executioner
+rules_text: Flash
+This creature can't block. => Flash
+Emperor's Executioner can't block.
+
+Sunken Casket
+rules_text: When this artifact is put into a graveyard from the battlefield, create a tapped 2/2 black Zombie creature token.
+{6}, {T}, Sacrifice this artifact: Target creature gets -6/-6 until end of turn. => When Sunken Casket is put into a graveyard from the battlefield, create a tapped 2/2 black Zombie creature token.
+{6}, {T}, Sacrifice Sunken Casket: Target creature gets -6/-6 until end of turn.
+
+Reefbed Hatchling
+rules_text: {5}{U}, Sacrifice this creature: Reveal the top eight cards of your library. You may put a Kraken, Leviathan, Octopus, or Serpent card from among them onto the battlefield. Put the rest on the bottom of your library in a random order. Activate only as a sorcery. => {5}{U}, Sacrifice Reefbed Hatchling: Reveal the top eight cards of your library. You may put a Kraken, Leviathan, Octopus, or Serpent card from among them onto the battlefield. Put the rest on the bottom of your library in a random order. Activate only as a sorcery.
+
+Dreadtide Marauder
+rules_text: When this creature enters, you may sacrifice another creature or an artifact. When you do, destroy target creature, planeswalker, or Vehicle.
+When this creature dies, create two 2/1 black Pirate creature tokens with “This token can't block.” => When Dreadtide Marauder enters, you may sacrifice another creature or an artifact. When you do, destroy target creature, planeswalker, or Vehicle.
+When Dreadtide Marauder dies, create two 2/1 black Pirate creature tokens with “This token can't block.”
+
+Storm Coast Drakemaster
+rules_text: When this creature enters, create a 1/1 blue Drake creature token with flying. => When Storm Coast Drakemaster enters, create a 1/1 blue Drake creature token with flying.
+
+Loose Cargo
+rules_text: When this artifact enters, each opponent discards a card.
+{3}{B}{B}, Sacrifice this artifact: Create two 2/1 black Pirate creature tokens with “This token can't block.” => When Loose Cargo enters, each opponent discards a card.
+{3}{B}{B}, Sacrifice Loose Cargo: Create two 2/1 black Pirate creature tokens with “This token can't block.”
+
+Maelstrom's Maw
+rules_text: When this enchantment enters, create a 4/4 green Serpent creature token with trample.
+Whenever you cast a Kraken, Leviathan, Octopus, or Serpent spell, you may return this enchantment to its owner's hand. => When Maelstrom's Maw enters, create a 4/4 green Serpent creature token with trample.
+Whenever you cast a Kraken, Leviathan, Octopus, or Serpent spell, you may return Maelstrom's Maw to its owner's hand.
+
+Marooned Mutineer
+rules_text: This creature can't block.
+This creature has haste as long as you control an artifact. => Marooned Mutineer can't block.
+Marooned Mutineer has haste as long as you control an artifact.
+
+Hired Hand
+rules_text: First strike, haste
+Whenever this creature deals combat damage to a player or planeswalker, if you spent mana from a Treasure to cast a spell this turn, create a 2/1 black Pirate creature token with “This token can't block.” => First strike, haste
+Whenever Hired Hand deals combat damage to a player or planeswalker, if you spent mana from a Treasure to cast a spell this turn, create a 2/1 black Pirate creature token with “This token can't block.”
+
+Eye of the Eight Winds
+rules_text: {T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast Kraken, Leviathan, Octopus, or Serpent spells.
+{8}: This land becomes an 8/8 Octopus creature until end of turn. => {T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast Kraken, Leviathan, Octopus, or Serpent spells.
+{8}: Eye of the Eight Winds becomes an 8/8 Octopus creature until end of turn.
+
+Scout
+
+Affectionate Mimic
+rules_text: {T}, Sacrifice this creature: Add one mana of any color.
+If you would create one or more tokens, you may instead create that many tokens that are copies of this creature, except they don't have this ability. => {T}, Sacrifice this creature: Add one mana of any color.
+If you would create one or more tokens, you may instead create that many tokens that are copies of Affectionate Mimic, except they don't have this ability.
+
+Partners in Crime
+rules_text: When this enchantment enters, create two 2/1 black Pirate creature tokens with “This token can't block.” They gain haste until end of turn.
+{3}{R}{R}, Sacrifice this enchantment: Creatures you control get +2/+1 and gain trample until end of turn. Activate only as a sorcery. => When Partners in Crime enters, create two 2/1 black Pirate creature tokens with “This token can't block.” They gain haste until end of turn.
+{3}{R}{R}, Sacrifice Partners in Crime: Creatures you control get +2/+1 and gain trample until end of turn. Activate only as a sorcery.
+
+Brackish Channeler
+rules_text: When this creature enters, return up to one target creature or artifact to its owner's hand. => When Brackish Channeler enters, return up to one target creature or artifact to its owner's hand.
+
+Razorfin
+rules_text: When this creature enters, destroy up to one target artifact. => When Razorfin enters, destroy up to one target artifact.
+
+Edgeseeker Flagship
+rules_text: Trample
+This Vehicle enters with four +1/+1 counters on it.
+[i]Landfall[/i] — Whenever a land you control enters, put two +1/+1 counters on this Vehicle. You may have it become an artifact creature until end of turn.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Trample
+Edgeseeker Flagship enters with four +1/+1 counters on it.
+[i]Landfall[/i] — Whenever a land you control enters, put two +1/+1 counters on this Vehicle. You may have it become an artifact creature until end of turn.
+Crew 2
+
+Corsair's Companion
+rules_text: Flying
+Whenever this creature becomes tapped, another target creature or Vehicle you control gains flying until end of turn. => Flying
+Whenever Corsair's Companion becomes tapped, another target creature or Vehicle you control gains flying until end of turn.
+
+Thieving Accomplice
+rules_text: Flying
+Whenever an artifact you control enters, this creature gets +1/+1 until end of turn. If that artifact was a Vehicle, instead put a +1/+1 counter on this creature. => Flying
+Whenever an artifact you control enters, Thieving Accomplice gets +1/+1 until end of turn. If that artifact was a Vehicle, instead put a +1/+1 counter on Thieving Accomplice.
+
+Uncharted Haven
+rules_text: This land enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color. => Uncharted Haven enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.
+
+Tortun Turncoat
+rules_text: When this creature enters, it deals 2 damage to target player or planeswalker and you gain 2 life. => When Tortun Turncoat enters, it deals 2 damage to target player or planeswalker and you gain 2 life.
+
+Corsair Firebomb
+rules_text: When this Equipment enters, it deals 2 damage to up to one target creature or planeswalker.
+Whenever equipped creature becomes blocked, it deals 1 damage to each creature blocking it.
+Equip {1} => When Corsair Firebomb enters, it deals 2 damage to up to one target creature or planeswalker.
+Whenever equipped creature becomes blocked, it deals 1 damage to each creature blocking it.
+Equip {1}
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Abyssal Breach added.
