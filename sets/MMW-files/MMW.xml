@@ -5,7 +5,7 @@
 			<name>MMW</name>
 			<longname>Magic&apos;s Most Wanted</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-01-25</releasedate>
+			<releasedate>2026-02-03</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1773,12 +1773,12 @@ Whenever this creature enters or attacks, create two 2/2 black Zombie creature t
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Basilica Splicer</reverse_related>
-			<reverse_related>Surgical Splicer</reverse_related>
-			<reverse_related>Dross Splicer</reverse_related>
-			<reverse_related count="2">Furnace Splicer</reverse_related>
-			<reverse_related>Maze Splicer</reverse_related>
-			<reverse_related>Elesh Norn, Paragon of Perfection</reverse_related>
+			<reverse-related>Basilica Splicer</reverse-related>
+			<reverse-related>Surgical Splicer</reverse-related>
+			<reverse-related>Dross Splicer</reverse-related>
+			<reverse-related count="2">Furnace Splicer</reverse-related>
+			<reverse-related>Maze Splicer</reverse-related>
+			<reverse-related>Elesh Norn, Paragon of Perfection</reverse-related>
 		</card>
 		<card>
 			<name>Centaur MMW</name>

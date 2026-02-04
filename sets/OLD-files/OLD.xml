@@ -5,7 +5,7 @@
 			<name>OLD</name>
 			<longname>Old MRV</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-01-25</releasedate>
+			<releasedate>2026-02-03</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -6787,7 +6787,7 @@ When War Machine enters, you may search your library for a noncreature artifact 
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Approach of the Devourer</reverse_related>
+			<reverse-related>Approach of the Devourer</reverse-related>
 		</card>
 		<card>
 			<name>Alien (Galactus, Devourer of Worlds) OLD</name>
@@ -6805,7 +6805,7 @@ Whenever this creature attacks, put a loyalty counter on each planeswalker you c
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Galactus, Devourer of Worlds</reverse_related>
+			<reverse-related>Galactus, Devourer of Worlds</reverse-related>
 		</card>
 		<card>
 			<name>Copy OLD</name>
@@ -6821,24 +6821,24 @@ Whenever this creature attacks, put a loyalty counter on each planeswalker you c
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Iron Fist</reverse_related>
-			<reverse_related>Chameleon</reverse_related>
-			<reverse_related>Loki, God of Mischief</reverse_related>
-			<reverse_related>The Maker</reverse_related>
-			<reverse_related>Mystique</reverse_related>
-			<reverse_related>Variant Edition</reverse_related>
-			<reverse_related>Hela, Goddess of Death</reverse_related>
-			<reverse_related>The Hunger Spreads</reverse_related>
-			<reverse_related>Onslaught</reverse_related>
-			<reverse_related>Dragon Man</reverse_related>
-			<reverse_related>Gorilla-Man</reverse_related>
-			<reverse_related>Doctor Strange</reverse_related>
-			<reverse_related>Enchantress</reverse_related>
-			<reverse_related>Cosmic Cube</reverse_related>
-			<reverse_related>Master Mold</reverse_related>
-			<reverse_related>Soulsword</reverse_related>
-			<reverse_related>Super-Adaptoid</reverse_related>
-			<reverse_related>Warlock</reverse_related>
+			<reverse-related>Iron Fist</reverse-related>
+			<reverse-related>Chameleon</reverse-related>
+			<reverse-related>Loki, God of Mischief</reverse-related>
+			<reverse-related>The Maker</reverse-related>
+			<reverse-related>Mystique</reverse-related>
+			<reverse-related>Variant Edition</reverse-related>
+			<reverse-related>Hela, Goddess of Death</reverse-related>
+			<reverse-related>The Hunger Spreads</reverse-related>
+			<reverse-related>Onslaught</reverse-related>
+			<reverse-related>Dragon Man</reverse-related>
+			<reverse-related>Gorilla-Man</reverse-related>
+			<reverse-related>Doctor Strange</reverse-related>
+			<reverse-related>Enchantress</reverse-related>
+			<reverse-related>Cosmic Cube</reverse-related>
+			<reverse-related>Master Mold</reverse-related>
+			<reverse-related>Soulsword</reverse-related>
+			<reverse-related>Super-Adaptoid</reverse-related>
+			<reverse-related>Warlock</reverse-related>
 		</card>
 		<card>
 			<name>Angel OLD</name>
@@ -6857,7 +6857,7 @@ Whenever this creature attacks, put a loyalty counter on each planeswalker you c
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Gates of Valhalla</reverse_related>
+			<reverse-related>Gates of Valhalla</reverse-related>
 		</card>
 		<card>
 			<name>Bird (Falcon) OLD</name>
@@ -6876,8 +6876,8 @@ Whenever this creature attacks, put a loyalty counter on each planeswalker you c
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Falcon</reverse_related>
-			<reverse_related count="X">Odin, the All-Father</reverse_related>
+			<reverse-related>Falcon</reverse-related>
+			<reverse-related count="X">Odin, the All-Father</reverse-related>
 		</card>
 		<card>
 			<name>Cleric OLD</name>
@@ -6896,7 +6896,7 @@ Whenever this creature attacks, put a loyalty counter on each planeswalker you c
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Khonshu, God of the Moon</reverse_related>
+			<reverse-related>Khonshu, God of the Moon</reverse-related>
 		</card>
 		<card>
 			<name>Egg OLD</name>
@@ -6915,7 +6915,7 @@ Whenever this creature attacks, put a loyalty counter on each planeswalker you c
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Adam Warlock</reverse_related>
+			<reverse-related>Adam Warlock</reverse-related>
 		</card>
 		<card>
 			<name>God OLD</name>
@@ -6934,7 +6934,7 @@ Whenever this creature attacks, put a loyalty counter on each planeswalker you c
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Avengers Assemble</reverse_related>
+			<reverse-related>Avengers Assemble</reverse-related>
 		</card>
 		<card>
 			<name>Soldier OLD</name>
@@ -6953,14 +6953,14 @@ Whenever this creature attacks, put a loyalty counter on each planeswalker you c
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>A Living Legend Rises</reverse_related>
-			<reverse_related count="x">Nick Fury</reverse_related>
-			<reverse_related>S.H.I.E.L.D. Deployment</reverse_related>
-			<reverse_related count="2">S.H.I.E.L.D. Helicarrier</reverse_related>
-			<reverse_related>General Ross</reverse_related>
-			<reverse_related count="2">Silver Sable</reverse_related>
-			<reverse_related>Symkaria</reverse_related>
-			<reverse_related count="2">Founding of the Four</reverse_related>
+			<reverse-related>A Living Legend Rises</reverse-related>
+			<reverse-related count="x">Nick Fury</reverse-related>
+			<reverse-related>S.H.I.E.L.D. Deployment</reverse-related>
+			<reverse-related count="2">S.H.I.E.L.D. Helicarrier</reverse-related>
+			<reverse-related>General Ross</reverse-related>
+			<reverse-related count="2">Silver Sable</reverse-related>
+			<reverse-related>Symkaria</reverse-related>
+			<reverse-related count="2">Founding of the Four</reverse-related>
 		</card>
 		<card>
 			<name>Alien Soldier OLD</name>
@@ -6979,7 +6979,7 @@ Whenever this creature attacks, put a loyalty counter on each planeswalker you c
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Supreme Intelligence</reverse_related>
+			<reverse-related>Supreme Intelligence</reverse-related>
 		</card>
 		<card>
 			<name>Artificer OLD</name>
@@ -6998,7 +6998,7 @@ Whenever this creature attacks, put a loyalty counter on each planeswalker you c
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Avengers Assemble</reverse_related>
+			<reverse-related>Avengers Assemble</reverse-related>
 		</card>
 		<card>
 			<name>Illusion OLD</name>
@@ -7017,8 +7017,8 @@ Whenever this creature attacks, put a loyalty counter on each planeswalker you c
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Mysterio</reverse_related>
-			<reverse_related>Astral Projection</reverse_related>
+			<reverse-related>Mysterio</reverse-related>
+			<reverse-related>Astral Projection</reverse-related>
 		</card>
 		<card>
 			<name>Kraken OLD</name>
@@ -7037,8 +7037,8 @@ Whenever this creature attacks, put a loyalty counter on each planeswalker you c
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Imperius Rex</reverse_related>
-			<reverse_related>Might of Seven Seas</reverse_related>
+			<reverse-related>Imperius Rex</reverse-related>
+			<reverse-related>Might of Seven Seas</reverse-related>
 		</card>
 		<card>
 			<name>Lockheed OLD</name>
@@ -7057,7 +7057,7 @@ Whenever this creature attacks, put a loyalty counter on each planeswalker you c
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Shadowcat</reverse_related>
+			<reverse-related>Shadowcat</reverse-related>
 		</card>
 		<card>
 			<name>Wizard OLD</name>
@@ -7076,7 +7076,7 @@ Whenever this creature attacks, put a loyalty counter on each planeswalker you c
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>The Ancient One</reverse_related>
+			<reverse-related>The Ancient One</reverse-related>
 		</card>
 		<card>
 			<name>Alien Dragon OLD</name>
@@ -7095,7 +7095,7 @@ Whenever this creature attacks, put a loyalty counter on each planeswalker you c
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Knull</reverse_related>
+			<reverse-related>Knull</reverse-related>
 		</card>
 		<card>
 			<name>Giant Horror OLD</name>
@@ -7114,7 +7114,7 @@ Whenever this creature attacks, put a loyalty counter on each planeswalker you c
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Gamma Experiment</reverse_related>
+			<reverse-related>Gamma Experiment</reverse-related>
 		</card>
 		<card>
 			<name>Mole Gremlin OLD</name>
@@ -7133,7 +7133,7 @@ Whenever this creature attacks, put a loyalty counter on each planeswalker you c
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Mole Man</reverse_related>
+			<reverse-related>Mole Man</reverse-related>
 		</card>
 		<card>
 			<name>Shapeshifter OLD</name>
@@ -7152,7 +7152,7 @@ Whenever this creature attacks, put a loyalty counter on each planeswalker you c
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Avengers Assemble</reverse_related>
+			<reverse-related>Avengers Assemble</reverse-related>
 		</card>
 		<card>
 			<name>Vampire OLD</name>
@@ -7171,7 +7171,7 @@ Whenever this creature attacks, put a loyalty counter on each planeswalker you c
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Count Dracula</reverse_related>
+			<reverse-related>Count Dracula</reverse-related>
 		</card>
 		<card>
 			<name>Devil OLD</name>
@@ -7190,7 +7190,7 @@ Whenever this creature attacks, put a loyalty counter on each planeswalker you c
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Mephisto</reverse_related>
+			<reverse-related>Mephisto</reverse-related>
 		</card>
 		<card>
 			<name>Elemental OLD</name>
@@ -7210,7 +7210,7 @@ This creature attacks each combat if able.</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Pyro</reverse_related>
+			<reverse-related>Pyro</reverse-related>
 		</card>
 		<card>
 			<name>Elemental OLD</name>
@@ -7229,7 +7229,7 @@ This creature attacks each combat if able.</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Flame On!</reverse_related>
+			<reverse-related>Flame On!</reverse-related>
 		</card>
 		<card>
 			<name>Warrior OLD</name>
@@ -7248,7 +7248,7 @@ This creature attacks each combat if able.</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Avengers Assemble</reverse_related>
+			<reverse-related>Avengers Assemble</reverse-related>
 		</card>
 		<card>
 			<name>Ape OLD</name>
@@ -7267,7 +7267,7 @@ This creature attacks each combat if able.</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related count="3">Red Ghost</reverse_related>
+			<reverse-related count="3">Red Ghost</reverse-related>
 		</card>
 		<card>
 			<name>Cat OLD</name>
@@ -7286,7 +7286,7 @@ This creature attacks each combat if able.</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Killmonger</reverse_related>
+			<reverse-related>Killmonger</reverse-related>
 		</card>
 		<card>
 			<name>Elemental OLD</name>
@@ -7305,7 +7305,7 @@ This creature attacks each combat if able.</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Crystal</reverse_related>
+			<reverse-related>Crystal</reverse-related>
 		</card>
 		<card>
 			<name>Giant OLD</name>
@@ -7324,8 +7324,8 @@ This creature attacks each combat if able.</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Avengers Assemble</reverse_related>
-			<reverse_related>An Incredible Transformation</reverse_related>
+			<reverse-related>Avengers Assemble</reverse-related>
+			<reverse-related>An Incredible Transformation</reverse-related>
 		</card>
 		<card>
 			<name>Insect OLD</name>
@@ -7344,8 +7344,8 @@ This creature attacks each combat if able.</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Ant-Man</reverse_related>
-			<reverse_related count="2">Journey into Mystery</reverse_related>
+			<reverse-related>Ant-Man</reverse-related>
+			<reverse-related count="2">Journey into Mystery</reverse-related>
 		</card>
 		<card>
 			<name>Plant OLD</name>
@@ -7364,7 +7364,7 @@ This creature attacks each combat if able.</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Flowers of Krakoa</reverse_related>
+			<reverse-related>Flowers of Krakoa</reverse-related>
 		</card>
 		<card>
 			<name>Sand OLD</name>
@@ -7383,7 +7383,7 @@ This creature attacks each combat if able.</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Sandman</reverse_related>
+			<reverse-related>Sandman</reverse-related>
 		</card>
 		<card>
 			<name>Squirrel OLD</name>
@@ -7402,7 +7402,7 @@ This creature attacks each combat if able.</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related count="X">Squirrel Girl</reverse_related>
+			<reverse-related count="X">Squirrel Girl</reverse-related>
 		</card>
 		<card>
 			<name>Treefolk OLD</name>
@@ -7421,7 +7421,7 @@ This creature attacks each combat if able.</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Flora Colossus</reverse_related>
+			<reverse-related>Flora Colossus</reverse-related>
 		</card>
 		<card>
 			<name>Bard OLD</name>
@@ -7441,7 +7441,7 @@ When this creature dies, it deals 1 damage to any target.</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Circus of Crime</reverse_related>
+			<reverse-related>Circus of Crime</reverse-related>
 		</card>
 		<card>
 			<name>Spider OLD</name>
@@ -7460,8 +7460,8 @@ When this creature dies, it deals 1 damage to any target.</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Peter Parker</reverse_related>
-			<reverse_related>Endless Possibilities</reverse_related>
+			<reverse-related>Peter Parker</reverse-related>
+			<reverse-related>Endless Possibilities</reverse-related>
 		</card>
 		<card>
 			<name>Blood OLD</name>
@@ -7477,8 +7477,8 @@ When this creature dies, it deals 1 damage to any target.</text>
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Morbius</reverse_related>
-			<reverse_related>Count Dracula</reverse_related>
+			<reverse-related>Morbius</reverse-related>
+			<reverse-related>Count Dracula</reverse-related>
 		</card>
 		<card>
 			<name>Bomb OLD</name>
@@ -7494,7 +7494,7 @@ When this creature dies, it deals 1 damage to any target.</text>
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Green Goblin</reverse_related>
+			<reverse-related>Green Goblin</reverse-related>
 		</card>
 		<card>
 			<name>Bullet OLD</name>
@@ -7510,7 +7510,7 @@ When this creature dies, it deals 1 damage to any target.</text>
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Punisher</reverse_related>
+			<reverse-related>Punisher</reverse-related>
 			<cipt>1</cipt>
 		</card>
 		<card>
@@ -7527,10 +7527,10 @@ When this creature dies, it deals 1 damage to any target.</text>
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Howard the Duck</reverse_related>
-			<reverse_related>Jessica Jones</reverse_related>
-			<reverse_related>Daily Bugle</reverse_related>
-			<reverse_related>Spider-Man Noir</reverse_related>
+			<reverse-related>Howard the Duck</reverse-related>
+			<reverse-related>Jessica Jones</reverse-related>
+			<reverse-related>Daily Bugle</reverse-related>
+			<reverse-related>Spider-Man Noir</reverse-related>
 		</card>
 		<card>
 			<name>Ebony Blade OLD</name>
@@ -7547,7 +7547,7 @@ Equip {1}</text>
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Black Knight</reverse_related>
+			<reverse-related>Black Knight</reverse-related>
 		</card>
 		<card>
 			<name>First Strike Gadget OLD</name>
@@ -7564,7 +7564,7 @@ Equip {2}</text>
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Rocket Raccoon</reverse_related>
+			<reverse-related>Rocket Raccoon</reverse-related>
 		</card>
 		<card>
 			<name>Haste Gadget OLD</name>
@@ -7581,7 +7581,7 @@ Equip {2}</text>
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Rocket Raccoon</reverse_related>
+			<reverse-related>Rocket Raccoon</reverse-related>
 		</card>
 		<card>
 			<name>Invention OLD</name>
@@ -7597,14 +7597,14 @@ Equip {2}</text>
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>A Living Legend Rises</reverse_related>
-			<reverse_related>Astonishing Discovery</reverse_related>
-			<reverse_related count="X">Beast</reverse_related>
-			<reverse_related count="2">The Maker</reverse_related>
-			<reverse_related>Mister Fantastic</reverse_related>
-			<reverse_related>Tony Stark</reverse_related>
-			<reverse_related count="2">Iron Man</reverse_related>
-			<reverse_related>HERBIE</reverse_related>
+			<reverse-related>A Living Legend Rises</reverse-related>
+			<reverse-related>Astonishing Discovery</reverse-related>
+			<reverse-related count="X">Beast</reverse-related>
+			<reverse-related count="2">The Maker</reverse-related>
+			<reverse-related>Mister Fantastic</reverse-related>
+			<reverse-related>Tony Stark</reverse-related>
+			<reverse-related count="2">Iron Man</reverse-related>
+			<reverse-related>HERBIE</reverse-related>
 		</card>
 		<card>
 			<name>Menace Gadget OLD</name>
@@ -7621,7 +7621,7 @@ Equip {2}</text>
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Rocket Raccoon</reverse_related>
+			<reverse-related>Rocket Raccoon</reverse-related>
 		</card>
 		<card>
 			<name>Robot OLD</name>
@@ -7638,10 +7638,10 @@ Equip {2}</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Doom&apos;s Time Platform</reverse_related>
-			<reverse_related count="2">Age of Ultron</reverse_related>
-			<reverse_related>Master Mold</reverse_related>
-			<reverse_related>Mister Fantastic</reverse_related>
+			<reverse-related>Doom&apos;s Time Platform</reverse-related>
+			<reverse-related count="2">Age of Ultron</reverse-related>
+			<reverse-related>Master Mold</reverse-related>
+			<reverse-related>Mister Fantastic</reverse-related>
 		</card>
 		<card>
 			<name>SPDR OLD</name>
@@ -7658,7 +7658,7 @@ Equip {2}</text>
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Peni Parker</reverse_related>
+			<reverse-related>Peni Parker</reverse-related>
 		</card>
 		<card>
 			<name>Tentacle OLD</name>
@@ -7675,7 +7675,7 @@ Equip {2}</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related count="2">Doctor Octopus</reverse_related>
+			<reverse-related count="2">Doctor Octopus</reverse-related>
 		</card>
 		<card>
 			<name>Treasure OLD</name>
@@ -7691,11 +7691,11 @@ Equip {2}</text>
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Black Cat</reverse_related>
-			<reverse_related>Star-Lord</reverse_related>
-			<reverse_related>Thanos, the Mad Titan</reverse_related>
-			<reverse_related>Collector&apos;s Museum</reverse_related>
-			<reverse_related>Champion of the Universe</reverse_related>
+			<reverse-related>Black Cat</reverse-related>
+			<reverse-related>Star-Lord</reverse-related>
+			<reverse-related>Thanos, the Mad Titan</reverse-related>
+			<reverse-related>Collector&apos;s Museum</reverse-related>
+			<reverse-related>Champion of the Universe</reverse-related>
 		</card>
 		<card>
 			<name>Far-Off Lands OLD</name>
@@ -7711,7 +7711,7 @@ Equip {2}</text>
 			</prop>
 			<tablerow>0</tablerow>
 			<token>1</token>
-			<reverse_related>Fractured Multiverse</reverse_related>
+			<reverse-related>Fractured Multiverse</reverse-related>
 		</card>
 		<card>
 			<name>Human (An Incredible Transformation) OLD</name>
@@ -7730,7 +7730,7 @@ Equip {2}</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>An Incredible Transformation</reverse_related>
+			<reverse-related>An Incredible Transformation</reverse-related>
 		</card>
 		<card>
 			<name>Secret Invasion</name>

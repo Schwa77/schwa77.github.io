@@ -5,7 +5,7 @@
 			<name>MRV</name>
 			<longname>MRV-1610: The Reboot Edition</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-01-25</releasedate>
+			<releasedate>2026-02-03</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1603,7 +1603,7 @@ Other creatures you control get +1/+1.</text>
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Peni Parker</reverse_related>
+			<reverse-related>Peni Parker</reverse-related>
 		</card>
 		<card>
 			<name>Anti-Venom</name>
@@ -1822,7 +1822,7 @@ When Sentry dies, you may pay 4 life. If you do, create The Void, a legendary 4/
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Sentry</reverse_related>
+			<reverse-related>Sentry</reverse-related>
 		</card>
 		<card>
 			<name>Blink</name>
@@ -3286,7 +3286,7 @@ Landfall — Whenever a land you control enters, create a 1/1 green Sand creatur
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Sandman</reverse_related>
+			<reverse-related>Sandman</reverse-related>
 		</card>
 		<card>
 			<name>Professor X</name>
