@@ -1,4 +1,184 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Ghostblade Renegade added.
+Marquisian Officer added.
+Almicar's Bargain added.
+Benthic Behemoth added.
+
+Ghost-Blade Renegade removed.
+Marquisian Rescuers removed.
+Smuggler's Haul removed.
+Abyssal Behemoth removed.
+
+The Living Forge
+rules_text: Whenever The Living Forge attacks, choose one —
+• Create a token that's a copy of target Equipment you control. When you do, attach it to up to one target creature you control.
+• Create a token that's a copy of target Vehicle you control. It enters as an artifact creature that's tapped and attacking. => Whenever The Living Forge attacks, choose one —
+• Create a token that's a copy of target Equipment you control. When you do, attach it to up to one target creature you control.
+• Create a token that's a copy of target Vehicle you control. Until end of turn, it becomes an artifact creature that's tapped and attacking.
+
+Marquisian Commander
+
+Raider's Remains
+rules_text: Raider's Remains can't block.
+You may cast this card as an Adventure from your graveyard. [i](You may play it from exile later.)[/i] => Raider's Remains can't block.
+You may cast Raider's Remains as an Adventure from your graveyard. [i](You may play it from exile later.)[/i]
+
+Marquisian Enforcer
+rules_text: {4}{B}, Exile this card from your graveyard: Create a tapped 4/4 green Serpent creature token with trample. => {4}{B}, Exile Marquisian Enforcer from your graveyard: Create a tapped 4/4 green Serpent creature token with trample.
+
+Charismatic Captain
+rules_text: At the beginning of combat on your turn, create a 2/1 black Pirate creature token with “This token can't block.” It gains haste until end of turn.
+Whenever Charismatic Captain attacks, gain control of target artifact with mana value less than or equal to the number of attacking Pirates you control. => At the beginning of combat on your turn, create a 2/1 black Pirate creature token with “This creature can't block.” It gains haste until end of turn.
+Whenever Charismatic Captain attacks, gain control of target artifact with mana value less than or equal to the number of attacking Pirates you control.
+
+Powder Monkeys
+
+Davijan's Disciple
+rules_text: {T}: Add {G}.
+{4}{G}, {T}, Sacrifice this creature: Create a tapped 4/4 green Serpent creature token with trample. => {T}: Add {G}.
+{4}{G}, {T}, Sacrifice Davijan's Disciple: Create a tapped 4/4 green Serpent creature token with trample.
+
+Jadon, Who Fells the Mighty
+rules_text: [+1]: Plunder [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i]
+[-3]: Create three 2/1 black Pirate creature tokens with “This token can't block.” => [+1]: Plunder [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i]
+[-3]: Create three 2/1 black Pirate creature tokens with “This creature can't block.”
+special_text: [+1]: Plunder [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i]
+[-3]: Create three 2/1 black Pirate creature tokens with “This token can't block.” => [+1]: Plunder [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i]
+[-3]: Create three 2/1 black Pirate creature tokens with “This creature can't block.”
+
+Beachside Barter
+rules_text: {1}, {T}, Sacrifice an artifact: Create a 2/1 black Pirate creature token with “This token can't block.”
+{1}, {T}, Sacrifice a creature: Draw a card.
+{1}, {T}, Discard a card: Plunder. [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i] => {1}, {T}, Sacrifice an artifact: Create a 2/1 black Pirate creature token with “This creature can't block.”
+{1}, {T}, Sacrifice a creature: Draw a card.
+{1}, {T}, Discard a card: Plunder. [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i]
+
+Animated Hoard
+rules_text: {T}, Sacrifice Animated Hoard: Add one mana of any color.
+{2}, Exile this card and another artifact card from from your graveyard: Draw a card. => {T}, Sacrifice Animated Hoard: Add one mana of any color.
+{2}, Exile Animated Hoard and another artifact card from from your graveyard: Draw a card.
+
+Salvaged Stomper
+rules_text: Trample
+Sacrifice three Treasures: Return this card from your graveyard to the battlefield tapped. => Trample
+Sacrifice three Treasures: Return Salvaged Stomper from your graveyard to the battlefield tapped.
+pt: 4/4 => 5/5
+
+Ironworks Arsenal
+rules_text: Ironworks Arsenal with three arms counters on it.
+{T}, Remove an arms counter from Ironworks Arsenal: Create a Weapon token. You may attach it to up to one target creature. Activate only as a sorcery. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i] => Ironworks Arsenal enters with three arms counters on it.
+{T}, Remove an arms counter from Ironworks Arsenal: Create a Weapon token. You may attach it to up to one target creature. Activate only as a sorcery. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+
+Wharf Rat
+
+Hunter's Ambition
+rules_text: Choose one—
+• You draw three cards and you lose 3 life.
+• Each opponent sacrifices a creature of their choice with the greatest power among creatures they control. You gain 3 life. => Choose one —
+• You draw three cards and you lose 3 life.
+• Each opponent sacrifices a creature of their choice with the greatest power among creatures they control. You gain 3 life.
+
+Stormforged Saber
+rules_text: Equipped creature has flying.
+Whenever equipped creature attacks, you may exile target nonland card from your graveyard with mana value less than its power. If you do, you may cast a copy of that card without paying its mana cost.
+Equip {3} => Equipped creature has flying.
+Whenever equipped creature attacks, you may exile target nonland card from your graveyard with mana value less than its power. If you do, you may cast a copy of that card without paying its mana cost. [i](A copy of a permanent spell becomes a token.)[/i]
+Equip {3}
+
+Audra, Raucous Rallier
+rules_text: Menace
+Whenever Audra deals combat damage to a player, exile the top card of that player's library. Until end of turn, you may cast that card, and mana of any color can be spent to cast it.
+Whenever you cast a spell from exile, create a 2/1 black Pirate creature token with “This token can't block.” => Menace
+Whenever Audra deals combat damage to a player, exile the top card of that player's library. Until end of turn, you may cast that card, and mana of any color can be spent to cast it.
+Whenever you cast a spell from exile, create a 2/1 black Pirate creature token with “This creature can't block.”
+
+Conscripted Duelist
+rules_text: {2}, Exile this card from your graveyard: Create a tapped 1/1 white Spirit creature token with flying. => {2}, Exile Conscripted Duelist from your graveyard: Create a tapped 1/1 white Spirit creature token with flying.
+
+Edgeseeker's Valor
+rules_text: Choose one—
+• Creatures you control get +1/+1 until end of turn.
+• Edgeseeker's Valor deals damage equal to the number of creatures you control to target tapped creature. => Choose one —
+• Creatures you control get +1/+1 until end of turn.
+• Edgeseeker's Valor deals damage equal to the number of creatures you control to target tapped creature.
+
+Crimza Taal Smuggler
+type: Creature — Human Pirate => Creature — Lizard Pirate
+
+Lost at Sea
+rules_text: Enchant creature or Vehicle
+When Lost at Sea enters, you may behold a Kraken, Leviathan, Octopus, or Serpent. If you do, tap enchanted permanent. [i](To behold a Kraken, Leviathan, Octopus, or Serpent, choose one you control or reveal one from your hand.)[/i]
+Enchanted permanent can't become untapped and its activated abilities can't be activated. => Enchant creature or Vehicle
+When Lost at Sea enters, you may behold a Kraken, Leviathan, Octopus, or Serpent. If you do, tap enchanted permanent. [i](To behold a Kraken, Leviathan, Octopus, or Serpent, choose one you control or reveal one from your hand.)[/i] [i](To behold a Kraken, Leviathan, Octopus, or Serpent, choose a Kraken, Leviathan, Octopus, or Serpent you control or reveal a Kraken, Leviathan, Octopus, or Serpent card from your hand. To behold a Kraken, Leviathan, Octopus, or Serpent, choose one you control or reveal one from your hand, choose a Kraken, Leviathan, Octopus, or Serpent, choose one you control or reveal one from your hand you control or reveal a Kraken, Leviathan, Octopus, or Serpent, choose one you control or reveal one from your hand card from your hand.)[/i]
+Enchanted permanent can't become untapped and its activated abilities can't be activated.
+
+Tandem Hirelings
+rules_text: When Tandem Hirelings enters, create a 2/1 black Pirate creature token with “This token can't block.” => When Tandem Hirelings enters, create a 2/1 black Pirate creature token with “This creature can't block.”
+
+Trinket Merchant
+rules_text: When this creature enters, plunder. [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i] => When Trinket Merchant enters, plunder. [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i]
+
+Glorybound Knaves
+
+Dishonorable Duel
+rules_text: Choose one—
+• Destroy target artifact.
+• Put a +1/+1 counter on target attacking creature. It gains first strike until end of turn. => Choose one —
+• Destroy target artifact.
+• Put a +1/+1 counter on target attacking creature. It gains first strike until end of turn.
+
+Glittering Trove
+rules_text: Whenever Glittering Trove enters or is put into a graveyard from the battlefield, create a 2/1 black Pirate creature token with “This token can't block.”
+{3}{R}, Discard a card, Sacrifice Glittering Trove: Draw a card. => Whenever Glittering Trove enters or is put into a graveyard from the battlefield, create a 2/1 black Pirate creature token with “This creature can't block.”
+{3}{R}, Discard a card, Sacrifice Glittering Trove: Draw a card.
+
+Treasure
+
+Dreadtide Marauder
+rules_text: When Dreadtide Marauder enters, you may sacrifice another creature or an artifact. When you do, destroy target creature, planeswalker, or Vehicle.
+When Dreadtide Marauder dies, create two 2/1 black Pirate creature tokens with “This token can't block.” => When Dreadtide Marauder enters, you may sacrifice another creature or an artifact. When you do, destroy target creature, planeswalker, or Vehicle.
+When Dreadtide Marauder dies, create two 2/1 black Pirate creature tokens with “This creature can't block.”
+
+Loose Cargo
+rules_text: When Loose Cargo enters, each opponent discards a card.
+{3}{B}{B}, Sacrifice Loose Cargo: Create two 2/1 black Pirate creature tokens with “This token can't block.” => When Loose Cargo enters, each opponent discards a card.
+{3}{B}{B}, Sacrifice Loose Cargo: Create two 2/1 black Pirate creature tokens with “This creature can't block.”
+
+Hired Hand
+rules_text: First strike, haste
+Whenever Hired Hand deals combat damage to a player or planeswalker, if you spent mana from a Treasure to cast a spell this turn, create a 2/1 black Pirate creature token with “This token can't block.” => First strike, haste
+Whenever Hired Hand deals combat damage to a player or planeswalker, if you spent mana from a Treasure to cast a spell this turn, create a 2/1 black Pirate creature token with “This creature can't block.”
+
+Soldier
+
+Soldier Army
+
+Copy
+
+Affectionate Mimic
+rules_text: {T}, Sacrifice this creature: Add one mana of any color.
+If you would create one or more tokens, you may instead create that many tokens that are copies of Affectionate Mimic, except they don't have this ability. => {T}, Sacrifice Affectionate Mimic: Add one mana of any color.
+If you would create one or more tokens, you may instead create that many tokens that are copies of Affectionate Mimic, except they don't have this ability.
+
+Pirate Token (A)
+
+Pirate Token (B)
+
+Pirate Token (C)
+
+Partners in Crime
+rules_text: When Partners in Crime enters, create two 2/1 black Pirate creature tokens with “This token can't block.” They gain haste until end of turn.
+{3}{R}{R}, Sacrifice Partners in Crime: Creatures you control get +2/+1 and gain trample until end of turn. Activate only as a sorcery. => When Partners in Crime enters, create two 2/1 black Pirate creature tokens with “This creature can't block.” They gain haste until end of turn.
+{3}{R}{R}, Sacrifice Partners in Crime: Creatures you control get +2/+1 and gain trample until end of turn. Activate only as a sorcery.
+
+Brackish Channeler
+
+Pirate Token (D)
+
+
+VERSION 5 CHANGELOG
 ====================
 
 The Living Forge added.

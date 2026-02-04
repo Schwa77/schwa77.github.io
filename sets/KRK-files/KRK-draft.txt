@@ -315,9 +315,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Incarnation",
-			"collector_number": "88",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/88_Avarice.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/89_Avarice.png"
 			}
 		},
 		{
@@ -325,9 +325,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "99",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/99_Dreadtide Flagship.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/100_Dreadtide Flagship.png"
 			}
 		},
 		{
@@ -335,9 +335,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Legendary Creature — Human Pirate",
-			"collector_number": "97",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/97_Dezan, Ironsoul Sell-Sword.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/98_Dezan, Ironsoul Sell-Sword.png"
 			}
 		},
 		{
@@ -345,9 +345,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Halfling Pirate",
-			"collector_number": "92",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/92_Crimza Taal Infiltrator.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/93_Crimza Taal Infiltrator.png"
 			}
 		},
 		{
@@ -375,9 +375,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Creature — Skeleton Pirate",
-			"collector_number": "117",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/117_Raider's Remains.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/118_Raider's Remains.png"
 			}
 		},
 		{
@@ -385,9 +385,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Creature — Zombie Pirate",
-			"collector_number": "103",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/103_Dreadtide Scrounger.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/104_Dreadtide Scrounger.png"
 			}
 		},
 		{
@@ -395,9 +395,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "113",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/113_Marquisian Enforcer.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/114_Marquisian Enforcer.png"
 			}
 		},
 		{
@@ -405,9 +405,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Pirate",
-			"collector_number": "106",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/106_Forsaken Cutthroat.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/107_Forsaken Cutthroat.png"
 			}
 		},
 		{
@@ -415,9 +415,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Skeleton Leviathan",
-			"collector_number": "89",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/89_Azla's Monstrosity.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/90_Azla's Monstrosity.png"
 			}
 		},
 		{
@@ -425,9 +425,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Zombie Pirate",
-			"collector_number": "100",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/100_Dreadtide Grunt.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/101_Dreadtide Grunt.png"
 			}
 		},
 		{
@@ -435,9 +435,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Enchantment",
-			"collector_number": "112",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/112_March of the Dreadtide.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/113_March of the Dreadtide.png"
 			}
 		},
 		{
@@ -455,9 +455,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Instant",
-			"collector_number": "98",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/98_Down With the Ship.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/99_Down With the Ship.png"
 			}
 		},
 		{
@@ -465,9 +465,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{B}",
 			"type": "Instant",
-			"collector_number": "104",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/104_Drown.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/105_Drown.png"
 			}
 		},
 		{
@@ -1125,9 +1125,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Instant",
-			"collector_number": "109",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/109_Hunter's Ambition.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/110_Hunter's Ambition.png"
 			}
 		},
 		{
@@ -1171,13 +1171,13 @@
 			}
 		},
 		{
-			"name": "Ghost-Blade Renegade",
+			"name": "Ghostblade Renegade",
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Human Pirate",
-			"collector_number": "107",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/107_Ghost-Blade Renegade.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/108_Ghostblade Renegade.png"
 			}
 		},
 		{
@@ -1195,9 +1195,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{G}{G}{G}",
 			"type": "Creature — Crocodile",
-			"collector_number": "172",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/172_Behemoth of World's End.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/171_Behemoth of World's End.png"
 			}
 		},
 		{
@@ -1531,13 +1531,13 @@
 			}
 		},
 		{
-			"name": "Marquisian Rescuers",
+			"name": "Marquisian Officer",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Soldier",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/24_Marquisian Rescuers.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/24_Marquisian Officer.png"
 			}
 		},
 		{
@@ -1564,7 +1564,7 @@
 			"name": "Crimza Taal Smuggler",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Human Pirate",
+			"type": "Creature — Lizard Pirate",
 			"collector_number": "48",
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/KRK-files/img/48_Crimza Taal Smuggler.png"
@@ -1695,9 +1695,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Artifact Creature — Fish",
-			"collector_number": "114",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/114_Mithril Grouper.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/115_Mithril Grouper.png"
 			}
 		},
 		{
@@ -1705,9 +1705,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Azra Pirate",
-			"collector_number": "87",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/87_Arrogant Crewmate.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/88_Arrogant Crewmate.png"
 			}
 		},
 		{
@@ -1715,9 +1715,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Pirate",
-			"collector_number": "121",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/121_Skyship Ambusher.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/122_Skyship Ambusher.png"
 			}
 		},
 		{
@@ -1725,9 +1725,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Azra Rogue",
-			"collector_number": "91",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/91_Crimza Taal Headhunter.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/92_Crimza Taal Headhunter.png"
 			}
 		},
 		{
@@ -1745,9 +1745,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Spirit",
-			"collector_number": "119",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/119_Shipwreck Revenant.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/120_Shipwreck Revenant.png"
 			}
 		},
 		{
@@ -1755,9 +1755,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Zombie Pirate",
-			"collector_number": "90",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/90_Azla's Rotcrew.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/91_Azla's Rotcrew.png"
 			}
 		},
 		{
@@ -1765,9 +1765,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Spirit Pirate",
-			"collector_number": "118",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/118_Seabound Spirit.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/119_Seabound Spirit.png"
 			}
 		},
 		{
@@ -1775,9 +1775,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Human Pirate",
-			"collector_number": "108",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/108_Glorybound Scallywags.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/109_Glorybound Scallywags.png"
 			}
 		},
 		{
@@ -1785,9 +1785,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Instant",
-			"collector_number": "116",
+			"collector_number": "117",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/116_Poach.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/117_Poach.png"
 			}
 		},
 		{
@@ -1795,9 +1795,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "110",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/110_Last Gasp.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/111_Last Gasp.png"
 			}
 		},
 		{
@@ -1805,19 +1805,19 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "94",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/94_Davijan's Curse.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/95_Davijan's Curse.png"
 			}
 		},
 		{
-			"name": "Smuggler's Haul",
+			"name": "Almicar's Bargain",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Instant",
-			"collector_number": "122",
+			"collector_number": "87",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/122_Smuggler's Haul.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/87_Almicar's Bargain.png"
 			}
 		},
 		{
@@ -1825,9 +1825,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
-			"collector_number": "102",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/102_Dreadtide Ritual.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/103_Dreadtide Ritual.png"
 			}
 		},
 		{
@@ -1835,9 +1835,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Sorcery",
-			"collector_number": "115",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/115_No One Left Behind.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/116_No One Left Behind.png"
 			}
 		},
 		{
@@ -1845,9 +1845,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "96",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/96_Deathless Conscription.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/97_Deathless Conscription.png"
 			}
 		},
 		{
@@ -2095,9 +2095,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Merfolk Warrior",
-			"collector_number": "169",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/169_Aelython Vanguard.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/168_Aelython Vanguard.png"
 			}
 		},
 		{
@@ -2121,13 +2121,13 @@
 			}
 		},
 		{
-			"name": "Abyssal Behemoth",
+			"name": "Benthic Behemoth",
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Kraken",
-			"collector_number": "168",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/168_Abyssal Behemoth.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/172_Benthic Behemoth.png"
 			}
 		},
 		{
@@ -2135,9 +2135,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Creature — Leviathan Shark",
-			"collector_number": "170",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/170_Ancient Megalodon.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/169_Ancient Megalodon.png"
 			}
 		},
 		{
@@ -2215,9 +2215,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Plant",
-			"collector_number": "171",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/171_Beachcomber's Bane.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/170_Beachcomber's Bane.png"
 			}
 		},
 		{
@@ -2345,9 +2345,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "95",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/95_Dawson's Ire.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/96_Dawson's Ire.png"
 			}
 		},
 		{
@@ -2525,9 +2525,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "105",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/105_Emperor's Executioner.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/106_Emperor's Executioner.png"
 			}
 		},
 		{
@@ -2555,9 +2555,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Zombie Pirate",
-			"collector_number": "101",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/101_Dreadtide Marauder.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/102_Dreadtide Marauder.png"
 			}
 		},
 		{
@@ -2595,9 +2595,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Artifact",
-			"collector_number": "111",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/111_Loose Cargo.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/112_Loose Cargo.png"
 			}
 		},
 		{
@@ -2605,9 +2605,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{B}{B}",
 			"type": "Enchantment — Aura Curse",
-			"collector_number": "93",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/93_Curse of Siren's Song.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/94_Curse of Siren's Song.png"
 			}
 		},
 		{
@@ -2875,9 +2875,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Merchant",
-			"collector_number": "120",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://schwa77.github.io/sets/KRK-files/img/120_Shoreline Haggler.png"
+				"en": "https://schwa77.github.io/sets/KRK-files/img/121_Shoreline Haggler.png"
 			}
 		},
 		{
@@ -3058,7 +3058,7 @@
 	5 Rising Tide
 	5 Cursed Coins
 	5 Restore Order
-	5 Ghost-Blade Renegade
+	5 Ghostblade Renegade
 	5 Salazar, Glorybound Mate
 	5 Behemoth of World's End
 	5 Stormforged Saber
@@ -3186,7 +3186,7 @@
 	5 Parry
 	5 Shipwrecked
 	5 Rally the Isles
-	5 Marquisian Rescuers
+	5 Marquisian Officer
 	5 Loyal Quartermaster
 	5 Welkin Tern
 	5 Crimza Taal Smuggler
@@ -3214,7 +3214,7 @@
 	5 Poach
 	5 Last Gasp
 	5 Davijan's Curse
-	5 Smuggler's Haul
+	5 Almicar's Bargain
 	5 Dreadtide Ritual
 	5 No One Left Behind
 	5 Deathless Conscription
@@ -3245,7 +3245,7 @@
 	5 Aelython Vanguard
 	5 Curio Collectors
 	5 Tortun Cannoneers
-	5 Abyssal Behemoth
+	5 Benthic Behemoth
 	5 Ancient Megalodon
 	5 Run Through
 	5 Breach the Surface

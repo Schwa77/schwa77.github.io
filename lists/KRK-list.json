@@ -17,7 +17,7 @@
     },
     {
         "card_name": "Avarice",
-        "number": 88,
+        "number": 89,
         "shape": "normal",
         "set": "KRK",
         "rotated": false,
@@ -33,7 +33,7 @@
     },
     {
         "card_name": "Behemoth of World's End",
-        "number": 172,
+        "number": 171,
         "shape": "normal",
         "set": "KRK",
         "rotated": false,
@@ -57,7 +57,7 @@
     },
     {
         "card_name": "Curse of Siren's Song",
-        "number": 93,
+        "number": 94,
         "shape": "normal",
         "set": "KRK",
         "rotated": false,
@@ -96,8 +96,8 @@
         "position": ""
     },
     {
-        "card_name": "Ghost-Blade Renegade",
-        "number": 107,
+        "card_name": "Ghostblade Renegade",
+        "number": 108,
         "shape": "normal",
         "set": "KRK",
         "rotated": false,
@@ -217,7 +217,7 @@
     },
     {
         "card_name": "Crimza Taal Infiltrator",
-        "number": 92,
+        "number": 93,
         "shape": "normal",
         "set": "KRK",
         "rotated": false,
@@ -257,7 +257,7 @@
     },
     {
         "card_name": "Dezan, Ironsoul Sell-Sword",
-        "number": 97,
+        "number": 98,
         "shape": "normal",
         "set": "KRK",
         "rotated": false,
@@ -297,7 +297,7 @@
     },
     {
         "card_name": "Dreadtide Flagship",
-        "number": 99,
+        "number": 100,
         "shape": "normal",
         "set": "KRK",
         "rotated": false,
@@ -337,7 +337,7 @@
     },
     {
         "card_name": "Dreadtide Marauder",
-        "number": 101,
+        "number": 102,
         "shape": "normal",
         "set": "KRK",
         "rotated": false,
@@ -377,7 +377,7 @@
     },
     {
         "card_name": "Hunter's Ambition",
-        "number": 109,
+        "number": 110,
         "shape": "normal",
         "set": "KRK",
         "rotated": false,
@@ -417,7 +417,7 @@
     },
     {
         "card_name": "Raider's Remains",
-        "number": 117,
+        "number": 118,
         "shape": "adventure",
         "set": "KRK",
         "rotated": false,
@@ -457,7 +457,7 @@
     },
     {
         "card_name": "Azla's Monstrosity",
-        "number": 89,
+        "number": 90,
         "shape": "normal",
         "set": "KRK",
         "rotated": false,
@@ -497,7 +497,7 @@
     },
     {
         "card_name": "Down With the Ship",
-        "number": 98,
+        "number": 99,
         "shape": "normal",
         "set": "KRK",
         "rotated": false,
@@ -537,7 +537,7 @@
     },
     {
         "card_name": "Dreadtide Grunt",
-        "number": 100,
+        "number": 101,
         "shape": "adventure",
         "set": "KRK",
         "rotated": false,
@@ -577,7 +577,7 @@
     },
     {
         "card_name": "Dreadtide Scrounger",
-        "number": 103,
+        "number": 104,
         "shape": "normal",
         "set": "KRK",
         "rotated": false,
@@ -617,7 +617,7 @@
     },
     {
         "card_name": "Drown",
-        "number": 104,
+        "number": 105,
         "shape": "normal",
         "set": "KRK",
         "rotated": false,
@@ -657,7 +657,7 @@
     },
     {
         "card_name": "Emperor's Executioner",
-        "number": 105,
+        "number": 106,
         "shape": "adventure",
         "set": "KRK",
         "rotated": false,
@@ -697,7 +697,7 @@
     },
     {
         "card_name": "Forsaken Cutthroat",
-        "number": 106,
+        "number": 107,
         "shape": "normal",
         "set": "KRK",
         "rotated": false,
@@ -737,7 +737,7 @@
     },
     {
         "card_name": "Loose Cargo",
-        "number": 111,
+        "number": 112,
         "shape": "normal",
         "set": "KRK",
         "rotated": false,
@@ -777,7 +777,7 @@
     },
     {
         "card_name": "March of the Dreadtide",
-        "number": 112,
+        "number": 113,
         "shape": "normal",
         "set": "KRK",
         "rotated": false,
@@ -817,7 +817,7 @@
     },
     {
         "card_name": "Marquisian Enforcer",
-        "number": 113,
+        "number": 114,
         "shape": "normal",
         "set": "KRK",
         "rotated": false,
@@ -912,9 +912,9 @@
         "position": ""
     },
     {
-        "card_name": "Abyssal Behemoth",
+        "card_name": "Aelython Vanguard",
         "number": 168,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "KRK",
         "rotated": false,
         "position": ""
@@ -936,7 +936,7 @@
         "position": ""
     },
     {
-        "card_name": "Arrogant Crewmate",
+        "card_name": "Almicar's Bargain",
         "number": 87,
         "shape": "normal",
         "set": "KRK",
@@ -952,7 +952,7 @@
         "position": ""
     },
     {
-        "card_name": "Aelython Vanguard",
+        "card_name": "Ancient Megalodon",
         "number": 169,
         "shape": "adventure",
         "set": "KRK",
@@ -976,9 +976,9 @@
         "position": ""
     },
     {
-        "card_name": "Azla's Rotcrew",
-        "number": 90,
-        "shape": "adventure",
+        "card_name": "Arrogant Crewmate",
+        "number": 88,
+        "shape": "normal",
         "set": "KRK",
         "rotated": false,
         "position": ""
@@ -992,9 +992,9 @@
         "position": ""
     },
     {
-        "card_name": "Ancient Megalodon",
+        "card_name": "Beachcomber's Bane",
         "number": 170,
-        "shape": "adventure",
+        "shape": "normal",
         "set": "KRK",
         "rotated": false,
         "position": ""
@@ -1016,7 +1016,7 @@
         "position": ""
     },
     {
-        "card_name": "Crimza Taal Headhunter",
+        "card_name": "Azla's Rotcrew",
         "number": 91,
         "shape": "adventure",
         "set": "KRK",
@@ -1032,8 +1032,8 @@
         "position": ""
     },
     {
-        "card_name": "Beachcomber's Bane",
-        "number": 171,
+        "card_name": "Benthic Behemoth",
+        "number": 172,
         "shape": "normal",
         "set": "KRK",
         "rotated": false,
@@ -1056,9 +1056,9 @@
         "position": ""
     },
     {
-        "card_name": "Davijan's Curse",
-        "number": 94,
-        "shape": "normal",
+        "card_name": "Crimza Taal Headhunter",
+        "number": 92,
+        "shape": "adventure",
         "set": "KRK",
         "rotated": false,
         "position": ""
@@ -1096,7 +1096,7 @@
         "position": ""
     },
     {
-        "card_name": "Dawson's Ire",
+        "card_name": "Davijan's Curse",
         "number": 95,
         "shape": "normal",
         "set": "KRK",
@@ -1136,7 +1136,7 @@
         "position": ""
     },
     {
-        "card_name": "Deathless Conscription",
+        "card_name": "Dawson's Ire",
         "number": 96,
         "shape": "normal",
         "set": "KRK",
@@ -1176,8 +1176,8 @@
         "position": ""
     },
     {
-        "card_name": "Dreadtide Ritual",
-        "number": 102,
+        "card_name": "Deathless Conscription",
+        "number": 97,
         "shape": "normal",
         "set": "KRK",
         "rotated": false,
@@ -1216,8 +1216,8 @@
         "position": ""
     },
     {
-        "card_name": "Glorybound Scallywags",
-        "number": 108,
+        "card_name": "Dreadtide Ritual",
+        "number": 103,
         "shape": "normal",
         "set": "KRK",
         "rotated": false,
@@ -1256,8 +1256,8 @@
         "position": ""
     },
     {
-        "card_name": "Last Gasp",
-        "number": 110,
+        "card_name": "Glorybound Scallywags",
+        "number": 109,
         "shape": "normal",
         "set": "KRK",
         "rotated": false,
@@ -1280,7 +1280,7 @@
         "position": ""
     },
     {
-        "card_name": "Marquisian Rescuers",
+        "card_name": "Marquisian Officer",
         "number": 24,
         "shape": "normal",
         "set": "KRK",
@@ -1296,8 +1296,8 @@
         "position": ""
     },
     {
-        "card_name": "Mithril Grouper",
-        "number": 114,
+        "card_name": "Last Gasp",
+        "number": 111,
         "shape": "normal",
         "set": "KRK",
         "rotated": false,
@@ -1336,7 +1336,7 @@
         "position": ""
     },
     {
-        "card_name": "No One Left Behind",
+        "card_name": "Mithril Grouper",
         "number": 115,
         "shape": "normal",
         "set": "KRK",
@@ -1376,7 +1376,7 @@
         "position": ""
     },
     {
-        "card_name": "Poach",
+        "card_name": "No One Left Behind",
         "number": 116,
         "shape": "normal",
         "set": "KRK",
@@ -1416,9 +1416,9 @@
         "position": ""
     },
     {
-        "card_name": "Seabound Spirit",
-        "number": 118,
-        "shape": "adventure",
+        "card_name": "Poach",
+        "number": 117,
+        "shape": "normal",
         "set": "KRK",
         "rotated": false,
         "position": ""
@@ -1456,9 +1456,9 @@
         "position": ""
     },
     {
-        "card_name": "Shipwreck Revenant",
+        "card_name": "Seabound Spirit",
         "number": 119,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "KRK",
         "rotated": false,
         "position": ""
@@ -1496,7 +1496,7 @@
         "position": ""
     },
     {
-        "card_name": "Shoreline Haggler",
+        "card_name": "Shipwreck Revenant",
         "number": 120,
         "shape": "normal",
         "set": "KRK",
@@ -1536,7 +1536,7 @@
         "position": ""
     },
     {
-        "card_name": "Skyship Ambusher",
+        "card_name": "Shoreline Haggler",
         "number": 121,
         "shape": "normal",
         "set": "KRK",
@@ -1576,7 +1576,7 @@
         "position": ""
     },
     {
-        "card_name": "Smuggler's Haul",
+        "card_name": "Skyship Ambusher",
         "number": 122,
         "shape": "normal",
         "set": "KRK",
