@@ -1,4 +1,651 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Scuttled Watchman added.
+Daring Corsair added.
+Dire Sea Spirit added.
+Belligerent Boarder added.
+Affectionate Mimic (Token Copy) added.
+
+Ghostcrew Captain removed.
+Tavern Gambler removed.
+Free Harbor removed.
+Skyship Ambusher removed.
+Soldier Army removed.
+
+Emperor Almicar
+
+The Living Forge
+
+Druno, Marquisian Collector
+
+Tell No Tales
+
+Marquisian Flagship
+
+Spectral Sabers
+
+Almicar's Striker
+
+Crimza Taal Envoy
+
+Marquisian Commander
+
+Imperial Armorer
+
+Windrider Roc
+
+Familiar's Foil
+
+Refurbish
+
+Encased in Glass
+
+Marquisian Skyship
+
+Maroon
+
+Ironworks Twinblades
+
+Davijan, Trenchbound Titan
+
+Saddled Scuttleback
+
+Shifting Sailor
+
+Glorybound Seablade
+
+Whelming Wave
+
+Thalassophobia
+type: Enchantment => Legendary Enchantment
+rules_text: When Thalassophobia enters, draw a card.
+Whenever you draw a card, create a tapped 1/1 blue Tentacle creature token.
+Sacrifice Thalassophobia and eight Tentacles: Search your library for a Kraken, Leviathan, Octopus, or Serpent creature card and put it onto the battlefield, then shuffle. => When Thalassophobia enters, draw a card, then discard a card.
+Whenever you draw a card, create a tapped 1/1 blue Tentacle creature token.
+Sacrifice Thalassophobia and eight Tentacles: Search your library for a Kraken, Leviathan, Octopus, or Serpent creature card and put it onto the battlefield, then shuffle.
+
+Brineborn Cutthroat
+
+Hullhide Colossus
+
+Deep Sea Devastator
+
+Uncharted Wonders
+rules_text: Draw two cards, then plunder twice. [i](Create a Treasure token, or sacrifice an artifact to draw a card. Then repeat this process.)[/i] => Draw two cards, then plunder twice. [i](To plunder, create a Treasure token, or sacrifice an artifact to draw a card. Then repeat this process.)[/i]
+
+Skysail Galleon
+
+Ironworks Frigate
+
+Trenchcaller Oracle
+
+Avarice
+
+Dreadtide Flagship
+
+Dezan, Ironsoul Sell-Sword
+
+Crimza Taal Infiltrator
+
+Abyssal Breach
+
+Alkar of the Floating Horde
+
+Raider's Remains
+
+Dreadtide Scrounger
+
+Marquisian Enforcer
+
+Forsaken Cutthroat
+
+Azla's Monstrosity
+
+Dreadtide Grunt
+
+March of the Dreadtide
+
+What Lurks Beneath
+
+Down With the Ship
+
+Drown
+
+Zephyr Swashbuckler
+
+Malvo, Edgeseeker Admiral
+
+Charismatic Captain
+
+Mapcaster Mage
+
+Firebrand Flagship
+
+Powder Monkeys
+
+Twinshot Renegade
+
+Glorybound Brute
+
+Macrawcodiles
+
+Fleetfront Galleon
+
+Deserter's Dinghy
+
+Jadon's Messenger
+
+Frenetic Freebooter
+
+Davijan's Disciple
+
+Gangplank Marauders
+
+Kelpscale Serpent
+
+Octotyrant
+
+Dreadtide Hellraiser
+
+Kiora's Coiler
+
+Malvo's Quartermaster
+
+Imperial Expeditioner
+
+Great Wight
+
+Dry Land
+
+Intrepid Expedition
+
+Fortunate Flotsam
+
+Horizon Communer
+
+Rallying Captain
+
+Jadon, Who Fells the Mighty
+rules_text: [+1]: Plunder [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i]
+[-3]: Create three 2/1 black Pirate creature tokens with “This creature can't block.” => [+1]: Plunder [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i]
+[-3]: Create two 2/1 black Pirate creature tokens with “This creature can't block.”
+special_text: [+1]: Plunder [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i]
+[-3]: Create three 2/1 black Pirate creature tokens with “This creature can't block.” => [+1]: Plunder [i](Create a Treasure token, or sacrifice an artifact to draw a card.)[/i]
+[-3]: Create two 2/1 black Pirate creature tokens with “This creature can't block.”
+
+Dawson, Out for Blood
+
+Ingrid Farjalla
+
+Ruin Delvers
+
+Sewer Skulk
+
+Glorybound Cutthroat
+
+Imperial Musketeer
+
+Cunning Quartermaster
+
+Azla, Dreadtide Captain
+
+Loyal Deckhand
+
+Mara, Benthozoologist
+
+The Glorybound
+rules_text: Trample, haste
+Planeswalkers you control have “[+2]: Target permanent named The Glorybound becomes an artifact creature until your next turn.”
+Crew 3 => Trample, haste
+Planeswalkers you control have “[+2]: Target permanent named The Glorybound becomes an artifact creature until your next turn.”
+Crew 4
+
+Beachside Barter
+
+M-80, Clockwork Crewmate
+
+Animated Hoard
+
+Marquisian Sentry
+
+Salvaged Stomper
+
+Lantern of the Lost
+
+Shoreline Beacon
+
+Pillager's Galleon
+
+Spectral Sloop
+
+Ironworks Arsenal
+
+Pilferer's Pouch
+
+Maelstrom Flagship
+
+Veteran Cartographer
+
+Journey's Preparation
+
+Tortun Vanguard
+
+Fleetcrusher Titan
+
+Port Inspector
+
+Davijan's Awakening
+
+Wharf Rat
+
+Ironworks Skysail
+rules_text: Flying, vigilance
+As long as you control three or more artifacts, Ironworks Skysail is an artifact creature.
+Crew 2 => Flying
+As long as you control four or more artifacts, Ironworks Skysail is an artifact creature.
+Crew 2
+
+Protean Schooner
+
+Beyond the Horizon
+cost: {7}{U}{U}{U} => {10}{U}{U}{U}
+
+Hellfire Dreadnought
+
+Hunter's Ambition
+
+Wayfinder's Telescope
+
+Rising Tide
+
+Cursed Coins
+
+Restore Order
+cost: {X}{W}{W}{W} => {X}{W}{W}
+rules_text: Create X 0/0 white Soldier Army creature tokens with “This creature gets +1/+1 for each creature you control.” => This spell costs {1} less to cast if you control a creature, {1} less to cast if you control an Equipment, and {1} less to cast if you control a Vehicle.
+Create X 1/1 white Soldier creature tokens.
+
+Ghostblade Renegade
+
+Salazar, Glorybound Mate
+
+Behemoth of World's End
+
+Stormforged Saber
+
+Rum Guzzler
+
+Grand Admiral
+
+Sword of Greed and Glory
+
+Novice Navigator
+
+Dockside Warden
+
+Shipbreaker Kraken
+
+Kiora, Voice of the Deep
+
+Lilith's Duplimancy
+
+Trenchlurker Titan
+
+Audra, Raucous Rallier
+
+Starlight Wayfinder
+
+Tideweaver Gull
+
+Standard-Issue Flintlock
+
+Weathered Navigator
+
+Landing Party
+
+Conscripted Duelist
+
+Treasure Hunter
+
+Edgeseeker Helmsman
+
+Ironworks Seahawk
+
+Trade Route Navigators
+
+Governor's Representative
+
+Deft Commodore
+
+Imperial Bombardiers
+
+Quickdraw
+
+High and Dry
+
+Edgeseeker's Valor
+
+Parry
+
+Shipwrecked
+
+Rally the Isles
+
+Marquisian Officer
+
+Loyal Quartermaster
+
+Welkin Tern
+
+Crimza Taal Smuggler
+
+Aelython Renegade
+
+Shipwreck Kraken
+
+Riptide Titan
+
+Forgotten Chronicler
+
+Daring Rebuttal
+
+Man Overboard
+
+Lost at Sea
+
+Thirst for Knowledge
+
+Opt
+
+Whirlpool
+
+Ghostly Galleon
+
+Shore Up
+
+Mithril Grouper
+
+Arrogant Crewmate
+
+Crimza Taal Headhunter
+
+Tandem Hirelings
+
+Azla's Rotcrew
+
+Seabound Spirit
+
+Glorybound Scallywags
+
+Poach
+
+Last Gasp
+
+Davijan's Curse
+
+Almicar's Bargain
+
+Dreadtide Ritual
+
+No One Left Behind
+
+Deathless Conscription
+
+Gemseeker Grottle
+
+Munitions Mage
+
+Flintlock Sharpshot
+
+Trinket Merchant
+
+Pyrebeard Buccaneer
+
+Rowdy Cannoneer
+
+Cannonpack Crewmate
+
+Savvy Duelist
+
+Glorybound Knaves
+
+Become the Storm
+
+Cannonblast
+
+Unfair Share
+
+Audra's Vengeance
+
+Abandon Ship
+
+Bombarding Brigantine
+
+Tavern Brawl
+
+Dishonorable Duel
+
+Glittering Trove
+rules_text: Whenever Glittering Trove enters or is put into a graveyard from the battlefield, create a 2/1 black Pirate creature token with “This creature can't block.”
+{3}{R}, Discard a card, Sacrifice Glittering Trove: Draw a card. => Whenever Glittering Trove enters or is put into a graveyard from the battlefield, create a 2/1 black Pirate creature token with “This creature can't block.”
+{3}{R}, {T}, Discard a card, Sacrifice Glittering Trove: Draw a card.
+
+Flourishing Reef
+
+Trenchcaller Champion
+
+Trenchcaller Vassal
+
+Marquisian Seafarer
+
+Octoplant
+
+Dreadtide Deckhands
+
+Aelython Vanguard
+
+Curio Collectors
+
+Tortun Cannoneers
+
+Benthic Behemoth
+
+Ancient Megalodon
+
+Run Through
+
+Breach the Surface
+
+Tavern Revelry
+
+Marquisian Crackdown
+
+Inkforged Arsenal
+
+Sunken Spoils
+
+Kiora's Beckoning
+
+Beachcomber's Bane
+
+Aureate Elemental
+
+Expedition Map
+
+Glittering Spoils
+
+Pirate's Cutlass
+
+Rusted Mariner
+
+Towering Dreadnought
+
+Voyager's Vessel
+
+Captain's Orders
+
+Ravenous Wavekite
+
+Rapacious Tyrant
+rules_text: Flying, haste
+When Rapacious Tyrant enters, you may discard your hand. If you do, plunder seven times. [i](To plunder, create a Treasure token, or sacrifice an artifact to draw a card.)[/i] => Flying, haste
+When Rapacious Tyrant enters, you may discard your hand. If you do, plunder seven times. [i](To plunder, create a Treasure token, or sacrifice an artifact to draw a card. Then repeat this process six times.)[/i]
+
+Ironworks Shipwrights
+
+Dragon-Eye Lookout
+
+Dawson's Ire
+
+Ship-Scale Behemoth
+
+Hemophage Hunter
+
+Tidal Visionary
+
+Kraken
+
+Serpent
+
+On An Adventure
+
+Construct
+
+Daring Adventures
+
+Treasure
+
+Weapon
+
+Vehicle
+
+Search Beyond the Empire
+
+Rallying Lookout
+
+The One That Got Away
+
+Boundless Horizons
+
+Grottle Shell-Singer
+
+Gilded Cove
+
+Emperor's Executioner
+
+Sunken Casket
+
+Reefbed Hatchling
+
+Dreadtide Marauder
+
+Wavebreaker Brute
+
+Storm Coast Drakemaster
+
+Everywhere
+
+Loose Cargo
+rules_text: When Loose Cargo enters, each opponent discards a card.
+{3}{B}{B}, Sacrifice Loose Cargo: Create two 2/1 black Pirate creature tokens with “This creature can't block.” => When Loose Cargo enters, each opponent discards a card.
+{3}{B}{B}, {T}, Sacrifice Loose Cargo: Create two 2/1 black Pirate creature tokens with “This creature can't block.”
+
+Curse of Siren's Song
+
+Glutton of Fool's Strait
+
+Shark
+
+Maelstrom's Maw
+
+Marooned Mutineer
+
+Hired Hand
+
+Eye of the Eight Winds
+
+Scout
+
+Soldier
+
+Spirit
+
+Copy
+
+Drake
+
+Fish
+
+Octopus
+
+Tentacle
+
+Affectionate Mimic
+rules_text: {T}, Sacrifice Affectionate Mimic: Add one mana of any color.
+If you would create one or more tokens, you may instead create that many tokens that are copies of Affectionate Mimic, except they don't have this ability. => {T}, Sacrifice Affectionate Mimic: Add one mana of any color.
+If you would create one or more artifact tokens, you may instead create that many tokens that are copies of Affectionate Mimic, except they don't have this ability.
+
+Lilith, Seafaring Scribe
+
+Pirate Token (A)
+rules_text: This token can't block. => This creature can't block.
+
+Zombie
+
+Dragon
+
+Elemental
+
+Pirate Token (B)
+rules_text: This token can't block. => This creature can't block.
+
+Pirate Token (C)
+rules_text: This token can't block. => This creature can't block.
+
+Partners in Crime
+
+Brackish Channeler
+
+Razorfin
+
+Shoreline Haggler
+
+Edgeseeker Flagship
+
+Tidehunter Drake
+
+Corsair's Companion
+
+Thieving Accomplice
+rules_text: Flying
+Whenever an artifact you control enters, Thieving Accomplice gets +1/+1 until end of turn. If that artifact was a Vehicle, instead put a +1/+1 counter on Thieving Accomplice. => Flying
+Whenever you cast an artifact spell, Thieving Accomplice gets +1/+1 until end of turn. If that spell was a Vehicle, instead put a +1/+1 counter on Thieving Accomplice.
+
+Uncharted Haven
+
+Tortun Turncoat
+
+Corsair Firebomb
+
+Hellfire Volley
+
+Lilith, Seafaring Scribe Emblem
+
+Kiora, Voice of the Deep Emblem
+
+Pirate Token (D)
+rules_text: This token can't block. => This creature can't block.
+
+Shipwreck Revenant
+cost: {3}{B} => {2}{U}
+rules_text: Lifelink
+Whenever you draw your second card each turn, each opponent loses 2 life and you gain 2 life. => Flash
+When Shipwreck Revenant enters, tap it and up to one target artifact or creature.
+pt: 2/4 => 3/1
+
+
+VERSION 7 CHANGELOG
 ====================
 
 
