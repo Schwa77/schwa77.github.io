@@ -13438,18 +13438,21 @@
             "loyalty": "",
             "artist": "Sam Kanios",
             "alias": "",
+            "position": "0",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Grove Guardian",
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2013 Spirit",
-            "number": 14,
+            "number": 15,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Flying\nWhen this creature enters, choose one\u2013\n\u2022 Create a 1/1 white Human creature token.\n\u2022 Choose target permanent in your graveyard that was put there from the battlefield this turn. Return that card to your hand.",
+            "rules_text": "Flying\nWhen Grove Guardian enters, choose one\u2013\n\u2022 Create a 1/1 white Human creature token.\n\u2022 Choose target permanent in your graveyard that was put there from the battlefield this turn. Return that card to your hand.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -13458,15 +13461,18 @@
             "loyalty": "",
             "artist": "Vivian Poetzscher",
             "alias": "",
+            "position": "1",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Repel the Vile",
             "color": "W",
             "rarity": "common",
             "type": "Instant",
-            "number": 24,
+            "number": 25,
             "color_identity": "W",
             "cost": "{3}{W}",
             "rules_text": "Choose one \u2013\n\u2022 Exile target creature with power 4 or greater.\n\u2022 Exile target enchantment.",
@@ -13478,8 +13484,11 @@
             "loyalty": "",
             "artist": "Jocelin Carmes",
             "alias": "",
+            "position": "2",
+            "rotated": false,
             "notes": "!tag reprint",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tarnahm Brightbearer",
@@ -13496,10 +13505,13 @@
             "shape": "normal",
             "set": "MOX",
             "loyalty": "",
-            "artist": "totorrl",
+            "artist": "Muhamad Faizal Fikri",
             "alias": "",
+            "position": "3",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dread Whispers",
@@ -13518,28 +13530,34 @@
             "loyalty": "",
             "artist": "totorrl",
             "alias": "",
+            "position": "4",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
-            "card_name": "Tarnahm Shadow",
+            "card_name": "Graveborn Bloom",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Ox Shade",
-            "number": 94,
+            "type": "Creature \u2013 Fungus",
+            "number": 80,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "When this creature enters, destroy up to one target creature an opponent controls that was dealt damage this turn.\n{1}{B}: Tarnahm Shadow gets +1/+1 until end of turn.",
+            "rules_text": "When Graveborn Bloom enters, destroy up to one target creature an opponent controls that was dealt damage this turn.\n{1}{B}: Graveborn Bloom gets +1/+1 until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "MOX",
             "loyalty": "",
-            "artist": "Mr--Jack",
+            "artist": "Jennifer Wuestling",
             "alias": "",
+            "position": "5",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Village Procession",
@@ -13558,8 +13576,11 @@
             "loyalty": "",
             "artist": "Kleiner Hai",
             "alias": "",
+            "position": "6",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shackled Straw",
@@ -13569,7 +13590,7 @@
             "number": 201,
             "color_identity": "C",
             "cost": "{3}",
-            "rules_text": "Defender\nWhenever a player attacks you or a planeswalker you control with flying, this creature can attack as though it didn't have defender until the beginning of your next end step.",
+            "rules_text": "Defender\nWhenever a player attacks you or a planeswalker you control with flying, Shackled Straw can attack as though it didn't have defender until the beginning of your next end step.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -13578,8 +13599,11 @@
             "loyalty": "",
             "artist": "\u00c1lvaro Carrillo Gonz\u00e1lez",
             "alias": "",
+            "position": "7",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/GlbLa",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hallow Statue",
@@ -13589,7 +13613,7 @@
             "number": 192,
             "color_identity": "C",
             "cost": "{3}",
-            "rules_text": "{T}: Add one mana of any color.\n{3}: This artifact becomes a 3/3 Angel creature with flying in addition to its other types until end of turn. Activate only if you control a creature with flying.",
+            "rules_text": "{T}: Add one mana of any color.\n{3}: Hallow Statue becomes a 3/3 Spirit creature with flying in addition to its other types until end of turn. Activate only if you control a creature with flying.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -13598,8 +13622,11 @@
             "loyalty": "",
             "artist": "Kim Dingwall",
             "alias": "",
+            "position": "8",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Determined Congregation",
@@ -13618,8 +13645,11 @@
             "loyalty": "",
             "artist": "Maciej Laszkiewicz",
             "alias": "",
+            "position": "9",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Aminatou's Familiar",
@@ -13636,21 +13666,24 @@
             "shape": "normal",
             "set": "MOX",
             "loyalty": "",
-            "artist": "Bing Image Generator",
+            "artist": "Lei Min",
             "alias": "",
-            "notes": "https://chiakiroart.tumblr.com/post/667582137325731840/a-moth-creature",
-            "image_type": "png"
+            "position": "10",
+            "rotated": false,
+            "notes": "https://chiakiroart.tumblr.com/post/667582137325731840/a-moth-creature\n\nhttps://www.artstation.com/artwork/R3BeGe",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Outlands Envoy",
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2013 Human Scout",
-            "number": 22,
+            "number": 23,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "When this creature enters, choose one\u2013\n\u2022 Return target Aura card from your graveyard to your hand.\n\u2022 Target creature you control gets +2/+2 until end of turn.",
-            "flavor_text": "[i]Raised alongside one another, the boy and hare had an unbreakable bond.[/i]",
+            "rules_text": "When Outlands Envoy enters, choose one\u2013\n\u2022 Return target Aura card from your graveyard to your hand.\n\u2022 Target creature you control gets +2/+2 until end of turn.",
+            "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
             "shape": "normal",
@@ -13658,19 +13691,22 @@
             "loyalty": "",
             "artist": "Torbj\u00f6rn K\u00e4llstr\u00f6m",
             "alias": "",
+            "position": "11",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/n0xGY1",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Prized Longhorn",
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2013 Ox",
-            "number": 23,
+            "number": 24,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "When this creature enters, you gain 3 life.\nNocturnal {W} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
-            "flavor_text": "[i]The steadfast beasts of the fields are a farmer's truest fortune.[/i]",
+            "rules_text": "When Prized Longhorn enters, you gain 3 life.\nNocturnal {W} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
+            "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
             "shape": "normal",
@@ -13678,18 +13714,21 @@
             "loyalty": "",
             "artist": "Hardy Martin",
             "alias": "",
+            "position": "12",
+            "rotated": false,
             "notes": "https://vogtauction.com/auctions/texas-western-arts-auction/item/hardy-martin-b-1942-longhorn",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Homestead Militia",
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2013 Human Soldier",
-            "number": 18,
+            "number": 19,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "When this creature enters, creatures you control get +1/+1 until end of turn.\nNocturnal {1}{W} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
+            "rules_text": "When Homestead Militia enters, creatures you control get +1/+1 until end of turn.\nNocturnal {1}{W} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -13698,8 +13737,11 @@
             "loyalty": "",
             "artist": "Gunship Revolution",
             "alias": "",
+            "position": "13",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/J91x3m",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Convergence Beckoner",
@@ -13709,7 +13751,7 @@
             "number": 6,
             "color_identity": "W",
             "cost": "{4}{W}",
-            "rules_text": "Flying\nWhen this creature enters, you gain 1 life for each creature you control with flying.",
+            "rules_text": "Flying\nWhen Convergence Beckoner enters, you gain 1 life for each creature you control with flying.",
             "flavor_text": "[i]\u201cWelcome to night's domain.\u201d[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -13718,15 +13760,18 @@
             "loyalty": "",
             "artist": "Malwina Kwiatkowska",
             "alias": "",
+            "position": "14",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/Y8m96\n\nhttps://www.artstation.com/artwork/Z9OWR?collection_id=617720",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lost in the Stars",
             "color": "W",
             "rarity": "common",
             "type": "Enchantment \u2013 Aura",
-            "number": 19,
+            "number": 20,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Enchant creature\nEnchanted creature can't attack or block.\nWhenever you attack with three or more creatures, destroy enchanted creature.",
@@ -13738,8 +13783,11 @@
             "loyalty": "",
             "artist": "Rob Rey",
             "alias": "",
+            "position": "15",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "World's Wings",
@@ -13758,18 +13806,21 @@
             "loyalty": "",
             "artist": "Artem Chebokha",
             "alias": "",
+            "position": "16",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gilded Travel",
             "color": "W",
             "rarity": "common",
             "type": "Enchantment \u2013 Aura",
-            "number": 12,
+            "number": 13,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Flash\nEnchant creature\nWhen this Aura enters, enchanted creature gains indestructible until end of turn.\nEnchanted creature gets +2/+2.",
+            "rules_text": "Flash\nEnchant creature\nWhen Gilded Travel enters, enchanted creature gains indestructible until end of turn.\nEnchanted creature gets +2/+2.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -13778,15 +13829,18 @@
             "loyalty": "",
             "artist": "Christian Fell",
             "alias": "",
+            "position": "17",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Stillwater Respite",
             "color": "W",
             "rarity": "common",
             "type": "Instant",
-            "number": 27,
+            "number": 28,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "Exile target creature you control, then return that card to the battlefield tapped under its owner's control.\nEquinox {2}{W} [i](If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)[/i]",
@@ -13798,8 +13852,11 @@
             "loyalty": "",
             "artist": "Steven Shan",
             "alias": "",
+            "position": "18",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/3dkZyA\n\n!tag yuri",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Curious Hauntling",
@@ -13809,7 +13866,7 @@
             "number": 37,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "Flash\nFlying\nWhen this creature enters, tap target creature you don't control.",
+            "rules_text": "Flash\nFlying\nWhen Curious Hauntling enters, tap target creature you don't control.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -13818,8 +13875,11 @@
             "loyalty": "",
             "artist": "Vivian Poetzscher",
             "alias": "",
+            "position": "19",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/wJz9N6",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spectral Shepherd",
@@ -13838,8 +13898,11 @@
             "loyalty": "",
             "artist": "Olesya Spitz",
             "alias": "",
+            "position": "20",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/oOW5mm",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Deranged Cultist",
@@ -13849,7 +13912,7 @@
             "number": 38,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "When this creature dies, draw a card.\nNocturnal {U} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
+            "rules_text": "When Deranged Cultist dies, draw a card.\nNocturnal {U} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -13858,8 +13921,11 @@
             "loyalty": "",
             "artist": "Aurore Folny",
             "alias": "",
+            "position": "21",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/XKJQD",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gaping Revenant",
@@ -13878,8 +13944,11 @@
             "loyalty": "",
             "artist": "Lisa Jenkins",
             "alias": "",
+            "position": "22",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Haunting Watcher",
@@ -13889,7 +13958,7 @@
             "number": 45,
             "color_identity": "U",
             "cost": "{4}{U}",
-            "rules_text": "Reap \u2013 {4}{U}{U}: This creature can't be blocked this turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
+            "rules_text": "Reap \u2013 {4}{U}{U}: Haunting Watcher can't be blocked this turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -13898,8 +13967,11 @@
             "loyalty": "",
             "artist": "Sebastian Kowoll",
             "alias": "",
+            "position": "23",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/aYNN30",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Phantom Butler",
@@ -13909,7 +13981,7 @@
             "number": 53,
             "color_identity": "U",
             "cost": "{3}{U}",
-            "rules_text": "When this creature enters, if you've cast two or more spells this turn, put up to one target instant or sorcery card from your graveyard on top of your library.",
+            "rules_text": "When Phantom Butler enters, if you've cast two or more spells this turn, put up to one target instant or sorcery card from your graveyard on top of your library.",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
@@ -13918,8 +13990,11 @@
             "loyalty": "",
             "artist": "Andrea Piparo",
             "alias": "",
+            "position": "24",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Syncopate",
@@ -13938,8 +14013,11 @@
             "loyalty": "",
             "artist": "Jon Wing",
             "alias": "",
+            "position": "25",
+            "rotated": false,
             "notes": "!tag reprint",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chilling Sight",
@@ -13949,7 +14027,7 @@
             "number": 36,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Enchant creature\nWhen this Aura enters, if you've cast two or more spells this turn, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.",
+            "rules_text": "Enchant creature\nWhen Chilling Sight enters, if you've cast two or more spells this turn, tap enchanted creature.\nEnchanted creature can't become untapped.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -13958,8 +14036,11 @@
             "loyalty": "",
             "artist": "Pauline VoB",
             "alias": "",
+            "position": "26",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/RY3gaE",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Discover the Reliquary",
@@ -13978,8 +14059,11 @@
             "loyalty": "",
             "artist": "Julian Bauer",
             "alias": "",
+            "position": "27",
+            "rotated": false,
             "notes": "https://www.deviantart.com/thegryph/art/Harry-Dresden-99287087",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kiss of Frost",
@@ -13998,8 +14082,11 @@
             "loyalty": "",
             "artist": "Mateusz Wisniewski",
             "alias": "",
+            "position": "28",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/rAVYZE\n\nhttps://www.artstation.com/artwork/OmVX0k",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vanish",
@@ -14018,8 +14105,11 @@
             "loyalty": "",
             "artist": "Borja Pindado",
             "alias": "",
+            "position": "29",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Doomed Survivor",
@@ -14038,18 +14128,21 @@
             "loyalty": "",
             "artist": "Borja Pindado",
             "alias": "",
+            "position": "30",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/w9qk9",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Novice Occultist",
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2013 Human Wizard",
-            "number": 86,
+            "number": 87,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "When this creature dies, you draw a card and you lose 1 life.",
+            "rules_text": "When Novice Occultist dies, you draw a card and you lose 1 life.",
             "flavor_text": "[i]\u201cOh, great beings from beyond! Take root in my flesh, and speak truths from my tongue. Tell all of your impending return, and let them exult!\u201d[/i]",
             "pt": "1/2",
             "special_text": "",
@@ -14058,8 +14151,11 @@
             "loyalty": "",
             "artist": "Nia Kovalevski",
             "alias": "",
+            "position": "31",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/elx9PP\n\n!tag reprint",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ulderwild Sage",
@@ -14078,15 +14174,18 @@
             "loyalty": "",
             "artist": "Alex Stone",
             "alias": "",
+            "position": "32",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/Nyx6JN",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Horde Encounter",
             "color": "B",
             "rarity": "common",
             "type": "Instant",
-            "number": 81,
+            "number": 82,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Create a 2/2 black Zombie creature token.\nEquinox {3}{B} [i](If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)[/i]",
@@ -14098,8 +14197,11 @@
             "loyalty": "",
             "artist": "Brian Valeza",
             "alias": "",
+            "position": "33",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/le9VJ",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Clever Familiar",
@@ -14109,7 +14211,7 @@
             "number": 73,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "When this creature enters, you lose 1 life and you draw a card.\nNocturnal {B} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
+            "rules_text": "When Clever Familiar enters, you lose 1 life and you draw a card.\nNocturnal {B} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -14118,8 +14220,11 @@
             "loyalty": "",
             "artist": "RubyFaesRealm",
             "alias": "",
+            "position": "34",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/g2xybZ",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Boglurker Thallid",
@@ -14129,7 +14234,7 @@
             "number": 71,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "{2}, Sacrifice a creature: Put a +1/+1 counter on this creature. It gains indestructible until end of turn. Activate only as a sorcery.",
+            "rules_text": "{2}, Sacrifice a creature: Put a +1/+1 counter on Boglurker Thallid. It gains indestructible until end of turn. Activate only as a sorcery.",
             "flavor_text": "[i]Those who pick mushrooms might be picked themselves.[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -14138,8 +14243,11 @@
             "loyalty": "",
             "artist": "Maros Mandhardt",
             "alias": "",
+            "position": "35",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/xJLg0E",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Elken Remains",
@@ -14149,7 +14257,7 @@
             "number": 77,
             "color_identity": "B",
             "cost": "{4}{B}",
-            "rules_text": "Reap \u2013 {3}{B}: This creature gets +2/+0 and gains indestructible until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
+            "rules_text": "Reap \u2013 {3}{B}: Elken Remains gets +2/+0 and gains indestructible until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -14158,18 +14266,21 @@
             "loyalty": "",
             "artist": "Boris Groh",
             "alias": "",
+            "position": "36",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/4XooWl",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Segmented Terror",
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2013 Spider",
-            "number": 92,
+            "number": 93,
             "color_identity": "B",
             "cost": "{5}{B}",
-            "rules_text": "When this creature enters, return target creature card with mana value 5 or less from your graveyard to your hand.\nNocturnal {3}{B} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
+            "rules_text": "When Segmented Terror enters, return target creature card with mana value 5 or less from your graveyard to your hand.\nNocturnal {3}{B} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "5/3",
             "special_text": "",
@@ -14178,8 +14289,11 @@
             "loyalty": "",
             "artist": "Istrandar",
             "alias": "",
+            "position": "37",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/ybw8LR",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Feed the Swarm",
@@ -14198,15 +14312,18 @@
             "loyalty": "",
             "artist": "Boris Groh",
             "alias": "",
+            "position": "38",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/e0qenZ\n\n!tag reprint",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Necromancer's Lullaby",
             "color": "B",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 83,
+            "number": 84,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Target opponent reveals their hand. You may choose a creature card from it. If you do, that player discards that card. If you don't, return up to one target creature card from your graveyard to your hand.",
@@ -14218,15 +14335,18 @@
             "loyalty": "",
             "artist": "Sam Kanios",
             "alias": "",
+            "position": "39",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rise from Rot",
             "color": "B",
             "rarity": "common",
             "type": "Instant",
-            "number": 90,
+            "number": 91,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "Target creature you control gains deathtouch until end of turn. When it dies this turn, create a 2/2 black Zombie creature token.",
@@ -14238,15 +14358,18 @@
             "loyalty": "",
             "artist": "Alexander Yakovlev",
             "alias": "",
+            "position": "40",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/9EzrDv",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Harvest",
             "color": "B",
             "rarity": "common",
             "type": "Instant",
-            "number": 80,
+            "number": 81,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "As an additional cost to cast this spell, sacrifice a creature.\nDraw two cards. You gain life equal to the sacrificed creature's mana value.",
@@ -14258,8 +14381,11 @@
             "loyalty": "",
             "artist": "Jason Nguyen",
             "alias": "",
+            "position": "41",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/eg1xJ",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Truffle Forager",
@@ -14269,7 +14395,7 @@
             "number": 125,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "First strike\nWhenever you cast your second spell each turn, this creature deals 1 damage to each opponent and you scry 1.",
+            "rules_text": "First strike\nWhenever you cast your second spell each turn, Truffle Forager deals 1 damage to each opponent and you scry 1.",
             "flavor_text": "[i]\u201cThis is going to make an excellent soup. Now all I need is the venom of the great adder and an archdragon's eye.\u201d[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -14278,19 +14404,22 @@
             "loyalty": "",
             "artist": "Torgeir Fjereide",
             "alias": "",
+            "position": "42",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/XBGAn3",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
-            "card_name": "Bloodgorger Beetle",
+            "card_name": "Fleshgorger Beetle",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2013 Insect Horror",
-            "number": 105,
+            "number": 111,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Reap \u2013 {2}{R}: This creature gets +2/+0 until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
-            "flavor_text": "[i]\u201cVampires are much more hideous on this plane, apparently.\u201d\n\u2014Adler, midnight architect[/i]",
+            "rules_text": "Reap \u2013 {2}{R}: Fleshgorger Beetle gets +2/+0 until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
+            "flavor_text": "[i]Scavengers have learned to simply follow the screaming until it stops.[/i]",
             "pt": "2/2",
             "special_text": "",
             "shape": "normal",
@@ -14298,8 +14427,11 @@
             "loyalty": "",
             "artist": "Julien Gauthier",
             "alias": "",
+            "position": "43",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/48Q0Ol",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wild Witch",
@@ -14318,8 +14450,11 @@
             "loyalty": "",
             "artist": "Anthony Catillaz",
             "alias": "",
+            "position": "44",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/nYOkor",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Leafcrown Elk",
@@ -14329,7 +14464,7 @@
             "number": 113,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "When this creature enters, target creature can't block this turn.\nNocturnal {R} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
+            "rules_text": "When Leafcrown Elk enters, target creature can't block this turn.\nNocturnal {R} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -14338,8 +14473,11 @@
             "loyalty": "",
             "artist": "Marina Khorosh",
             "alias": "",
+            "position": "45",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/zAwRYD",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tomebound Apprentice",
@@ -14349,7 +14487,7 @@
             "number": 124,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "This creature has haste as long as you've cast two or more spells this turn.",
+            "rules_text": "Tomebound Apprentice has haste as long as you've cast two or more spells this turn.",
             "flavor_text": "[i]He craved power more than wisdom, tearing spell after spell from forbidden tomes. But every surge pulled him closer to a place where the magic became too much, and the apprentice too little.[/i]",
             "pt": "3/2",
             "special_text": "",
@@ -14358,8 +14496,11 @@
             "loyalty": "",
             "artist": "Matias Tapia",
             "alias": "",
+            "position": "46",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/rzkJ5",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Witch Hunter",
@@ -14369,7 +14510,7 @@
             "number": 129,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Whenever this creature attacks with another creature with power 4 or greater, this creature deals 1 damage to target player or planeswalker.",
+            "rules_text": "Whenever this creature attacks with another creature with power 4 or greater, Witch Hunter deals 1 damage to target player or planeswalker.",
             "flavor_text": "[i]\u201cThey will all burn.\u201d[/i]",
             "pt": "4/2",
             "special_text": "",
@@ -14378,8 +14519,11 @@
             "loyalty": "",
             "artist": "Guillem H Pongiluppi",
             "alias": "",
+            "position": "47",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/3drvqv",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blightarrow Archer",
@@ -14389,7 +14533,7 @@
             "number": 103,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]\nDuring your turn, this creature has first strike.",
+            "rules_text": "Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]\nDuring your turn, Blightarrow Archer has first strike.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -14398,8 +14542,11 @@
             "loyalty": "",
             "artist": "Dmitry Savin",
             "alias": "",
+            "position": "48",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/bP3An",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bloodbirthed Crawler",
@@ -14409,7 +14556,7 @@
             "number": 104,
             "color_identity": "R",
             "cost": "{4}{R}",
-            "rules_text": "Reach\nReap \u2013 {4}{R}: This creature deals 2 damage to each opponent. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
+            "rules_text": "Reach\nReap \u2013 {4}{R}: Bloodbirthed Crawler deals 2 damage to each opponent. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -14418,8 +14565,11 @@
             "loyalty": "",
             "artist": "Dean Spencer",
             "alias": "",
+            "position": "49",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sundering the Tower",
@@ -14438,8 +14588,11 @@
             "loyalty": "",
             "artist": "Chris Cold",
             "alias": "",
+            "position": "50",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Twisted Temptation",
@@ -14458,15 +14611,18 @@
             "loyalty": "",
             "artist": "Olivia Rea",
             "alias": "",
+            "position": "51",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/J9KnDn",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Candlelight Ritual",
             "color": "R",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 106,
+            "number": 105,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "You may discard a card. If you do, draw two cards.\nEquinox {3}{R} [i](If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)[/i]",
@@ -14478,8 +14634,11 @@
             "loyalty": "",
             "artist": "Steph Johnstone",
             "alias": "",
+            "position": "52",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Narrow Exit",
@@ -14498,8 +14657,11 @@
             "loyalty": "",
             "artist": "Sandara Tang",
             "alias": "",
+            "position": "53",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Abrade",
@@ -14518,8 +14680,11 @@
             "loyalty": "",
             "artist": "Tithi Luadthong",
             "alias": "",
+            "position": "54",
+            "rotated": false,
             "notes": "!tag reprint",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shrine Guardian",
@@ -14529,7 +14694,7 @@
             "number": 154,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Trample\nWhenever this creature attacks with another creature with power 4 or greater, put a +1/+1 counter on this creature.",
+            "rules_text": "Trample\nWhenever Shrine Guardian attacks with another creature with power 4 or greater, put a +1/+1 counter on Shrine Guardian.",
             "flavor_text": "[i]Ouphes can find rare mushrooms and flowers, so witches often befriend them and employ their aid.[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -14538,8 +14703,11 @@
             "loyalty": "",
             "artist": "Chris Knight",
             "alias": "",
+            "position": "55",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/mVVXE",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Civic Gardener",
@@ -14549,7 +14717,7 @@
             "number": 135,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Whenever this creature attacks, untap target creature or land.",
+            "rules_text": "Whenever Civic Gardener attacks, untap target creature or land.",
             "flavor_text": "[i]\u201cThe man-eating flytrap breed can be more tempestuous than other breeds, so its important to clean their teeth and feelers daily.\u201d[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -14558,8 +14726,11 @@
             "loyalty": "",
             "artist": "Aleksander Karcz",
             "alias": "",
+            "position": "56",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/XnaVPY\n\n!tag reprint",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sporechoke Myconid",
@@ -14578,8 +14749,11 @@
             "loyalty": "",
             "artist": "Todd Ulrich",
             "alias": "",
+            "position": "57",
+            "rotated": false,
             "notes": "https://intothebear.artstation.com/projects/aXWzJ",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Carnivorous Seedling",
@@ -14589,7 +14763,7 @@
             "number": 134,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Reap \u2013 {3}{G}: Put a +1/+1 counter on this creature. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
+            "rules_text": "Reap \u2013 {3}{G}: Put a +1/+1 counter on Carnivorous Seedling. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
             "flavor_text": "[i]The root of all evil.[/i]",
             "pt": "3/2",
             "special_text": "",
@@ -14598,19 +14772,22 @@
             "loyalty": "",
             "artist": "Alex Kuhn",
             "alias": "",
+            "position": "58",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/3qDPlY",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scion of Old Gods",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Skeleton",
+            "type": "Creature \u2013 Treefolk",
             "number": 153,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "When this creature enters, if you control another creature with power 4 or greater, draw a card.",
-            "flavor_text": "[i]Its silent prostrations unnerved all who beheld it.[/i]",
+            "rules_text": "When Scion of Old Gods enters, if you control another creature with power 4 or greater, draw a card.",
+            "flavor_text": "[i]The most ancient growth remembers when the gods first stirred.[/i]",
             "pt": "4/4",
             "special_text": "",
             "shape": "normal",
@@ -14618,18 +14795,21 @@
             "loyalty": "",
             "artist": "Aerozopher",
             "alias": "",
+            "position": "59",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
-            "card_name": "Jack's Pumpkinhead",
+            "card_name": "Jack's Overgrowth",
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2013 Plant",
             "number": 148,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "When this creature dies, put it on the bottom of its owner's library, then return up to one target creature card from your graveyard to your hand.",
+            "rules_text": "When Jack's Overgrowth dies, put it on the bottom of its owner's library, then return up to one target creature card from your graveyard to your hand.",
             "flavor_text": "[i]As Jack carved his way through the Ulderwild, creatures arose to follow his bloody path.[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -14638,8 +14818,11 @@
             "loyalty": "",
             "artist": "Todd Ulrich",
             "alias": "",
+            "position": "60",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/dOJAbK",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ulderwild Recluse",
@@ -14658,8 +14841,11 @@
             "loyalty": "",
             "artist": "Markus Neidel",
             "alias": "",
+            "position": "61",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/3oBLv",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gnarled Ironroot",
@@ -14678,8 +14864,11 @@
             "loyalty": "",
             "artist": "Alexey Krestyaninov",
             "alias": "",
+            "position": "62",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/G8BeZ3",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Inquisitive Jackalope",
@@ -14689,7 +14878,7 @@
             "number": 147,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "When this creature enters, reveal the top five cards of your library. You may put an Aura or land card from among them into your hand. Put the rest on the bottom of your library in a random order.",
+            "rules_text": "When Inquisitive Jackalope enters, reveal the top five cards of your library. You may put an Aura or land card from among them into your hand. Put the rest on the bottom of your library in a random order.",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -14698,8 +14887,11 @@
             "loyalty": "",
             "artist": "Olga Vishnyakova",
             "alias": "",
+            "position": "63",
+            "rotated": false,
             "notes": "https://intothebear.artstation.com/projects/aXWzJ",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bountiful Orchard",
@@ -14709,7 +14901,7 @@
             "number": 133,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Enchant land\nWhen this Aura enters, create a 1/1 white Human creature token.\nEnchanted land has \u201c{T}: Add two mana of any one color.\u201d",
+            "rules_text": "Enchant land\nWhen Bountiful Orchard enters, create a 1/1 white Human creature token.\nEnchanted land has \u201c{T}: Add two mana of any one color.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -14718,8 +14910,11 @@
             "loyalty": "",
             "artist": "Veto Zomer",
             "alias": "",
+            "position": "64",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/qJL8ge",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ulderwild Animosity",
@@ -14738,8 +14933,11 @@
             "loyalty": "",
             "artist": "Anna Podedworna",
             "alias": "",
+            "position": "65",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/lYoJa",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ulderwild Clash",
@@ -14758,8 +14956,11 @@
             "loyalty": "",
             "artist": "Fedor Titov",
             "alias": "",
+            "position": "66",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/3daOKY?collection_id=617720",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Barkskin Blessing",
@@ -14769,7 +14970,7 @@
             "number": 132,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Flash\nEnchant creature\nWhen this Aura enters, enchanted creature gets +2/+2 until end of turn.\nEnchanted creature has trample.",
+            "rules_text": "Flash\nEnchant creature\nWhen Barkskin Blessing enters, enchanted creature gets +2/+2 until end of turn.\nEnchanted creature has trample.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -14778,8 +14979,11 @@
             "loyalty": "",
             "artist": "Ramza Ardyputra",
             "alias": "",
+            "position": "67",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/NG0Yv1",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Haunt-Drawn Carriage",
@@ -14798,8 +15002,11 @@
             "loyalty": "",
             "artist": "Antonio J. Manzanedo",
             "alias": "",
+            "position": "68",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/zN86m\n\nMarko Djurdjevic, Andrius Matijosius, Hugo Lam",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Prophetic Prism",
@@ -14809,7 +15016,7 @@
             "number": 199,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "When this artifact enters, draw a card.\n{1}, {T}: Add one mana of any color.",
+            "rules_text": "When Prophetic Prism enters, draw a card.\n{1}, {T}: Add one mana of any color.",
             "flavor_text": "[i]\u201cWhen I look into it, I see infinite possibilities for this world. And yet, only one future serves my needs.\u201d\n\u2014Adler, midnight architect[/i]",
             "pt": "",
             "special_text": "",
@@ -14818,8 +15025,11 @@
             "loyalty": "",
             "artist": "Helder Almeida",
             "alias": "",
+            "position": "69",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/ybkvQJ\n\n!tag reprint",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Makeshift Wings",
@@ -14829,7 +15039,7 @@
             "number": 198,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "When this Equipment enters, attach it to target creature you control.\nEquipped creature gets +1/+0 and has flying.\nEquip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]",
+            "rules_text": "When Makeshift Wings enters, attach it to target creature you control.\nEquipped creature gets +1/+0 and has flying.\nEquip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -14838,8 +15048,11 @@
             "loyalty": "",
             "artist": "Allen Douglas",
             "alias": "",
+            "position": "70",
+            "rotated": false,
             "notes": "https://www.pinterest.com/pin/165225880072213261/",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shambling Harvester",
@@ -14849,7 +15062,7 @@
             "number": 202,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "Reap \u2013 {4}: This creature gets +2/+2 until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
+            "rules_text": "Reap \u2013 {4}: Shambling Harvester gets +2/+2 until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
             "flavor_text": "[i]The villagers mocked it during the day. It returned the insult that night.[/i]",
             "pt": "2/1",
             "special_text": "",
@@ -14858,18 +15071,21 @@
             "loyalty": "",
             "artist": "Todd Ulrich",
             "alias": "",
+            "position": "71",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/k4dq5y",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sporecap Warden",
             "color": "BG",
             "rarity": "uncommon",
             "type": "Creature \u2013 Fungus",
-            "number": 182,
+            "number": 181,
             "color_identity": "BG",
             "cost": "{2}{B}{G}",
-            "rules_text": "When this creature enters, return target creature card from your graveyard to your hand. If it was put there from the battlefield this turn, instead return it to the battlefield tapped.\nIf this creature would die, exile it instead.",
+            "rules_text": "When Sporecap Warden enters, return target creature card from your graveyard to your hand. If it was put there from the battlefield this turn, instead return it to the battlefield tapped.\nIf Sporecap Warden would die, exile it instead.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -14878,15 +15094,18 @@
             "loyalty": "",
             "artist": "Diego Rom\u00e1n",
             "alias": "",
+            "position": "72",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/D5E8Rn",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Eldritch Investigator",
             "color": "UG",
             "rarity": "uncommon",
             "type": "Creature \u2013 Human Rogue",
-            "number": 171,
+            "number": 170,
             "color_identity": "UG",
             "cost": "{G}{U}",
             "rules_text": "{T}: Untap another target permanent not named Eldritch Investigator.",
@@ -14898,8 +15117,11 @@
             "loyalty": "",
             "artist": "Randy Vargas",
             "alias": "",
+            "position": "73",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ulderwild Communer",
@@ -14909,7 +15131,7 @@
             "number": 184,
             "color_identity": "WG",
             "cost": "{2}{G}{W}",
-            "rules_text": "When this creature enters, if you control an enchantment, create a 2/2 green Wolf creature token.\nWhenever an enchantment you control enters, create a 2/2 green Wolf creature token.",
+            "rules_text": "When Ulderwild Communer enters, if you control an enchantment, create a 2/2 green Wolf creature token.\nWhenever an enchantment you control enters, create a 2/2 green Wolf creature token.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -14918,8 +15140,11 @@
             "loyalty": "",
             "artist": "Yi, Artstation",
             "alias": "",
+            "position": "74",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/5XJXVz",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Velheart Ritualist",
@@ -14929,7 +15154,7 @@
             "number": 187,
             "color_identity": "BR",
             "cost": "{B}{R}",
-            "rules_text": "Reap \u2013 {1}{B}{R}: Put a +1/+1 counter on this creature. It deals 1 damage to each opponent. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
+            "rules_text": "Reap \u2013 {1}{B}{R}: Put a +1/+1 counter on Velheart Ritualist. It deals 1 damage to each opponent. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/1",
             "special_text": "",
@@ -14938,18 +15163,21 @@
             "loyalty": "",
             "artist": "Pavel Yurev",
             "alias": "",
+            "position": "75",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/eax5Jw",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Grizzled Woodsman",
             "color": "RG",
             "rarity": "uncommon",
             "type": "Creature \u2013 Human Warrior",
-            "number": 173,
+            "number": 172,
             "color_identity": "RG",
             "cost": "{R}{G}",
-            "rules_text": "Whenever a creature with power 4 or greater you control enters, put a +1/+1 counter on this creature. It gains trample until end of turn.",
+            "rules_text": "Whenever a creature with power 4 or greater you control enters, put a +1/+1 counter on Grizzled Woodsman. It gains trample until end of turn.",
             "flavor_text": "[i]\u201cPeace isn't a gift out here. It's something you carve out, day by bloodied day.\u201d[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -14958,15 +15186,18 @@
             "loyalty": "",
             "artist": "Oleksandr Kozachenko",
             "alias": "",
+            "position": "76",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/wa8zY",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bunnyback Messenger",
             "color": "WR",
             "rarity": "uncommon",
             "type": "Creature \u2013 Human Scout",
-            "number": 167,
+            "number": 166,
             "color_identity": "WR",
             "cost": "{2}{R}{W}",
             "rules_text": "Haste\nProwess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]\nWhenever you cast a noncreature spell, up to one target creature can't block this turn.",
@@ -14978,38 +15209,44 @@
             "loyalty": "",
             "artist": "Vera Tihonova",
             "alias": "",
+            "position": "77",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/3XlNJ",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
-            "card_name": "Avian Familiar",
+            "card_name": "Stalking Shrike",
             "color": "UB",
             "rarity": "uncommon",
             "type": "Creature \u2013 Bird",
-            "number": 165,
+            "number": 182,
             "color_identity": "UB",
             "cost": "{U}{B}",
-            "rules_text": "Flash\nFlying\nWhen this creature enters during an opponent's turn or whenever you cast a spell during an opponent's turn, each opponent loses 1 life and you gain 1 life.",
+            "rules_text": "Flash\nFlying\nWhen Stalking Shrike enters during an opponent's turn or whenever you cast a spell during an opponent's turn, each opponent loses 1 life and you gain 1 life.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
             "shape": "normal",
             "set": "MOX",
             "loyalty": "",
-            "artist": "Manthos Lappas",
+            "artist": "Jenni M, Artstation",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "position": "78",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/QrvXOr",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Soultouch Spirit",
             "color": "UR",
             "rarity": "uncommon",
             "type": "Creature \u2013 Spirit",
-            "number": 181,
+            "number": 180,
             "color_identity": "UR",
             "cost": "{X}{U}{R}",
-            "rules_text": "When this creature enters, return target instant or sorcery with mana value less than or equal to the amount of mana spent to cast this creature from your graveyard to your hand.\nWhenever you cast your second spell each turn, scry 2.",
+            "rules_text": "When Soultouch Spirit enters, return target instant or sorcery with mana value less than or equal to the amount of mana spent to cast Soultouch Spirit from your graveyard to your hand.\nWhenever you cast your second spell each turn, scry 2.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -15018,38 +15255,44 @@
             "loyalty": "",
             "artist": "Aleksandra Alekseeva",
             "alias": "",
+            "position": "79",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ritual Amalgam",
             "color": "WB",
             "rarity": "uncommon",
             "type": "Creature \u2013 Zombie",
-            "number": 179,
+            "number": 178,
             "color_identity": "WB",
             "cost": "{4}{W}{B}",
-            "rules_text": "This spell costs {1} less to cast for each token you control.\nWhen this creature enters, target opponent sacrifices a nontoken creature of their choice.",
+            "rules_text": "This spell costs {1} less to cast for each token you control.\nWhen Ritual Amalgam enters, target opponent sacrifices a nontoken creature of their choice.",
             "flavor_text": "[i]Forever together.[/i]",
             "pt": "4/4",
             "special_text": "",
             "shape": "normal",
             "set": "MOX",
             "loyalty": "",
-            "artist": "Bad Moon Art Studio",
+            "artist": "Alexey Kruglov",
             "alias": "",
+            "position": "80",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Duskflight Tracker",
             "color": "WU",
             "rarity": "uncommon",
             "type": "Creature \u2013 Bird Spirit",
-            "number": 170,
+            "number": 169,
             "color_identity": "WU",
             "cost": "{2}{W}{U}",
-            "rules_text": "Flying\nWhen this creature enters, look at the top X cards of your library, where X is the number of creatures you control with flying. Put one of those cards into your hand and the rest on the bottom of your library in a random order.",
+            "rules_text": "Flying\nWhen Duskflight Tracker enters, look at the top X cards of your library, where X is the number of creatures you control with flying. Put one of those cards into your hand and the rest on the bottom of your library in a random order.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -15058,8 +15301,11 @@
             "loyalty": "",
             "artist": "Andy Aslamov",
             "alias": "",
+            "position": "81",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blighted Angel",
@@ -15078,15 +15324,18 @@
             "loyalty": "",
             "artist": "Dane Cozens",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "position": "82",
+            "rotated": false,
+            "notes": "https://www.facebook.com/groups/CharacterDesignChallenge/posts/1465266357008041/",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hivetender",
             "color": "W",
             "rarity": "uncommon",
             "type": "Creature \u2013 Human Cleric",
-            "number": 17,
+            "number": 18,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Reap \u2013 {3}{W}: Create a 1/1 white Insect creature token with flying. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
@@ -15098,8 +15347,11 @@
             "loyalty": "",
             "artist": "Olga Samets",
             "alias": "",
+            "position": "83",
+            "rotated": false,
             "notes": "https://www.deviantart.com/olgasamets/art/Olga-samets-bee-garden-1035918824",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Archon of Life's Return",
@@ -15109,7 +15361,7 @@
             "number": 3,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Flying\nWhen this creature enters, choose target permanent card with mana value 3 or less in your graveyard. You may play that card this turn.",
+            "rules_text": "Flying\nWhen Archon of Life's Return enters, choose target permanent card with mana value 3 or less in your graveyard. You may play that card this turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -15118,15 +15370,18 @@
             "loyalty": "",
             "artist": "Rafater",
             "alias": "",
+            "position": "84",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dwarven Dreamwarden",
             "color": "W",
             "rarity": "uncommon",
             "type": "Creature \u2013 Dwarf Warlock",
-            "number": 9,
+            "number": 10,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Creature tokens you control get +1/+1 and have protection from Nightmares. [i](They can't be blocked, targeted, or dealt damage by Nightmares.)[/i]",
@@ -15138,18 +15393,21 @@
             "loyalty": "",
             "artist": "Alessandro Ferrario",
             "alias": "",
+            "position": "85",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Seal Away",
             "color": "W",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 26,
+            "number": 27,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Flash\nWhen this enchantment enters, exile target tapped creature an opponent controls until this enchantment leaves the battlefield.",
+            "rules_text": "Flash\nWhen Seal Away enters, exile target tapped creature an opponent controls until this enchantment leaves the battlefield.",
             "flavor_text": "[i]\u201cBe quiet, foul bird.\u201d\n\u2014Terran, witch hunter[/i]",
             "pt": "",
             "special_text": "",
@@ -15158,8 +15416,11 @@
             "loyalty": "",
             "artist": "Ingram Schell",
             "alias": "",
+            "position": "86",
+            "rotated": false,
             "notes": "!tag reprint",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Crescent Diviner",
@@ -15169,7 +15430,7 @@
             "number": 7,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "When this creature enters, search your library for an Aura card, reveal it, put it into your hand, then shuffle.\nAura spells you cast cost {1} less to cast.",
+            "rules_text": "When Crescent Diviner enters, search your library for an Aura card, reveal it, put it into your hand, then shuffle.\nAura spells you cast cost {1} less to cast.",
             "flavor_text": "[i]The moon has long guided the witches of Derrigoa to their fates.[/i]",
             "pt": "2/4",
             "special_text": "",
@@ -15178,18 +15439,21 @@
             "loyalty": "",
             "artist": "Elizabeth Peiro",
             "alias": "",
+            "position": "87",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Highborn Alchemist",
             "color": "W",
             "rarity": "uncommon",
             "type": "Creature \u2013 Human Artificer",
-            "number": 16,
+            "number": 17,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]\nWhenever this creature becomes the target of a spell you control, it gains lifelink until end of turn.",
+            "rules_text": "Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]\nWhenever Highborn Alchemist becomes the target of a spell you control, it gains lifelink until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -15198,15 +15462,18 @@
             "loyalty": "",
             "artist": "Karina Refrynn",
             "alias": "",
+            "position": "88",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Great One's Nest",
             "color": "W",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 13,
+            "number": 14,
             "color_identity": "W",
             "cost": "{3}{W}",
             "rules_text": "Creatures you control with flying get +1/+1.\nCreatures without flying can't attack you or a planeswalker you control unless their controller pays {1} for each of those creatures.",
@@ -15218,8 +15485,11 @@
             "loyalty": "",
             "artist": "Ricardo Herrera",
             "alias": "",
+            "position": "89",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Murktown Hunter",
@@ -15238,8 +15508,11 @@
             "loyalty": "",
             "artist": "Randy Vargas",
             "alias": "",
+            "position": "90",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Winged Amalgam",
@@ -15258,8 +15531,11 @@
             "loyalty": "",
             "artist": "Dmitry Dalnev",
             "alias": "",
+            "position": "91",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lurholme Diviner",
@@ -15269,20 +15545,23 @@
             "number": 49,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
-            "rules_text": "When this creature enters, return target instant or sorcery card from your graveyard to your hand.\n{U}, {T}, Sacrifice two other creatures: Copy target instant or sorcery spell you control. You may choose new targets for the copy.",
+            "rules_text": "When Lurholme Diviner enters, return target instant or sorcery card from your graveyard to your hand.\n{U}, {T}, Sacrifice two other creatures: Copy target instant or sorcery spell you control. You may choose new targets for the copy.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
             "shape": "normal",
             "set": "MOX",
             "loyalty": "",
-            "artist": "Alexey Rudikov",
+            "artist": "Davide Luc\u00e0",
             "alias": "",
+            "position": "92",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
-            "card_name": "Ulderwild Conductor",
+            "card_name": "Twilight Weaver",
             "color": "U",
             "rarity": "uncommon",
             "type": "Creature \u2013 Human Warlock",
@@ -15298,8 +15577,11 @@
             "loyalty": "",
             "artist": "Vo Minh Tuan",
             "alias": "",
+            "position": "93",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/vJK6QY",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chained Phantom",
@@ -15309,7 +15591,7 @@
             "number": 35,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "Flying\nThis creature enters tapped with three stun counters on it. [i](If it would become untapped, remove a stun counter from it instead.)[/i]\nWhenever you cast a spell during an opponent's turn, untap this creature.",
+            "rules_text": "Flying\nChained Phantom enters tapped with three stun counters on it. [i](If it would become untapped, remove a stun counter from it instead.)[/i]\nWhenever you cast a spell during an opponent's turn, untap Chained Phantom.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -15318,8 +15600,11 @@
             "loyalty": "",
             "artist": "Dmitrii Desiatov",
             "alias": "",
+            "position": "94",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wrapped in Spidersilk",
@@ -15338,8 +15623,11 @@
             "loyalty": "",
             "artist": "Diana Franco",
             "alias": "",
+            "position": "95",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/VQD2g",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Thoughtgrind",
@@ -15358,8 +15646,11 @@
             "loyalty": "",
             "artist": "Mian Kong",
             "alias": "",
+            "position": "96",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Repeating Replication",
@@ -15378,8 +15669,11 @@
             "loyalty": "",
             "artist": "Benjamin Giletti",
             "alias": "",
+            "position": "97",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/PmRK0r",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blossoming Shambler",
@@ -15389,7 +15683,7 @@
             "number": 68,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "When this creature dies, choose one\u2013\n\u2022 Each opponent loses 1 life and you gain 1 life.\n\u2022 Return target creature card with mana value 1 or less from your graveyard to the battlefield.",
+            "rules_text": "When Blossoming Shambler dies, choose one\u2013\n\u2022 Each opponent loses 1 life and you gain 1 life.\n\u2022 Return target creature card with mana value 1 or less from your graveyard to the battlefield.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -15398,18 +15692,21 @@
             "loyalty": "",
             "artist": "Sam Kanios",
             "alias": "",
+            "position": "98",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Old God's Faithful",
             "color": "B",
             "rarity": "uncommon",
             "type": "Creature \u2013 Vampire Cleric",
-            "number": 87,
+            "number": 88,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "When this creature enters, each player sacrifices a creature of their choice.\nNocturnal {1}{B} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
+            "rules_text": "When Old God's Faithful enters, each player sacrifices a creature of their choice.\nNocturnal {1}{B} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -15418,8 +15715,11 @@
             "loyalty": "",
             "artist": "Wesley Gardner",
             "alias": "",
+            "position": "99",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/L39k2v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Devoted Aristocrat",
@@ -15429,7 +15729,7 @@
             "number": 75,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Whenever you create one or more tokens, you may sacrifice this creature. If you do, create a 4/4 black Demon creature token with menace.",
+            "rules_text": "Whenever you create one or more tokens, you may sacrifice Devoted Aristocrat. If you do, create a 4/4 black Demon creature token with menace.",
             "flavor_text": "[i]\u201cThe great witch has taught me well how to draw on the power of demons.\u201d[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -15438,18 +15738,21 @@
             "loyalty": "",
             "artist": "Julia Metzger",
             "alias": "",
+            "position": "100",
+            "rotated": false,
             "notes": "https://cara.app/post/9ffd1a86-3698-4749-997a-c4b3f0252942",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ravenous Cockatrice",
             "color": "B",
             "rarity": "uncommon",
             "type": "Creature \u2013 Cockatrice",
-            "number": 89,
+            "number": 90,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "Flash\nFlying\nWhen this creature enters, up to one target creature gets -2/-2 for each spell its controller has cast this turn.",
+            "rules_text": "Flash\nFlying\nWhen Ravenous Cockatrice enters, up to one target creature gets -2/-2 for each spell its controller has cast this turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -15458,8 +15761,11 @@
             "loyalty": "",
             "artist": "Olie Boldador",
             "alias": "",
+            "position": "101",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/xJrrZE",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Boneyard Haunt",
@@ -15478,15 +15784,18 @@
             "loyalty": "",
             "artist": "Lei Min",
             "alias": "",
+            "position": "102",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scared of the Dark",
             "color": "B",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 91,
+            "number": 92,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "Target creature gets -1/-3 until end of turn.",
@@ -15498,8 +15807,11 @@
             "loyalty": "",
             "artist": "Boris Groh",
             "alias": "",
+            "position": "103",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/oL2yB",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blow Away Dreams",
@@ -15518,8 +15830,11 @@
             "loyalty": "",
             "artist": "Charlie Bowater",
             "alias": "",
+            "position": "104",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/or4bz",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bog Brew",
@@ -15538,8 +15853,11 @@
             "loyalty": "",
             "artist": "Linda Lith\u00e9n",
             "alias": "",
+            "position": "105",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/ykXBg9\n\n\n\nhttps://lindalithenart.com/4czrb6s0jvz4mms0eu7q2kqz5z3uzs",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lurholme Embershaper",
@@ -15558,8 +15876,11 @@
             "loyalty": "",
             "artist": "Diana Khomutina",
             "alias": "",
+            "position": "106",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/rRAnJJ",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Massacre Dragon",
@@ -15569,7 +15890,7 @@
             "number": 115,
             "color_identity": "R",
             "cost": "{4}{R}{R}",
-            "rules_text": "Flying\nReap \u2013 {1}{R}: This creature deals 1 damage to any target. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
+            "rules_text": "Flying\nReap \u2013 {1}{R}: Massacre Dragon deals 1 damage to any target. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -15578,8 +15899,11 @@
             "loyalty": "",
             "artist": "Alaiaorax",
             "alias": "",
+            "position": "107",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Apprentice's Discovery",
@@ -15598,8 +15922,11 @@
             "loyalty": "",
             "artist": "Matias Tapia",
             "alias": "",
+            "position": "108",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/9erEER",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ulderwild Guardian",
@@ -15609,7 +15936,7 @@
             "number": 127,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]\nWhenever you cast your second spell each turn, this creature deals 2 damage to each opponent.",
+            "rules_text": "Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]\nWhenever you cast your second spell each turn, Ulderwild Guardian deals 2 damage to each opponent.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -15618,15 +15945,18 @@
             "loyalty": "",
             "artist": "Huyy Nguyen",
             "alias": "",
+            "position": "109",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Devastating Pyre",
             "color": "R",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 108,
+            "number": 107,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Devastating Pyre deals 2 damage to each creature. If you've cast two or more spells this turn, Devastating Pyre deals 2 damage to each creature you don't control instead.",
@@ -15638,8 +15968,11 @@
             "loyalty": "",
             "artist": "Jaan van Eeden",
             "alias": "",
+            "position": "110",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Skeletal Inferno",
@@ -15649,7 +15982,7 @@
             "number": 121,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Trample, haste\nWhenever this creature attacks, sacrifice it at end of combat.\nNocturnal {R} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
+            "rules_text": "Trample, haste\nWhenever Skeletal Inferno attacks, sacrifice it at end of combat.\nNocturnal {R} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/1",
             "special_text": "",
@@ -15658,8 +15991,11 @@
             "loyalty": "",
             "artist": "Sapphhyra",
             "alias": "",
+            "position": "111",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ardent Embermage",
@@ -15669,7 +16005,7 @@
             "number": 101,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Reap \u2013 {3}{R}: Put a +1/+1 counter on this creature. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]\nWhen this creature dies, it deals damage equal to its power to any target.",
+            "rules_text": "Reap \u2013 {3}{R}: Put a +1/+1 counter on Ardent Embermage. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]\nWhen Ardent Embermage dies, it deals damage equal to its power to any target.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -15678,15 +16014,18 @@
             "loyalty": "",
             "artist": "Marion Curnier",
             "alias": "",
+            "position": "112",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/B3E1KA",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Embroiled in Conflict",
             "color": "R",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 110,
+            "number": 109,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
             "rules_text": "Target creature fights another target creature.\nEquinox {5}{R}{R} [i](If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)[/i]",
@@ -15698,8 +16037,11 @@
             "loyalty": "",
             "artist": "Remko Troost",
             "alias": "",
+            "position": "113",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hungering Briarbeast",
@@ -15709,7 +16051,7 @@
             "number": 146,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
-            "rules_text": "Trample\nReap \u2013 {4}{G}: Put two +1/+1 counters on this creature. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
+            "rules_text": "Trample\nReap \u2013 {4}{G}: Put two +1/+1 counters on Hungering Briarbeast. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -15718,8 +16060,11 @@
             "loyalty": "",
             "artist": "Lorenzo Mastroianni",
             "alias": "",
+            "position": "114",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/RdV1m",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tender Vitalist",
@@ -15738,8 +16083,11 @@
             "loyalty": "",
             "artist": "Hannah Elizabeth",
             "alias": "",
+            "position": "115",
+            "rotated": false,
             "notes": "https://twitter.com/HannalahB/status/1748733680745402845/photo/2",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Putrid Sludge",
@@ -15749,7 +16097,7 @@
             "number": 152,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "When this creature enters, destroy up to one target artifact or enchantment.\nNocturnal {1}{G} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
+            "rules_text": "When Putrid Sludge enters, destroy up to one target artifact or enchantment.\nNocturnal {1}{G} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -15758,8 +16106,11 @@
             "loyalty": "",
             "artist": "Henry Peters",
             "alias": "",
+            "position": "116",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/8nwlO",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ulderwild Cartographer",
@@ -15778,8 +16129,11 @@
             "loyalty": "",
             "artist": "Jane Katsubo",
             "alias": "",
+            "position": "117",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/E2GE2",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Orchard Caretaker",
@@ -15798,8 +16152,11 @@
             "loyalty": "",
             "artist": "Rio Sabda",
             "alias": "",
+            "position": "118",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/PKnLZ",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Haunted Gravesite",
@@ -15809,7 +16166,7 @@
             "number": 144,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Whenever you cast an enchantment spell, put a +1/+1 counter on target creature you control.\n{3}{G}: Another target enchantment you control becomes a 4/4 green Spirit creature in addition to its other types.",
+            "rules_text": "Whenever you cast an enchantment spell, put a +1/+1 counter on target creature you control.\n{3}{G}: Put an ensoul counter on another target enchantment you control. It becomes a 4/4 green Spirit creature in addition to its other types.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -15818,8 +16175,11 @@
             "loyalty": "",
             "artist": "Iain Miki",
             "alias": "",
+            "position": "119",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Great Witch's Boon",
@@ -15829,7 +16189,7 @@
             "number": 142,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Enchant creature\nWhen this Aura enters, tap enchanted creature and put a stun counter on it.\nEnchanted creature gets +4/+4 and has trample.",
+            "rules_text": "Enchant creature\nWhen Great Witch's Boon enters, tap enchanted creature and put a stun counter on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]\nEnchanted creature gets +4/+4 and has trample.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -15838,8 +16198,11 @@
             "loyalty": "",
             "artist": "Ekaterina Burmak",
             "alias": "",
+            "position": "120",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/RWBnO",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Awaken the Ulderwild",
@@ -15849,7 +16212,7 @@
             "number": 131,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
-            "rules_text": "Create a green Treefolk creature token with reach and \u201cThis token's power and toughness are each equal to the number of Forests you control.\u201d\nEquinox {4}{G}{G} [i](If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)[/i]",
+            "rules_text": "Create a green Treefolk creature token with reach and \u201cThis creature's power and toughness are each equal to the number of Forests you control.\u201d\nEquinox {4}{G}{G} [i](If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -15858,15 +16221,18 @@
             "loyalty": "",
             "artist": "Julian Bauer",
             "alias": "",
+            "position": "121",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Flowering Wight",
             "color": "W",
             "rarity": "rare",
             "type": "Creature \u2013 Spirit",
-            "number": 10,
+            "number": 11,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Reap \u2013 {2}{W}{W}: Put a +1/+1 counter on each of up to two target creatures. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
@@ -15878,8 +16244,11 @@
             "loyalty": "",
             "artist": "Helena Nikulina",
             "alias": "",
+            "position": "122",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/8lXGXw",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Archangel Tinea",
@@ -15898,15 +16267,18 @@
             "loyalty": "",
             "artist": "Jihoon Park",
             "alias": "",
+            "position": "123",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "A New Day Rises",
             "color": "W",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 20,
+            "number": 21,
             "color_identity": "W",
             "cost": "{5}{W}{W}",
             "rules_text": "Exile all creatures, then return up to one target permanent card from your graveyard to the battlefield.",
@@ -15918,15 +16290,18 @@
             "loyalty": "",
             "artist": "kristyglas",
             "alias": "",
+            "position": "124",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/Kr3X89",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Harvest Festival",
             "color": "W",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 15,
+            "number": 16,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "Whenever you attack, create a 1/1 white Human creature token that's tapped and attacking.\nSacrifice this enchantment: Return to the battlefield each creature card in your graveyard that was put there from the battlefield this turn if that creature also attacked this turn.",
@@ -15938,15 +16313,18 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
+            "position": "125",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ominous Lepiseraph",
             "color": "W",
             "rarity": "rare",
             "type": "Creature \u2013 Insect Angel",
-            "number": 21,
+            "number": 22,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
             "rules_text": "Flying\nWhenever you attack, put a +1/+1 counter on each other creature with flying you control.",
@@ -15956,16 +16334,19 @@
             "shape": "normal",
             "set": "MOX",
             "loyalty": "",
-            "artist": "Olha Pankiv",
+            "artist": "Jordi Rapture",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "position": "126",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/490Zaq?album_id=1931701",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Worldsong Conductor",
             "color": "W",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Shaman",
+            "type": "Creature \u2013 Human Cleric",
             "number": 32,
             "color_identity": "W",
             "cost": "{W}",
@@ -15978,15 +16359,18 @@
             "loyalty": "",
             "artist": "Eelis Kyttanen",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "position": "127",
+            "rotated": false,
+            "notes": "!wishlist",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
-            "card_name": "Twisted Choir",
+            "card_name": "Dust-Wing Covenant",
             "color": "W",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 28,
+            "number": 9,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "{1}, Sacrifice a non-Cleric creature: Create a 1/1 white Cleric creature token with lifelink.\n{3}, Sacrifice three Clerics: Create a 4/4 white Insect Angel creature token with flying and vigilance.",
@@ -15996,10 +16380,13 @@
             "shape": "normal",
             "set": "MOX",
             "loyalty": "",
-            "artist": "Bing Image Generator",
+            "artist": "Margarita Bourkova",
             "alias": "",
+            "position": "128",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Awakened Deus",
@@ -16009,7 +16396,7 @@
             "number": 33,
             "color_identity": "U",
             "cost": "{6}{U}{U}",
-            "rules_text": "When this creature enters, return all non-Leviathan creatures to their owner's hands.\nNocturnal {4}{U}{U} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
+            "rules_text": "When Awakened Deus enters, return all non-Leviathan creatures to their owner's hands.\nNocturnal {4}{U}{U} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "6/5",
             "special_text": "",
@@ -16018,8 +16405,11 @@
             "loyalty": "",
             "artist": "Justine Cruz",
             "alias": "",
+            "position": "129",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lady Lurholme, Communer",
@@ -16038,8 +16428,11 @@
             "loyalty": "",
             "artist": "Leanna Crossan",
             "alias": "",
+            "position": "130",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Endless Insights",
@@ -16049,7 +16442,7 @@
             "number": 41,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
-            "rules_text": "Whenever you cast a spell for its alternate cost, copy that spell. You may choose new targets for the copy.",
+            "rules_text": "Whenever you cast a spell for its alternate cost, copy that spell. You may choose new targets for the copy. [i](This includes casting a spell without paying its mana cost.)[/i]",
             "flavor_text": "[i]The old gods offered immortality to Adler in exchange for their freedom.[/i]",
             "pt": "",
             "special_text": "",
@@ -16058,8 +16451,11 @@
             "loyalty": "",
             "artist": "Mark Erskine",
             "alias": "",
+            "position": "131",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Faceless Form",
@@ -16069,7 +16465,7 @@
             "number": 42,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
-            "rules_text": "You may have this creature enter as a copy of any creature on the battlefield.\nNocturnal {U}{U} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
+            "rules_text": "You may have Faceless Form enter as a copy of any creature on the battlefield.\nNocturnal {U}{U} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "0/0",
             "special_text": "",
@@ -16078,8 +16474,11 @@
             "loyalty": "",
             "artist": "Mark Erskine",
             "alias": "",
+            "position": "132",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/8lYAO",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Pallbearer's Lament",
@@ -16098,15 +16497,18 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
+            "position": "133",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Pactweaver Regent",
             "color": "B",
             "rarity": "mythic",
             "type": "Creature \u2013 Spider Demon",
-            "number": 88,
+            "number": 89,
             "color_identity": "B",
             "cost": "{4}{B}{B}{B}",
             "rules_text": "Ward\u2013Pay 7 life.\nReap \u2013 {3}{B}{B}: Search your library for a card, put it into your hand, then shuffle. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
@@ -16118,8 +16520,11 @@
             "loyalty": "",
             "artist": "Diana Franco",
             "alias": "",
+            "position": "134",
+            "rotated": false,
             "notes": "Franco: https://www.artstation.com/artwork/zAEVd6\n\nBurke: https://www.artstation.com/artwork/xJGNAW",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cult Following",
@@ -16138,8 +16543,11 @@
             "loyalty": "",
             "artist": "Bruna Richter",
             "alias": "",
+            "position": "135",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Voracia, Dreamstalker",
@@ -16158,8 +16566,11 @@
             "loyalty": "",
             "artist": "Yuri Chuchmay",
             "alias": "",
+            "position": "136",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/3qLeYv",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "All-Seeing Lurker",
@@ -16178,18 +16589,21 @@
             "loyalty": "",
             "artist": "Oleksandr Kozachenko",
             "alias": "",
+            "position": "137",
+            "rotated": false,
             "notes": "Eyes: https://www.artstation.com/artwork/D5dRwy\n\nSpider: https://www.artstation.com/artwork/qvOwR",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nightmare Whispers",
             "color": "B",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 84,
+            "number": 85,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "Choose a nonland card name. Target opponent reveals their hand and discards all cards with that name.\nEquinox {B}{B} [i](If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)[/i]",
+            "rules_text": "Choose a nonland card name. Target opponent reveals their hand and discards all cards with that name.\nEquinox {1}{B}{B} [i](If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -16198,18 +16612,21 @@
             "loyalty": "",
             "artist": "Simon Fetscher",
             "alias": "",
+            "position": "138",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nightshroud Steed",
             "color": "B",
             "rarity": "rare",
             "type": "Creature \u2013 Nightmare Horse",
-            "number": 85,
+            "number": 86,
             "color_identity": "B",
             "cost": "{5}{B}{B}",
-            "rules_text": "Flying\nThis creature's power and toughness are each equal to the number of Swamps you control.\nWhen this creature enters, up to one target creature gets -X/-X until end of turn, where X is the number of Swamps you control.",
+            "rules_text": "Flying\nNightshroud Steed's power and toughness are each equal to the number of Swamps you control.\nWhen Nightshroud Steed enters, up to one target creature gets -X/-X until end of turn, where X is the number of Swamps you control.",
             "flavor_text": "[i][/i]",
             "pt": "*/*",
             "special_text": "",
@@ -16218,15 +16635,18 @@
             "loyalty": "",
             "artist": "AlsaresLynx, DeviantArt",
             "alias": "",
+            "position": "139",
+            "rotated": false,
             "notes": "https://www.deviantart.com/alsareslynx/art/Nightmare-770631805",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sleepwalk",
             "color": "B",
             "rarity": "mythic",
             "type": "Sorcery",
-            "number": 93,
+            "number": 94,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
             "rules_text": "You gain control of target opponent during that player's next turn. They skip the untap step of that turn. After that turn, that player takes an extra turn.\nExile Sleepwalk.",
@@ -16238,15 +16658,18 @@
             "loyalty": "",
             "artist": "Zakuga Mignon",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/XBq2Wn\n\nhttps://cara.app/post/500935b1-84c5-4d1d-ab8c-6bad13005ddc",
-            "image_type": "png"
+            "position": "140",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/XBq2Wn\n\nhttps://cara.app/post/500935b1-84c5-4d1d-ab8c-6bad13005ddc\n\nhttps://www.zakuga.com/\n\n!wishlist",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lifeblood Ritual",
             "color": "B",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 82,
+            "number": 83,
             "color_identity": "B",
             "cost": "{X}{B}{B}",
             "rules_text": "Choose one\u2013\n\u2022 Up to two target creatures you don't control each get -X/-X until end of turn.\n\u2022 Return up to two target creature cards with mana value X or less from your graveyard to the battlefield.",
@@ -16258,18 +16681,21 @@
             "loyalty": "",
             "artist": "Dakota Curry",
             "alias": "",
+            "position": "141",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/q9KLJa",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
-            "card_name": "Autumnal Wish",
+            "card_name": "Autumnal Melody",
             "color": "R",
             "rarity": "rare",
             "type": "Sorcery",
             "number": 102,
             "color_identity": "R",
-            "cost": "{1}{R}",
-            "rules_text": "As an additional cost to cast this spell, sacrifice a creature.\nYou may play a card you own from outside the game this turn. If that card has mana value less than the sacrificed creature's mana value, you may cast it without paying its mana cost.",
+            "cost": "{2}{R}",
+            "rules_text": "Exile the top two cards of your library. Until the end of your next turn, you may play those cards. Then you may sacrifice a creature. If you do, you may cast a spell exiled this way with mana value less than or equal to the sacrificed creature's power without paying its mana cost.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -16278,15 +16704,18 @@
             "loyalty": "",
             "artist": "Donato Giancola",
             "alias": "",
+            "position": "142",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Encroaching Convergence",
             "color": "R",
             "rarity": "rare",
             "type": "Instant",
-            "number": 111,
+            "number": 110,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Create a token that's a copy of target creature you control. It gains haste. Exile it at the beginning of the next end step.\nEquinox {3}{R}{R} [i](If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)[/i]",
@@ -16298,8 +16727,11 @@
             "loyalty": "",
             "artist": "Alexandr Leskinen",
             "alias": "",
+            "position": "143",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Prossa, Midnight Flame",
@@ -16318,8 +16750,11 @@
             "loyalty": "",
             "artist": "Efaru",
             "alias": "",
+            "position": "144",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Jack's Ire",
@@ -16338,15 +16773,18 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
+            "position": "145",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dusklight Frolicking",
             "color": "R",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 109,
+            "number": 108,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Target opponent may have Dusklight Frolicking deal 4 damage to them. If that player doesn't, you draw three cards.\nEquinox {3}{R}{R} [i](If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)[/i]",
@@ -16358,8 +16796,11 @@
             "loyalty": "",
             "artist": "Alexandr Leskinen",
             "alias": "",
+            "position": "146",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/L29z95",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Starscape Phoenix",
@@ -16369,7 +16810,7 @@
             "number": 122,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
-            "rules_text": "Flying\nNocturnal {2}{R} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]\nWhen this creature dies, until the end of your next turn, you may cast it from your graveyard for its nocturnal cost.",
+            "rules_text": "Flying\nNocturnal {2}{R} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]\nWhen Starscape Phoenix dies, until the end of your next turn, you may cast it from your graveyard for its nocturnal cost.",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -16378,8 +16819,11 @@
             "loyalty": "",
             "artist": "Kanzio, DeviantArt",
             "alias": "",
+            "position": "147",
+            "rotated": false,
             "notes": "https://www.deviantart.com/kanizo/art/Starborn-935187111",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Approach the Eye",
@@ -16398,19 +16842,22 @@
             "loyalty": "",
             "artist": "Thomas Siagian",
             "alias": "",
+            "position": "148",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Condemned Lupine",
             "color": "R",
             "rarity": "rare",
             "type": "Creature \u2013 Wolf",
-            "number": 107,
+            "number": 106,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "As long as you've cast two or more spells this turn, this creature has haste.\nWhenever you cast a spell from exile, put a +1/+1 counter on this creature.",
-            "flavor_text": "[i]One day, it will be dragged back to hell, and it will take as many as it can back with it.[/i]",
+            "rules_text": "As long as you've cast two or more spells this turn, Condemned Lupine has haste.\nWhenever you cast a spell from exile, put a +1/+1 counter on Condemned Lupine.",
+            "flavor_text": "[i]\u201cOne day, it will be dragged back to hell, and it will take as many as it can back with it.\u201d\n\u2014Adler[/i]",
             "pt": "2/2",
             "special_text": "",
             "shape": "normal",
@@ -16418,8 +16865,11 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
+            "position": "149",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Moonlight Witch",
@@ -16438,8 +16888,11 @@
             "loyalty": "",
             "artist": "Adam Duff",
             "alias": "",
+            "position": "150",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Horizon Eater",
@@ -16449,7 +16902,7 @@
             "number": 145,
             "color_identity": "G",
             "cost": "{X}{G}{G}",
-            "rules_text": "Trample, reach\nThis creature enters with twice X +1/+1 counters on it.\nNocturnal {X}{G} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
+            "rules_text": "Trample, reach\nHorizon Eater enters with twice X +1/+1 counters on it.\nNocturnal {X}{G} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "0/0",
             "special_text": "",
@@ -16458,8 +16911,11 @@
             "loyalty": "",
             "artist": "Joel Pigou",
             "alias": "",
+            "position": "151",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/aYkl89",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Druidic Summons",
@@ -16478,8 +16934,11 @@
             "loyalty": "",
             "artist": "Khurrum M",
             "alias": "",
+            "position": "152",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Consuming Slimetide",
@@ -16498,8 +16957,11 @@
             "loyalty": "",
             "artist": "Guillaume Ducos",
             "alias": "",
+            "position": "153",
+            "rotated": false,
             "notes": "https://www.deviantart.com/tituslunter/art/Gelatinous-Terror-512570019\n\nhttps://www.artstation.com/artwork/3oBNOY",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Convergence Thaumaturge",
@@ -16509,7 +16971,7 @@
             "number": 137,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Whenever you cast a spell that's white, blue, black, or red, put a +1/+1 counter on this creature.\nNocturnal {G} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
+            "rules_text": "Whenever you cast a spell that's white, blue, black, or red, put a +1/+1 counter on Convergence Thaumaturge.\nNocturnal {G} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -16518,17 +16980,20 @@
             "loyalty": "",
             "artist": "Serge Tsvelykh",
             "alias": "",
+            "position": "154",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/n0J8LK",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Eldritch Deluge",
             "color": "G",
             "rarity": "mythic",
-            "type": "Instant",
+            "type": "Sorcery",
             "number": 140,
             "color_identity": "G",
-            "cost": "{X}{G}",
+            "cost": "{X}{G}{G}",
             "rules_text": "Reveal the top X cards of your library. For each artifact, creature, or land card revealed this way, if it has mana value X or less, put it onto the battlefield tapped with a stun counter on it. Put the rest on the bottom of your library in a random order.",
             "flavor_text": "[i]The old gods, sealed away long ago, could only watch from the surfaces of their prisons.[/i]",
             "pt": "",
@@ -16538,8 +17003,11 @@
             "loyalty": "",
             "artist": "Mark Erskine",
             "alias": "",
+            "position": "155",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Surula, Swarm's Song",
@@ -16558,8 +17026,11 @@
             "loyalty": "",
             "artist": "Michael MacRae",
             "alias": "",
+            "position": "156",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/oAWdDw",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Portal Summoning",
@@ -16569,7 +17040,7 @@
             "number": 151,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
-            "rules_text": "You may put a creature card from your hand onto the battlefield tapped with a stun counter on it.\nEquinox {4}{G}{G} [i](If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)[/i]",
+            "rules_text": "You may put a creature card from your hand onto the battlefield tapped with a stun counter on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]\nEquinox {4}{G}{G} [i](If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -16578,8 +17049,11 @@
             "loyalty": "",
             "artist": "Alexey Kruglov",
             "alias": "",
+            "position": "157",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/39QQ0A",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Things in the Wake",
@@ -16598,8 +17072,11 @@
             "loyalty": "",
             "artist": "lei min",
             "alias": "",
+            "position": "158",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/woA0g",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Adler, Midnight Architect",
@@ -16618,8 +17095,11 @@
             "loyalty": "3",
             "artist": "Elin Tan",
             "alias": "",
+            "position": "159",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Aminatou, Loreweaver",
@@ -16629,24 +17109,27 @@
             "number": 164,
             "color_identity": "WUB",
             "cost": "{W}{U}{B}",
-            "rules_text": "[+1]: Exile up to one other permanent you control until Aminatou leaves the battlefield.\n[0]: Return each permanent card exiled with Aminatou to the battlefield under your control. You gain life equal to their total mana value.\n[-X]: Exile target nontoken creature with mana value X or less.",
+            "rules_text": "[+2]: Exile up to one other permanent you control until Aminatou leaves the battlefield.\n[0]: Return each permanent card exiled with Aminatou to the battlefield under your control. You gain life equal to their total mana value.\n[-X]: Exile target nontoken creature with mana value X or less.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[+1]: Exile up to one other permanent you control until Aminatou leaves the battlefield.\n[0]: Return each permanent card exiled with Aminatou to the battlefield under your control. You gain life equal to their total mana value.\n[-X]: Exile target nontoken creature with mana value X or less.",
+            "special_text": "[+2]: Exile up to one other permanent you control until Aminatou leaves the battlefield.\n[0]: Return each permanent card exiled with Aminatou to the battlefield under your control. You gain life equal to their total mana value.\n[-X]: Exile target nontoken creature with mana value X or less.",
             "shape": "planeswalker",
             "set": "MOX",
             "loyalty": "3",
             "artist": "Reginaldo Pereira",
             "alias": "",
+            "position": "160",
+            "rotated": false,
             "notes": "https://sanjinhalimic.com/projects/KaA9gr?album_id=1767358\n\nhttps://www.artstation.com/artwork/GeKQl3",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Deeptomb Caller",
             "color": "UB",
             "rarity": "rare",
             "type": "Creature \u2013 Human Warlock",
-            "number": 168,
+            "number": 167,
             "color_identity": "UB",
             "cost": "{U}{B}",
             "rules_text": "Whenever you discard an instant card or a card with flash, exile it from your graveyard. You may cast that card this turn.\n{T}: Draw a card, then discard a card.",
@@ -16658,18 +17141,21 @@
             "loyalty": "",
             "artist": "Stu Harrington",
             "alias": "",
+            "position": "161",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Flayed Hellkite",
             "color": "BR",
             "rarity": "mythic",
             "type": "Creature \u2013 Nightmare Dragon",
-            "number": 172,
+            "number": 171,
             "color_identity": "BR",
-            "cost": "{2}{B}{R}",
-            "rules_text": "Flying\nWhen this creature enters, each creature without flying gets -2/-2 until end of turn.\nNocturnal {1}{B}{R} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
+            "cost": "{3}{B}{R}",
+            "rules_text": "Flying\nWhen Flayed Hellkite enters, each creature without flying gets -2/-2 until end of turn.\nNocturnal {2}{B}{R} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -16678,28 +17164,34 @@
             "loyalty": "",
             "artist": "gratshnag",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/18rOzL",
-            "image_type": "png"
+            "position": "162",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/18rOzL\n\n!wishlist",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bramblefiend",
             "color": "RG",
             "rarity": "rare",
             "type": "Creature \u2013 Treefolk",
-            "number": 166,
+            "number": 165,
             "color_identity": "RG",
             "cost": "{3}{R}{G}",
-            "rules_text": "When this creature enters, it fights up to one target creature.\nNocturnal {1}{R}{G} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
+            "rules_text": "When Bramblefiend enters, it fights up to one target creature.\nNocturnal {1}{R}{G} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "4/3",
+            "pt": "4/2",
             "special_text": "",
             "shape": "normal",
             "set": "MOX",
             "loyalty": "",
             "artist": "Jake Ortman",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/8eWL1E",
-            "image_type": "png"
+            "position": "163",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/8eWL1E\n\n!wishlist",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Visions of Devastation",
@@ -16718,15 +17210,18 @@
             "loyalty": "",
             "artist": "Mauro Cerati",
             "alias": "",
+            "position": "164",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/WK4E5E",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Jack, the Exterminator",
             "color": "BG",
             "rarity": "mythic",
             "type": "Legendary Planeswalker \u2013 Jack",
-            "number": 174,
+            "number": 173,
             "color_identity": "BG",
             "cost": "{2}{B}{G}",
             "rules_text": "Reap \u2013 {2}{B}{G}: You may activate Jack's loyalty abilities twice this turn rather than once. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]\n[+1]: Mill two cards, then you may return a land card from your graveyard to your hand.\n[-2]: You may discard a creature card. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle.\n[-5]: Return target creature card from your graveyard to the battlefield.",
@@ -16738,19 +17233,22 @@
             "loyalty": "4",
             "artist": "Zhuoxin Ye",
             "alias": "",
+            "position": "165",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/W22VQN",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Knight of Autumn",
             "color": "WG",
             "rarity": "rare",
             "type": "Creature \u2013 Dryad Knight",
-            "number": 176,
+            "number": 175,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
-            "rules_text": "When this creature enters, choose one \u2013\n\u2022 Put two +1/+1 counters on this creature.\n\u2022 Destroy target artifact or enchantment.\n\u2022 You gain 4 life.",
-            "flavor_text": "[i]The oldest trees remember when the gods first stirred. Their chosen champions embody the gods' unyielding will.[/i]",
+            "rules_text": "When Knight of Autumn enters, choose one \u2013\n\u2022 Put two +1/+1 counters on this creature.\n\u2022 Destroy target artifact or enchantment.\n\u2022 You gain 4 life.",
+            "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
             "shape": "normal",
@@ -16758,15 +17256,18 @@
             "loyalty": "",
             "artist": "Brian Valeza",
             "alias": "",
+            "position": "166",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/58lDRW\n\n!tag reprint",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Madeline, the Lifestitcher",
             "color": "UG",
             "rarity": "rare",
             "type": "Legendary Creature \u2013 Elf Artificer",
-            "number": 177,
+            "number": 176,
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
             "rules_text": "Creature cards in your hand have nocturnal. Their nocturnal cost is equal to their mana cost reduced by {2}. [i](You may cast a creature spell for its nocturnal cost. If you do, it enters the battlefield tapped with a stun counter on it. Remove one instead of untapping.)[/i]",
@@ -16778,14 +17279,17 @@
             "loyalty": "",
             "artist": "Romain Kurdi",
             "alias": "",
+            "position": "167",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/9Nxoly",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vecri, Plague Alchemist",
             "color": "WB",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Human Shaman",
+            "type": "Legendary Creature \u2013 Human Warlock",
             "number": 186,
             "color_identity": "WB",
             "cost": "{2}{W}{B}",
@@ -16798,8 +17302,11 @@
             "loyalty": "",
             "artist": "Max Hugo",
             "alias": "",
+            "position": "168",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Aminatou's Gift",
@@ -16818,8 +17325,11 @@
             "loyalty": "",
             "artist": "Leanna Crossan",
             "alias": "",
+            "position": "169",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Roving Monolith",
@@ -16838,8 +17348,11 @@
             "loyalty": "",
             "artist": "Benoit Bourgerie",
             "alias": "",
+            "position": "170",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Creeping Cabin",
@@ -16849,7 +17362,7 @@
             "number": 204,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "{T}: Add {C}.\nReap \u2013 {3}: This land becomes a 2/3 Nightmare creature with menace until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
+            "rules_text": "{T}: Add {C}.\nReap \u2013 {3}: Creeping Cabin becomes a 2/3 Nightmare creature with menace until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -16858,8 +17371,11 @@
             "loyalty": "",
             "artist": "Denis Zhbankov",
             "alias": "",
+            "position": "171",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/Le4GLr\n\nhttps://www.deviantart.com/sandara/art/Walking-House-728133719",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fatespinning",
@@ -16878,8 +17394,11 @@
             "loyalty": "",
             "artist": "Sanjin Halmic",
             "alias": "",
+            "position": "172",
+            "rotated": false,
             "notes": "https://www.hipstersofthecoast.com/2020/06/mirror-gallery-interview-with-sanjin-halimic/",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Infested Hearse",
@@ -16889,7 +17408,7 @@
             "number": 196,
             "color_identity": "C",
             "cost": "{4}",
-            "rules_text": "Whenever another creature you control dies, this Vehicle deals 1 damage to each opponent.\nReap \u2013 {2}: This Vehicle becomes an artifact creature until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
+            "rules_text": "Whenever another creature you control dies, Infested Hearse deals 1 damage to each opponent.\nReap \u2013 {2}: Infested Hearse becomes an artifact creature until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -16898,8 +17417,11 @@
             "loyalty": "",
             "artist": "Henry Peters",
             "alias": "",
+            "position": "173",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/olgDw",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Stoneskin Gargoyle",
@@ -16909,7 +17431,7 @@
             "number": 203,
             "color_identity": "C",
             "cost": "{5}",
-            "rules_text": "Flying, defender\nReap \u2013 {4}: This creature can attack this turn as though it didn't have defender. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
+            "rules_text": "Flying, defender\nReap \u2013 {4}: Stoneskin Gargoyle can attack this turn as though it didn't have defender. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -16918,8 +17440,11 @@
             "loyalty": "",
             "artist": "Alen Rocha",
             "alias": "",
+            "position": "174",
+            "rotated": false,
             "notes": "https://www.artstation.com/triximity",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Harvester's Scythe",
@@ -16929,7 +17454,7 @@
             "number": 193,
             "color_identity": "C",
             "cost": "{1}",
-            "rules_text": "Equipped creature gets +1/+1 and can't be blocked by creatures with flying.\nReap \u2013 {2}: Attach this Equipment to target creature you control. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
+            "rules_text": "Equipped creature gets +1/+1 and can't be blocked by creatures with flying.\nReap \u2013 {2}: Attach Harvester's Scythe to target creature you control. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -16938,18 +17463,21 @@
             "loyalty": "",
             "artist": "Stacie Pitt",
             "alias": "",
+            "position": "175",
+            "rotated": false,
             "notes": "https://staciepitt.com/#/vengefuldeserter/",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Raven Roosts",
             "color": "UB",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 178,
+            "number": 177,
             "color_identity": "UB",
             "cost": "{U}{B}",
-            "rules_text": "If one or more creature cards you own would be put into a graveyard from anywhere, instead exile them and create a 1/1 black Bird creature token with flying and \u201cThis token can't block.\u201d\nWhenever three or more creatures you control deal combat damage to a player, put a card exiled with this enchantment into its owner's hand.",
+            "rules_text": "If one or more creature cards you own would be put into a graveyard from anywhere, instead exile them and create a 1/1 black Bird creature token with flying and \u201cThis creature can't block.\u201d\nWhenever three or more creatures you control deal combat damage to a player, put a card exiled with Raven Roostsinto its owner's hand.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -16958,8 +17486,11 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
+            "position": "176",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Unknown Seas",
@@ -16978,8 +17509,11 @@
             "loyalty": "",
             "artist": "Mark Erskine",
             "alias": "",
+            "position": "177",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mossy Ulderhulk",
@@ -16998,8 +17532,11 @@
             "loyalty": "",
             "artist": "Michael Bakker",
             "alias": "",
+            "position": "178",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Melancholy",
@@ -17009,7 +17546,7 @@
             "number": 50,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
-            "rules_text": "Flash\nWhen this creature enters, return target spell or nonland permanent you don't control to its owner's hand.\nNocturnal {U}{U}{U} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
+            "rules_text": "Flash\nWhen Melancholy enters, return target spell or nonland permanent you don't control to its owner's hand.\nNocturnal {U}{U}{U} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -17018,8 +17555,11 @@
             "loyalty": "",
             "artist": "Mark Erskine",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "position": "179",
+            "rotated": false,
+            "notes": "!wishlist",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Quarrel",
@@ -17029,7 +17569,7 @@
             "number": 120,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
-            "rules_text": "When this creature enters, gain control of another target nonland permanent until end of turn. Untap that permanent. It gains haste until end of turn.\nNocturnal {R}{R}{R} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
+            "rules_text": "When Quarrel enters, gain control of another target nonland permanent until end of turn. Untap that permanent. It gains haste until end of turn.\nNocturnal {R}{R}{R} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -17038,8 +17578,11 @@
             "loyalty": "",
             "artist": "Mark Erskine",
             "alias": "",
+            "position": "180",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Growth",
@@ -17049,7 +17592,7 @@
             "number": 143,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
-            "rules_text": "When this creature enters, distribute three +1/+1 counters among one, two or three target creatures you control.\nNocturnal {G}{G}{G} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
+            "rules_text": "When Growth enters, distribute three +1/+1 counters among one, two or three target creatures you control.\nNocturnal {G}{G}{G} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -17058,18 +17601,21 @@
             "loyalty": "",
             "artist": "Mark Erskine",
             "alias": "",
+            "position": "181",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/X10OEn",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Forgiveness",
             "color": "W",
             "rarity": "mythic",
             "type": "Creature \u2013 Incarnation",
-            "number": 11,
+            "number": 12,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
-            "rules_text": "Flash\nWhen this creature enters, exile target nonland permanent you don't control until this creature leaves the battlefield.\nNocturnal {W}{W}{W} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
+            "rules_text": "Flash\nWhen Forgiveness enters, exile target nonland permanent you don't control until this creature leaves the battlefield.\nNocturnal {W}{W}{W} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -17078,8 +17624,11 @@
             "loyalty": "",
             "artist": "Mark Erskine",
             "alias": "",
+            "position": "182",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fright",
@@ -17089,7 +17638,7 @@
             "number": 79,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
-            "rules_text": "When this creature enters, each opponent sacrifices a creature or planeswalker with the highest mana value among creatures and planeswalkers they control.\nNocturnal {B}{B}{B} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
+            "rules_text": "When Fright enters, each opponent sacrifices a creature or planeswalker of their choice with the highest mana value among creatures and planeswalkers they control.\nNocturnal {B}{B}{B} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -17098,18 +17647,21 @@
             "loyalty": "",
             "artist": "Mark Erskine",
             "alias": "",
+            "position": "183",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Repentant Wanderer",
             "color": "W",
             "rarity": "rare",
             "type": "Creature \u2013 Human Cleric",
-            "number": 25,
+            "number": 26,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "When this creature enters, return target nonland permanent card with mana value 2 or less from your graveyard to the battlefield.\nNocturnal {W} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
+            "rules_text": "When Repentant Wanderer enters, return target nonland permanent card with mana value 2 or less from your graveyard to the battlefield.\nNocturnal {W} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -17118,8 +17670,11 @@
             "loyalty": "",
             "artist": "Armando Ayala",
             "alias": "",
+            "position": "184",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Autumn's Bounty",
@@ -17138,8 +17693,11 @@
             "loyalty": "",
             "artist": "Nozomi Matsuoka",
             "alias": "",
+            "position": "185",
+            "rotated": false,
             "notes": "https://cara.app/post/ddfc45a6-2dd6-4c73-ac7c-8d9936ceff35",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lurholme Sickle",
@@ -17149,7 +17707,7 @@
             "number": 197,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "When this Equipment enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.\nEquipped creature gets +1/+1.\nEquip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]",
+            "rules_text": "When Lurholme Sickle enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.\nEquipped creature gets +1/+1.\nEquip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -17158,8 +17716,11 @@
             "loyalty": "",
             "artist": "Marco Gonzalez",
             "alias": "",
+            "position": "186",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/ybkvQJ",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Witherweep, Thallid Herald",
@@ -17169,7 +17730,7 @@
             "number": 189,
             "color_identity": "BG",
             "cost": "{B}{G}",
-            "rules_text": "Whenever a creature an opponent controls dies, exile it and create a 1/1 black Fungus creature token with \u201cThis token can't block.\u201d\n{1}{B}{G}, Sacrifice three other Fungi: Return target creature card from your graveyard to the battlefield with a finality counter on it. [i](If a creature with a finality counter on it would die, exile it instead.)[/i]",
+            "rules_text": "Whenever a creature an opponent controls dies, exile it and create a 1/1 black Fungus creature token with \u201cThis creature can't block.\u201d\n{1}{B}{G}, Sacrifice three other Fungi: Return target creature card from your graveyard to the battlefield with a finality counter on it. [i](If a creature with a finality counter on it would die, exile it instead.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -17178,8 +17739,11 @@
             "loyalty": "",
             "artist": "Alexander Yakovlev",
             "alias": "",
+            "position": "187",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/8wmlPG?collection_id=1660972",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dance of the Dryads",
@@ -17198,8 +17762,11 @@
             "loyalty": "",
             "artist": "Anna Podedworna",
             "alias": "",
+            "position": "188",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bonehewn Geistkiln",
@@ -17209,7 +17776,7 @@
             "number": 191,
             "color_identity": "C",
             "cost": "{1}",
-            "rules_text": "{X}, {T}: Put X charge counters on this artifact.\n{T}, Remove X charge counters from this artifact: Return target creature card with mana value X from your graveyard to the battlefield with a finality counter on it. [i](If a creature with a finality counter on it would die, exile it instead.)[/i]",
+            "rules_text": "{X}, {T}: Put X charge counters on Bonehewn Geistkiln.\n{T}, Remove X charge counters from Bonehewn Geistkiln: Return target creature card with mana value X from your graveyard to the battlefield with a finality counter on it. [i](If a creature with a finality counter on it would die, exile it instead.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -17218,8 +17785,11 @@
             "loyalty": "",
             "artist": "Andrea Piparo",
             "alias": "",
+            "position": "189",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bloom Surge",
@@ -17238,15 +17808,18 @@
             "loyalty": "",
             "artist": "Sam Kanios",
             "alias": "",
+            "position": "190",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ronwena, Great Witch",
             "color": "UB",
             "rarity": "mythic",
             "type": "Legendary Creature \u2013 Human Warlock",
-            "number": 180,
+            "number": 179,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
             "rules_text": "Instant and sorcery spells you cast from your hand have equinox. The equinox cost is equal to that card's mana cost plus sacrifice a creature. [i](Whenever you cast a spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)[/i]",
@@ -17258,8 +17831,11 @@
             "loyalty": "",
             "artist": "KilartDev",
             "alias": "",
+            "position": "191",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Obliterating Bolt",
@@ -17278,8 +17854,11 @@
             "loyalty": "",
             "artist": "Paolo Puggioni",
             "alias": "",
+            "position": "192",
+            "rotated": false,
             "notes": "!tag reprint",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Terran, Witch Killer",
@@ -17298,8 +17877,11 @@
             "loyalty": "",
             "artist": "Ihor Sapehyn",
             "alias": "",
+            "position": "193",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wickerwing Witch",
@@ -17318,15 +17900,18 @@
             "loyalty": "",
             "artist": "Diego Novanim Zuniga",
             "alias": "",
+            "position": "194",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "June, Cursed and Hunted",
             "color": "WG",
             "rarity": "mythic",
             "type": "Legendary Creature \u2013 Human Peasant",
-            "number": 175,
+            "number": 174,
             "color_identity": "WG",
             "cost": "{G}{W}",
             "rules_text": "Spells your opponents cast cost {1} more to cast for each target.\nWhenever you or a permanent you control becomes the target of a spell you control, draw a card. This ability triggers only once each turn.",
@@ -17338,8 +17923,11 @@
             "loyalty": "",
             "artist": "Keffolo",
             "alias": "",
+            "position": "195",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ulderwild Haunt",
@@ -17358,8 +17946,11 @@
             "loyalty": "",
             "artist": "SixMoreVodka",
             "alias": "",
+            "position": "196",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hooded Amalgam",
@@ -17378,8 +17969,11 @@
             "loyalty": "",
             "artist": "Roman Semenenko",
             "alias": "",
+            "position": "197",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bitterbone Horror",
@@ -17398,15 +17992,18 @@
             "loyalty": "",
             "artist": "Jan Drenovec",
             "alias": "",
+            "position": "198",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Plains",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2013 Plains",
-            "number": 205,
+            "number": 206,
             "color_identity": "W",
             "cost": "",
             "rules_text": "",
@@ -17418,15 +18015,18 @@
             "loyalty": "",
             "artist": "Nuha Notion",
             "alias": "",
+            "position": "199",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/9mylNR",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Island",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2013 Island",
-            "number": 206,
+            "number": 207,
             "color_identity": "U",
             "cost": "",
             "rules_text": "",
@@ -17438,15 +18038,18 @@
             "loyalty": "",
             "artist": "Nuha Notion",
             "alias": "",
+            "position": "200",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/GaeOKQ",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Swamp",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2013 Swamp",
-            "number": 207,
+            "number": 208,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -17458,15 +18061,18 @@
             "loyalty": "",
             "artist": "Nuha Notion",
             "alias": "",
+            "position": "201",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/oAAzek",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mountain",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2013 Mountain",
-            "number": 208,
+            "number": 209,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -17478,15 +18084,18 @@
             "loyalty": "",
             "artist": "Nuha Notion",
             "alias": "",
+            "position": "202",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/WKq2Ly\n\nhttps://www.deviantart.com/nuhanotion/art/Rise-of-the-Legend-881497723",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Forest",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2013 Forest",
-            "number": 209,
+            "number": 210,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -17498,8 +18107,11 @@
             "loyalty": "",
             "artist": "Nuha Notion",
             "alias": "",
+            "position": "203",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cleric",
@@ -17518,8 +18130,11 @@
             "loyalty": "",
             "artist": "Irina Nordsol (Extended)",
             "alias": "",
+            "position": "204",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Human (1)",
@@ -17538,8 +18153,11 @@
             "loyalty": "",
             "artist": "Maruo Belfiore",
             "alias": "",
+            "position": "205",
+            "rotated": false,
             "notes": "!exportname Human (1)",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bird",
@@ -17558,8 +18176,11 @@
             "loyalty": "",
             "artist": "Jaan van Eeden",
             "alias": "",
+            "position": "206",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/L2nYBv",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Zombie",
@@ -17578,8 +18199,11 @@
             "loyalty": "",
             "artist": "Boris Groh",
             "alias": "",
+            "position": "207",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/3oz2vA",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Elemental",
@@ -17598,8 +18222,11 @@
             "loyalty": "",
             "artist": "Marthe Jonkers",
             "alias": "",
+            "position": "208",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/LJxw",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Human Warlock",
@@ -17618,8 +18245,11 @@
             "loyalty": "",
             "artist": "Olivia Hintz",
             "alias": "",
+            "position": "209",
+            "rotated": false,
             "notes": "https://www.oliviahintz.com/keyleth",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ooze",
@@ -17638,8 +18268,11 @@
             "loyalty": "",
             "artist": "Leonardo Giordano",
             "alias": "",
+            "position": "210",
+            "rotated": false,
             "notes": "\nhttps://www.artstation.com/artwork/Vgklmg\n\nhttps://www.artstation.com/artwork/L4O26r",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wolf Token (M20)",
@@ -17658,8 +18291,11 @@
             "loyalty": "",
             "artist": "NekoKawaiiNya, DeviantArt",
             "alias": "",
+            "position": "211",
+            "rotated": false,
             "notes": "https://www.deviantart.com/nekokawaiinya/art/arctic-wolf-254549084\n\n!exportname Wolf Token (M20)",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Treasure",
@@ -17669,7 +18305,7 @@
             "number": 18,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "{T}, Sacrifice this token: Add one mana of any color.",
+            "rules_text": "{T}, Sacrifice this artifact: Add one mana of any color.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -17678,8 +18314,11 @@
             "loyalty": "",
             "artist": "Matt Hansen (Extended)",
             "alias": "",
+            "position": "212",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Horror",
@@ -17698,8 +18337,11 @@
             "loyalty": "",
             "artist": "Imad Awan",
             "alias": "",
+            "position": "213",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Demon (M20)",
@@ -17718,8 +18360,11 @@
             "loyalty": "",
             "artist": "Conor Burke",
             "alias": "",
+            "position": "214",
+            "rotated": false,
             "notes": "!exportname Demon (M20)",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spirit",
@@ -17738,8 +18383,11 @@
             "loyalty": "",
             "artist": "Roman Dubina",
             "alias": "",
+            "position": "215",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Insect Angel",
@@ -17756,10 +18404,13 @@
             "shape": "token",
             "set": "MOX",
             "loyalty": "",
-            "artist": "Bing Image Generator",
+            "artist": "Olha Paschenko",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "position": "216",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/wrWxVO\n\nhttps://www.artstation.com/artwork/xJmbBE",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fungus",
@@ -17778,8 +18429,11 @@
             "loyalty": "",
             "artist": "Mike Pape",
             "alias": "",
+            "position": "217",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/ERX28\n\nhttps://www.artstation.com/artwork/1QNzG?collection_id=2574899\n\nhttps://www.mikepape.com/yumog-the-cave-master",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Witherweep's Vanguard",
@@ -17789,7 +18443,7 @@
             "number": 97,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "When this creature enters, create a 1/1 black Fungus creature token \u201cThis token can't block.\u201d\nNocturnal {B} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
+            "rules_text": "When Witherweep's Vanguard enters, create a 1/1 black Fungus creature token \u201cThis creature can't block.\u201d\nNocturnal {B} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -17798,8 +18452,11 @@
             "loyalty": "",
             "artist": "Amelia Poltoracka",
             "alias": "",
+            "position": "218",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Aviomancer",
@@ -17809,7 +18466,7 @@
             "number": 66,
             "color_identity": "B",
             "cost": "{B}{B}",
-            "rules_text": "At the beginning of your upkeep, you lose 1 life and create a 1/1 black Bird creature token with flying and \u201cThis token can't block.\u201d",
+            "rules_text": "At the beginning of your upkeep, you lose 1 life and create a 1/1 black Bird creature token with flying and \u201cThis creature can't block.\u201d",
             "flavor_text": "[i]\u201cThis world rots beneath its makers. Go forth, my children, and pick clean the bones of creation.\u201d[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -17818,8 +18475,11 @@
             "loyalty": "",
             "artist": "Alvaro Jimenez",
             "alias": "",
+            "position": "219",
+            "rotated": false,
             "notes": "https://cara.app/post/5670e563-d89a-4c01-9cf5-93a75d1994cd",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Insect",
@@ -17838,8 +18498,11 @@
             "loyalty": "",
             "artist": "Juliya Zhukova",
             "alias": "",
+            "position": "220",
+            "rotated": false,
             "notes": "https://fineartamerica.com/featured/bumblebee-juliya-zhukova.html?product=acrylic-print",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Copy",
@@ -17858,8 +18521,11 @@
             "loyalty": "",
             "artist": "Mike Pape",
             "alias": "",
+            "position": "221",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Treefolk",
@@ -17869,7 +18535,7 @@
             "number": 16,
             "color_identity": "G",
             "cost": "",
-            "rules_text": "This token's power and toughness are each equal to the number of Forests you control.",
+            "rules_text": "This creature's power and toughness are each equal to the number of Forests you control.",
             "flavor_text": "[i][/i]",
             "pt": "*/*",
             "special_text": "",
@@ -17878,8 +18544,11 @@
             "loyalty": "",
             "artist": "Jake Ortman",
             "alias": "",
+            "position": "222",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/nQz4PE",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hearthflame Colossus",
@@ -17889,7 +18558,7 @@
             "number": 195,
             "color_identity": "C",
             "cost": "{7}",
-            "rules_text": "Trample\nWhen this creature enters, put a wicker counter on any number of target tokens you control. They each become 3/3 Scarecrow creatures in addition to their other types.",
+            "rules_text": "Trample\nWhen Hearthflame Colossus enters, put a wicker counter on any number of target tokens you control. They each become 3/3 Scarecrow creatures in addition to their other types.",
             "flavor_text": "[i][/i]",
             "pt": "7/7",
             "special_text": "",
@@ -17898,8 +18567,11 @@
             "loyalty": "",
             "artist": "Humble Squid Creatives",
             "alias": "",
+            "position": "223",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/BkaE66?collection_id=1660972",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Adler, Midnight Architect Emblem",
@@ -17918,8 +18590,11 @@
             "loyalty": "",
             "artist": "Elin Tan",
             "alias": "",
+            "position": "224",
+            "rotated": false,
             "notes": "!exportname Adler, Midnight Architect Emblem",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Unbroken Resolve",
@@ -17938,18 +18613,21 @@
             "loyalty": "",
             "artist": "Diana Khomutina",
             "alias": "",
+            "position": "225",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/v1ZOad",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Disruptor Strix",
             "color": "WU",
             "rarity": "rare",
             "type": "Creature \u2013 Bird",
-            "number": 169,
+            "number": 168,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
-            "rules_text": "Flash\nFlying\nWhen this creature enters, counter up to one target noncreature spell unless its controller pays {1} for each creature you control with flying.",
+            "rules_text": "Flash\nFlying\nWhen Disruptor Strix enters, counter up to one target noncreature spell unless its controller pays {1} for each creature you control with flying.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -17958,8 +18636,11 @@
             "loyalty": "",
             "artist": "Daniel Correia",
             "alias": "",
+            "position": "226",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Human (2)",
@@ -17978,8 +18659,34 @@
             "loyalty": "",
             "artist": "Eelis Kyttanen",
             "alias": "",
+            "position": "227",
+            "rotated": false,
             "notes": "!exportname Human (2)",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Evolving Wilds",
+            "color": "",
+            "rarity": "common",
+            "type": "Land",
+            "number": 205,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+            "flavor_text": "[i]To repel outsiders, the Great Witch enchanted the forest to constantly change, ensuring any who entered without permission became lost forever.[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "MOX",
+            "loyalty": "",
+            "artist": "Avant Choi",
+            "alias": "",
+            "position": "228",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/Qz5xXr",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spider-Man",

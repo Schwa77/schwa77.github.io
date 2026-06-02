@@ -1,4 +1,767 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Graveborn Bloom added.
+Fleshgorger Beetle added.
+Jack's Overgrowth added.
+Stalking Shrike added.
+Twilight Weaver added.
+Dust-Wing Covenant added.
+Autumnal Melody added.
+Evolving Wilds added.
+
+Tarnahm Shadow removed.
+Bloodgorger Beetle removed.
+Jack's Pumpkinhead removed.
+Avian Familiar removed.
+Ulderwild Conductor removed.
+Twisted Choir removed.
+Autumnal Wish removed.
+
+Candlelight Hexcrafter
+
+Grove Guardian
+rules_text: Flying
+When this creature enters, choose one—
+• Create a 1/1 white Human creature token.
+• Choose target permanent in your graveyard that was put there from the battlefield this turn. Return that card to your hand. => Flying
+When Grove Guardian enters, choose one—
+• Create a 1/1 white Human creature token.
+• Choose target permanent in your graveyard that was put there from the battlefield this turn. Return that card to your hand.
+
+Repel the Vile
+
+Tarnahm Brightbearer
+
+Dread Whispers
+
+Village Procession
+
+Shackled Straw
+rules_text: Defender
+Whenever a player attacks you or a planeswalker you control with flying, this creature can attack as though it didn't have defender until the beginning of your next end step. => Defender
+Whenever a player attacks you or a planeswalker you control with flying, Shackled Straw can attack as though it didn't have defender until the beginning of your next end step.
+
+Hallow Statue
+rules_text: {T}: Add one mana of any color.
+{3}: This artifact becomes a 3/3 Angel creature with flying in addition to its other types until end of turn. Activate only if you control a creature with flying. => {T}: Add one mana of any color.
+{3}: Hallow Statue becomes a 3/3 Spirit creature with flying in addition to its other types until end of turn. Activate only if you control a creature with flying.
+
+Determined Congregation
+
+Aminatou's Familiar
+
+Outlands Envoy
+rules_text: When this creature enters, choose one—
+• Return target Aura card from your graveyard to your hand.
+• Target creature you control gets +2/+2 until end of turn. => When Outlands Envoy enters, choose one—
+• Return target Aura card from your graveyard to your hand.
+• Target creature you control gets +2/+2 until end of turn.
+
+Prized Longhorn
+rules_text: When this creature enters, you gain 3 life.
+Nocturnal {W} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i] => When Prized Longhorn enters, you gain 3 life.
+Nocturnal {W} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]
+
+Homestead Militia
+rules_text: When this creature enters, creatures you control get +1/+1 until end of turn.
+Nocturnal {1}{W} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i] => When Homestead Militia enters, creatures you control get +1/+1 until end of turn.
+Nocturnal {1}{W} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]
+
+Convergence Beckoner
+rules_text: Flying
+When this creature enters, you gain 1 life for each creature you control with flying. => Flying
+When Convergence Beckoner enters, you gain 1 life for each creature you control with flying.
+
+Lost in the Stars
+
+World's Wings
+
+Gilded Travel
+rules_text: Flash
+Enchant creature
+When this Aura enters, enchanted creature gains indestructible until end of turn.
+Enchanted creature gets +2/+2. => Flash
+Enchant creature
+When Gilded Travel enters, enchanted creature gains indestructible until end of turn.
+Enchanted creature gets +2/+2.
+
+Stillwater Respite
+
+Curious Hauntling
+rules_text: Flash
+Flying
+When this creature enters, tap target creature you don't control. => Flash
+Flying
+When Curious Hauntling enters, tap target creature you don't control.
+
+Spectral Shepherd
+
+Deranged Cultist
+rules_text: When this creature dies, draw a card.
+Nocturnal {U} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i] => When Deranged Cultist dies, draw a card.
+Nocturnal {U} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]
+
+Gaping Revenant
+
+Haunting Watcher
+rules_text: Reap — {4}{U}{U}: This creature can't be blocked this turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i] => Reap — {4}{U}{U}: Haunting Watcher can't be blocked this turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+
+Phantom Butler
+rules_text: When this creature enters, if you've cast two or more spells this turn, put up to one target instant or sorcery card from your graveyard on top of your library. => When Phantom Butler enters, if you've cast two or more spells this turn, put up to one target instant or sorcery card from your graveyard on top of your library.
+
+Syncopate
+
+Chilling Sight
+rules_text: Enchant creature
+When this Aura enters, if you've cast two or more spells this turn, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step. => Enchant creature
+When Chilling Sight enters, if you've cast two or more spells this turn, tap enchanted creature.
+Enchanted creature can't become untapped.
+
+Discover the Reliquary
+
+Kiss of Frost
+
+Vanish
+
+Doomed Survivor
+
+Novice Occultist
+rules_text: When this creature dies, you draw a card and you lose 1 life. => When Novice Occultist dies, you draw a card and you lose 1 life.
+
+Ulderwild Sage
+
+Horde Encounter
+
+Clever Familiar
+rules_text: When this creature enters, you lose 1 life and you draw a card.
+Nocturnal {B} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i] => When Clever Familiar enters, you lose 1 life and you draw a card.
+Nocturnal {B} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]
+
+Boglurker Thallid
+rules_text: {2}, Sacrifice a creature: Put a +1/+1 counter on this creature. It gains indestructible until end of turn. Activate only as a sorcery. => {2}, Sacrifice a creature: Put a +1/+1 counter on Boglurker Thallid. It gains indestructible until end of turn. Activate only as a sorcery.
+
+Elken Remains
+rules_text: Reap — {3}{B}: This creature gets +2/+0 and gains indestructible until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i] => Reap — {3}{B}: Elken Remains gets +2/+0 and gains indestructible until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+
+Segmented Terror
+rules_text: When this creature enters, return target creature card with mana value 5 or less from your graveyard to your hand.
+Nocturnal {3}{B} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i] => When Segmented Terror enters, return target creature card with mana value 5 or less from your graveyard to your hand.
+Nocturnal {3}{B} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]
+
+Feed the Swarm
+
+Necromancer's Lullaby
+
+Rise from Rot
+
+Harvest
+
+Truffle Forager
+rules_text: First strike
+Whenever you cast your second spell each turn, this creature deals 1 damage to each opponent and you scry 1. => First strike
+Whenever you cast your second spell each turn, Truffle Forager deals 1 damage to each opponent and you scry 1.
+
+Wild Witch
+
+Leafcrown Elk
+rules_text: When this creature enters, target creature can't block this turn.
+Nocturnal {R} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i] => When Leafcrown Elk enters, target creature can't block this turn.
+Nocturnal {R} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]
+
+Tomebound Apprentice
+rules_text: This creature has haste as long as you've cast two or more spells this turn. => Tomebound Apprentice has haste as long as you've cast two or more spells this turn.
+
+Witch Hunter
+rules_text: Whenever this creature attacks with another creature with power 4 or greater, this creature deals 1 damage to target player or planeswalker. => Whenever this creature attacks with another creature with power 4 or greater, Witch Hunter deals 1 damage to target player or planeswalker.
+
+Blightarrow Archer
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+During your turn, this creature has first strike. => Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+During your turn, Blightarrow Archer has first strike.
+
+Bloodbirthed Crawler
+rules_text: Reach
+Reap — {4}{R}: This creature deals 2 damage to each opponent. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i] => Reach
+Reap — {4}{R}: Bloodbirthed Crawler deals 2 damage to each opponent. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+
+Sundering the Tower
+
+Twisted Temptation
+
+Candlelight Ritual
+
+Narrow Exit
+
+Abrade
+
+Shrine Guardian
+rules_text: Trample
+Whenever this creature attacks with another creature with power 4 or greater, put a +1/+1 counter on this creature. => Trample
+Whenever Shrine Guardian attacks with another creature with power 4 or greater, put a +1/+1 counter on Shrine Guardian.
+
+Civic Gardener
+rules_text: Whenever this creature attacks, untap target creature or land. => Whenever Civic Gardener attacks, untap target creature or land.
+
+Sporechoke Myconid
+
+Carnivorous Seedling
+rules_text: Reap — {3}{G}: Put a +1/+1 counter on this creature. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i] => Reap — {3}{G}: Put a +1/+1 counter on Carnivorous Seedling. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+
+Scion of Old Gods
+type: Creature — Skeleton => Creature — Treefolk
+rules_text: When this creature enters, if you control another creature with power 4 or greater, draw a card. => When Scion of Old Gods enters, if you control another creature with power 4 or greater, draw a card.
+
+Ulderwild Recluse
+
+Gnarled Ironroot
+
+Inquisitive Jackalope
+rules_text: When this creature enters, reveal the top five cards of your library. You may put an Aura or land card from among them into your hand. Put the rest on the bottom of your library in a random order. => When Inquisitive Jackalope enters, reveal the top five cards of your library. You may put an Aura or land card from among them into your hand. Put the rest on the bottom of your library in a random order.
+
+Bountiful Orchard
+rules_text: Enchant land
+When this Aura enters, create a 1/1 white Human creature token.
+Enchanted land has “{T}: Add two mana of any one color.” => Enchant land
+When Bountiful Orchard enters, create a 1/1 white Human creature token.
+Enchanted land has “{T}: Add two mana of any one color.”
+
+Ulderwild Animosity
+
+Ulderwild Clash
+
+Barkskin Blessing
+rules_text: Flash
+Enchant creature
+When this Aura enters, enchanted creature gets +2/+2 until end of turn.
+Enchanted creature has trample. => Flash
+Enchant creature
+When Barkskin Blessing enters, enchanted creature gets +2/+2 until end of turn.
+Enchanted creature has trample.
+
+Haunt-Drawn Carriage
+
+Prophetic Prism
+rules_text: When this artifact enters, draw a card.
+{1}, {T}: Add one mana of any color. => When Prophetic Prism enters, draw a card.
+{1}, {T}: Add one mana of any color.
+
+Makeshift Wings
+rules_text: When this Equipment enters, attach it to target creature you control.
+Equipped creature gets +1/+0 and has flying.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i] => When Makeshift Wings enters, attach it to target creature you control.
+Equipped creature gets +1/+0 and has flying.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+Shambling Harvester
+rules_text: Reap — {4}: This creature gets +2/+2 until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i] => Reap — {4}: Shambling Harvester gets +2/+2 until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+
+Sporecap Warden
+rules_text: When this creature enters, return target creature card from your graveyard to your hand. If it was put there from the battlefield this turn, instead return it to the battlefield tapped.
+If this creature would die, exile it instead. => When Sporecap Warden enters, return target creature card from your graveyard to your hand. If it was put there from the battlefield this turn, instead return it to the battlefield tapped.
+If Sporecap Warden would die, exile it instead.
+
+Eldritch Investigator
+
+Ulderwild Communer
+rules_text: When this creature enters, if you control an enchantment, create a 2/2 green Wolf creature token.
+Whenever an enchantment you control enters, create a 2/2 green Wolf creature token. => When Ulderwild Communer enters, if you control an enchantment, create a 2/2 green Wolf creature token.
+Whenever an enchantment you control enters, create a 2/2 green Wolf creature token.
+
+Velheart Ritualist
+rules_text: Reap — {1}{B}{R}: Put a +1/+1 counter on this creature. It deals 1 damage to each opponent. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i] => Reap — {1}{B}{R}: Put a +1/+1 counter on Velheart Ritualist. It deals 1 damage to each opponent. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+
+Grizzled Woodsman
+rules_text: Whenever a creature with power 4 or greater you control enters, put a +1/+1 counter on this creature. It gains trample until end of turn. => Whenever a creature with power 4 or greater you control enters, put a +1/+1 counter on Grizzled Woodsman. It gains trample until end of turn.
+
+Bunnyback Messenger
+
+Soultouch Spirit
+rules_text: When this creature enters, return target instant or sorcery with mana value less than or equal to the amount of mana spent to cast this creature from your graveyard to your hand.
+Whenever you cast your second spell each turn, scry 2. => When Soultouch Spirit enters, return target instant or sorcery with mana value less than or equal to the amount of mana spent to cast Soultouch Spirit from your graveyard to your hand.
+Whenever you cast your second spell each turn, scry 2.
+
+Ritual Amalgam
+rules_text: This spell costs {1} less to cast for each token you control.
+When this creature enters, target opponent sacrifices a nontoken creature of their choice. => This spell costs {1} less to cast for each token you control.
+When Ritual Amalgam enters, target opponent sacrifices a nontoken creature of their choice.
+
+Duskflight Tracker
+rules_text: Flying
+When this creature enters, look at the top X cards of your library, where X is the number of creatures you control with flying. Put one of those cards into your hand and the rest on the bottom of your library in a random order. => Flying
+When Duskflight Tracker enters, look at the top X cards of your library, where X is the number of creatures you control with flying. Put one of those cards into your hand and the rest on the bottom of your library in a random order.
+
+Blighted Angel
+
+Hivetender
+
+Archon of Life's Return
+rules_text: Flying
+When this creature enters, choose target permanent card with mana value 3 or less in your graveyard. You may play that card this turn. => Flying
+When Archon of Life's Return enters, choose target permanent card with mana value 3 or less in your graveyard. You may play that card this turn.
+
+Dwarven Dreamwarden
+
+Seal Away
+rules_text: Flash
+When this enchantment enters, exile target tapped creature an opponent controls until this enchantment leaves the battlefield. => Flash
+When Seal Away enters, exile target tapped creature an opponent controls until this enchantment leaves the battlefield.
+
+Crescent Diviner
+rules_text: When this creature enters, search your library for an Aura card, reveal it, put it into your hand, then shuffle.
+Aura spells you cast cost {1} less to cast. => When Crescent Diviner enters, search your library for an Aura card, reveal it, put it into your hand, then shuffle.
+Aura spells you cast cost {1} less to cast.
+
+Highborn Alchemist
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Whenever this creature becomes the target of a spell you control, it gains lifelink until end of turn. => Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Whenever Highborn Alchemist becomes the target of a spell you control, it gains lifelink until end of turn.
+
+Great One's Nest
+
+Murktown Hunter
+
+Winged Amalgam
+
+Lurholme Diviner
+rules_text: When this creature enters, return target instant or sorcery card from your graveyard to your hand.
+{U}, {T}, Sacrifice two other creatures: Copy target instant or sorcery spell you control. You may choose new targets for the copy. => When Lurholme Diviner enters, return target instant or sorcery card from your graveyard to your hand.
+{U}, {T}, Sacrifice two other creatures: Copy target instant or sorcery spell you control. You may choose new targets for the copy.
+
+Chained Phantom
+rules_text: Flying
+This creature enters tapped with three stun counters on it. [i](If it would become untapped, remove a stun counter from it instead.)[/i]
+Whenever you cast a spell during an opponent's turn, untap this creature. => Flying
+Chained Phantom enters tapped with three stun counters on it. [i](If it would become untapped, remove a stun counter from it instead.)[/i]
+Whenever you cast a spell during an opponent's turn, untap Chained Phantom.
+
+Wrapped in Spidersilk
+
+Thoughtgrind
+
+Repeating Replication
+
+Blossoming Shambler
+rules_text: When this creature dies, choose one—
+• Each opponent loses 1 life and you gain 1 life.
+• Return target creature card with mana value 1 or less from your graveyard to the battlefield. => When Blossoming Shambler dies, choose one—
+• Each opponent loses 1 life and you gain 1 life.
+• Return target creature card with mana value 1 or less from your graveyard to the battlefield.
+
+Old God's Faithful
+rules_text: When this creature enters, each player sacrifices a creature of their choice.
+Nocturnal {1}{B} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i] => When Old God's Faithful enters, each player sacrifices a creature of their choice.
+Nocturnal {1}{B} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]
+
+Devoted Aristocrat
+rules_text: Whenever you create one or more tokens, you may sacrifice this creature. If you do, create a 4/4 black Demon creature token with menace. => Whenever you create one or more tokens, you may sacrifice Devoted Aristocrat. If you do, create a 4/4 black Demon creature token with menace.
+
+Ravenous Cockatrice
+rules_text: Flash
+Flying
+When this creature enters, up to one target creature gets -2/-2 for each spell its controller has cast this turn. => Flash
+Flying
+When Ravenous Cockatrice enters, up to one target creature gets -2/-2 for each spell its controller has cast this turn.
+
+Boneyard Haunt
+
+Scared of the Dark
+
+Blow Away Dreams
+
+Bog Brew
+
+Lurholme Embershaper
+
+Massacre Dragon
+rules_text: Flying
+Reap — {1}{R}: This creature deals 1 damage to any target. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i] => Flying
+Reap — {1}{R}: Massacre Dragon deals 1 damage to any target. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+
+Apprentice's Discovery
+
+Ulderwild Guardian
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Whenever you cast your second spell each turn, this creature deals 2 damage to each opponent. => Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Whenever you cast your second spell each turn, Ulderwild Guardian deals 2 damage to each opponent.
+
+Devastating Pyre
+
+Skeletal Inferno
+rules_text: Trample, haste
+Whenever this creature attacks, sacrifice it at end of combat.
+Nocturnal {R} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i] => Trample, haste
+Whenever Skeletal Inferno attacks, sacrifice it at end of combat.
+Nocturnal {R} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]
+
+Ardent Embermage
+rules_text: Reap — {3}{R}: Put a +1/+1 counter on this creature. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+When this creature dies, it deals damage equal to its power to any target. => Reap — {3}{R}: Put a +1/+1 counter on Ardent Embermage. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+When Ardent Embermage dies, it deals damage equal to its power to any target.
+
+Embroiled in Conflict
+
+Hungering Briarbeast
+rules_text: Trample
+Reap — {4}{G}: Put two +1/+1 counters on this creature. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i] => Trample
+Reap — {4}{G}: Put two +1/+1 counters on Hungering Briarbeast. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+
+Tender Vitalist
+
+Putrid Sludge
+rules_text: When this creature enters, destroy up to one target artifact or enchantment.
+Nocturnal {1}{G} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i] => When Putrid Sludge enters, destroy up to one target artifact or enchantment.
+Nocturnal {1}{G} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]
+
+Ulderwild Cartographer
+
+Orchard Caretaker
+
+Haunted Gravesite
+rules_text: Whenever you cast an enchantment spell, put a +1/+1 counter on target creature you control.
+{3}{G}: Another target enchantment you control becomes a 4/4 green Spirit creature in addition to its other types. => Whenever you cast an enchantment spell, put a +1/+1 counter on target creature you control.
+{3}{G}: Put an ensoul counter on another target enchantment you control. It becomes a 4/4 green Spirit creature in addition to its other types.
+
+Great Witch's Boon
+rules_text: Enchant creature
+When this Aura enters, tap enchanted creature and put a stun counter on it.
+Enchanted creature gets +4/+4 and has trample. => Enchant creature
+When Great Witch's Boon enters, tap enchanted creature and put a stun counter on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+Enchanted creature gets +4/+4 and has trample.
+
+Awaken the Ulderwild
+rules_text: Create a green Treefolk creature token with reach and “This token's power and toughness are each equal to the number of Forests you control.”
+Equinox {4}{G}{G} [i](If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)[/i] => Create a green Treefolk creature token with reach and “This creature's power and toughness are each equal to the number of Forests you control.”
+Equinox {4}{G}{G} [i](If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)[/i]
+
+Flowering Wight
+
+Archangel Tinea
+
+A New Day Rises
+
+Harvest Festival
+
+Ominous Lepiseraph
+
+Worldsong Conductor
+type: Creature — Human Shaman => Creature — Human Cleric
+
+Awakened Deus
+rules_text: When this creature enters, return all non-Leviathan creatures to their owner's hands.
+Nocturnal {4}{U}{U} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i] => When Awakened Deus enters, return all non-Leviathan creatures to their owner's hands.
+Nocturnal {4}{U}{U} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]
+
+Lady Lurholme, Communer
+
+Endless Insights
+rules_text: Whenever you cast a spell for its alternate cost, copy that spell. You may choose new targets for the copy. => Whenever you cast a spell for its alternate cost, copy that spell. You may choose new targets for the copy. [i](This includes casting a spell without paying its mana cost.)[/i]
+
+Faceless Form
+rules_text: You may have this creature enter as a copy of any creature on the battlefield.
+Nocturnal {U}{U} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i] => You may have Faceless Form enter as a copy of any creature on the battlefield.
+Nocturnal {U}{U} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]
+
+Pallbearer's Lament
+
+Pactweaver Regent
+
+Cult Following
+
+Voracia, Dreamstalker
+
+All-Seeing Lurker
+
+Nightmare Whispers
+rules_text: Choose a nonland card name. Target opponent reveals their hand and discards all cards with that name.
+Equinox {B}{B} [i](If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)[/i] => Choose a nonland card name. Target opponent reveals their hand and discards all cards with that name.
+Equinox {1}{B}{B} [i](If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)[/i]
+
+Nightshroud Steed
+rules_text: Flying
+This creature's power and toughness are each equal to the number of Swamps you control.
+When this creature enters, up to one target creature gets -X/-X until end of turn, where X is the number of Swamps you control. => Flying
+Nightshroud Steed's power and toughness are each equal to the number of Swamps you control.
+When Nightshroud Steed enters, up to one target creature gets -X/-X until end of turn, where X is the number of Swamps you control.
+
+Sleepwalk
+
+Lifeblood Ritual
+
+Encroaching Convergence
+
+Prossa, Midnight Flame
+
+Jack's Ire
+
+Dusklight Frolicking
+
+Starscape Phoenix
+rules_text: Flying
+Nocturnal {2}{R} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]
+When this creature dies, until the end of your next turn, you may cast it from your graveyard for its nocturnal cost. => Flying
+Nocturnal {2}{R} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]
+When Starscape Phoenix dies, until the end of your next turn, you may cast it from your graveyard for its nocturnal cost.
+
+Approach the Eye
+
+Condemned Lupine
+rules_text: As long as you've cast two or more spells this turn, this creature has haste.
+Whenever you cast a spell from exile, put a +1/+1 counter on this creature. => As long as you've cast two or more spells this turn, Condemned Lupine has haste.
+Whenever you cast a spell from exile, put a +1/+1 counter on Condemned Lupine.
+
+Moonlight Witch
+
+Horizon Eater
+rules_text: Trample, reach
+This creature enters with twice X +1/+1 counters on it.
+Nocturnal {X}{G} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i] => Trample, reach
+Horizon Eater enters with twice X +1/+1 counters on it.
+Nocturnal {X}{G} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]
+
+Druidic Summons
+
+Consuming Slimetide
+
+Convergence Thaumaturge
+rules_text: Whenever you cast a spell that's white, blue, black, or red, put a +1/+1 counter on this creature.
+Nocturnal {G} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i] => Whenever you cast a spell that's white, blue, black, or red, put a +1/+1 counter on Convergence Thaumaturge.
+Nocturnal {G} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]
+
+Eldritch Deluge
+type: Instant => Sorcery
+cost: {X}{G} => {X}{G}{G}
+
+Surula, Swarm's Song
+
+Portal Summoning
+rules_text: You may put a creature card from your hand onto the battlefield tapped with a stun counter on it.
+Equinox {4}{G}{G} [i](If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)[/i] => You may put a creature card from your hand onto the battlefield tapped with a stun counter on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+Equinox {4}{G}{G} [i](If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)[/i]
+
+Things in the Wake
+
+Adler, Midnight Architect
+
+Aminatou, Loreweaver
+rules_text: [+1]: Exile up to one other permanent you control until Aminatou leaves the battlefield.
+[0]: Return each permanent card exiled with Aminatou to the battlefield under your control. You gain life equal to their total mana value.
+[-X]: Exile target nontoken creature with mana value X or less. => [+2]: Exile up to one other permanent you control until Aminatou leaves the battlefield.
+[0]: Return each permanent card exiled with Aminatou to the battlefield under your control. You gain life equal to their total mana value.
+[-X]: Exile target nontoken creature with mana value X or less.
+special_text: [+1]: Exile up to one other permanent you control until Aminatou leaves the battlefield.
+[0]: Return each permanent card exiled with Aminatou to the battlefield under your control. You gain life equal to their total mana value.
+[-X]: Exile target nontoken creature with mana value X or less. => [+2]: Exile up to one other permanent you control until Aminatou leaves the battlefield.
+[0]: Return each permanent card exiled with Aminatou to the battlefield under your control. You gain life equal to their total mana value.
+[-X]: Exile target nontoken creature with mana value X or less.
+
+Deeptomb Caller
+
+Flayed Hellkite
+cost: {2}{B}{R} => {3}{B}{R}
+rules_text: Flying
+When this creature enters, each creature without flying gets -2/-2 until end of turn.
+Nocturnal {1}{B}{R} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i] => Flying
+When Flayed Hellkite enters, each creature without flying gets -2/-2 until end of turn.
+Nocturnal {2}{B}{R} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]
+
+Bramblefiend
+rules_text: When this creature enters, it fights up to one target creature.
+Nocturnal {1}{R}{G} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i] => When Bramblefiend enters, it fights up to one target creature.
+Nocturnal {1}{R}{G} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]
+pt: 4/3 => 4/2
+
+Visions of Devastation
+
+Jack, the Exterminator
+
+Knight of Autumn
+rules_text: When this creature enters, choose one —
+• Put two +1/+1 counters on this creature.
+• Destroy target artifact or enchantment.
+• You gain 4 life. => When Knight of Autumn enters, choose one —
+• Put two +1/+1 counters on this creature.
+• Destroy target artifact or enchantment.
+• You gain 4 life.
+
+Madeline, the Lifestitcher
+
+Vecri, Plague Alchemist
+type: Legendary Creature — Human Shaman => Legendary Creature — Human Warlock
+
+Aminatou's Gift
+
+Roving Monolith
+
+Creeping Cabin
+rules_text: {T}: Add {C}.
+Reap — {3}: This land becomes a 2/3 Nightmare creature with menace until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i] => {T}: Add {C}.
+Reap — {3}: Creeping Cabin becomes a 2/3 Nightmare creature with menace until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+
+Fatespinning
+
+Infested Hearse
+rules_text: Whenever another creature you control dies, this Vehicle deals 1 damage to each opponent.
+Reap — {2}: This Vehicle becomes an artifact creature until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i] => Whenever another creature you control dies, Infested Hearse deals 1 damage to each opponent.
+Reap — {2}: Infested Hearse becomes an artifact creature until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+
+Stoneskin Gargoyle
+rules_text: Flying, defender
+Reap — {4}: This creature can attack this turn as though it didn't have defender. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i] => Flying, defender
+Reap — {4}: Stoneskin Gargoyle can attack this turn as though it didn't have defender. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+
+Harvester's Scythe
+rules_text: Equipped creature gets +1/+1 and can't be blocked by creatures with flying.
+Reap — {2}: Attach this Equipment to target creature you control. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i] => Equipped creature gets +1/+1 and can't be blocked by creatures with flying.
+Reap — {2}: Attach Harvester's Scythe to target creature you control. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]
+
+Raven Roosts
+rules_text: If one or more creature cards you own would be put into a graveyard from anywhere, instead exile them and create a 1/1 black Bird creature token with flying and “This token can't block.”
+Whenever three or more creatures you control deal combat damage to a player, put a card exiled with this enchantment into its owner's hand. => If one or more creature cards you own would be put into a graveyard from anywhere, instead exile them and create a 1/1 black Bird creature token with flying and “This creature can't block.”
+Whenever three or more creatures you control deal combat damage to a player, put a card exiled with Raven Roostsinto its owner's hand.
+
+Unknown Seas
+
+Mossy Ulderhulk
+
+Melancholy
+rules_text: Flash
+When this creature enters, return target spell or nonland permanent you don't control to its owner's hand.
+Nocturnal {U}{U}{U} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i] => Flash
+When Melancholy enters, return target spell or nonland permanent you don't control to its owner's hand.
+Nocturnal {U}{U}{U} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]
+
+Quarrel
+rules_text: When this creature enters, gain control of another target nonland permanent until end of turn. Untap that permanent. It gains haste until end of turn.
+Nocturnal {R}{R}{R} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i] => When Quarrel enters, gain control of another target nonland permanent until end of turn. Untap that permanent. It gains haste until end of turn.
+Nocturnal {R}{R}{R} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]
+
+Growth
+rules_text: When this creature enters, distribute three +1/+1 counters among one, two or three target creatures you control.
+Nocturnal {G}{G}{G} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i] => When Growth enters, distribute three +1/+1 counters among one, two or three target creatures you control.
+Nocturnal {G}{G}{G} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]
+
+Forgiveness
+rules_text: Flash
+When this creature enters, exile target nonland permanent you don't control until this creature leaves the battlefield.
+Nocturnal {W}{W}{W} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i] => Flash
+When Forgiveness enters, exile target nonland permanent you don't control until this creature leaves the battlefield.
+Nocturnal {W}{W}{W} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]
+
+Fright
+rules_text: When this creature enters, each opponent sacrifices a creature or planeswalker with the highest mana value among creatures and planeswalkers they control.
+Nocturnal {B}{B}{B} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i] => When Fright enters, each opponent sacrifices a creature or planeswalker of their choice with the highest mana value among creatures and planeswalkers they control.
+Nocturnal {B}{B}{B} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]
+
+Repentant Wanderer
+rules_text: When this creature enters, return target nonland permanent card with mana value 2 or less from your graveyard to the battlefield.
+Nocturnal {W} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i] => When Repentant Wanderer enters, return target nonland permanent card with mana value 2 or less from your graveyard to the battlefield.
+Nocturnal {W} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]
+
+Autumn's Bounty
+
+Lurholme Sickle
+rules_text: When this Equipment enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Equipped creature gets +1/+1.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i] => When Lurholme Sickle enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Equipped creature gets +1/+1.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+Witherweep, Thallid Herald
+rules_text: Whenever a creature an opponent controls dies, exile it and create a 1/1 black Fungus creature token with “This token can't block.”
+{1}{B}{G}, Sacrifice three other Fungi: Return target creature card from your graveyard to the battlefield with a finality counter on it. [i](If a creature with a finality counter on it would die, exile it instead.)[/i] => Whenever a creature an opponent controls dies, exile it and create a 1/1 black Fungus creature token with “This creature can't block.”
+{1}{B}{G}, Sacrifice three other Fungi: Return target creature card from your graveyard to the battlefield with a finality counter on it. [i](If a creature with a finality counter on it would die, exile it instead.)[/i]
+
+Dance of the Dryads
+
+Bonehewn Geistkiln
+rules_text: {X}, {T}: Put X charge counters on this artifact.
+{T}, Remove X charge counters from this artifact: Return target creature card with mana value X from your graveyard to the battlefield with a finality counter on it. [i](If a creature with a finality counter on it would die, exile it instead.)[/i] => {X}, {T}: Put X charge counters on Bonehewn Geistkiln.
+{T}, Remove X charge counters from Bonehewn Geistkiln: Return target creature card with mana value X from your graveyard to the battlefield with a finality counter on it. [i](If a creature with a finality counter on it would die, exile it instead.)[/i]
+
+Bloom Surge
+
+Ronwena, Great Witch
+
+Obliterating Bolt
+
+Terran, Witch Killer
+
+Wickerwing Witch
+
+June, Cursed and Hunted
+
+Ulderwild Haunt
+
+Hooded Amalgam
+
+Bitterbone Horror
+
+Cleric
+
+Human (1)
+
+Bird
+
+Zombie
+
+Elemental
+
+Human Warlock
+
+Ooze
+
+Wolf Token (M20)
+
+Treasure
+rules_text: {T}, Sacrifice this token: Add one mana of any color. => {T}, Sacrifice this artifact: Add one mana of any color.
+
+Horror
+
+Demon (M20)
+
+Spirit
+
+Insect Angel
+
+Fungus
+
+Witherweep's Vanguard
+rules_text: When this creature enters, create a 1/1 black Fungus creature token “This token can't block.”
+Nocturnal {B} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i] => When Witherweep's Vanguard enters, create a 1/1 black Fungus creature token “This creature can't block.”
+Nocturnal {B} [i](You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)[/i]
+
+Aviomancer
+rules_text: At the beginning of your upkeep, you lose 1 life and create a 1/1 black Bird creature token with flying and “This token can't block.” => At the beginning of your upkeep, you lose 1 life and create a 1/1 black Bird creature token with flying and “This creature can't block.”
+
+Insect
+
+Copy
+
+Treefolk
+rules_text: This token's power and toughness are each equal to the number of Forests you control. => This creature's power and toughness are each equal to the number of Forests you control.
+
+Hearthflame Colossus
+rules_text: Trample
+When this creature enters, put a wicker counter on any number of target tokens you control. They each become 3/3 Scarecrow creatures in addition to their other types. => Trample
+When Hearthflame Colossus enters, put a wicker counter on any number of target tokens you control. They each become 3/3 Scarecrow creatures in addition to their other types.
+
+Adler, Midnight Architect Emblem
+
+Unbroken Resolve
+
+Disruptor Strix
+rules_text: Flash
+Flying
+When this creature enters, counter up to one target noncreature spell unless its controller pays {1} for each creature you control with flying. => Flash
+Flying
+When Disruptor Strix enters, counter up to one target noncreature spell unless its controller pays {1} for each creature you control with flying.
+
+Human (2)
+
+
+VERSION 3 CHANGELOG
 ====================
 
 
