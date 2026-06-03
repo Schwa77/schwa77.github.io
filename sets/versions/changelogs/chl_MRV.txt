@@ -1,4 +1,591 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Imperius Rex! added.
+Spider-Ham added.
+Elsa Bloodstone added.
+HERBIE added.
+Moira X added.
+Rictor added.
+The Founding of Krakoa added.
+She-Hulk added.
+Great Power added.
+Hawkeye (Clint Barton) added.
+Hawkeye (Kate Bishop) added.
+Shadow King's Clutches added.
+Red Skull added.
+Spider-Woman added.
+Doctor Octopus added.
+Vulture added.
+Odin, the All-Father added.
+Rocket Raccoon added.
+Namor the Sub-Mariner added.
+Groot added.
+Rewrite Reality added.
+War Machine added.
+Squirrel Girl added.
+Bullseye added.
+Punisher added.
+Cosmo the Space Dog added.
+Hulkling added.
+(The Coming of Galactus) added.
+Galactus, Devourer of Worlds added.
+Angel added.
+Surtur, Lord of Muspelheim added.
+Inferno Titan added.
+Mercenary added.
+Mercenary added.
+Mercenary added.
+Mercenary added.
+Malekith the Accursed added.
+Enchantress added.
+
+Ultimate Spider-Man removed.
+Imperius Rex removed.
+Hunt to Extinction removed.
+Optic Blast removed.
+Flora Colossus removed.
+Summon the Horsemen removed.
+Cosmo the Spacedog removed.
+Lockjaw removed.
+Wiccan removed.
+Hobgoblin removed.
+Kate Bishop removed.
+Diablo removed.
+Hawkeye removed.
+Rhino removed.
+World War Hulk removed.
+Avengers Assemble removed.
+H.E.R.B.I.E. removed.
+
+Spider-Man
+
+Portal Hopping
+
+Invisible Woman
+
+Spider-Man Noir
+rules_text: Ward—{2}, Pay 2 life.
+Whenever another creature you control leaves the battlefield, investigate. This ability triggers only once per turn. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i] => Ward—{2}, Pay 2 life.
+Whenever another creature you control leaves the battlefield, investigate. This ability triggers only once per turn. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+Silvermane
+rules_text: When Silvermane enters, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => When Silvermane enters, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Iron Man
+type: Legendary Creature — Human Artificer Hero => Legendary Artifact Creature — Human Hero
+cost: {U}{R} => {3}{U}{R}
+rules_text: Flying
+Whenever Iron Man deals combat damage to a player, look at the top three cards of your library. You may exile an artifact card from among them. Put the rest on the bottom of your library in a random order. You may play the exiled card until end of turn. => Flying, haste
+Other artifact creatures you control have flying and haste.
+Whenever Iron Man or another artifact you control enters, create a 2/2 colorless Robot artifact creature token. This ability triggers only once each turn.
+pt: 2/2 => 4/4
+
+Astral Projection
+
+Journey into Mystery
+rules_text: Flash
+When this enchantment enters, create two 1/1 green Insect creature tokens with flying, then exile up to one other target nonland permanent until this enchantment leaves the battlefield. => Flash
+When Journey into Mystery enters, create two 1/1 green Insect creature tokens with flying, then exile up to one other target nonland permanent until Journey into Mystery leaves the battlefield.
+
+Magik
+
+Blind Justice
+rules_text: Choose one—
+• Exile target tapped creature.
+• Exile target planeswalker that was activated this turn. => Choose one —
+• Exile target tapped creature.
+• Exile target planeswalker that was activated this turn.
+
+Banish to Limbo
+
+Purge the Occult
+
+Spider-Man 2099
+
+Vibranium Shield
+
+Suit Up
+
+Think
+
+Psychic Knife
+
+Two Steps Ahead
+
+Mystic Arts
+
+Scrutinize
+
+Kang the Conqueror
+
+Rescue Armor
+
+Shifting Identity
+
+Burning Fear
+
+Take Aim
+
+Elegy
+
+Death Spores
+
+No More
+
+Mister Negative
+
+Mephisto
+
+Knull, King in Black
+rules_text: [+1]: Put a +1/+1 counter on up to one target creature. It gains indestructible until end of turn.
+[-3]: Create a 3/3 black Alien Dragon creature token with flying.
+[-8]: Each creature you don't control gets -X/-X until end of turn, where X is the number of creatures you control. => [+1]: Put a +1/+1 counter on up to one target creature. It gains indestructible until end of turn.
+[-3]: Create a 3/3 black Symbiote Dragon creature token with flying.
+[-8]: Each creature you don't control gets -X/-X until end of turn, where X is the number of creatures you control.
+special_text: [+1]: Put a +1/+1 counter on up to one target creature. It gains indestructible until end of turn.
+[-3]: Create a 3/3 black Alien Dragon creature token with flying.
+[-8]: Each creature you don't control gets -X/-X until end of turn, where X is the number of creatures you control. => [+1]: Put a +1/+1 counter on up to one target creature. It gains indestructible until end of turn.
+[-3]: Create a 3/3 black Symbiote Dragon creature token with flying.
+[-8]: Each creature you don't control gets -X/-X until end of turn, where X is the number of creatures you control.
+
+Dormammu
+
+Trickshot
+
+Fin Fang Foom
+
+Fatal Attractions
+
+Energy Conduit
+
+Fortune Favors the Bold
+
+Life-Model Decoy
+
+High Evolutionary
+
+A Day Unlike Any Other
+
+Hell Cycle
+
+Crowd Favorite
+
+Savage Land Expedition
+rules_text: Enchant land
+Whenever enchanted land is tapped for mana, its controller adds an additional one mana of any color.
+{4}{G}, Sacrifice this Aura: Create a 3/3 green Dinosaur creature token with trample. Activate only as a sorcery. => Enchant land
+Whenever enchanted land is tapped for mana, its controller adds an additional one mana of any color.
+{4}{G}, Sacrifice Savage Land Expedition: Create a 3/3 green Dinosaur creature token with trample. Activate only as a sorcery.
+
+Seismic Shifting
+
+Into the Cosmos
+
+Origin Story
+
+Kraven's Last Hunt
+
+Clobber
+rules_text: Choose one —
+• Destroy target artifact or enchantment.
+• Target creature you control deals damage equal to its power to target creature or planeswalker you don't control. => Choose target creature you control, then choose one —
+• That creature deals damage equal to its power to target creature.
+• Destroy target noncreature, nonland permanent with mana value less than that creature's power.
+
+Maestro
+
+Plot Armor
+
+Red Ghost
+
+Black Widow
+
+Havok
+
+Loki, God of Mischief
+
+White Tiger
+
+Blade
+
+Man-Thing
+
+Lock Up
+
+Warpath
+
+Brood Spawning
+
+Bishop
+
+Iron Fist
+
+Juggernaut
+
+Shocker
+
+Gambit
+
+Ka-Zar
+type: Legendary Creature — Human Warrior => Legendary Creature — Human Warrior Hero
+
+Ghost Rider
+
+Sinister Scheme
+cost: {1}{B}{B}{B} => {2}{B}{B}
+
+Spirit of Vengeance
+rules_text: Start your engines! [i](If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)[/i]
+Sacrifice this enchantment: Return target creature card with mana value less than or equal to your speed from your graveyard to the battlefield. Activate only as a sorcery. => Start your engines! [i](If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)[/i]
+Sacrifice Spirit of Vengeance: Return target creature card with mana value less than or equal to your speed from your graveyard to the battlefield. Activate only as a sorcery.
+
+Zabu
+type: Legendary Creature — Cat => Legendary Creature — Cat Hero
+
+Vision
+
+Silk
+
+Jessica Jones
+rules_text: Vigilance
+When Jessica Jones enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+As long as you've drawn two or more cards this turn, Jessica Jones has flying. => Vigilance
+When Jessica Jones enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+As long as you've drawn two or more cards this turn, Jessica Jones has flying.
+
+Shadowcat
+
+Carnage
+
+Venom
+
+Wasp
+
+Warlock
+
+Thor, God of Thunder
+
+Peni Parker
+
+Anti-Venom
+
+Edwin Jarvis
+
+Moon Knight
+
+Shang-Chi
+
+Falcon
+
+Valkyrie
+
+Heimdall, the All-Seeing
+
+Black Bolt
+
+Sentry
+rules_text: Flying, lifelink
+When Sentry dies, you may pay 4 life. If you do, create The Void, a legendary 4/4 black Avatar Villain creature token with flying and deathtouch. => Flying, lifelink
+When Sentry dies, you may pay 4 life. If you do, create The [i][i]Void[/i], [/i]a legendary 4/4 black Avatar Villain creature token with flying and deathtouch.
+
+Void
+
+Blink
+
+Iceman
+
+Mystique
+rules_text: You may have Mystique enter as a copy of target creature, except her name is Mystique, and she has her other abilities.
+{3}{U}: Mystique becomes a copy of target creature, except her name is Mystique, and she has this ability. Activate only as a sorcery. => You may have Mystique enter as a copy of any creature on the battlefield, except her name is Mystique and she gains “This creature can't be blocked.”
+
+Psylocke
+
+Cable
+
+Nightcrawler
+
+Mysterio
+
+Elektra
+
+Swarm
+type: Legendary Creature — Insect Soldier Villain => Legendary Creature — Insect Villain
+
+Mole Man
+
+Black Cat
+
+Morbius
+rules_text: Flying, haste
+Whenever another creature or planeswalker dies, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i]
+{B}{B}, Sacrifice two Blood tokens: Return Morbius from your graveyard to the battlefield. He can't block this turn. => Flying, haste
+Whenever another creature or planeswalker dies, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+{B}{B}, Sacrifice two Blood tokens: Return Morbius from your graveyard to the battlefield. He can't block this turn.
+
+Crossbones
+
+The Hood
+
+Kingpin
+
+Prowler
+
+Doctor Doom
+
+Omega Red
+
+Annihilus
+rules_text: Flying
+When Annihilus enters, create two 2/2 black Alien Insect creature tokens with flying.
+Whenever Annihilus or another creature you control dies, each opponent loses life equal to that creature's power. => Flying
+When Annihilus enters, create two 2/2 black Insect creature tokens with flying.
+Whenever Annihilus or another creature you control dies, each opponent loses life equal to that creature's power.
+
+Hela, Goddess of Death
+
+Quicksilver
+
+Red Guardian
+
+Jubilee
+
+Deadpool
+pt: 3/1 => 4/4
+
+Pyro
+
+Taskmaster
+cost: {2}{R} => {2}{R}{R}
+rules_text: Haste
+Whenever Taskmaster attacks, you may have him become a copy of another target creature until end of turn, except his name is still Taskmaster and he has this ability. => Haste
+At the beginning of combat on your turn, you may have Taskmaster become a copy of another target creature until end of turn, except he has base power and toughness 4/4, is named Taskmaster, and has haste and this ability.
+pt: 3/2 => 4/4
+
+Drax the Destroyer
+
+Snowbird
+
+Crystal
+rules_text: {T}: Add one mana of any color.
+{4}{G}{G}: Create a 3/3 green Elemental creature token. Activate only as a sorcery. => {T}: Add {G}.
+{4}, {T}: Add {W}{U}{B}{R}{G}.
+
+Absorbing Man
+
+Lizard
+
+Multiple Man
+
+Rogue
+
+Gorilla-Man
+
+Abomination
+
+Colossus
+
+Kraven the Hunter
+
+Deathlok
+rules_text: Modular X [i](This creature enters with X +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.)[/i]
+{4}: Put a +1/+1 counter on Deathlok. Activate only as a sorcery. => Modular X [i](This creature enters with X +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.)[/i]
+{4}: Return Deathlok from your graveyard to your hand.
+
+Ultron
+rules_text: This spell costs {1} less to cast for each artifact you control.
+Flying, trample
+Sacrifice an artifact: Ultron gains indestructible until end of turn. => Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]
+Flying, trample
+Sacrifice an artifact: Ultron gains indestructible until end of turn.
+
+Machine Man
+
+Silver Surfer
+type: Legendary Creature — Avatar Scout => Legendary Creature — Alien Scout
+
+Casket of Ancient Winters
+
+Crimson Gem of Cyttorak
+
+Darkhold
+
+Eye of Agamotto
+
+Jade Tiger Amulet
+
+Infinity Gems
+rules_text: {T}: Add one mana of any color.
+As long as you control six or more artifacts, you may cast spells from your hand without paying their mana costs. => {T}: Add one mana of any color.
+{6}, {T}: Exile the top six cards of your library. Infinity Gems deals damage equal to their combined mana value to any target.
+
+Black Vortex
+
+Iron Man Armor
+
+Staff of One
+
+Delusions of Grandeur
+
+Emma Frost
+
+Bring to Balance
+
+Wolverine
+
+Cloak and Dagger
+
+Glimpse Infinite Realities
+
+Magneto
+
+Mister Sinister
+
+Cyclops
+
+The Collector
+type: Legendary Planeswalker — Collector => Legendary Planeswalker — Tivan
+
+Hulk
+type: Legendary Creature — Giant Hero => Legendary Creature — Giant Berserker Hero
+
+Daredevil
+
+Annihilation Wave
+
+Thanos, the Mad Titan
+
+Scarlet Witch
+
+Green Goblin
+
+Electro
+
+Sandman
+
+Sand
+
+Professor X
+
+Winter Soldier
+
+Killmonger
+type: Legendary Creature — Human Mercenary Villain => Legendary Creature — Human Villain
+
+Thing
+
+Nightmare
+
+Khonshu, God of the Moon
+
+Baron Mordo
+
+Ragnarok
+
+Days of Future Past
+cost: {3}{U}{U} => {2}{U}{U}
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Return all nonland permanents with mana value 2 or less to their owner's hands.
+[i][/i]Draw two cards, then discard two cards.[i][/i]
+Exile this Saga. When you do, take an extra turn after this one. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 2/2 colorless Robot artifact creature token.
+Shuffle your hand and graveyard into your library, then draw seven cards.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Return all nonland permanents with mana value 2 or less to their owner's hands.
+[i][/i]Draw two cards, then discard two cards.[i][/i]
+Exile this Saga. When you do, take an extra turn after this one. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 2/2 colorless Robot artifact creature token.
+Shuffle your hand and graveyard into your library, then draw seven cards.
+​
+
+Precognition
+
+Vigorous Research
+rules_text: Surveil 2, then draw a card. If this spell wasn't cast from your hand, create a tapped 2/2 colorless Robot artifact creature token. [i](To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+Flashback {4}{U} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Surveil 2, then draw a card. If this spell wasn't cast from your hand, create a tapped 2/2 colorless Robot artifact creature token.
+Flashback {4}{U} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Mister Fantastic
+
+Age of Ultron
+
+Human Torch
+
+Academy Training
+
+Ghost-Spider
+pt: 3/3 => 3/2
+
+Start Your Engines!
+
+Absolute Zero
+rules_text: Choose one—
+• Counter target spell unless its controller pays {2}.
+• Tap target nonland permanent and put two stun counters on it. For as long as that permanent remains tapped, its activated abilities can't be activated. => Choose one —
+• Counter target spell unless its controller pays {2}.
+• Tap target nonland permanent and put two stun counters on it. For as long as that permanent remains tapped, its activated abilities can't be activated.
+
+Captain America
+cost: {3}{W} => {2}{W}
+rules_text: Vigilance, reach
+Whenever Captain America attacks, put a +1/+1 counter on each attacking creature you control. => Vigilance
+Captain America enters with a shield counter on him. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+Other Heroes you control get +1/+1.
+
+Storm
+cost: {2}{R}{R} => {1}{UR}{UR}
+rules_text: Flash
+Flying
+When Storm enters, if you cast her, copy target instant or sorcery spell twice. You may choose new targets for the copies. => Flying
+Whenever Storm deals combat damage to a player, look at the top three cards of your library. You may exile a noncreature, nonland card from among them. Put the rest on the bottom of your library in a random order. You may play the exiled card until end of turn.
+pt: 3/2 => 3/1
+
+Beast
+cost: {2}{GU}{GU} => {2}{G}{U}
+rules_text: Beast can't be blocked by creatures with lesser power.
+Whenever you cast a creature spell, put a +1/+1 counter on Beast. If that spell was a Mutant, draw a card. => Trample
+When Beast enters, choose up to one —
+• Return another target creature to its owner's hand.
+• Return target card in a graveyard to its owner's hand.
+
+Doctor Strange
+rules_text: Flying, prowess
+Once each turn, when you cast an instant, sorcery, or enchantment spell, you may copy that spell. You may choose new targets for the copy. [i](A copy of a permanent spell becomes a token.)[/i] => Flying
+When Doctor Strange enters, you gain 2 life and you draw a card.
+
+Fastball Special
+cost: {1}{R} => {R}{G}
+rules_text: Choose one —
+• Fastball Special deals 3 damage to any target.
+• Sacrifice a creature. When you do, Fastball Special deals damage equal to the sacrificed creature's power to any target. => Choose one or two target creatures you control. They each deal damage equal to their power to target creature or planeswalker an opponent controls.
+
+Nick Fury
+cost: {3}{W}{W} => {2}{W}{W}
+rules_text: During your turn, Nick Fury has first strike.
+Whenever you attack, create a 1/1 white Soldier creature token that's tapped and attacking, then put a +1/+1 counter on an attacking creature you control. => Backup 2 [i](When this creature enters, put two +1/+1 counters on target creature. If that's another creature, it gains the following abilities until end of turn.)[/i]
+Whenever this creature attacks, create two 1/1 white Soldier creature tokens that are tapped and attacking.
+pt: 3/3 => 2/2
+
+Ant-Man
+cost: {G}{U} => {U}
+rules_text: Whenever Ant-Man enters, create a 1/1 green Insect creature token with flying.
+{X}{GU}: Until end of turn, target creature you control has base power and toughness X/X. Activate only as a sorcery. => Ant-Man can't be blocked.
+Exhaust — {4}{U}{U}: Put four +1/+1 counters on Ant-Man. Create two 1/1 green Insect creature tokens with flying. [i](Activate each exhaust ability only once.)[/i]
+pt: 1/2 => 1/1
+
+SPDR
+
+All Gods Must Die
+cost: {2}{W}{W} => {2}{W}{B}
+
+Black Panther
+cost: {1}{G}{G} => {2}{G}{G}
+rules_text: When Black Panther enters, return up to one target land card and up to one target creature card from your graveyard to your hand. => Whenever a land you control enters, create a 2/2 green Cat creature token.
+pt: 2/2 => 4/4
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Psychic Knife added.
