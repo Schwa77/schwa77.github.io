@@ -1,4 +1,44 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Boneyard Rattler added.
+
+Boneyard Haunt removed.
+
+Village Procession
+rules_text: Put a +1/+1 counter on each creature you control.
+Equinox—Tap three untapped white creatures you control. [i](If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)[/i] => Put a +1/+1 counter on each creature you control.
+Equinox—{W}, Tap three untapped white creatures you control. [i](If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)[/i]
+
+Worldsong Conductor
+rules_text: {1}{W}, {T}, Sacrifice an enchantment: Return target enchantment card from your graveyard to the battlefield with a finality counter on it. Activate only as a sorcery. [i](If a permanent with a finality counter on it would be put into a graveyard from the battlefield, exile it instead.)[/i] => {2}{W}, {T}, Sacrifice an enchantment: Return target enchantment card from your graveyard to the battlefield with a finality counter on it. Activate only as a sorcery. [i](If a permanent with a finality counter on it would be put into a graveyard from the battlefield, exile it instead.)[/i]
+
+Sleepwalk
+
+Flayed Hellkite
+
+Bramblefiend
+pt: 4/2 => 4/3
+
+Melancholy
+
+Terran, Witch Killer
+rules_text: Protection from instants, sorceries, and Warlocks [i](This creature can't be blocked, targeted or dealt damage by instants, sorceries, and Warlocks.)[/i]
+Whenever an opponent casts a noncreature spell, they lose X life and you gain X life, where X is the number of noncreature spells they've cast this turn. => Protection from Wizards and from Warlocks [i](This creature can't be blocked, targeted or dealt damage by Wizards or Warlocks.)[/i]
+Whenever an opponent casts a noncreature spell, they lose X life and you gain X life, where X is the number of noncreature spells they've cast this turn.
+
+Ulderwild Haunt
+cost: {2}{U} => {1}{U}
+rules_text: Flash
+Flying
+Whenever you cast a spell with flash or flying, draw a card, then discard a card.
+Other creatures you control with flash or flying get +1/+1. => Flash
+Flying
+Whenever you cast a spell with flash or flying, draw a card, then discard a card.
+pt: 2/2 => 2/1
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Graveborn Bloom added.
