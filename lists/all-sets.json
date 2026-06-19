@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "CAL",
+            "set_name": "Theros: Tales of the Callapheia",
+            "formats": ""
+        },
+        {
             "set_code": "GS2",
             "set_name": "Global Series 2",
             "formats": ""
