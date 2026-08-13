@@ -201,7 +201,9 @@
 				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
 			</div>
 			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
-			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a id="header-articles-link" onclick="window.location.href = rootPath + '/all-articles'" style="display: none;"><img id="header-articles" class="sg-icon">Articles</a>
+			<a id="header-decks-link" onclick="window.location.href = rootPath + '/decks'" style="display: none;"><img id="header-decks" class="sg-icon">Decks</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deckbuilder" class="sg-icon">Deckbuilder</a>
 			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
 		</div>
 	</div>
@@ -210,8 +212,22 @@
 			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
 			document.getElementById("header-search").src = rootPath + "/img/search.png";
 			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
-			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-articles").src = rootPath + "/img/articles.png";
+			document.getElementById("header-decks").src = rootPath + "/img/deck.png";
+			document.getElementById("header-deckbuilder").src = rootPath + "/img/deckbuilder.png";
 			document.getElementById("header-random").src = rootPath + "/img/random.png";
+
+			// Hide Articles if none exist
+			fetch(rootPath + '/all-articles.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-articles-link').style.display = 'flex';
+				}).catch(() => {});
+
+			// Hide Decks if none exist
+			fetch(rootPath + '/decks.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-decks-link').style.display = 'flex';
+				}).catch(() => {});
 		});
 
 		function goToSearch() {
@@ -247,151 +263,141 @@
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img loading="lazy" alt="sets\CAL-files\img\108.png" id="CAL_108" data-flag="@X" onclick="openSidebar('CAL_108',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\62.png" id="CAL_62" data-flag="@X" onclick="openSidebar('CAL_62',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\92.png" id="CAL_92" data-flag="@X" onclick="openSidebar('CAL_92',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\66.png" id="CAL_66" data-flag="@X" onclick="openSidebar('CAL_66',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\45.png" id="CAL_45" data-flag="@X" onclick="openSidebar('CAL_45',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\96.png" id="CAL_96" data-flag="@X" onclick="openSidebar('CAL_96',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\55.png" id="CAL_55" data-flag="@X" onclick="openSidebar('CAL_55',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\91.png" id="CAL_91" data-flag="@X" onclick="openSidebar('CAL_91',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\77.png" id="CAL_77" data-flag="@X" onclick="openSidebar('CAL_77',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\44.png" id="CAL_44" data-flag="@X" onclick="openSidebar('CAL_44',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\106.png" id="CAL_106" data-flag="@X" onclick="openSidebar('CAL_106',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\49.png" id="CAL_49" data-flag="@X" onclick="openSidebar('CAL_49',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\79.png" id="CAL_79" data-flag="@X" onclick="openSidebar('CAL_79',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\67.png" id="CAL_67" data-flag="@X" onclick="openSidebar('CAL_67',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\43.png" id="CAL_43" data-flag="@X" onclick="openSidebar('CAL_43',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\104.png" id="CAL_104" data-flag="@X" onclick="openSidebar('CAL_104',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\50.png" id="CAL_50" data-flag="@X" onclick="openSidebar('CAL_50',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\81.png" id="CAL_81" data-flag="@X" onclick="openSidebar('CAL_81',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\69.png" id="CAL_69" data-flag="@X" onclick="openSidebar('CAL_69',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\41.png" id="CAL_41" data-flag="@X" onclick="openSidebar('CAL_41',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\100.png" id="CAL_100" data-flag="@X" onclick="openSidebar('CAL_100',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\53.png" id="CAL_53" data-flag="@X" onclick="openSidebar('CAL_53',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\83.png" id="CAL_83" data-flag="@X" onclick="openSidebar('CAL_83',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\70.png" id="CAL_70" data-flag="@X" onclick="openSidebar('CAL_70',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\42.png" id="CAL_42" data-flag="@X" onclick="openSidebar('CAL_42',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\99.png" id="CAL_99" data-flag="@X" onclick="openSidebar('CAL_99',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\52.png" id="CAL_52" data-flag="@X" onclick="openSidebar('CAL_52',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\87.png" id="CAL_87" data-flag="@X" onclick="openSidebar('CAL_87',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\73.png" id="CAL_73" data-flag="@X" onclick="openSidebar('CAL_73',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\34.png" id="CAL_34" data-flag="@X" onclick="openSidebar('CAL_34',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\97.png" id="CAL_97" data-flag="@X" onclick="openSidebar('CAL_97',false)"></div>
+					<div class="container"><img loading="lazy" alt="sets\CAL-files\img\43.png" id="CAL_43" data-flag="@X" onclick="openSidebar('CAL_43',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\54.png" id="CAL_54" data-flag="@X" onclick="openSidebar('CAL_54',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\93.png" id="CAL_93" data-flag="@X" onclick="openSidebar('CAL_93',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\62.png" id="CAL_62" data-flag="@X" onclick="openSidebar('CAL_62',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\72.png" id="CAL_72" data-flag="@X" onclick="openSidebar('CAL_72',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\35.png" id="CAL_35" data-flag="@X" onclick="openSidebar('CAL_35',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\105.png" id="CAL_105" data-flag="@X" onclick="openSidebar('CAL_105',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\48.png" id="CAL_48" data-flag="@X" onclick="openSidebar('CAL_48',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\85.png" id="CAL_85" data-flag="@X" onclick="openSidebar('CAL_85',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\71.png" id="CAL_71" data-flag="@X" onclick="openSidebar('CAL_71',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\36.png" id="CAL_36" data-flag="@X" onclick="openSidebar('CAL_36',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\102.png" id="CAL_102" data-flag="@X" onclick="openSidebar('CAL_102',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\57.png" id="CAL_57" data-flag="@X" onclick="openSidebar('CAL_57',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\88.png" id="CAL_88" data-flag="@X" onclick="openSidebar('CAL_88',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\33.png" id="CAL_33" data-flag="@X" onclick="openSidebar('CAL_33',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\40.png" id="CAL_40" data-flag="@X" onclick="openSidebar('CAL_40',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\101.png" id="CAL_101" data-flag="@X" onclick="openSidebar('CAL_101',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\56.png" id="CAL_56" data-flag="@X" onclick="openSidebar('CAL_56',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\90.png" id="CAL_90" data-flag="@X" onclick="openSidebar('CAL_90',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\74.png" id="CAL_74" data-flag="@X" onclick="openSidebar('CAL_74',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\32.png" id="CAL_32" data-flag="@X" onclick="openSidebar('CAL_32',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\98.png" id="CAL_98" data-flag="@X" onclick="openSidebar('CAL_98',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\58.png" id="CAL_58" data-flag="@X" onclick="openSidebar('CAL_58',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\89.png" id="CAL_89" data-flag="@X" onclick="openSidebar('CAL_89',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\75.png" id="CAL_75" data-flag="@X" onclick="openSidebar('CAL_75',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\37.png" id="CAL_37" data-flag="@X" onclick="openSidebar('CAL_37',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\94.png" id="CAL_94" data-flag="@X" onclick="openSidebar('CAL_94',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\59.png" id="CAL_59" data-flag="@X" onclick="openSidebar('CAL_59',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\84.png" id="CAL_84" data-flag="@X" onclick="openSidebar('CAL_84',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\76.png" id="CAL_76" data-flag="@X" onclick="openSidebar('CAL_76',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\38.png" id="CAL_38" data-flag="@X" onclick="openSidebar('CAL_38',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\107.png" id="CAL_107" data-flag="@X" onclick="openSidebar('CAL_107',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\60.png" id="CAL_60" data-flag="@X" onclick="openSidebar('CAL_60',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\86.png" id="CAL_86" data-flag="@X" onclick="openSidebar('CAL_86',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\68.png" id="CAL_68" data-flag="@X" onclick="openSidebar('CAL_68',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\39.png" id="CAL_39" data-flag="@X" onclick="openSidebar('CAL_39',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\95.png" id="CAL_95" data-flag="@X" onclick="openSidebar('CAL_95',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\51.png" id="CAL_51" data-flag="@X" onclick="openSidebar('CAL_51',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\80.png" id="CAL_80" data-flag="@X" onclick="openSidebar('CAL_80',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\65.png" id="CAL_65" data-flag="@X" onclick="openSidebar('CAL_65',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\46.png" id="CAL_46" data-flag="@X" onclick="openSidebar('CAL_46',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\103.png" id="CAL_103" data-flag="@X" onclick="openSidebar('CAL_103',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\61.png" id="CAL_61" data-flag="@X" onclick="openSidebar('CAL_61',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\81.png" id="CAL_81" data-flag="@X" onclick="openSidebar('CAL_81',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\44.png" id="CAL_44" data-flag="@X" onclick="openSidebar('CAL_44',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\55.png" id="CAL_55" data-flag="@X" onclick="openSidebar('CAL_55',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\63.png" id="CAL_63" data-flag="@X" onclick="openSidebar('CAL_63',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\73.png" id="CAL_73" data-flag="@X" onclick="openSidebar('CAL_73',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\82.png" id="CAL_82" data-flag="@X" onclick="openSidebar('CAL_82',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\45.png" id="CAL_45" data-flag="@X" onclick="openSidebar('CAL_45',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\56.png" id="CAL_56" data-flag="@X" onclick="openSidebar('CAL_56',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\64.png" id="CAL_64" data-flag="@X" onclick="openSidebar('CAL_64',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\74.png" id="CAL_74" data-flag="@X" onclick="openSidebar('CAL_74',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\83.png" id="CAL_83" data-flag="@X" onclick="openSidebar('CAL_83',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\46.png" id="CAL_46" data-flag="@X" onclick="openSidebar('CAL_46',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\57.png" id="CAL_57" data-flag="@X" onclick="openSidebar('CAL_57',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\65.png" id="CAL_65" data-flag="@X" onclick="openSidebar('CAL_65',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\75.png" id="CAL_75" data-flag="@X" onclick="openSidebar('CAL_75',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\86.png" id="CAL_86" data-flag="@X" onclick="openSidebar('CAL_86',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\51.png" id="CAL_51" data-flag="@X" onclick="openSidebar('CAL_51',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\58.png" id="CAL_58" data-flag="@X" onclick="openSidebar('CAL_58',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\66.png" id="CAL_66" data-flag="@X" onclick="openSidebar('CAL_66',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\76.png" id="CAL_76" data-flag="@X" onclick="openSidebar('CAL_76',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\84.png" id="CAL_84" data-flag="@X" onclick="openSidebar('CAL_84',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\48.png" id="CAL_48" data-flag="@X" onclick="openSidebar('CAL_48',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\59.png" id="CAL_59" data-flag="@X" onclick="openSidebar('CAL_59',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\67.png" id="CAL_67" data-flag="@X" onclick="openSidebar('CAL_67',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\77.png" id="CAL_77" data-flag="@X" onclick="openSidebar('CAL_77',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\85.png" id="CAL_85" data-flag="@X" onclick="openSidebar('CAL_85',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\49.png" id="CAL_49" data-flag="@X" onclick="openSidebar('CAL_49',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\60.png" id="CAL_60" data-flag="@X" onclick="openSidebar('CAL_60',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\68.png" id="CAL_68" data-flag="@X" onclick="openSidebar('CAL_68',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\78.png" id="CAL_78" data-flag="@X" onclick="openSidebar('CAL_78',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\87.png" id="CAL_87" data-flag="@X" onclick="openSidebar('CAL_87',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\50.png" id="CAL_50" data-flag="@X" onclick="openSidebar('CAL_50',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\61.png" id="CAL_61" data-flag="@X" onclick="openSidebar('CAL_61',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\69.png" id="CAL_69" data-flag="@X" onclick="openSidebar('CAL_69',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\79.png" id="CAL_79" data-flag="@X" onclick="openSidebar('CAL_79',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\88.png" id="CAL_88" data-flag="@X" onclick="openSidebar('CAL_88',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\47.png" id="CAL_47" data-flag="@X" onclick="openSidebar('CAL_47',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CAL_e" data-flag="@E" onclick="openSidebar('CAL_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\70.png" id="CAL_70" data-flag="@X" onclick="openSidebar('CAL_70',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\80.png" id="CAL_80" data-flag="@X" onclick="openSidebar('CAL_80',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\89.png" id="CAL_89" data-flag="@X" onclick="openSidebar('CAL_89',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\52.png" id="CAL_52" data-flag="@X" onclick="openSidebar('CAL_52',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CAL_e" data-flag="@E" onclick="openSidebar('CAL_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\71.png" id="CAL_71" data-flag="@X" onclick="openSidebar('CAL_71',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CAL_e" data-flag="@E" onclick="openSidebar('CAL_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\90.png" id="CAL_90" data-flag="@X" onclick="openSidebar('CAL_90',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\53.png" id="CAL_53" data-flag="@X" onclick="openSidebar('CAL_53',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CAL_e" data-flag="@E" onclick="openSidebar('CAL_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CAL_e" data-flag="@E" onclick="openSidebar('CAL_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CAL_e" data-flag="@E" onclick="openSidebar('CAL_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\91.png" id="CAL_91" data-flag="@X" onclick="openSidebar('CAL_91',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="CAL_er" data-flag="@E" onclick="openSidebar('CAL_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="CAL_er" data-flag="@E" onclick="openSidebar('CAL_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="CAL_er" data-flag="@E" onclick="openSidebar('CAL_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="CAL_er" data-flag="@E" onclick="openSidebar('CAL_er',false)"></div>
 				<div id="gold" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\10.png" id="CAL_10" data-flag="@X" onclick="openSidebar('CAL_10',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\11.png" id="CAL_11" data-flag="@X" onclick="openSidebar('CAL_11',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\12.png" id="CAL_12" data-flag="@X" onclick="openSidebar('CAL_12',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\3.png" id="CAL_3" data-flag="@X" onclick="openSidebar('CAL_3',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\14.png" id="CAL_14" data-flag="@X" onclick="openSidebar('CAL_14',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\0.png" id="CAL_0" data-flag="@X" onclick="openSidebar('CAL_0',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\1.png" id="CAL_1" data-flag="@X" onclick="openSidebar('CAL_1',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\2.png" id="CAL_2" data-flag="@X" onclick="openSidebar('CAL_2',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\13.png" id="CAL_13" data-flag="@X" onclick="openSidebar('CAL_13',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\4.png" id="CAL_4" data-flag="@X" onclick="openSidebar('CAL_4',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="CAL_er" data-flag="@E" onclick="openSidebar('CAL_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="CAL_er" data-flag="@E" onclick="openSidebar('CAL_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="CAL_er" data-flag="@E" onclick="openSidebar('CAL_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="CAL_er" data-flag="@E" onclick="openSidebar('CAL_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="CAL_er" data-flag="@E" onclick="openSidebar('CAL_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\15.png" id="CAL_15" data-flag="@X" onclick="openSidebar('CAL_15',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\16.png" id="CAL_16" data-flag="@X" onclick="openSidebar('CAL_16',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\17.png" id="CAL_17" data-flag="@X" onclick="openSidebar('CAL_17',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\8.png" id="CAL_8" data-flag="@X" onclick="openSidebar('CAL_8',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\19.png" id="CAL_19" data-flag="@X" onclick="openSidebar('CAL_19',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\5.png" id="CAL_5" data-flag="@X" onclick="openSidebar('CAL_5',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\6.png" id="CAL_6" data-flag="@X" onclick="openSidebar('CAL_6',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\38.png" id="CAL_38" data-flag="@X" onclick="openSidebar('CAL_38',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\7.png" id="CAL_7" data-flag="@X" onclick="openSidebar('CAL_7',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\18.png" id="CAL_18" data-flag="@X" onclick="openSidebar('CAL_18',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\42.png" id="CAL_42" data-flag="@X" onclick="openSidebar('CAL_42',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\1.png" id="CAL_1" data-flag="@X" onclick="openSidebar('CAL_1',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\39.png" id="CAL_39" data-flag="@X" onclick="openSidebar('CAL_39',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\37.png" id="CAL_37" data-flag="@X" onclick="openSidebar('CAL_37',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\0.png" id="CAL_0" data-flag="@X" onclick="openSidebar('CAL_0',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\34.png" id="CAL_34" data-flag="@X" onclick="openSidebar('CAL_34',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\8.png" id="CAL_8" data-flag="@X" onclick="openSidebar('CAL_8',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\40.png" id="CAL_40" data-flag="@X" onclick="openSidebar('CAL_40',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CAL_er" data-flag="@E" onclick="openSidebar('CAL_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CAL_er" data-flag="@E" onclick="openSidebar('CAL_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CAL_er" data-flag="@E" onclick="openSidebar('CAL_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CAL_er" data-flag="@E" onclick="openSidebar('CAL_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CAL_er" data-flag="@E" onclick="openSidebar('CAL_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\9.png" id="CAL_9" data-flag="@X" onclick="openSidebar('CAL_9',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\36.png" id="CAL_36" data-flag="@X" onclick="openSidebar('CAL_36',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\10.png" id="CAL_10" data-flag="@X" onclick="openSidebar('CAL_10',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\5.png" id="CAL_5" data-flag="@X" onclick="openSidebar('CAL_5',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\12.png" id="CAL_12" data-flag="@X" onclick="openSidebar('CAL_12',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\2.png" id="CAL_2" data-flag="@X" onclick="openSidebar('CAL_2',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\3.png" id="CAL_3" data-flag="@X" onclick="openSidebar('CAL_3',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\4.png" id="CAL_4" data-flag="@X" onclick="openSidebar('CAL_4',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\11.png" id="CAL_11" data-flag="@X" onclick="openSidebar('CAL_11',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\6.png" id="CAL_6" data-flag="@X" onclick="openSidebar('CAL_6',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CAL_e" data-flag="@E" onclick="openSidebar('CAL_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\35.png" id="CAL_35" data-flag="@X" onclick="openSidebar('CAL_35',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CAL_e" data-flag="@E" onclick="openSidebar('CAL_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CAL_e" data-flag="@E" onclick="openSidebar('CAL_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CAL_e" data-flag="@E" onclick="openSidebar('CAL_e',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="CAL_er" data-flag="@E" onclick="openSidebar('CAL_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="CAL_er" data-flag="@E" onclick="openSidebar('CAL_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="CAL_er" data-flag="@E" onclick="openSidebar('CAL_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="CAL_er" data-flag="@E" onclick="openSidebar('CAL_er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\114.png" id="CAL_114" data-flag="@X" onclick="openSidebar('CAL_114',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\110.png" id="CAL_110" data-flag="@X" onclick="openSidebar('CAL_110',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\111.png" id="CAL_111" data-flag="@X" onclick="openSidebar('CAL_111',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\112.png" id="CAL_112" data-flag="@X" onclick="openSidebar('CAL_112',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\113.png" id="CAL_113" data-flag="@X" onclick="openSidebar('CAL_113',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\109.png" id="CAL_109" data-flag="@X" onclick="openSidebar('CAL_109',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\e.png" id="CAL_e" data-flag="@E" onclick="openSidebar('CAL_e',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\e.png" id="CAL_e" data-flag="@E" onclick="openSidebar('CAL_e',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\e.png" id="CAL_e" data-flag="@E" onclick="openSidebar('CAL_e',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\e.png" id="CAL_e" data-flag="@E" onclick="openSidebar('CAL_e',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="CAL_er" data-flag="@E" onclick="openSidebar('CAL_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="CAL_er" data-flag="@E" onclick="openSidebar('CAL_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="CAL_er" data-flag="@E" onclick="openSidebar('CAL_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="CAL_er" data-flag="@E" onclick="openSidebar('CAL_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="CAL_er" data-flag="@E" onclick="openSidebar('CAL_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\26.png" id="CAL_26" data-flag="@X" onclick="openSidebar('CAL_26',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\27.png" id="CAL_27" data-flag="@X" onclick="openSidebar('CAL_27',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\32.png" id="CAL_32" data-flag="@X" onclick="openSidebar('CAL_32',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\28.png" id="CAL_28" data-flag="@X" onclick="openSidebar('CAL_28',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\29.png" id="CAL_29" data-flag="@X" onclick="openSidebar('CAL_29',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\30.png" id="CAL_30" data-flag="@X" onclick="openSidebar('CAL_30',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\31.png" id="CAL_31" data-flag="@X" onclick="openSidebar('CAL_31',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\27.png" id="CAL_27" data-flag="@X" onclick="openSidebar('CAL_27',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CAL_e" data-flag="@E" onclick="openSidebar('CAL_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CAL_e" data-flag="@E" onclick="openSidebar('CAL_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CAL_e" data-flag="@E" onclick="openSidebar('CAL_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CAL_e" data-flag="@E" onclick="openSidebar('CAL_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CAL_er" data-flag="@E" onclick="openSidebar('CAL_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CAL_er" data-flag="@E" onclick="openSidebar('CAL_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CAL_er" data-flag="@E" onclick="openSidebar('CAL_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CAL_er" data-flag="@E" onclick="openSidebar('CAL_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CAL_er" data-flag="@E" onclick="openSidebar('CAL_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\19.png" id="CAL_19" data-flag="@X" onclick="openSidebar('CAL_19',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\20.png" id="CAL_20" data-flag="@X" onclick="openSidebar('CAL_20',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\21.png" id="CAL_21" data-flag="@X" onclick="openSidebar('CAL_21',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\22.png" id="CAL_22" data-flag="@X" onclick="openSidebar('CAL_22',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\23.png" id="CAL_23" data-flag="@X" onclick="openSidebar('CAL_23',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="CAL_er" data-flag="@E" onclick="openSidebar('CAL_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="CAL_er" data-flag="@E" onclick="openSidebar('CAL_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="CAL_er" data-flag="@E" onclick="openSidebar('CAL_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="CAL_er" data-flag="@E" onclick="openSidebar('CAL_er',false)"></div>
 				<div id="token" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\20.png" id="CAL_20" data-flag="@X" onclick="openSidebar('CAL_20',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\13.png" id="CAL_13" data-flag="@X" onclick="openSidebar('CAL_13',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\18.png" id="CAL_18" data-flag="@X" onclick="openSidebar('CAL_18',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\26.png" id="CAL_26" data-flag="@X" onclick="openSidebar('CAL_26',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\33.png" id="CAL_33" data-flag="@X" onclick="openSidebar('CAL_33',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\16.png" id="CAL_16" data-flag="@X" onclick="openSidebar('CAL_16',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\17.png" id="CAL_17" data-flag="@X" onclick="openSidebar('CAL_17',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\41.png" id="CAL_41" data-flag="@X" onclick="openSidebar('CAL_41',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\15.png" id="CAL_15" data-flag="@X" onclick="openSidebar('CAL_15',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\14.png" id="CAL_14" data-flag="@X" onclick="openSidebar('CAL_14',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\25.png" id="CAL_25" data-flag="@X" onclick="openSidebar('CAL_25',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\78.png" id="CAL_78" data-flag="@X" onclick="openSidebar('CAL_78',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\115.png" id="CAL_115" data-flag="@X" onclick="openSidebar('CAL_115',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\23.png" id="CAL_23" data-flag="@X" onclick="openSidebar('CAL_23',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\24.png" id="CAL_24" data-flag="@X" onclick="openSidebar('CAL_24',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\22.png" id="CAL_22" data-flag="@X" onclick="openSidebar('CAL_22',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\21.png" id="CAL_21" data-flag="@X" onclick="openSidebar('CAL_21',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\63.png" id="CAL_63" data-flag="@X" onclick="openSidebar('CAL_63',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\CAL-files\img\31.png" id="CAL_31" data-flag="@X" onclick="openSidebar('CAL_31',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CAL_e" data-flag="@E" onclick="openSidebar('CAL_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CAL_e" data-flag="@E" onclick="openSidebar('CAL_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CAL_e" data-flag="@E" onclick="openSidebar('CAL_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CAL_e" data-flag="@E" onclick="openSidebar('CAL_e',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="CAL_er" data-flag="@E" onclick="openSidebar('CAL_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="CAL_er" data-flag="@E" onclick="openSidebar('CAL_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="CAL_er" data-flag="@E" onclick="openSidebar('CAL_er',false)"></div>
@@ -433,7 +439,7 @@
 					if (card.notes) {
 						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
 						for (const match of tagMatches) {
-							all_tags.add(match[1]);
+							all_tags.add(match[1].toLowerCase());
 						}
 					}
 				});

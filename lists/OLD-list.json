@@ -1876,7 +1876,7 @@
         "number": 239,
         "shape": "fuse split",
         "set": "OLD",
-        "rotated": false,
+        "rotated": true,
         "position": ""
     },
     {

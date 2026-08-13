@@ -48,8 +48,8 @@
         "position": ""
     },
     {
-        "card_name": "UU01 Augur of Bolas",
-        "number": 33,
+        "card_name": "Jin-Gitaxias, Excisor of Truth",
+        "number": 32,
         "shape": "normal",
         "set": "MMW",
         "rotated": false,
@@ -88,8 +88,8 @@
         "position": ""
     },
     {
-        "card_name": "UU03 Rootwater Cutthroat",
-        "number": 34,
+        "card_name": "UU01 Augur of Bolas",
+        "number": 33,
         "shape": "normal",
         "set": "MMW",
         "rotated": false,
@@ -128,8 +128,8 @@
         "position": ""
     },
     {
-        "card_name": "UU04 rainbow man",
-        "number": 35,
+        "card_name": "UU03 Rootwater Cutthroat",
+        "number": 34,
         "shape": "normal",
         "set": "MMW",
         "rotated": false,
@@ -168,8 +168,8 @@
         "position": ""
     },
     {
-        "card_name": "UU05 Meletis Trickster",
-        "number": 36,
+        "card_name": "UU04 rainbow man",
+        "number": 35,
         "shape": "normal",
         "set": "MMW",
         "rotated": false,
@@ -208,8 +208,8 @@
         "position": ""
     },
     {
-        "card_name": "UU07 Call the Tempest",
-        "number": 37,
+        "card_name": "UU05 Meletis Trickster",
+        "number": 36,
         "shape": "normal",
         "set": "MMW",
         "rotated": false,
@@ -248,8 +248,8 @@
         "position": ""
     },
     {
-        "card_name": "UU08 Luxa Shipbreaker",
-        "number": 38,
+        "card_name": "UU07 Call the Tempest",
+        "number": 37,
         "shape": "normal",
         "set": "MMW",
         "rotated": false,
@@ -288,8 +288,8 @@
         "position": ""
     },
     {
-        "card_name": "UU09 Twisted Teachings",
-        "number": 39,
+        "card_name": "UU08 Luxa Shipbreaker",
+        "number": 38,
         "shape": "normal",
         "set": "MMW",
         "rotated": false,
@@ -328,8 +328,8 @@
         "position": ""
     },
     {
-        "card_name": "UU10 Immortal Sun's Binding",
-        "number": 40,
+        "card_name": "UU09 Twisted Teachings",
+        "number": 39,
         "shape": "normal",
         "set": "MMW",
         "rotated": false,
@@ -368,8 +368,8 @@
         "position": ""
     },
     {
-        "card_name": "UU11 Masterful Mischief",
-        "number": 41,
+        "card_name": "UU10 Immortal Sun's Binding",
+        "number": 40,
         "shape": "normal",
         "set": "MMW",
         "rotated": false,
@@ -408,8 +408,8 @@
         "position": ""
     },
     {
-        "card_name": "UU12 Copycrook",
-        "number": 42,
+        "card_name": "UU11 Masterful Mischief",
+        "number": 41,
         "shape": "normal",
         "set": "MMW",
         "rotated": false,
@@ -448,8 +448,8 @@
         "position": ""
     },
     {
-        "card_name": "UU13 Thirst for Power",
-        "number": 43,
+        "card_name": "UU12 Copycrook",
+        "number": 42,
         "shape": "normal",
         "set": "MMW",
         "rotated": false,
@@ -488,8 +488,8 @@
         "position": ""
     },
     {
-        "card_name": "UU14 Convoluted Scheme",
-        "number": 44,
+        "card_name": "UU13 Thirst for Power",
+        "number": 43,
         "shape": "normal",
         "set": "MMW",
         "rotated": false,
@@ -528,8 +528,8 @@
         "position": ""
     },
     {
-        "card_name": "CU02 Screeching Phantom",
-        "number": 21,
+        "card_name": "UU14 Convoluted Scheme",
+        "number": 44,
         "shape": "normal",
         "set": "MMW",
         "rotated": false,
@@ -568,8 +568,8 @@
         "position": ""
     },
     {
-        "card_name": "CU03 prowess man",
-        "number": 22,
+        "card_name": "CU02 Screeching Phantom",
+        "number": 21,
         "shape": "normal",
         "set": "MMW",
         "rotated": false,
@@ -608,8 +608,8 @@
         "position": ""
     },
     {
-        "card_name": "CU04 Consulate Inspector",
-        "number": 23,
+        "card_name": "CU03 prowess man",
+        "number": 22,
         "shape": "normal",
         "set": "MMW",
         "rotated": false,
@@ -648,8 +648,8 @@
         "position": ""
     },
     {
-        "card_name": "CU05 Alleyway Geist",
-        "number": 24,
+        "card_name": "CU04 Consulate Inspector",
+        "number": 23,
         "shape": "normal",
         "set": "MMW",
         "rotated": false,
@@ -688,8 +688,8 @@
         "position": ""
     },
     {
-        "card_name": "CU06 Outcast Sphinx",
-        "number": 25,
+        "card_name": "CU05 Alleyway Geist",
+        "number": 24,
         "shape": "normal",
         "set": "MMW",
         "rotated": false,
@@ -723,8 +723,8 @@
         "position": ""
     },
     {
-        "card_name": "CU07 Cunning Gambit",
-        "number": 26,
+        "card_name": "CU06 Outcast Sphinx",
+        "number": 25,
         "shape": "normal",
         "set": "MMW",
         "rotated": false,
@@ -753,8 +753,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "CU08 All According to Plan",
-        "number": 27,
+        "card_name": "CU07 Cunning Gambit",
+        "number": 26,
         "shape": "normal",
         "set": "MMW",
         "rotated": false,
@@ -783,8 +783,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "CU09 Consider",
-        "number": 28,
+        "card_name": "CU08 All According to Plan",
+        "number": 27,
         "shape": "normal",
         "set": "MMW",
         "rotated": false,
@@ -808,8 +808,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "CU11 Whispers of the Moon",
-        "number": 29,
+        "card_name": "CU09 Consider",
+        "number": 28,
         "shape": "normal",
         "set": "MMW",
         "rotated": false,
@@ -833,8 +833,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "CU13 Freeze Over",
-        "number": 30,
+        "card_name": "CU11 Whispers of the Moon",
+        "number": 29,
         "shape": "normal",
         "set": "MMW",
         "rotated": false,
@@ -858,7 +858,12 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "CU13 Freeze Over",
+        "number": 30,
+        "shape": "normal",
+        "set": "MMW",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "CB11 Grasp of the Ebon Hand",

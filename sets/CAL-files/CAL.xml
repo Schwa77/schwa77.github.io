@@ -1,0 +1,1615 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>CAL</name>
+			<longname>Theros: Tales of the Callapheia</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-08-12</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>UM02 Thoughtbreaker Sirens</name>
+			<text>Flying
+Threshold — When Thoughtbreaker Sirens enters, look at the top two cards of your library. Put one into your graveyard, then draw a card. Then if there are seven or more cards in your graveyard, create two 1/1 black Siren creature tokens with flying and &quot;This creature can&apos;t block.&quot;</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/CAL-files/img/0.png" num="61">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Siren</type>
+				<maintype>Creature</maintype>
+				<manacost>1U/BU/BU/B</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM04 Herald of Revelry</name>
+			<text>When Herald of Revelry enters, create a Gold token. (It&apos;s an artifact with &quot;Sacrifice this token: Add one mana of any color.&quot;)
+{3}{R}{G}: Until end of turn, target creature gets +2/+2 and must be blocked each combat if able. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/CAL-files/img/1.png" num="53">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Satyr Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM06 Nyxborn Valiant</name>
+			<text>Whenever you attack with three or more creatures, put a +1/+1 counter on target attacking creature. It gains indestructible until end of turn.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/CAL-files/img/2.png" num="65">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W/BW/BW/B</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM07 Siren Sea Pillager</name>
+			<text>Whenever Siren Sea Pillager attacks, target creature can&apos;t block this turn.
+Whenever two or more creatures you control deal damage to a player, you may discard a card. if you do, draw two cards.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/CAL-files/img/3.png" num="66">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>1U/RU/RU/R</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM08 Pharika&apos;s Fanatic</name>
+			<text>When Pharika&apos;s Fanatic enters, create an Altar token. (It&apos;s an artifact with &quot;{3}, {T}, Sacrifice this token: Create a 3/2 Demigod enchantment creature token that&apos;s all colors. Activate only as a sorcery.&quot;)
+Macabre — At the beginning of your end step, if you&apos;ve sacrificed a nonland permanent this turn, create a 1/1 black Snake creature token with deathtouch.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/CAL-files/img/4.png" num="68">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Gorgon</type>
+				<maintype>Creature</maintype>
+				<manacost>2B/GB/GB/G</manacost>
+				<cmc>5</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM09 Glory of Iroas</name>
+			<text>When Glory of Iroas enters, create a 2/2 white Pegasus creature token with flying. It gains haste until end of turn.
+Paired creatures you control get +1/+1.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/CAL-files/img/5.png" num="58">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM10 Triton Taleweaver</name>
+			<text>Whenever the final chapter ability of a Saga you control resolves, create a 2/2 blue Merfolk Knight enchantment creature token.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/CAL-files/img/6.png" num="70">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>G/UG/UG/U</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM02 Trapped in the Underworld</name>
+			<text>When Trapped in the Underworld enters, mill two cards. (Put the top two cards of your library into your graveyard.)
+Threshold — At the beginning of your end step, if there are seven or more cards in your graveyard, create a tapped 2/2 black Zombie creature token.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/CAL-files/img/7.png" num="51">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM04 Acropolis Leveler</name>
+			<text>Reach, trample
+Each creature you control that&apos;s a Cyclops or Giant has trample.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/CAL-files/img/8.png" num="63">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cyclops</type>
+				<maintype>Creature</maintype>
+				<manacost>3R/GR/GR/G</manacost>
+				<cmc>6</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM06 Monsoon Mutineers</name>
+			<text>Whenever another creature you control enters, put a +1/+1 counter on Monsoon Mutineers. Each opponent loses 1 life. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/CAL-files/img/9.png" num="55">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM08 Vengeful Phylaskia</name>
+			<text>Trample
+{2}{B}{G}, Exile two other cards from your graveyard: Return Vengeful Phylaskia from your graveyard to the battlefield tapped with a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/CAL-files/img/10.png" num="57">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM09 Sun-Blessed Hoplite</name>
+			<text>Legion (When this creature attacks, you may pair it with another unpaired attacker until end of turn. Paired creatures gain the following abilities.)
+During your turn, this creature has first strike.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/CAL-files/img/11.png" num="69">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>R/WR/WR/W</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM10 Seek Olantin&apos;s Ruins</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)
+You may put a land card from your hand onto the battlefield.
+II — Create a 2/2 blue Merfolk Knight enchantment creature token.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/CAL-files/img/12.png" num="59">CAL</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Theros: Tales of the Callapheia Archetypes CAL</name>
+			<text>{W}{U}: Go Wide with Storied
+{U}{B}: Threshold
+{B}{R}: Macabre Aggro
+{R}{G}: Giant + Cyclops Ramp
+{G}{W}: Enchantment Creature Typal
+{W}{B}: &quot;Attack with Three Creatures&quot;
+{U}{R}: Saboteurs
+{B}{G}: Macabre Slow Grind
+{R}{W}: Legion Paired Aggro
+{G}{U}: Sagas Ramp
+Legion {W}{B}{R} (When this creature attacks, you may pair it with another unpaired attacker until end of turn. Paired creatures gain the following abilities.)
+Altar tokens {G}{W}{U} (They&apos;re artifacts with &quot;{3}, {T}, Sacrifice this token: Create a 3/2 Demigod enchantment creature token that&apos;s all colors. Activate only as a sorcery.&quot;)
+Macabre — If you sacrificed a nonland permanent this turn... {B}{R}{G}
+Storied {W}{U} (Enchantments and legendary creatures are storied.)
+Sagas (You know what Sagas do)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/13.png" num="1">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Siren CAL</name>
+			<text>Flying
+This token can&apos;t block.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/14.png" num="6">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Siren</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Merfolk Knight CAL</name>
+			<text></text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/15.png" num="5">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Enchantment Creature — Merfolk Knight</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Human CAL</name>
+			<text></text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/16.png" num="2">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Human CAL</name>
+			<text></text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/17.png" num="3">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Demigod CAL</name>
+			<text></text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/18.png" num="9">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Enchantment Creature — Demigod</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/19.png" num="77">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/20.png" num="78">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/21.png" num="79">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/22.png" num="80">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/23.png" num="81">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Elemental CAL</name>
+			<text></text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/24.png" num="8">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Enchantment Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Zombie CAL</name>
+			<text></text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/25.png" num="7">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Altar CAL</name>
+			<text>{3}, {T}, Sacrifice this artifact: Create a 3/2 Demigod enchantment creature token that&apos;s all colors. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/26.png" num="10">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Altar</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>CA06 Ominous Pool</name>
+			<text>{2}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+{6}, {T}, Sacrifice Ominous Pool: Exile target creature or enchantment.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/27.png" num="76">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CA02 Anvilwrought Harrier</name>
+			<text>Flying
+When Anvilwrought Harrier enters, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/28.png" num="72">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CA03 Olantin Robokraken</name>
+			<text>Trample
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/29.png" num="73">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Kraken</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CA04 Champion&apos;s Statue</name>
+			<text>{T}: Add one mana of any color.
+{3}, {T}, Sacrifice Champion&apos;s Statue: Create a 3/2 Demigod enchantment creature token that&apos;s all colors. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/30.png" num="74">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Altar</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CA05 Traveler&apos;s Amulet</name>
+			<text>{1}, Sacrifice Traveler&apos;s Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/31.png" num="75">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CA01 Hoplite&apos;s Arsenal</name>
+			<text>When Hoplite&apos;s Arsenal enters, create a 1/1 white Human creature token and attach Hoplite&apos;s Arsenal to it.
+Equipped creature gets +1/+0.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/32.png" num="71">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gold CAL</name>
+			<text>Sacrifice this artifact: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/33.png" num="11">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Gold</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>UM03 Blade of Hetos</name>
+			<text>Legion (When this creature attacks, you may pair it with another unpaired attacker until end of turn. Paired creatures gain the following abilities.)
+Whenever this creature becomes blocked, it deals 2 damage to the player or planeswalker it&apos;s attacking.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/CAL-files/img/34.png" num="62">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Minotaur Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>B/RB/RB/R</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM07 Stormsight Oracle</name>
+			<text>During your turn, Stormsight Oracle has flying.
+Whenever you draw your second card each turn, put a +1/+1 counter on Stormsight Oracle.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/CAL-files/img/35.png" num="67">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U/RU/RU/R</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM07 Traveler&apos;s Blessing II</name>
+			<text>When Traveler&apos;s Blessing II enters, scry 1, then draw a card.
+{2}{U}{R}, Discard a card, Sacrifice Traveler&apos;s Blessing II: Scry 2, then draw two cards.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/CAL-files/img/36.png" num="56">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM01 Kadmos, Deft Navigator</name>
+			<text>Vigilance
+When Kadmos, Deft Navigator enters, create two Altar tokens. (They&apos;re artifacts with &quot;{3}, {T}, Sacrifice this token: Create a 3/2 Demigod enchantment creature token that&apos;s all colors. Activate only as a sorcery.&quot;)</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/CAL-files/img/37.png" num="60">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2W/UW/UW/U</manacost>
+				<cmc>5</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM01 Legally Registered Place of Worship</name>
+			<text>When Legally Registered Place of Worship enters, create an Altar token. (It&apos;s an artifact with &quot;{3}, {T}, Sacrifice this token: Create a 3/2 Demigod enchantment creature token that&apos;s all colors. Activate only as a sorcery.&quot;)
+Demigods you control have flying.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/CAL-files/img/38.png" num="50">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM05 Setessan Vitalists III</name>
+			<text>When Setessan Vitalists III enters, return target enchantment card from your graveyard to your hand.
+Whenever a storied permanent you control enters, put a +1/+1 counter on Setessan Vitalists III. (Enchantments and legendary creatures are storied.)</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/CAL-files/img/39.png" num="54">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM05 Some Legend</name>
+			<text>Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+Other storied permanents you control enter with a +1/+1 counter on them. (Enchantments and legendary creatures are storied.)</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/CAL-files/img/40.png" num="64">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>G/WG/WG/W</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Human CAL</name>
+			<text></text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/41.png" num="4">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>UM03 Iroan Contender</name>
+			<text>Whenever Iroan Contender deals combat damage to a player, exile the top card of your library. You may play that card until the end of your next turn.</text>
+			<set rarity="uncommon" picurl="https://schwa77.github.io/sets/CAL-files/img/42.png" num="52">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW01 Devoted Worshipper</name>
+			<text>When Devoted Worshipper enters, create an Altar token. (It&apos;s an artifact with &quot;{3}, {T}, Sacrifice this token: Create a 3/2 Demigod enchantment creature token that&apos;s all colors. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/43.png" num="1">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW02 Fake Vigilance</name>
+			<text>Legion (When this creature attacks, you may pair it with another unpaired attacker until end of turn. Paired creatures gain the following abilities.)
+At the beginning of your end step, untap this creature.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/44.png" num="2">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW03 Lagonna-Band Seeker</name>
+			<text>Whenever Lagonna-Band Seeker becomes paired with a creature, put a +1/+1 counter on Lagonna-Band Seeker.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/45.png" num="3">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Centaur Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW04 Mister Nyx Man</name>
+			<text>Whenever another creature or enchantment you control enters, you gain 1 life.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/46.png" num="4">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Nyx Man</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW09 Impassioned Champion</name>
+			<text>Lifelink
+Impassioned Champion has first strike as long as an Altar or Demigod entered under your control this turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/47.png" num="9">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW06 Extremely Loyal Pegasus</name>
+			<text>Legion (When this creature attacks, you may pair it with another unpaired attacker until end of turn. Paired creatures gain the following abilities.)
+Flying</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/48.png" num="6">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Pegasus</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW07 Therosian Redditors</name>
+			<text>Whenever a storied permanent you control enters, tap up to one target creature. (Enchantments and legendary creatures are storied.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/49.png" num="7">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW08 The White Common Saga</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Create two 2/2 white Cat creature tokens. (idk what fits Theros, I&apos;ll check when I&apos;m back next week.)
+II, III — Target creature you control gets +1/+1 and gains vigilance until end of turn.
+​
+Eeee</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/50.png" num="8">CAL</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW05 Big Cow</name>
+			<text>Whenever you attack with three or more creatures, put a +1/+1 counter on Big Cow.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/51.png" num="5">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Ox</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW10 Large Dutiful Flyer</name>
+			<text>Flying
+When Large Dutiful Flyer enters, create an Altar token. (It&apos;s an artifact with &quot;{3}, {T}, Sacrifice this token: Create a 3/2 Demigod enchantment creature token that&apos;s all colors. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/52.png" num="10">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier Archon Pegasus Horse Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW11 Gigagoat</name>
+			<text>When Gigagoat enters, creatures you control get +1/+1 until end of turn.
+Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/53.png" num="11">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Goat</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU01 Nyxborn Strix</name>
+			<text>Flying
+Whenever Nyxborn Strix attacks, if you control an Altar or Demigod, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/54.png" num="12">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU02 Floodweaver Triton</name>
+			<text>{T}: Add {U}. Spend this mana only to cast instant, sorcery, or enchantment spells, or to activate abilities of Altars.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/55.png" num="13">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU03 Olantean Cavalry</name>
+			<text>Vigilance
+Whenever you draw your second card each turn, put a +1/+1 counter on Olantean Cavalry.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/56.png" num="14">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU04 Big Blocker Man</name>
+			<text>{6}{U}: Draw two cards.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/57.png" num="15">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Big Wall</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU05 Sneaky Creeper</name>
+			<text>Sneaky Creeper can&apos;t be blocked as long as an Altar or Demigod entered under your control this turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/58.png" num="16">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU06 Not An Artifact Bird</name>
+			<text>Flying
+When Not An Artifact Bird enters, draw a card, then discard a card.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/59.png" num="17">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU07 Herald of Thassa</name>
+			<text>When Herald of Thassa enters, return up to one target creature to its owner&apos;s hand. If your devotion to blue is five or greater, instead that creature&apos;s owner puts it on their choice of the top or bottom of their library. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/60.png" num="18">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horse Fish</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU08 Big Islandcycler</name>
+			<text>Flying
+Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/61.png" num="19">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB01 Legally Not Infestation Sage</name>
+			<text>When Legally Not Infestation Sage dies, create a 1/1 black Siren creature token with &quot;This creature can&apos;t block.&quot;</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/62.png" num="20">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB02 Evil Cleric</name>
+			<text>When Evil Cleric enters, you mill two cards and you gain 2 life. (To mill two cards, put the top two cards of your library into your graveyard.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/63.png" num="21">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB03 Noxious Attacker</name>
+			<text>Legion (When this creature attacks, you may pair it with another unpaired attacker until end of turn. Paired creatures gain the following abilities.)
+Deathtouch</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/64.png" num="22">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Gorgon Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB04 Cerberus the Good Boy</name>
+			<text>Whenever you attack with three or more creatures, each opponent loses 2 life and you gain 2 life.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/65.png" num="23">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Dog Dog Dog</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB05 Siren of Sailor&apos;s Folly</name>
+			<text>Flying
+{3}, Sacrifice another creature or another enchantment: Draw a card.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/66.png" num="24">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Siren</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB06 Disciple A&apos;-Mogis</name>
+			<text>Whenever Disciple A&apos;-Mogis deals combat damage to a player, you lose 1 life and you draw a card.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/67.png" num="25">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Minotaur Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB07 Crypt Feaster</name>
+			<text>Menace (This creature can&apos;t be blocked except by two or more creatures.)
+Threshold — Whenever Crypt Feaster attacks, if there are seven or more cards in your graveyard, this creature gets +2/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/68.png" num="26">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB08 Ravenous Manticore</name>
+			<text>Deathtouch
+Ravenous Manticore enters with a +1/+1 counter on it if a creature died this turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/69.png" num="27">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Manticore</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB09 Lost Krakonos Guys</name>
+			<text>Legion (When this creature attacks, you may pair it with another unpaired attacker until end of turn. Paired creatures gain the following abilities.)
+Whenever this creature becomes blocked, defending player loses 2 life.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/70.png" num="28">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cat Centaur Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB10 Large Catoblepas</name>
+			<text>When this creature enters, target creature gains deathtouch and indestructible until end of turn.
+Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/71.png" num="29">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Ox Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR01 Not Goblin</name>
+			<text>Haste
+Whenever this creature becomes paired, it deals 1 damage to target player or planeswalker.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/72.png" num="30">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Not Goblin</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR02 Legion Duder</name>
+			<text>Legion (When this creature attacks, you may pair it with another unpaired attacker until end of turn. Paired creatures gain the following abilities.)
+{1}{R}: This creature gets +2/+0 until end of turn. Activate only once per turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/73.png" num="31">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR03 Irreverent Reveler</name>
+			<text>{T}: Add {R}.
+{4}{R}, {T}: Irreverent Reveler deals 2 damage to target player or planeswalker.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/74.png" num="32">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mana Dork</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR04 Gorehorn Gladiator</name>
+			<text>Whenever Gorehorn Gladiator attacks, you may discard a card. If you do, draw a card.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/75.png" num="33">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Minotaur Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR05 Granter of Swiftness</name>
+			<text>At the beginning of combat on your turn, target creature gains haste until end of turn.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/76.png" num="34">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Nymph</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR06 Sea Yarr Oh Six</name>
+			<text>When Sea Yarr Oh Six enters, create a Gold token. (It&apos;s an artifact with &quot;Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/77.png" num="35">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR07 Akroan Phalanx</name>
+			<text>Legion (When this creature attacks, you may pair it with another unpaired attacker until end of turn. Paired creatures gain the following abilities.)
+Menace (This creature can&apos;t be blocked except by two or more creatures.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/78.png" num="36">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR08 One-Eyed Hater</name>
+			<text>Reach
+{2}{R}, Sacrifice an artifact or land: Draw a card.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/79.png" num="37">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cyclops</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR09 Hungry Big Boy</name>
+			<text>Each other creature you control that&apos;s a Giant or Cyclops gets +1/+0.
+Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/80.png" num="38">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Cyclops</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG01 Druidic Dryad</name>
+			<text>{2}, Sacrifice Druidic Dryad: Search your library for a Forest card, reveal it, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/81.png" num="39">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Dryad Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG02 Repentant Wanderer</name>
+			<text>When Repentant Wanderer dies, create an Altar token. (It&apos;s an artifact with &quot;{3}, {T}, Sacrifice this token: Create a 3/2 Demigod enchantment creature token that&apos;s all colors. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/82.png" num="40">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG03 Wildwood Fleecemane</name>
+			<text>{T}: Add {G}.
+{T}: Add {G}{G}. Spend this mana only to cast a Cyclops or Giant creature spell.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/83.png" num="41">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Sheep</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG05 Reverent Reveler</name>
+			<text>When Reverent Reveler enters, look at the top four cards of your library. You may reveal a creature, land, or Saga card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/84.png" num="43">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Satyr Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG06 Pheres Band Youngin&apos;</name>
+			<text>When Pheres Band Youngin&apos; enters, create a 3/3 green Centaur creature token.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/85.png" num="44">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Centaur</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG04 Ambushing Nyx Cat</name>
+			<text>Flash (You may cast this spell any time you could cast an instant.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/86.png" num="42">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG07 Big Fella</name>
+			<text>At the beginning of your end step, if a creature died this turn, put a +1/+1 counter on Big Fella and untap it.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/87.png" num="45">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG08 Lurking Lion</name>
+			<text>Whenever Lurking Lion attacks, if a storied permanent entered under your control this turn, Lurking Lion gets +1/+1 until end of turn and must be blocked this combat if able. (Enchantments and legendary creatures are storied.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/88.png" num="46">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG09 Callaphe Finds a Cow</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Create a 4/4 green Ox creature token.
+II, III — Creatures you control gain trample until end of turn.
+​</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/89.png" num="47">CAL</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG10 Average Wembanyama</name>
+			<text>Ward {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)
+Average Wembanyama can&apos;t be blocked by more than one creature.</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/90.png" num="48">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>7/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG11 Forestcycler</name>
+			<text>When Forestcycler enters, create a 3/3 green Centaur creature token.
+Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://schwa77.github.io/sets/CAL-files/img/91.png" num="49">CAL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

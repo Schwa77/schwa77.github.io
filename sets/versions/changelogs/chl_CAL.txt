@@ -1,4 +1,248 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+UM07 Traveler's Blessing II added.
+UM01 Legally Registered Place of Worship added.
+UM05 Setessan Vitalists III added.
+UM05 Some Legend added.
+Human added.
+UM03 Iroan Contender added.
+CW01 Devoted Worshipper added.
+CW02 Fake Vigilance added.
+CW03 Lagonna-Band Seeker added.
+CW04 Mister Nyx Man added.
+CW09 Impassioned Champion added.
+CW06 Extremely Loyal Pegasus added.
+CW07 Therosian Redditors added.
+CW08 The White Common Saga added.
+CW05 Big Cow added.
+CW10 Large Dutiful Flyer added.
+CW11 Gigagoat added.
+CU02 Floodweaver Triton added.
+CU03 Olantean Cavalry added.
+CU04 Big Blocker Man added.
+CU05 Sneaky Creeper added.
+CU06 Not An Artifact Bird added.
+CU08 Big Islandcycler added.
+CB01 Legally Not Infestation Sage added.
+CB02 Evil Cleric added.
+CB03 Noxious Attacker added.
+CB04 Cerberus the Good Boy added.
+CB05 Siren of Sailor's Folly added.
+CB06 Disciple A'-Mogis added.
+CB07 Crypt Feaster added.
+CB08 Ravenous Manticore added.
+CB09 Lost Krakonos Guys added.
+CB10 Large Catoblepas added.
+CR01 Not Goblin added.
+CR02 Legion Duder added.
+CR03 Irreverent Reveler added.
+CR04 Gorehorn Gladiator added.
+CR05 Granter of Swiftness added.
+CR06 Sea Yarr Oh Six added.
+CR07 Akroan Phalanx added.
+CR08 One-Eyed Hater added.
+CR09 Hungry Big Boy added.
+CG01 Druidic Dryad added.
+CG02 Repentant Wanderer added.
+CG05 Reverent Reveler added.
+CG06 Pheres Band Youngin' added.
+CG04 Ambushing Nyx Cat added.
+CG07 Big Fella added.
+CG08 Lurking Lion added.
+CG09 Callaphe Finds a Cow added.
+CG10 Average Wembanyama added.
+CG11 Forestcycler added.
+
+UM05 Karametra's Stag removed.
+UM01 Meletian Starseer removed.
+UM03 Snarling Cerberus removed.
+UM05 Setessan Vitalists removed.
+CG10 Green Landcycler removed.
+CR09 Chainslinger Cyclops removed.
+CG06 (Conjured Chimera) removed.
+CG07 Kethaphos Warden removed.
+CG08 Crag Colossus removed.
+CG11 (Seaborne Trial) removed.
+CG12 Fade into Nyx removed.
+CG13 Strength of Nylea removed.
+CG09 (Colossal Ox) removed.
+CG04 Reverent Reveler removed.
+CG05 Oakheart Cultivator removed.
+CG02 Lurking Basilisk removed.
+CG01 Repentant Wanderer removed.
+CG14 Garden of Karametra removed.
+CG15 Nessian Premonition removed.
+CU08 Breaching Ophiotaur removed.
+CU03 Floodweaver Triton removed.
+CU04 Brinecrest Hippocamp removed.
+CU14 Swept by Storm removed.
+CU06 Siren of Sailor's Folly removed.
+CU05 Odunos Trickster removed.
+CU02 Siren Sea Mariner removed.
+CU10 Refute removed.
+CU09 (Protection Spell) removed.
+CU11 Opt removed.
+CU12 Thirst for Meaning removed.
+CU13 Carcinization removed.
+CU15 (Blue Common Saga) removed.
+CR15 Clobber removed.
+CR14 Flames of the Underworld removed.
+CR01 Akroan Sellsword removed.
+CR03 Impassioned Recruit removed.
+CR13 Audience Participation removed.
+CR04 Eidolon of Victory removed.
+CR05 (Reveling Satyr) removed.
+CR08 Dakra Isles Tyrant removed.
+CR07 Iroan Champion removed.
+CR06 (Sparkly Manticore) removed.
+CR10 Lightning Strike removed.
+CR11 Guided Strike removed.
+CR12 Divine Inspiration removed.
+CR02 (Legion Card) removed.
+CB03 Nyxborn Cerberus removed.
+CB14 kill everything to death removed.
+CB04 Shipcaller Siren removed.
+CB15 Final Vengeance removed.
+CB05 Confident Sell-Sword removed.
+CB12 Bark Dargain removed.
+CB08 Big Evil Returned removed.
+CB13 Unrelease From The Underworld removed.
+CB06 Very Evil Satyr removed.
+CB09 Big Catoblepas removed.
+CB11 Released from the Underworld removed.
+CB10 kill you to death removed.
+CB02 Doomed Dissenter removed.
+CB01 Arasta's Weaver removed.
+CB07 Kragma Gorehorn removed.
+CW12 nuke from orbit removed.
+CW14 Take Up The Aegis removed.
+CW02 Akroan Legionnaire removed.
+CW07 Even More Trusted Pegasus removed.
+CW11 Obligatory Plainscycler removed.
+CW06 the white common saga removed.
+CW05 Therosian Redditors removed.
+CW10 Mister Griffin removed.
+CW09 Different Nyxborn removed.
+CW15 Kill Cyclops or Nyxborn removed.
+CW04 Nyxborn removed.
+CW08 Solar Worshipper removed.
+CW03 Devoted Worshipper removed.
+CW13 High and Dry removed.
+CW01 Tragic Poet removed.
+
+UM02 Thoughtbreaker Sirens
+rules_text: Flying
+[i]Threshold[/i] — When Thoughtbreaker Sirens enters, look at the top two cards of your library. Put up to one of them into your hand and the rest into your graveyard. Then if there are seven or more cards in your graveyard, create two 1/1 black Siren creature tokens with flying and “This creature can't block.” => Flying
+[i]Threshold[/i] — When Thoughtbreaker Sirens enters, look at the top two cards of your library. Put one into your graveyard, then draw a card. Then if there are seven or more cards in your graveyard, create two 1/1 black Siren creature tokens with flying and “This creature can't block.”
+
+UM04 Herald of Revelry
+
+UM06 Nyxborn Valiant
+rules_text: [i]Battalion[/i] — Whenever Nyxborn Valiant and at least two other creatures attack, put a +1/+1 counter on target attacking creature. It gains indestructible until end of turn. => Whenever you attack with three or more creatures, put a +1/+1 counter on target attacking creature. It gains indestructible until end of turn.
+
+UM07 Siren Sea Pillager
+
+UM08 Pharika's Fanatic
+
+UM09 Glory of Iroas
+
+UM10 Triton Taleweaver
+
+UM02 Trapped in the Underworld
+
+UM04 Acropolis Leveler
+
+UM06 Monsoon Mutineers
+
+UM08 Vengeful Phylaskia
+
+UM09 Sun-Blessed Hoplite
+
+UM10 Seek Olantin's Ruins
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Scry 2. [i](Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i]
+You may put a land card from your hand onto the battlefield.
+Create a 2/2 blue Merfolk Knight enchantment creature token. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Scry 2. [i](Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i]
+You may put a land card from your hand onto the battlefield.
+II — Create a 2/2 blue Merfolk Knight enchantment creature token.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Scry 2. [i](Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i]
+You may put a land card from your hand onto the battlefield.
+Create a 2/2 blue Merfolk Knight enchantment creature token. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Scry 2. [i](Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i]
+You may put a land card from your hand onto the battlefield.
+II — Create a 2/2 blue Merfolk Knight enchantment creature token.
+
+Theros: Tales of the Callapheia Archetypes
+
+Siren
+
+Merfolk Knight
+
+Human
+
+Human
+
+Demigod
+
+Elemental
+
+Zombie
+
+Altar
+
+CA06 Ominous Pool
+
+CA02 Anvilwrought Harrier
+
+CA03 Olantin Robokraken
+
+CA04 Champion's Statue
+
+CA05 Traveler's Amulet
+
+CA01 Hoplite's Arsenal
+
+Gold
+
+UM03 Blade of Hetos
+rules_text: Haste
+[i]Macabre [/i]— Whenever Blade of Hetos attacks, put a +1/+1 counter on it if you've sacrificed a nonland permanent this turn. => Legion [i](When this creature attacks, you may pair it with another unpaired attacker until end of turn. Paired creatures gain the following abilities.)[/i]
+Whenever this creature becomes blocked, it deals 2 damage to the player or planeswalker it's attacking.
+pt: 2/2 => 3/3
+
+UM07 Stormsight Oracle
+cost: {1}{U}{R} => {1}{UR}{UR}{UR}
+rules_text: Flying
+At the beginning of combat on your turn, create a 1/1 red Elemental enchantment creature token. Until end of turn, it gains haste and attacks each combat if able. Sacrifice that token at the beginning of the next end step. => During your turn, Stormsight Oracle has flying.
+Whenever you draw your second card each turn, put a +1/+1 counter on Stormsight Oracle.
+pt: 2/2 => 3/2
+
+UM01 Kadmos, Deft Navigator
+cost: {WU}{WU}{WU} => {2}{WU}{WU}{WU}
+rules_text: Vigilance
+Whenever Kadmos or another storied permanent you control enters, create a 1/1 white Human creature token. [i](Enchantments and legendary creatures are storied.)[/i] => Vigilance
+When Kadmos, Deft Navigator enters, create two Altar tokens. [i](They're artifacts with “{3}, {T}, Sacrifice this token: Create a 3/2 Demigod enchantment creature token that's all colors. Activate only as a sorcery.”)[/i]
+pt: 2/2 => 4/4
+
+CU01 Nyxborn Strix
+rules_text: Flying, vigilance
+Whenever Nyxborn Strix attacks while you control another storied permanent, scry 1. [i](Enchantments and legendary creatures are storied.)[/i] => Flying
+Whenever Nyxborn Strix attacks, if you control an Altar or Demigod, scry 1. [i](Look at the top card of your library. You may put that card on the bottom of your library.)[/i]
+
+CU07 Herald of Thassa
+type: Creature — Kraken => Creature — Horse Fish
+cost: {5}{U}{U} => {3}{U}{U}
+rules_text: This spell costs {X} less to cast, where X is your devotion to blue. [i](Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)[/i]
+Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i] => When Herald of Thassa enters, return up to one target creature to its owner's hand. If your devotion to blue is five or greater, instead that creature's owner puts it on their choice of the top or bottom of their library. [i](Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)[/i]
+pt: 5/4 => 4/3
+
+CG03 Wildwood Fleecemane
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

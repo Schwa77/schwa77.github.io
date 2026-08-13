@@ -1,0 +1,1003 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "UM02 Thoughtbreaker Sirens",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U/B}{U/B}{U/B}",
+			"type": "Creature — Siren",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/0.png"
+			}
+		},
+		{
+			"name": "UM04 Herald of Revelry",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Satyr Druid",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/1.png"
+			}
+		},
+		{
+			"name": "UM06 Nyxborn Valiant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W/B}{W/B}{W/B}",
+			"type": "Enchantment Creature — Human Soldier",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/2.png"
+			}
+		},
+		{
+			"name": "UM07 Siren Sea Pillager",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U/R}{U/R}{U/R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/3.png"
+			}
+		},
+		{
+			"name": "UM08 Pharika's Fanatic",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B/G}{B/G}{B/G}",
+			"type": "Creature — Gorgon",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/4.png"
+			}
+		},
+		{
+			"name": "UM09 Glory of Iroas",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/5.png"
+			}
+		},
+		{
+			"name": "UM10 Triton Taleweaver",
+			"rarity": "uncommon",
+			"mana_cost": "{G/U}{G/U}{G/U}",
+			"type": "Creature — Merfolk Bard",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/6.png"
+			}
+		},
+		{
+			"name": "UM02 Trapped in the Underworld",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/7.png"
+			}
+		},
+		{
+			"name": "UM04 Acropolis Leveler",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R/G}{R/G}{R/G}",
+			"type": "Creature — Cyclops",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/8.png"
+			}
+		},
+		{
+			"name": "UM06 Monsoon Mutineers",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/9.png"
+			}
+		},
+		{
+			"name": "UM08 Vengeful Phylaskia",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Skeleton Soldier",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/10.png"
+			}
+		},
+		{
+			"name": "UM09 Sun-Blessed Hoplite",
+			"rarity": "uncommon",
+			"mana_cost": "{R/W}{R/W}{R/W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/11.png"
+			}
+		},
+		{
+			"name": "UM10 Seek Olantin's Ruins",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/12.png"
+			}
+		},
+		{
+			"name": "Theros: Tales of the Callapheia Archetypes",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/13.png"
+			}
+		},
+		{
+			"name": "Siren",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Siren",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/14.png"
+			}
+		},
+		{
+			"name": "Merfolk Knight",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment Creature — Merfolk Knight",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/15.png"
+			}
+		},
+		{
+			"name": "Human",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/16.png"
+			}
+		},
+		{
+			"name": "Human",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/17.png"
+			}
+		},
+		{
+			"name": "Demigod",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment Creature — Demigod",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/18.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/19.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/20.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/21.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/22.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/23.png"
+			}
+		},
+		{
+			"name": "Elemental",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment Creature — Elemental",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/24.png"
+			}
+		},
+		{
+			"name": "Zombie",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Zombie",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/25.png"
+			}
+		},
+		{
+			"name": "Altar",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Altar",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/26.png"
+			}
+		},
+		{
+			"name": "CA06 Ominous Pool",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/27.png"
+			}
+		},
+		{
+			"name": "CA02 Anvilwrought Harrier",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Bird",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/28.png"
+			}
+		},
+		{
+			"name": "CA03 Olantin Robokraken",
+			"rarity": "common",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Kraken",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/29.png"
+			}
+		},
+		{
+			"name": "CA04 Champion's Statue",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Altar",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/30.png"
+			}
+		},
+		{
+			"name": "CA05 Traveler's Amulet",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/31.png"
+			}
+		},
+		{
+			"name": "CA01 Hoplite's Arsenal",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/32.png"
+			}
+		},
+		{
+			"name": "Gold",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Gold",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/33.png"
+			}
+		},
+		{
+			"name": "UM03 Blade of Hetos",
+			"rarity": "uncommon",
+			"mana_cost": "{B/R}{B/R}{B/R}",
+			"type": "Creature — Minotaur Warrior",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/34.png"
+			}
+		},
+		{
+			"name": "UM07 Stormsight Oracle",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U/R}{U/R}{U/R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/35.png"
+			}
+		},
+		{
+			"name": "UM07 Traveler's Blessing II",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/36.png"
+			}
+		},
+		{
+			"name": "UM01 Kadmos, Deft Navigator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W/U}{W/U}{W/U}",
+			"type": "Legendary Creature — Human Scout",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/37.png"
+			}
+		},
+		{
+			"name": "UM01 Legally Registered Place of Worship",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/38.png"
+			}
+		},
+		{
+			"name": "UM05 Setessan Vitalists III",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/39.png"
+			}
+		},
+		{
+			"name": "UM05 Some Legend",
+			"rarity": "uncommon",
+			"mana_cost": "{G/W}{G/W}{G/W}",
+			"type": "Legendary Creature — Human Druid",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/40.png"
+			}
+		},
+		{
+			"name": "Human",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/41.png"
+			}
+		},
+		{
+			"name": "UM03 Iroan Contender",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/42.png"
+			}
+		},
+		{
+			"name": "CW01 Devoted Worshipper",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/43.png"
+			}
+		},
+		{
+			"name": "CW02 Fake Vigilance",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/44.png"
+			}
+		},
+		{
+			"name": "CW03 Lagonna-Band Seeker",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Centaur Scout",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/45.png"
+			}
+		},
+		{
+			"name": "CW04 Mister Nyx Man",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment Creature — Nyx Man",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/46.png"
+			}
+		},
+		{
+			"name": "CW09 Impassioned Champion",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Cat Soldier",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/47.png"
+			}
+		},
+		{
+			"name": "CW06 Extremely Loyal Pegasus",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Pegasus",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/48.png"
+			}
+		},
+		{
+			"name": "CW07 Therosian Redditors",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/49.png"
+			}
+		},
+		{
+			"name": "CW08 The White Common Saga",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/50.png"
+			}
+		},
+		{
+			"name": "CW05 Big Cow",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment Creature — Ox",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/51.png"
+			}
+		},
+		{
+			"name": "CW10 Large Dutiful Flyer",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Soldier Archon Pegasus Horse Bird",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/52.png"
+			}
+		},
+		{
+			"name": "CW11 Gigagoat",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Enchantment Creature — Goat",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/53.png"
+			}
+		},
+		{
+			"name": "CU01 Nyxborn Strix",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment Creature — Bird",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/54.png"
+			}
+		},
+		{
+			"name": "CU02 Floodweaver Triton",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/55.png"
+			}
+		},
+		{
+			"name": "CU03 Olantean Cavalry",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Merfolk Knight",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/56.png"
+			}
+		},
+		{
+			"name": "CU04 Big Blocker Man",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment Creature — Big Wall",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/57.png"
+			}
+		},
+		{
+			"name": "CU05 Sneaky Creeper",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/58.png"
+			}
+		},
+		{
+			"name": "CU06 Not An Artifact Bird",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/59.png"
+			}
+		},
+		{
+			"name": "CU07 Herald of Thassa",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Horse Fish",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/60.png"
+			}
+		},
+		{
+			"name": "CU08 Big Islandcycler",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Enchantment Creature — Bird",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/61.png"
+			}
+		},
+		{
+			"name": "CB01 Legally Not Infestation Sage",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/62.png"
+			}
+		},
+		{
+			"name": "CB02 Evil Cleric",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/63.png"
+			}
+		},
+		{
+			"name": "CB03 Noxious Attacker",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Gorgon Soldier",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/64.png"
+			}
+		},
+		{
+			"name": "CB04 Cerberus the Good Boy",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment Creature — Dog Dog Dog",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/65.png"
+			}
+		},
+		{
+			"name": "CB05 Siren of Sailor's Folly",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment Creature — Siren",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/66.png"
+			}
+		},
+		{
+			"name": "CB06 Disciple A'-Mogis",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Minotaur Warrior",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/67.png"
+			}
+		},
+		{
+			"name": "CB07 Crypt Feaster",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/68.png"
+			}
+		},
+		{
+			"name": "CB08 Ravenous Manticore",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Manticore",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/69.png"
+			}
+		},
+		{
+			"name": "CB09 Lost Krakonos Guys",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Cat Centaur Pirate",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/70.png"
+			}
+		},
+		{
+			"name": "CB10 Large Catoblepas",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Enchantment Creature — Ox Beast",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/71.png"
+			}
+		},
+		{
+			"name": "CR01 Not Goblin",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Not Goblin",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/72.png"
+			}
+		},
+		{
+			"name": "CR02 Legion Duder",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/73.png"
+			}
+		},
+		{
+			"name": "CR03 Irreverent Reveler",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Mana Dork",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/74.png"
+			}
+		},
+		{
+			"name": "CR04 Gorehorn Gladiator",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Minotaur Warrior",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/75.png"
+			}
+		},
+		{
+			"name": "CR05 Granter of Swiftness",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment Creature — Nymph",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/76.png"
+			}
+		},
+		{
+			"name": "CR06 Sea Yarr Oh Six",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/77.png"
+			}
+		},
+		{
+			"name": "CR07 Akroan Phalanx",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/78.png"
+			}
+		},
+		{
+			"name": "CR08 One-Eyed Hater",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Cyclops",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/79.png"
+			}
+		},
+		{
+			"name": "CR09 Hungry Big Boy",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Enchantment Creature — Cyclops",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/80.png"
+			}
+		},
+		{
+			"name": "CG01 Druidic Dryad",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment Creature — Dryad Druid",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/81.png"
+			}
+		},
+		{
+			"name": "CG02 Repentant Wanderer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/82.png"
+			}
+		},
+		{
+			"name": "CG03 Wildwood Fleecemane",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Sheep",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/83.png"
+			}
+		},
+		{
+			"name": "CG05 Reverent Reveler",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Satyr Druid",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/84.png"
+			}
+		},
+		{
+			"name": "CG06 Pheres Band Youngin'",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Centaur",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/85.png"
+			}
+		},
+		{
+			"name": "CG04 Ambushing Nyx Cat",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment Creature — Cat",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/86.png"
+			}
+		},
+		{
+			"name": "CG07 Big Fella",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Giant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/87.png"
+			}
+		},
+		{
+			"name": "CG08 Lurking Lion",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Cat",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/88.png"
+			}
+		},
+		{
+			"name": "CG09 Callaphe Finds a Cow",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/89.png"
+			}
+		},
+		{
+			"name": "CG10 Average Wembanyama",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Giant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/90.png"
+			}
+		},
+		{
+			"name": "CG11 Forestcycler",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Enchantment Creature — Giant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://schwa77.github.io/sets/CAL-files/img/91.png"
+			}
+		}
+	]
+
+[rare(1)]
+[uncommon(3)]
+	5 UM02 Thoughtbreaker Sirens
+	5 UM04 Herald of Revelry
+	5 UM06 Nyxborn Valiant
+	5 UM07 Siren Sea Pillager
+	5 UM08 Pharika's Fanatic
+	5 UM09 Glory of Iroas
+	5 UM10 Triton Taleweaver
+	5 UM02 Trapped in the Underworld
+	5 UM04 Acropolis Leveler
+	5 UM06 Monsoon Mutineers
+	5 UM08 Vengeful Phylaskia
+	5 UM09 Sun-Blessed Hoplite
+	5 UM10 Seek Olantin's Ruins
+	5 UM03 Blade of Hetos
+	5 UM07 Stormsight Oracle
+	5 UM07 Traveler's Blessing II
+	5 UM01 Kadmos, Deft Navigator
+	5 UM01 Legally Registered Place of Worship
+	5 UM05 Setessan Vitalists III
+	5 UM05 Some Legend
+	5 UM03 Iroan Contender
+[common(10)]
+	5 CA06 Ominous Pool
+	5 CA02 Anvilwrought Harrier
+	5 CA03 Olantin Robokraken
+	5 CA04 Champion's Statue
+	5 CA05 Traveler's Amulet
+	5 CA01 Hoplite's Arsenal
+	5 CW01 Devoted Worshipper
+	5 CW02 Fake Vigilance
+	5 CW03 Lagonna-Band Seeker
+	5 CW04 Mister Nyx Man
+	5 CW09 Impassioned Champion
+	5 CW06 Extremely Loyal Pegasus
+	5 CW07 Therosian Redditors
+	5 CW08 The White Common Saga
+	5 CW05 Big Cow
+	5 CW10 Large Dutiful Flyer
+	5 CW11 Gigagoat
+	5 CU01 Nyxborn Strix
+	5 CU02 Floodweaver Triton
+	5 CU03 Olantean Cavalry
+	5 CU04 Big Blocker Man
+	5 CU05 Sneaky Creeper
+	5 CU06 Not An Artifact Bird
+	5 CU07 Herald of Thassa
+	5 CU08 Big Islandcycler
+	5 CB01 Legally Not Infestation Sage
+	5 CB02 Evil Cleric
+	5 CB03 Noxious Attacker
+	5 CB04 Cerberus the Good Boy
+	5 CB05 Siren of Sailor's Folly
+	5 CB06 Disciple A'-Mogis
+	5 CB07 Crypt Feaster
+	5 CB08 Ravenous Manticore
+	5 CB09 Lost Krakonos Guys
+	5 CB10 Large Catoblepas
+	5 CR01 Not Goblin
+	5 CR02 Legion Duder
+	5 CR03 Irreverent Reveler
+	5 CR04 Gorehorn Gladiator
+	5 CR05 Granter of Swiftness
+	5 CR06 Sea Yarr Oh Six
+	5 CR07 Akroan Phalanx
+	5 CR08 One-Eyed Hater
+	5 CR09 Hungry Big Boy
+	5 CG01 Druidic Dryad
+	5 CG02 Repentant Wanderer
+	5 CG03 Wildwood Fleecemane
+	5 CG05 Reverent Reveler
+	5 CG06 Pheres Band Youngin'
+	5 CG04 Ambushing Nyx Cat
+	5 CG07 Big Fella
+	5 CG08 Lurking Lion
+	5 CG09 Callaphe Finds a Cow
+	5 CG10 Average Wembanyama
+	5 CG11 Forestcycler
