@@ -1,4 +1,568 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+The Amazing Spider-Man added.
+Iron Man, Armored Avenger added.
+Consider added.
+Crack the Case added.
+The Maker added.
+Moon Knight, Fist of Khonshu added.
+The Incredible Hulk added.
+Daredevil, Man Without Fear added.
+Preordain added.
+The Coming of Galactus added.
+Nico Minoru added.
+Dum Dum Dugan added.
+Blue Marvel added.
+Kushala, Demon Rider added.
+Spirit added.
+Media Persecution added.
+Jotunheim, Realm of Giants added.
+Earth-616 added.
+Annihilus added.
+Gamora, Galaxy's Deadliest added.
+Star-Lord added.
+Fabled Passage added.
+Rootbound Crag added.
+Glacial Fortress added.
+Drowned Catacomb added.
+Dragonskull Summit added.
+Hinterland Harbor added.
+Isolated Chapel added.
+Sulfur Falls added.
+Sunpetal Grove added.
+Woodland Cemetery added.
+Clifftop Retreat added.
+A Living Legend Rises added.
+Friendly Neighborhood added.
+Treasure added.
+Soulsword added.
+Avengers Assemble added.
+Civil War added.
+The Mighty Thor added.
+Hulkbuster Armor added.
+Muspelheim, Realm of Fire added.
+Niffleheim, Realm of the Dead added.
+Nidavellir, Realm of Dwarves added.
+Svartalfheim, Realm of Dark Elves added.
+Heven, Realm of Angels added.
+Asgard, Realm of Gods added.
+Alfheim, Realm of Elves added.
+Vanaheim, Realm of Old Gods added.
+Midgard, Realm of Mortals added.
+Devil added.
+Mockingbird added.
+The Sensational She-Hulk added.
+Hit-Monkey added.
+Ego the Living Planet added.
+Kang the Conqueror (Rama-Tut) added.
+Kang the Conqueror (Immortus) added.
+Kang the Conqueror (Scarlet Centurion) added.
+(The Maker Rewrites History) added.
+The Runaways added.
+The Runaways added.
+Secret Invasion added.
+Planet Hulk added.
+(Agatha Harkness) added.
+(Morlun, the Inheritor) added.
+Wonder Man added.
+Lizard added.
+Scorpion added.
+Boomerang added.
+Chameleon added.
+Scarlet Scarab, Blade of Taweret added.
+Canyon Slough added.
+Coastal Peak added.
+Rain-Slicked Copse added.
+Fetid Pools added.
+Irrigated Farmland added.
+Glittering Massif added.
+Umbral Expanse added.
+Festering Thicket added.
+Scattered Groves added.
+Sheltered Thicket added.
+The Amazing Spider-Man added.
+The Incredible Hulk added.
+Iron Man, Armored Avenger added.
+Thor, God of Thunder added.
+
+Spider-Man removed.
+Iron Man removed.
+Think removed.
+Scrutinize removed.
+Moon Knight removed.
+Drax the Destroyer removed.
+Hulk removed.
+Daredevil removed.
+Green Goblin removed.
+Precognition removed.
+She-Hulk removed.
+(The Coming of Galactus) removed.
+
+Portal Hopping
+
+Invisible Woman
+
+Spider-Man Noir
+
+Silvermane
+
+Astral Projection
+
+Journey into Mystery
+
+Magik
+
+Blind Justice
+
+Banish to Limbo
+
+Purge the Occult
+
+Spider-Man 2099
+
+Vibranium Shield
+
+Suit Up
+
+Psychic Knife
+
+Two Steps Ahead
+
+Mystic Arts
+
+Imperius Rex!
+
+Rescue Armor
+
+Shifting Identity
+
+Burning Fear
+
+Take Aim
+
+Elegy
+
+Death Spores
+
+No More
+
+Mister Negative
+rules_text: When Mister Negative enters the battlefield, target creature you don't control gets -X/-Y until end of turn, where X is its toughness and Y is its power. [i](For example, a 2/3 creature would get -3/-2 until end of turn.)[/i] => When Mister Negative enters the battlefield, target creature you don't control gets -X/-Y until end of turn, where X is its toughness and Y is its power. [i](For example, a 3/2 creature would get -2/-3 until end of turn.)[/i]
+pt: 2/3 => 3/2
+
+Mephisto
+
+Knull, King in Black
+
+Dormammu
+
+Trickshot
+cost: {R} => {1}{R}
+rules_text: This spell can't be countered, and can target creatures with hexproof as though they didn't have hexproof.
+Trickshot deals 3 damage to any target. => This spell can't be countered, and can target permanents with hexproof as though they didn't have hexproof.
+Trickshot deals 4 damage to target creature or planeswalker.
+
+Fin Fang Foom
+
+Fatal Attractions
+
+Energy Conduit
+
+Fortune Favors the Bold
+
+Life-Model Decoy
+
+High Evolutionary
+
+A Day Unlike Any Other
+
+Hell Cycle
+
+Crowd Favorite
+
+Savage Land Expedition
+
+Seismic Shifting
+
+Into the Cosmos
+
+Origin Story
+
+Kraven's Last Hunt
+
+Clobber
+
+Maestro
+
+Plot Armor
+
+Red Ghost
+
+Black Widow
+
+Havok
+
+Loki, God of Mischief
+
+White Tiger
+
+Blade
+
+Man-Thing
+
+Lock Up
+
+Warpath
+
+Brood Spawning
+
+Bishop
+
+Iron Fist
+
+Juggernaut
+
+Shocker
+
+Gambit
+
+Ka-Zar
+
+Ghost Rider
+type: Legendary Creature — Spirit Mercenary => Legendary Creature — Spirit Mercenary Hero
+
+Sinister Scheme
+
+Spirit of Vengeance
+
+Zabu
+
+Vision
+
+Silk
+
+Jessica Jones
+
+Shadowcat
+
+Carnage
+
+Venom
+
+Wasp
+
+Warlock
+
+Thor, God of Thunder
+
+Peni Parker
+
+Anti-Venom
+
+Edwin Jarvis
+type: Legendary Creature — Human Advisor Hero => Legendary Creature — Human Advisor
+
+Shang-Chi
+
+Falcon
+
+Valkyrie
+
+Heimdall, the All-Seeing
+
+Black Bolt
+
+Sentry
+rules_text: Flying, lifelink
+When Sentry dies, you may pay 4 life. If you do, create The [i][i]Void[/i], [/i]a legendary 4/4 black Avatar Villain creature token with flying and deathtouch. => Flying, lifelink
+When Sentry dies, you may pay 4 life. If you do, create The [/i][i]Void[/i][i], a legendary 4/4 black Avatar Villain creature token with flying and deathtouch.
+
+Void
+
+Blink
+
+Iceman
+
+Mystique
+
+Psylocke
+
+Cable
+
+Nightcrawler
+
+Mysterio
+
+Elektra
+
+Swarm
+
+Mole Man
+
+Black Cat
+
+Morbius
+
+Crossbones
+
+The Hood
+
+Kingpin
+
+Prowler
+
+Doctor Doom
+
+Omega Red
+
+Annihilus
+
+Hela, Goddess of Death
+
+Quicksilver
+
+Red Guardian
+
+Jubilee
+
+Deadpool
+
+Pyro
+
+Taskmaster
+
+Snowbird
+
+Crystal
+
+Spider-Ham
+
+Absorbing Man
+
+Lizard
+
+Multiple Man
+
+Elsa Bloodstone
+
+Rogue
+
+Gorilla-Man
+
+Abomination
+
+Colossus
+
+Kraven the Hunter
+
+Deathlok
+
+Ultron
+
+Machine Man
+
+Silver Surfer
+
+Casket of Ancient Winters
+
+Crimson Gem of Cyttorak
+
+Darkhold
+
+Eye of Agamotto
+
+Jade Tiger Amulet
+
+Infinity Gems
+
+Black Vortex
+
+Iron Man Armor
+
+Staff of One
+
+Delusions of Grandeur
+
+Emma Frost
+
+Bring to Balance
+
+Wolverine
+
+Cloak and Dagger
+
+Glimpse Infinite Realities
+
+Magneto
+
+Mister Sinister
+
+Cyclops
+
+The Collector
+
+Annihilation Wave
+
+Thanos, the Mad Titan
+
+Scarlet Witch
+
+Electro
+
+Sandman
+
+Sand
+
+Professor X
+
+Winter Soldier
+
+Killmonger
+
+Thing
+
+Nightmare
+
+Khonshu, God of the Moon
+
+Baron Mordo
+
+Ragnarok
+
+Days of Future Past
+
+Vigorous Research
+
+Mister Fantastic
+
+Age of Ultron
+
+Human Torch
+
+HERBIE
+
+Academy Training
+
+Ghost-Spider
+
+Start Your Engines!
+
+Moira X
+
+Rictor
+
+The Founding of Krakoa
+
+Absolute Zero
+
+Great Power
+
+Hawkeye (Clint Barton)
+
+Hawkeye (Kate Bishop)
+
+Shadow King's Clutches
+
+Red Skull
+
+Spider-Woman
+cost: {2}{W} => {1}{WU}{WU}
+
+Doctor Octopus
+
+Vulture
+
+Odin, the All-Father
+
+Captain America
+
+Rocket Raccoon
+
+Beast
+
+Namor the Sub-Mariner
+
+Doctor Strange
+
+Groot
+
+Rewrite Reality
+
+War Machine
+
+Squirrel Girl
+
+Bullseye
+
+Punisher
+rules_text: Menace
+Ward—Pay life equal to Punisher's power.
+Whenever a creature an opponent controls enters, put a +1/+1 counter on Punisher. => Menace
+Whenever a creature you control dies, target opponent may pay life equal to Punisher's power. If they don't, put a +1/+1 counter on Punisher. This ability triggers only once per turn.
+
+Fastball Special
+
+Cosmo the Space Dog
+
+Nick Fury
+
+Hulkling
+
+Ant-Man
+
+Galactus, Devourer of Worlds
+
+SPDR
+
+Angel
+
+All Gods Must Die
+
+Surtur, Lord of Muspelheim
+
+Inferno Titan
+
+Mercenary
+
+Mercenary
+
+Mercenary
+
+Mercenary
+
+Black Panther
+
+Malekith the Accursed
+
+Enchantress
+
+Storm
+cost: {1}{UR}{UR} => {1}{U}{U}
+rules_text: Flying
+Whenever Storm deals combat damage to a player, look at the top three cards of your library. You may exile a noncreature, nonland card from among them. Put the rest on the bottom of your library in a random order. You may play the exiled card until end of turn. => Flash
+Flying
+When Storm enters, create a blue enchantment token named Favorable Winds with “Creatures you control with flying get +1/+1.”
+pt: 3/1 => 1/1
+
+Kang the Conqueror
+rules_text: At the beginning of your upkeep, you may put a card exiled with Kang into its owner's hand.
+[+1]: Draw two cards, then exile two cards from your hand.
+[-2]: Exile another target nonland permanent with two time counters on it. It gains suspend.
+[-6]: Search your library for any number of noncreature, nonland cards and exile them. Then put up to three cards exiled with Kang into their owners' hands. => The legend rule doesn't apply to Kang.
+[+1]: Create a 1/1 colorless Robot artifact creature token with flying and “Whenever this creature attacks, surveil 1.”
+[-3]: Conjure three copies of Kang the Conqueror into your library, then shuffle. Draw three cards.
+[-6]: Shuffle your hand and graveyard into your library, then draw seven cards. You may cast any number of artifact or Kang spells from among them without paying their mana costs.
+special_text: At the beginning of your upkeep, you may put a card exiled with Kang into its owner's hand.
+[+1]: Draw two cards, then exile two cards from your hand.
+[-2]: Exile another target nonland permanent with two time counters on it. It gains suspend.
+[-6]: Search your library for any number of noncreature, nonland cards and exile them. Then put up to three cards exiled with Kang into their owners' hands. => The legend rule doesn't apply to Kang.
+[+1]: Create a 1/1 colorless Robot artifact creature token with flying and “Whenever this creature attacks, surveil 1.”
+[-3]: Conjure three copies of Kang the Conqueror into your library, then shuffle. Draw three cards.
+[-6]: Shuffle your hand and graveyard into your library, then draw seven cards. You may cast any number of artifact or Kang spells from among them without paying their mana costs.
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Imperius Rex! added.
