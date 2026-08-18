@@ -20807,7 +20807,7 @@
         {
             "card_name": "The Amazing Spider-Man",
             "color": "WG",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Spider Human Hero",
             "number": 189,
             "color_identity": "WG",
@@ -20830,7 +20830,7 @@
         {
             "card_name": "Portal Hopping",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 29,
             "color_identity": "W",
@@ -20853,7 +20853,7 @@
         {
             "card_name": "Invisible Woman",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Hero",
             "number": 17,
             "color_identity": "W",
@@ -20876,7 +20876,7 @@
         {
             "card_name": "Spider-Man Noir",
             "color": "WB",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Spider Human Detective",
             "number": 215,
             "color_identity": "WB",
@@ -20899,7 +20899,7 @@
         {
             "card_name": "Silvermane",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Artifact Creature \u2013 Cyborg Villain",
             "number": 240,
             "color_identity": "C",
@@ -20922,7 +20922,7 @@
         {
             "card_name": "Iron Man, Armored Avenger",
             "color": "UR",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Artifact Creature \u2013 Human Hero",
             "number": 205,
             "color_identity": "UR",
@@ -20945,7 +20945,7 @@
         {
             "card_name": "Astral Projection",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 5,
             "color_identity": "W",
@@ -20968,7 +20968,7 @@
         {
             "card_name": "Journey into Mystery",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 18,
             "color_identity": "W",
@@ -20991,7 +20991,7 @@
         {
             "card_name": "Magik",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Mutant Wizard Hero",
             "number": 22,
             "color_identity": "W",
@@ -21014,7 +21014,7 @@
         {
             "card_name": "Blind Justice",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 8,
             "color_identity": "W",
@@ -21037,7 +21037,7 @@
         {
             "card_name": "Banish to Limbo",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 6,
             "color_identity": "W",
@@ -21060,7 +21060,7 @@
         {
             "card_name": "Purge the Occult",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 30,
             "color_identity": "W",
@@ -21083,7 +21083,7 @@
         {
             "card_name": "Spider-Man 2099",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Spider Human Hero",
             "number": 70,
             "color_identity": "U",
@@ -21106,7 +21106,7 @@
         {
             "card_name": "Vibranium Shield",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Artifact \u2013 Equipment",
             "number": 37,
             "color_identity": "W",
@@ -21129,7 +21129,7 @@
         {
             "card_name": "Suit Up",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 35,
             "color_identity": "W",
@@ -21152,7 +21152,7 @@
         {
             "card_name": "Consider",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 45,
             "color_identity": "U",
@@ -21175,7 +21175,7 @@
         {
             "card_name": "Psychic Knife",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 64,
             "color_identity": "U",
@@ -21198,7 +21198,7 @@
         {
             "card_name": "Two Steps Ahead",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 72,
             "color_identity": "U",
@@ -21221,7 +21221,7 @@
         {
             "card_name": "Mystic Arts",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 59,
             "color_identity": "U",
@@ -21244,7 +21244,7 @@
         {
             "card_name": "Imperius Rex!",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 51,
             "color_identity": "U",
@@ -21267,7 +21267,7 @@
         {
             "card_name": "Crack the Case",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 46,
             "color_identity": "U",
@@ -21290,7 +21290,7 @@
         {
             "card_name": "The Maker",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Planeswalker \u2013 Richards",
             "number": 55,
             "color_identity": "U",
@@ -21313,7 +21313,7 @@
         {
             "card_name": "Rescue Armor",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Artifact \u2013 Equipment",
             "number": 66,
             "color_identity": "U",
@@ -21336,7 +21336,7 @@
         {
             "card_name": "Shifting Identity",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 69,
             "color_identity": "U",
@@ -21359,7 +21359,7 @@
         {
             "card_name": "Burning Fear",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 84,
             "color_identity": "B",
@@ -21382,7 +21382,7 @@
         {
             "card_name": "Take Aim",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 113,
             "color_identity": "B",
@@ -21405,7 +21405,7 @@
         {
             "card_name": "Elegy",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 91,
             "color_identity": "B",
@@ -21428,7 +21428,7 @@
         {
             "card_name": "Death Spores",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 88,
             "color_identity": "B",
@@ -21451,7 +21451,7 @@
         {
             "card_name": "No More",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 104,
             "color_identity": "B",
@@ -21474,7 +21474,7 @@
         {
             "card_name": "Mister Negative",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Villain",
             "number": 100,
             "color_identity": "B",
@@ -21497,7 +21497,7 @@
         {
             "card_name": "Mephisto",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Planeswalker \u2013 Mephisto",
             "number": 99,
             "color_identity": "B",
@@ -21520,7 +21520,7 @@
         {
             "card_name": "Knull, King in Black",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Planeswalker \u2013 Knull",
             "number": 97,
             "color_identity": "B",
@@ -21543,7 +21543,7 @@
         {
             "card_name": "Dormammu",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Planeswalker \u2013 Dormammu",
             "number": 90,
             "color_identity": "B",
@@ -21566,7 +21566,7 @@
         {
             "card_name": "Trickshot",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 152,
             "color_identity": "R",
@@ -21589,7 +21589,7 @@
         {
             "card_name": "Fin Fang Foom",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Alien Dragon",
             "number": 125,
             "color_identity": "R",
@@ -21612,7 +21612,7 @@
         {
             "card_name": "Fatal Attractions",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 124,
             "color_identity": "R",
@@ -21635,7 +21635,7 @@
         {
             "card_name": "Energy Conduit",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 123,
             "color_identity": "R",
@@ -21658,7 +21658,7 @@
         {
             "card_name": "Fortune Favors the Bold",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 126,
             "color_identity": "R",
@@ -21681,7 +21681,7 @@
         {
             "card_name": "Life-Model Decoy",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Artifact",
             "number": 137,
             "color_identity": "R",
@@ -21704,7 +21704,7 @@
         {
             "card_name": "High Evolutionary",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Planeswalker \u2013 Evolutionary",
             "number": 165,
             "color_identity": "G",
@@ -21727,7 +21727,7 @@
         {
             "card_name": "A Day Unlike Any Other",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 120,
             "color_identity": "R",
@@ -21750,7 +21750,7 @@
         {
             "card_name": "Hell Cycle",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Artifact \u2013 Vehicle",
             "number": 130,
             "color_identity": "R",
@@ -21773,7 +21773,7 @@
         {
             "card_name": "Crowd Favorite",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 119,
             "color_identity": "R",
@@ -21796,7 +21796,7 @@
         {
             "card_name": "Savage Land Expedition",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Enchantment \u2013 Aura",
             "number": 179,
             "color_identity": "G",
@@ -21819,7 +21819,7 @@
         {
             "card_name": "Seismic Shifting",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 180,
             "color_identity": "G",
@@ -21842,7 +21842,7 @@
         {
             "card_name": "Into the Cosmos",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 166,
             "color_identity": "G",
@@ -21865,7 +21865,7 @@
         {
             "card_name": "Origin Story",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 173,
             "color_identity": "G",
@@ -21888,7 +21888,7 @@
         {
             "card_name": "Kraven's Last Hunt",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Enchantment \u2013 Saga",
             "number": 169,
             "color_identity": "G",
@@ -21911,7 +21911,7 @@
         {
             "card_name": "Clobber",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 158,
             "color_identity": "G",
@@ -21934,7 +21934,7 @@
         {
             "card_name": "Maestro",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Planeswalker \u2013 Banner",
             "number": 171,
             "color_identity": "G",
@@ -21957,7 +21957,7 @@
         {
             "card_name": "Plot Armor",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 174,
             "color_identity": "G",
@@ -21980,7 +21980,7 @@
         {
             "card_name": "Red Ghost",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Scientist Villain",
             "number": 175,
             "color_identity": "G",
@@ -22003,7 +22003,7 @@
         {
             "card_name": "Black Widow",
             "color": "UB",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Rogue Hero",
             "number": 219,
             "color_identity": "UB",
@@ -22026,7 +22026,7 @@
         {
             "card_name": "Havok",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Mutant Hero",
             "number": 15,
             "color_identity": "W",
@@ -22049,7 +22049,7 @@
         {
             "card_name": "Loki, God of Mischief",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Giant Wizard Villain",
             "number": 54,
             "color_identity": "U",
@@ -22072,7 +22072,7 @@
         {
             "card_name": "White Tiger",
             "color": "WG",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Hero",
             "number": 228,
             "color_identity": "WG",
@@ -22095,7 +22095,7 @@
         {
             "card_name": "Blade",
             "color": "WB",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Vampire Hero",
             "number": 220,
             "color_identity": "WB",
@@ -22118,7 +22118,7 @@
         {
             "card_name": "Man-Thing",
             "color": "BG",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Plant Horror",
             "number": 225,
             "color_identity": "BG",
@@ -22141,7 +22141,7 @@
         {
             "card_name": "Lock Up",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 21,
             "color_identity": "W",
@@ -22164,7 +22164,7 @@
         {
             "card_name": "Warpath",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Mutant Warrior Hero",
             "number": 185,
             "color_identity": "G",
@@ -22187,7 +22187,7 @@
         {
             "card_name": "Brood Spawning",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 82,
             "color_identity": "B",
@@ -22210,7 +22210,7 @@
         {
             "card_name": "Bishop",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Mutant Soldier Hero",
             "number": 117,
             "color_identity": "R",
@@ -22233,7 +22233,7 @@
         {
             "card_name": "Iron Fist",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Warrior Hero",
             "number": 133,
             "color_identity": "R",
@@ -22256,7 +22256,7 @@
         {
             "card_name": "Juggernaut",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Juggernaut Villain",
             "number": 135,
             "color_identity": "R",
@@ -22279,7 +22279,7 @@
         {
             "card_name": "Shocker",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Rogue Villain",
             "number": 148,
             "color_identity": "R",
@@ -22302,7 +22302,7 @@
         {
             "card_name": "Gambit",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Mutant Rogue Hero",
             "number": 127,
             "color_identity": "R",
@@ -22325,7 +22325,7 @@
         {
             "card_name": "Ka-Zar",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Warrior Hero",
             "number": 167,
             "color_identity": "G",
@@ -22360,7 +22360,7 @@
         {
             "card_name": "Ghost Rider",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Spirit Mercenary Hero",
             "number": 93,
             "color_identity": "B",
@@ -22383,7 +22383,7 @@
         {
             "card_name": "Sinister Scheme",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 110,
             "color_identity": "B",
@@ -22406,7 +22406,7 @@
         {
             "card_name": "Spirit of Vengeance",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 111,
             "color_identity": "B",
@@ -22429,7 +22429,7 @@
         {
             "card_name": "Zabu",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Cat Hero",
             "number": 186,
             "color_identity": "G",
@@ -22452,7 +22452,7 @@
         {
             "card_name": "Vision",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Artifact Creature \u2013 Robot Hero",
             "number": 243,
             "color_identity": "C",
@@ -22475,7 +22475,7 @@
         {
             "card_name": "Silk",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Spider Human Hero",
             "number": 34,
             "color_identity": "W",
@@ -22498,7 +22498,7 @@
         {
             "card_name": "Jessica Jones",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Detective Hero",
             "number": 52,
             "color_identity": "U",
@@ -22521,7 +22521,7 @@
         {
             "card_name": "Shadowcat",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Mutant Hero",
             "number": 68,
             "color_identity": "U",
@@ -22544,7 +22544,7 @@
         {
             "card_name": "Carnage",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Symbiote Villain",
             "number": 85,
             "color_identity": "B",
@@ -22567,7 +22567,7 @@
         {
             "card_name": "Venom",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Symbiote Villain",
             "number": 114,
             "color_identity": "B",
@@ -22590,7 +22590,7 @@
         {
             "card_name": "Wasp",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Hero",
             "number": 74,
             "color_identity": "U",
@@ -22613,7 +22613,7 @@
         {
             "card_name": "Warlock",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Artifact Creature \u2013 Alien Hero",
             "number": 244,
             "color_identity": "C",
@@ -22636,7 +22636,7 @@
         {
             "card_name": "Thor, God of Thunder",
             "color": "WR",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 God Warrior Hero",
             "number": 217,
             "color_identity": "WR",
@@ -22659,7 +22659,7 @@
         {
             "card_name": "Peni Parker",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Artificer Hero",
             "number": 28,
             "color_identity": "W",
@@ -22682,7 +22682,7 @@
         {
             "card_name": "Anti-Venom",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Symbiote Hero",
             "number": 4,
             "color_identity": "W",
@@ -22705,7 +22705,7 @@
         {
             "card_name": "Edwin Jarvis",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Advisor",
             "number": 13,
             "color_identity": "W",
@@ -22728,7 +22728,7 @@
         {
             "card_name": "Moon Knight, Fist of Khonshu",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Mercenary Hero",
             "number": 25,
             "color_identity": "W",
@@ -22751,7 +22751,7 @@
         {
             "card_name": "Shang-Chi",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Warrior Hero",
             "number": 33,
             "color_identity": "W",
@@ -22774,7 +22774,7 @@
         {
             "card_name": "Falcon",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Hero",
             "number": 14,
             "color_identity": "W",
@@ -22797,7 +22797,7 @@
         {
             "card_name": "Valkyrie",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 God Warrior Hero",
             "number": 36,
             "color_identity": "W",
@@ -22820,7 +22820,7 @@
         {
             "card_name": "Heimdall, the All-Seeing",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 God Warrior Hero",
             "number": 16,
             "color_identity": "W",
@@ -22843,7 +22843,7 @@
         {
             "card_name": "Black Bolt",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Inhuman Noble Hero",
             "number": 7,
             "color_identity": "W",
@@ -22866,7 +22866,7 @@
         {
             "card_name": "Sentry",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Hero",
             "number": 32,
             "color_identity": "W",
@@ -22889,7 +22889,7 @@
         {
             "card_name": "Void",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Legendary Creature \u2013 Avatar Villain",
             "number": 6,
             "color_identity": "B",
@@ -22912,7 +22912,7 @@
         {
             "card_name": "Blink",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Mutant Nomad Hero",
             "number": 42,
             "color_identity": "U",
@@ -22935,7 +22935,7 @@
         {
             "card_name": "Iceman",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Mutant Hero",
             "number": 50,
             "color_identity": "U",
@@ -22958,7 +22958,7 @@
         {
             "card_name": "Mystique",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Mutant Rogue Villain",
             "number": 60,
             "color_identity": "U",
@@ -22981,7 +22981,7 @@
         {
             "card_name": "Psylocke",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Mutant Ninja Hero",
             "number": 65,
             "color_identity": "U",
@@ -23004,7 +23004,7 @@
         {
             "card_name": "Cable",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Mutant Soldier Hero",
             "number": 43,
             "color_identity": "U",
@@ -23027,7 +23027,7 @@
         {
             "card_name": "Nightcrawler",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Mutant Rogue Hero",
             "number": 61,
             "color_identity": "U",
@@ -23050,7 +23050,7 @@
         {
             "card_name": "Mysterio",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Artificer Villain",
             "number": 58,
             "color_identity": "U",
@@ -23073,7 +23073,7 @@
         {
             "card_name": "Elektra",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Ninja",
             "number": 92,
             "color_identity": "B",
@@ -23096,7 +23096,7 @@
         {
             "card_name": "Swarm",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Insect Villain",
             "number": 112,
             "color_identity": "B",
@@ -23119,7 +23119,7 @@
         {
             "card_name": "Mole Man",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Villain",
             "number": 101,
             "color_identity": "B",
@@ -23142,7 +23142,7 @@
         {
             "card_name": "Black Cat",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Rogue Villain",
             "number": 81,
             "color_identity": "B",
@@ -23165,7 +23165,7 @@
         {
             "card_name": "Morbius",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Vampire Villain",
             "number": 102,
             "color_identity": "B",
@@ -23188,7 +23188,7 @@
         {
             "card_name": "Crossbones",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Mercenary Villain",
             "number": 87,
             "color_identity": "B",
@@ -23211,7 +23211,7 @@
         {
             "card_name": "The Hood",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Warlock Villain",
             "number": 95,
             "color_identity": "B",
@@ -23234,7 +23234,7 @@
         {
             "card_name": "Kingpin",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Villain",
             "number": 96,
             "color_identity": "B",
@@ -23257,7 +23257,7 @@
         {
             "card_name": "Prowler",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Rogue Villain",
             "number": 106,
             "color_identity": "B",
@@ -23280,7 +23280,7 @@
         {
             "card_name": "Doctor Doom",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Warlock Villain",
             "number": 89,
             "color_identity": "B",
@@ -23303,7 +23303,7 @@
         {
             "card_name": "Omega Red",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Mutant Villain",
             "number": 105,
             "color_identity": "B",
@@ -23326,7 +23326,7 @@
         {
             "card_name": "Annihilus",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Insect Villain",
             "number": 78,
             "color_identity": "B",
@@ -23349,7 +23349,7 @@
         {
             "card_name": "Hela, Goddess of Death",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 God Villain",
             "number": 94,
             "color_identity": "B",
@@ -23372,7 +23372,7 @@
         {
             "card_name": "Quicksilver",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Mutant Hero",
             "number": 141,
             "color_identity": "R",
@@ -23395,7 +23395,7 @@
         {
             "card_name": "Red Guardian",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Soldier Villain",
             "number": 142,
             "color_identity": "R",
@@ -23418,7 +23418,7 @@
         {
             "card_name": "Jubilee",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Mutant Hero",
             "number": 134,
             "color_identity": "R",
@@ -23441,7 +23441,7 @@
         {
             "card_name": "Deadpool",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Mutant Mercenary",
             "number": 121,
             "color_identity": "R",
@@ -23464,7 +23464,7 @@
         {
             "card_name": "Pyro",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Mutant Villain",
             "number": 140,
             "color_identity": "R",
@@ -23487,7 +23487,7 @@
         {
             "card_name": "Taskmaster",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Mercenary Villain",
             "number": 151,
             "color_identity": "R",
@@ -23510,7 +23510,7 @@
         {
             "card_name": "Snowbird",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Hero",
             "number": 181,
             "color_identity": "G",
@@ -23533,7 +23533,7 @@
         {
             "card_name": "Crystal",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Inhuman Noble Hero",
             "number": 160,
             "color_identity": "WUBRG",
@@ -23556,7 +23556,7 @@
         {
             "card_name": "Spider-Ham",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Spider Boar Hero",
             "number": 182,
             "color_identity": "G",
@@ -23579,7 +23579,7 @@
         {
             "card_name": "Absorbing Man",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Rogue Villain",
             "number": 155,
             "color_identity": "G",
@@ -23602,7 +23602,7 @@
         {
             "card_name": "Lizard",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Lizard Villain",
             "number": 170,
             "color_identity": "G",
@@ -23625,7 +23625,7 @@
         {
             "card_name": "Multiple Man",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Mutant Rogue Hero",
             "number": 172,
             "color_identity": "G",
@@ -23648,7 +23648,7 @@
         {
             "card_name": "Elsa Bloodstone",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Ranger Hero",
             "number": 161,
             "color_identity": "G",
@@ -23671,7 +23671,7 @@
         {
             "card_name": "Rogue",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Mutant Rogue Hero",
             "number": 177,
             "color_identity": "G",
@@ -23694,7 +23694,7 @@
         {
             "card_name": "Gorilla-Man",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Ape Mercenary Hero",
             "number": 163,
             "color_identity": "G",
@@ -23717,7 +23717,7 @@
         {
             "card_name": "Abomination",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Giant Villain",
             "number": 154,
             "color_identity": "G",
@@ -23740,7 +23740,7 @@
         {
             "card_name": "Colossus",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Mutant Hero",
             "number": 159,
             "color_identity": "G",
@@ -23763,7 +23763,7 @@
         {
             "card_name": "Kraven the Hunter",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Warrior Villain",
             "number": 168,
             "color_identity": "G",
@@ -23786,7 +23786,7 @@
         {
             "card_name": "Deathlok",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Artifact Creature \u2013 Cyborg Hero",
             "number": 233,
             "color_identity": "C",
@@ -23809,7 +23809,7 @@
         {
             "card_name": "Ultron",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Artifact Creature \u2013 Robot Villain",
             "number": 242,
             "color_identity": "C",
@@ -23832,7 +23832,7 @@
         {
             "card_name": "Machine Man",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Artifact Creature \u2013 Robot Hero",
             "number": 239,
             "color_identity": "C",
@@ -23855,7 +23855,7 @@
         {
             "card_name": "Silver Surfer",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Alien Scout",
             "number": 2,
             "color_identity": "C",
@@ -23878,7 +23878,7 @@
         {
             "card_name": "Casket of Ancient Winters",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Artifact",
             "number": 230,
             "color_identity": "U",
@@ -23901,7 +23901,7 @@
         {
             "card_name": "Crimson Gem of Cyttorak",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Artifact",
             "number": 231,
             "color_identity": "R",
@@ -23924,7 +23924,7 @@
         {
             "card_name": "Darkhold",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Artifact",
             "number": 232,
             "color_identity": "B",
@@ -23947,7 +23947,7 @@
         {
             "card_name": "Eye of Agamotto",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Artifact",
             "number": 234,
             "color_identity": "W",
@@ -23970,7 +23970,7 @@
         {
             "card_name": "Jade Tiger Amulet",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Artifact",
             "number": 238,
             "color_identity": "G",
@@ -23993,7 +23993,7 @@
         {
             "card_name": "Infinity Gems",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Artifact",
             "number": 236,
             "color_identity": "C",
@@ -24016,7 +24016,7 @@
         {
             "card_name": "Black Vortex",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Artifact",
             "number": 229,
             "color_identity": "C",
@@ -24039,7 +24039,7 @@
         {
             "card_name": "Iron Man Armor",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Artifact \u2013 Equipment",
             "number": 237,
             "color_identity": "C",
@@ -24062,7 +24062,7 @@
         {
             "card_name": "Staff of One",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Artifact",
             "number": 241,
             "color_identity": "C",
@@ -24085,7 +24085,7 @@
         {
             "card_name": "Delusions of Grandeur",
             "color": "UB",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 198,
             "color_identity": "UB",
@@ -24108,7 +24108,7 @@
         {
             "card_name": "Emma Frost",
             "color": "UB",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Mutant Villain",
             "number": 200,
             "color_identity": "UB",
@@ -24131,7 +24131,7 @@
         {
             "card_name": "Bring to Balance",
             "color": "WB",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 193,
             "color_identity": "WB",
@@ -24154,7 +24154,7 @@
         {
             "card_name": "Wolverine",
             "color": "RG",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Mutant Berserker Hero",
             "number": 218,
             "color_identity": "RG",
@@ -24177,7 +24177,7 @@
         {
             "card_name": "Cloak and Dagger",
             "color": "WB",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Hero",
             "number": 195,
             "color_identity": "WB",
@@ -24200,7 +24200,7 @@
         {
             "card_name": "Glimpse Infinite Realities",
             "color": "UR",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 202,
             "color_identity": "UR",
@@ -24223,7 +24223,7 @@
         {
             "card_name": "Magneto",
             "color": "UR",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Mutant Villain",
             "number": 208,
             "color_identity": "UR",
@@ -24246,7 +24246,7 @@
         {
             "card_name": "Mister Sinister",
             "color": "BG",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Mutant Scientist Villain",
             "number": 209,
             "color_identity": "BG",
@@ -24269,7 +24269,7 @@
         {
             "card_name": "Cyclops",
             "color": "WR",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Mutant Hero",
             "number": 197,
             "color_identity": "WR",
@@ -24292,7 +24292,7 @@
         {
             "card_name": "The Collector",
             "color": "UG",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Planeswalker \u2013 Tivan",
             "number": 196,
             "color_identity": "UG",
@@ -24315,7 +24315,7 @@
         {
             "card_name": "The Incredible Hulk",
             "color": "RG",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Giant Berserker Hero",
             "number": 204,
             "color_identity": "RG",
@@ -24338,7 +24338,7 @@
         {
             "card_name": "Daredevil, Man Without Fear",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Hero",
             "number": 11,
             "color_identity": "W",
@@ -24361,7 +24361,7 @@
         {
             "card_name": "Annihilation Wave",
             "color": "BG",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 190,
             "color_identity": "BG",
@@ -24384,7 +24384,7 @@
         {
             "card_name": "Thanos, the Mad Titan",
             "color": "WUBRG",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Planeswalker \u2013 Thanos",
             "number": 216,
             "color_identity": "WUBRG",
@@ -24407,7 +24407,7 @@
         {
             "card_name": "Scarlet Witch",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Mutant Wizard Hero",
             "number": 147,
             "color_identity": "R",
@@ -24430,7 +24430,7 @@
         {
             "card_name": "Electro",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Villain",
             "number": 122,
             "color_identity": "R",
@@ -24453,7 +24453,7 @@
         {
             "card_name": "Sandman",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Sand Elemental Villain",
             "number": 178,
             "color_identity": "G",
@@ -24476,7 +24476,7 @@
         {
             "card_name": "Sand",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Creature \u2013 Sand",
             "number": 10,
             "color_identity": "G",
@@ -24499,7 +24499,7 @@
         {
             "card_name": "Professor X",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Mutant Advisor Hero",
             "number": 63,
             "color_identity": "U",
@@ -24522,7 +24522,7 @@
         {
             "card_name": "Winter Soldier",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Assassin Villain",
             "number": 116,
             "color_identity": "B",
@@ -24545,7 +24545,7 @@
         {
             "card_name": "Killmonger",
             "color": "BR",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Villain",
             "number": 206,
             "color_identity": "BR",
@@ -24568,7 +24568,7 @@
         {
             "card_name": "Thing",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Golem Hero",
             "number": 184,
             "color_identity": "G",
@@ -24591,7 +24591,7 @@
         {
             "card_name": "Nightmare",
             "color": "UB",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Planeswalker \u2013 Nightmare",
             "number": 210,
             "color_identity": "UB",
@@ -24614,7 +24614,7 @@
         {
             "card_name": "Khonshu, God of the Moon",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Planeswalker \u2013 Khonshu",
             "number": 19,
             "color_identity": "W",
@@ -24637,7 +24637,7 @@
         {
             "card_name": "Baron Mordo",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Warlock Villain",
             "number": 80,
             "color_identity": "B",
@@ -24660,7 +24660,7 @@
         {
             "card_name": "Ragnarok",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 31,
             "color_identity": "W",
@@ -24683,7 +24683,7 @@
         {
             "card_name": "Days of Future Past",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Enchantment \u2013 Saga",
             "number": 47,
             "color_identity": "U",
@@ -24706,7 +24706,7 @@
         {
             "card_name": "Preordain",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 62,
             "color_identity": "U",
@@ -24729,7 +24729,7 @@
         {
             "card_name": "Vigorous Research",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 73,
             "color_identity": "U",
@@ -24752,7 +24752,7 @@
         {
             "card_name": "Mister Fantastic",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Scientist Hero",
             "number": 56,
             "color_identity": "U",
@@ -24775,7 +24775,7 @@
         {
             "card_name": "Age of Ultron",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Enchantment \u2013 Saga",
             "number": 77,
             "color_identity": "B",
@@ -24798,7 +24798,7 @@
         {
             "card_name": "Human Torch",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Hero",
             "number": 132,
             "color_identity": "R",
@@ -24821,7 +24821,7 @@
         {
             "card_name": "HERBIE",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Artifact Creature \u2013 Robot Hero",
             "number": 235,
             "color_identity": "C",
@@ -24844,7 +24844,7 @@
         {
             "card_name": "Academy Training",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 156,
             "color_identity": "G",
@@ -24867,7 +24867,7 @@
         {
             "card_name": "Ghost-Spider",
             "color": "WR",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Spider Human Hero",
             "number": 223,
             "color_identity": "WR",
@@ -24890,7 +24890,7 @@
         {
             "card_name": "Start Your Engines!",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token",
             "number": 1,
             "color_identity": "C",
@@ -24913,7 +24913,7 @@
         {
             "card_name": "Moira X",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Mutant Hero",
             "number": 57,
             "color_identity": "U",
@@ -24936,7 +24936,7 @@
         {
             "card_name": "Rictor",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Mutant Druid Hero",
             "number": 176,
             "color_identity": "G",
@@ -24959,7 +24959,7 @@
         {
             "card_name": "The Founding of Krakoa",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Enchantment \u2013 Saga",
             "number": 162,
             "color_identity": "G",
@@ -24982,7 +24982,7 @@
         {
             "card_name": "Absolute Zero",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 40,
             "color_identity": "U",
@@ -25005,7 +25005,7 @@
         {
             "card_name": "Great Power",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 187,
             "color_identity": "G",
@@ -25040,7 +25040,7 @@
         {
             "card_name": "Hawkeye (Clint Barton)",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Archer Hero",
             "number": 128,
             "color_identity": "R",
@@ -25063,7 +25063,7 @@
         {
             "card_name": "Hawkeye (Kate Bishop)",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Archer Hero",
             "number": 129,
             "color_identity": "R",
@@ -25086,7 +25086,7 @@
         {
             "card_name": "Shadow King's Clutches",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 109,
             "color_identity": "B",
@@ -25109,7 +25109,7 @@
         {
             "card_name": "Red Skull",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Skeleton Soldier Villain",
             "number": 107,
             "color_identity": "B",
@@ -25132,7 +25132,7 @@
         {
             "card_name": "Spider-Woman",
             "color": "WU",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Spider Human Hero",
             "number": 227,
             "color_identity": "WU",
@@ -25155,7 +25155,7 @@
         {
             "card_name": "Doctor Octopus",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Artificer Villain",
             "number": 48,
             "color_identity": "U",
@@ -25178,7 +25178,7 @@
         {
             "card_name": "Vulture",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Rogue Villain",
             "number": 115,
             "color_identity": "B",
@@ -25201,7 +25201,7 @@
         {
             "card_name": "Odin, the All-Father",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Odin",
             "number": 27,
             "color_identity": "W",
@@ -25224,7 +25224,7 @@
         {
             "card_name": "Captain America",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Soldier Hero",
             "number": 9,
             "color_identity": "W",
@@ -25247,7 +25247,7 @@
         {
             "card_name": "Rocket Raccoon",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Raccoon Pirate Hero",
             "number": 143,
             "color_identity": "R",
@@ -25270,7 +25270,7 @@
         {
             "card_name": "Beast",
             "color": "UG",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Mutant Beast Hero",
             "number": 192,
             "color_identity": "UG",
@@ -25293,7 +25293,7 @@
         {
             "card_name": "Namor the Sub-Mariner",
             "color": "UG",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Mutant Merfolk Noble",
             "number": 226,
             "color_identity": "UG",
@@ -25316,7 +25316,7 @@
         {
             "card_name": "Doctor Strange",
             "color": "WU",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Wizard Hero",
             "number": 199,
             "color_identity": "WU",
@@ -25351,7 +25351,7 @@
         {
             "card_name": "Groot",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Treefolk Hero",
             "number": 164,
             "color_identity": "G",
@@ -25386,7 +25386,7 @@
         {
             "card_name": "Rewrite Reality",
             "color": "BR",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 212,
             "color_identity": "BR",
@@ -25409,7 +25409,7 @@
         {
             "card_name": "War Machine",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Artifact Creature \u2013 Human Hero",
             "number": 38,
             "color_identity": "W",
@@ -25432,7 +25432,7 @@
         {
             "card_name": "Squirrel Girl",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Squirrel Human Hero",
             "number": 183,
             "color_identity": "G",
@@ -25455,7 +25455,7 @@
         {
             "card_name": "Bullseye",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Assassin Villain",
             "number": 83,
             "color_identity": "B",
@@ -25478,7 +25478,7 @@
         {
             "card_name": "Punisher",
             "color": "BR",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Mercenary",
             "number": 211,
             "color_identity": "BR",
@@ -25501,7 +25501,7 @@
         {
             "card_name": "Fastball Special",
             "color": "RG",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Instant",
             "number": 201,
             "color_identity": "RG",
@@ -25524,7 +25524,7 @@
         {
             "card_name": "Cosmo the Space Dog",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Dog Hero",
             "number": 10,
             "color_identity": "W",
@@ -25547,7 +25547,7 @@
         {
             "card_name": "Nick Fury",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Soldier Hero",
             "number": 26,
             "color_identity": "W",
@@ -25570,7 +25570,7 @@
         {
             "card_name": "Hulkling",
             "color": "UG",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Skrull Kree Hero",
             "number": 203,
             "color_identity": "UG",
@@ -25593,7 +25593,7 @@
         {
             "card_name": "Ant-Man",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Scientist Hero",
             "number": 41,
             "color_identity": "U",
@@ -25616,7 +25616,7 @@
         {
             "card_name": "The Coming of Galactus",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Enchantment \u2013 Saga",
             "number": 86,
             "color_identity": "B",
@@ -25639,7 +25639,7 @@
         {
             "card_name": "Galactus, Devourer of Worlds",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Planeswalker \u2013 Galactus",
             "number": 1,
             "color_identity": "C",
@@ -25662,7 +25662,7 @@
         {
             "card_name": "SPDR",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Artifact \u2013 Vehicle",
             "number": 11,
             "color_identity": "C",
@@ -25685,7 +25685,7 @@
         {
             "card_name": "Angel",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Mutant Hero",
             "number": 3,
             "color_identity": "W",
@@ -25708,7 +25708,7 @@
         {
             "card_name": "All Gods Must Die",
             "color": "WB",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 188,
             "color_identity": "WB",
@@ -25731,7 +25731,7 @@
         {
             "card_name": "Surtur, Lord of Muspelheim",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Planeswalker \u2013 Surtur",
             "number": 150,
             "color_identity": "R",
@@ -25754,7 +25754,7 @@
         {
             "card_name": "Inferno Titan",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Creature \u2013 Giant",
             "number": 8,
             "color_identity": "R",
@@ -25777,7 +25777,7 @@
         {
             "card_name": "Mercenary",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Creature \u2013 Mercenary",
             "number": 2,
             "color_identity": "B",
@@ -25800,7 +25800,7 @@
         {
             "card_name": "Mercenary",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Creature \u2013 Mercenary",
             "number": 3,
             "color_identity": "B",
@@ -25823,7 +25823,7 @@
         {
             "card_name": "Mercenary",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Creature \u2013 Mercenary",
             "number": 4,
             "color_identity": "B",
@@ -25846,7 +25846,7 @@
         {
             "card_name": "Mercenary",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Creature \u2013 Mercenary",
             "number": 5,
             "color_identity": "B",
@@ -25869,7 +25869,7 @@
         {
             "card_name": "Black Panther",
             "color": "G",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Noble Hero",
             "number": 157,
             "color_identity": "G",
@@ -25904,7 +25904,7 @@
         {
             "card_name": "Malekith the Accursed",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Elf Warlock Villain",
             "number": 138,
             "color_identity": "R",
@@ -25927,7 +25927,7 @@
         {
             "card_name": "Enchantress",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 God Wizard Villain",
             "number": 49,
             "color_identity": "U",
@@ -25950,7 +25950,7 @@
         {
             "card_name": "Nico Minoru",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Warlock Hero",
             "number": 103,
             "color_identity": "B",
@@ -25973,7 +25973,7 @@
         {
             "card_name": "Dum Dum Dugan",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Soldier Hero",
             "number": 12,
             "color_identity": "W",
@@ -25996,7 +25996,7 @@
         {
             "card_name": "Blue Marvel",
             "color": "WU",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Scientist Hero",
             "number": 221,
             "color_identity": "WU",
@@ -26019,7 +26019,7 @@
         {
             "card_name": "Kushala, Demon Rider",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Warlock Hero",
             "number": 136,
             "color_identity": "R",
@@ -26042,7 +26042,7 @@
         {
             "card_name": "Spirit",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Creature \u2013 Spirit",
             "number": 9,
             "color_identity": "R",
@@ -26065,7 +26065,7 @@
         {
             "card_name": "Media Persecution",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 98,
             "color_identity": "B",
@@ -26088,7 +26088,7 @@
         {
             "card_name": "Storm",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Mutant Hero",
             "number": 71,
             "color_identity": "U",
@@ -26111,7 +26111,7 @@
         {
             "card_name": "Jotunheim, Realm of Giants",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Land",
             "number": 264,
             "color_identity": "UR",
@@ -26134,7 +26134,7 @@
         {
             "card_name": "Earth-616",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Land",
             "number": 252,
             "color_identity": "C",
@@ -26157,7 +26157,7 @@
         {
             "card_name": "Annihilus",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Insect Villain",
             "number": 79,
             "color_identity": "B",
@@ -26180,7 +26180,7 @@
         {
             "card_name": "Gamora, Galaxy's Deadliest",
             "color": "BR",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Alien Assassin Hero",
             "number": 222,
             "color_identity": "BR",
@@ -26203,7 +26203,7 @@
         {
             "card_name": "Star-Lord",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Alien Noble Pirate Hero",
             "number": 149,
             "color_identity": "R",
@@ -26226,7 +26226,7 @@
         {
             "card_name": "Fabled Passage",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Land",
             "number": 254,
             "color_identity": "C",
@@ -26249,7 +26249,7 @@
         {
             "card_name": "Rootbound Crag",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Land",
             "number": 270,
             "color_identity": "RG",
@@ -26272,7 +26272,7 @@
         {
             "card_name": "Glacial Fortress",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Land",
             "number": 258,
             "color_identity": "WU",
@@ -26295,7 +26295,7 @@
         {
             "card_name": "Drowned Catacomb",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Land",
             "number": 251,
             "color_identity": "UB",
@@ -26318,7 +26318,7 @@
         {
             "card_name": "Dragonskull Summit",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Land",
             "number": 250,
             "color_identity": "BR",
@@ -26341,7 +26341,7 @@
         {
             "card_name": "Hinterland Harbor",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Land",
             "number": 261,
             "color_identity": "UG",
@@ -26364,7 +26364,7 @@
         {
             "card_name": "Isolated Chapel",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Land",
             "number": 263,
             "color_identity": "WB",
@@ -26387,7 +26387,7 @@
         {
             "card_name": "Sulfur Falls",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Land",
             "number": 273,
             "color_identity": "UR",
@@ -26410,7 +26410,7 @@
         {
             "card_name": "Sunpetal Grove",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Land",
             "number": 274,
             "color_identity": "WG",
@@ -26433,7 +26433,7 @@
         {
             "card_name": "Woodland Cemetery",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Land",
             "number": 278,
             "color_identity": "BG",
@@ -26456,7 +26456,7 @@
         {
             "card_name": "Clifftop Retreat",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Land",
             "number": 248,
             "color_identity": "WR",
@@ -26479,7 +26479,7 @@
         {
             "card_name": "A Living Legend Rises",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Enchantment \u2013 Saga",
             "number": 20,
             "color_identity": "W",
@@ -26502,7 +26502,7 @@
         {
             "card_name": "Friendly Neighborhood",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Land",
             "number": 257,
             "color_identity": "C",
@@ -26525,7 +26525,7 @@
         {
             "card_name": "Treasure",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Artifact \u2013 Treasure",
             "number": 12,
             "color_identity": "C",
@@ -26548,7 +26548,7 @@
         {
             "card_name": "Soulsword",
             "color": "WR",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Artifact \u2013 Equipment",
             "number": 214,
             "color_identity": "WR",
@@ -26571,7 +26571,7 @@
         {
             "card_name": "Avengers Assemble",
             "color": "WG",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 191,
             "color_identity": "WG",
@@ -26594,7 +26594,7 @@
         {
             "card_name": "Civil War",
             "color": "WR",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 194,
             "color_identity": "WR",
@@ -26617,7 +26617,7 @@
         {
             "card_name": "The Mighty Thor",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 God Warrior Hero",
             "number": 23,
             "color_identity": "W",
@@ -26652,7 +26652,7 @@
         {
             "card_name": "Hulkbuster Armor",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Artifact Creature \u2013 Hero Equipment",
             "number": 131,
             "color_identity": "R",
@@ -26675,7 +26675,7 @@
         {
             "card_name": "Muspelheim, Realm of Fire",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Land",
             "number": 266,
             "color_identity": "BR",
@@ -26698,7 +26698,7 @@
         {
             "card_name": "Niffleheim, Realm of the Dead",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Land",
             "number": 268,
             "color_identity": "UB",
@@ -26721,7 +26721,7 @@
         {
             "card_name": "Nidavellir, Realm of Dwarves",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Land",
             "number": 267,
             "color_identity": "WR",
@@ -26744,7 +26744,7 @@
         {
             "card_name": "Svartalfheim, Realm of Dark Elves",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Land",
             "number": 275,
             "color_identity": "BG",
@@ -26767,7 +26767,7 @@
         {
             "card_name": "Heven, Realm of Angels",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Land",
             "number": 260,
             "color_identity": "WB",
@@ -26790,7 +26790,7 @@
         {
             "card_name": "Asgard, Realm of Gods",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Land",
             "number": 246,
             "color_identity": "WU",
@@ -26813,7 +26813,7 @@
         {
             "card_name": "Alfheim, Realm of Elves",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Land",
             "number": 245,
             "color_identity": "WG",
@@ -26836,7 +26836,7 @@
         {
             "card_name": "Vanaheim, Realm of Old Gods",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Land",
             "number": 277,
             "color_identity": "RG",
@@ -26859,7 +26859,7 @@
         {
             "card_name": "Midgard, Realm of Mortals",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Land",
             "number": 265,
             "color_identity": "UG",
@@ -26882,7 +26882,7 @@
         {
             "card_name": "Devil",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Token Creature \u2013 Devil",
             "number": 7,
             "color_identity": "R",
@@ -26905,7 +26905,7 @@
         {
             "card_name": "Mockingbird",
             "color": "W",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Soldier Hero",
             "number": 24,
             "color_identity": "W",
@@ -26928,7 +26928,7 @@
         {
             "card_name": "The Sensational She-Hulk",
             "color": "WG",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Giant Advisor Hero",
             "number": 213,
             "color_identity": "WG",
@@ -26951,7 +26951,7 @@
         {
             "card_name": "Hit-Monkey",
             "color": "BG",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Monkey Assassin",
             "number": 224,
             "color_identity": "BG",
@@ -26974,7 +26974,7 @@
         {
             "card_name": "Ego the Living Planet",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Land \u2013 Planet",
             "number": 253,
             "color_identity": "C",
@@ -26997,7 +26997,7 @@
         {
             "card_name": "Kang the Conqueror",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Planeswalker \u2013 Kang",
             "number": 53,
             "color_identity": "U",
@@ -27020,7 +27020,7 @@
         {
             "card_name": "Kang the Conqueror (Rama-Tut)",
             "color": "U",
-            "rarity": "special",
+            "rarity": "cube",
             "type": "Legendary Planeswalker \u2013 Kang",
             "number": 280,
             "color_identity": "U",
@@ -27043,7 +27043,7 @@
         {
             "card_name": "Kang the Conqueror (Immortus)",
             "color": "U",
-            "rarity": "special",
+            "rarity": "cube",
             "type": "Legendary Planeswalker \u2013 Kang",
             "number": 279,
             "color_identity": "U",
@@ -27066,7 +27066,7 @@
         {
             "card_name": "Kang the Conqueror (Scarlet Centurion)",
             "color": "U",
-            "rarity": "special",
+            "rarity": "cube",
             "type": "Legendary Planeswalker \u2013 Kang",
             "number": 281,
             "color_identity": "U",
@@ -27089,7 +27089,7 @@
         {
             "card_name": "(The Maker Rewrites History)",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Enchantment \u2013 Saga",
             "number": 39,
             "color_identity": "U",
@@ -27112,7 +27112,7 @@
         {
             "card_name": "The Runaways",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Alien Mutant Hero",
             "number": 145,
             "color_identity": "R",
@@ -27135,7 +27135,7 @@
         {
             "card_name": "The Runaways",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Alien Mutant Hero",
             "number": 144,
             "color_identity": "R",
@@ -27158,7 +27158,7 @@
         {
             "card_name": "Secret Invasion",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Enchantment \u2013 Saga",
             "number": 67,
             "color_identity": "U",
@@ -27181,7 +27181,7 @@
         {
             "card_name": "Planet Hulk",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Enchantment \u2013 Saga",
             "number": 139,
             "color_identity": "R",
@@ -27204,7 +27204,7 @@
         {
             "card_name": "(Agatha Harkness)",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Planeswalker \u2013 Agatha",
             "number": 75,
             "color_identity": "B",
@@ -27227,7 +27227,7 @@
         {
             "card_name": "(Morlun, the Inheritor)",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Planeswalker \u2013 Morlun",
             "number": 76,
             "color_identity": "B",
@@ -27250,7 +27250,7 @@
         {
             "card_name": "Wonder Man",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Elemental Hero",
             "number": 153,
             "color_identity": "R",
@@ -27273,7 +27273,7 @@
         {
             "card_name": "Lizard",
             "color": "BG",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Lizard Human Villain",
             "number": 207,
             "color_identity": "BG",
@@ -27296,7 +27296,7 @@
         {
             "card_name": "Scorpion",
             "color": "B",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Scorpion Human Villain",
             "number": 108,
             "color_identity": "B",
@@ -27319,7 +27319,7 @@
         {
             "card_name": "Boomerang",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Rogue Villain",
             "number": 118,
             "color_identity": "R",
@@ -27342,7 +27342,7 @@
         {
             "card_name": "Chameleon",
             "color": "U",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Shapeshifter Villain",
             "number": 44,
             "color_identity": "U",
@@ -27365,7 +27365,7 @@
         {
             "card_name": "Scarlet Scarab, Blade of Taweret",
             "color": "R",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Scout Hero",
             "number": 146,
             "color_identity": "R",
@@ -27388,7 +27388,7 @@
         {
             "card_name": "Canyon Slough",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Land \u2013 Swamp Mountain",
             "number": 247,
             "color_identity": "BR",
@@ -27411,7 +27411,7 @@
         {
             "card_name": "Coastal Peak",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Land \u2013 Island Mountain",
             "number": 249,
             "color_identity": "UR",
@@ -27434,7 +27434,7 @@
         {
             "card_name": "Rain-Slicked Copse",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Land \u2013 Forest Island",
             "number": 269,
             "color_identity": "UG",
@@ -27457,7 +27457,7 @@
         {
             "card_name": "Fetid Pools",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Land \u2013 Island Swamp",
             "number": 256,
             "color_identity": "UB",
@@ -27480,7 +27480,7 @@
         {
             "card_name": "Irrigated Farmland",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Land \u2013 Plains Island",
             "number": 262,
             "color_identity": "WU",
@@ -27503,7 +27503,7 @@
         {
             "card_name": "Glittering Massif",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Land \u2013 Mountain Plains",
             "number": 259,
             "color_identity": "WR",
@@ -27526,7 +27526,7 @@
         {
             "card_name": "Umbral Expanse",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Land \u2013 Plains Swamp",
             "number": 276,
             "color_identity": "WB",
@@ -27549,7 +27549,7 @@
         {
             "card_name": "Festering Thicket",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Land \u2013 Swamp Forest",
             "number": 255,
             "color_identity": "BG",
@@ -27572,7 +27572,7 @@
         {
             "card_name": "Scattered Groves",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Land \u2013 Forest Plains",
             "number": 271,
             "color_identity": "WG",
@@ -27595,7 +27595,7 @@
         {
             "card_name": "Sheltered Thicket",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Land \u2013 Mountain Forest",
             "number": 272,
             "color_identity": "RG",
@@ -27618,7 +27618,7 @@
         {
             "card_name": "The Amazing Spider-Man",
             "color": "WG",
-            "rarity": "special",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Spider Human Hero",
             "number": 282,
             "color_identity": "WG",
@@ -27641,7 +27641,7 @@
         {
             "card_name": "The Incredible Hulk",
             "color": "RG",
-            "rarity": "special",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 Giant Berserker Hero",
             "number": 283,
             "color_identity": "RG",
@@ -27664,7 +27664,7 @@
         {
             "card_name": "Iron Man, Armored Avenger",
             "color": "UR",
-            "rarity": "special",
+            "rarity": "cube",
             "type": "Legendary Artifact Creature \u2013 Human Hero",
             "number": 284,
             "color_identity": "UR",
@@ -27687,7 +27687,7 @@
         {
             "card_name": "Thor, God of Thunder",
             "color": "WR",
-            "rarity": "special",
+            "rarity": "cube",
             "type": "Legendary Creature \u2013 God Warrior Hero",
             "number": 285,
             "color_identity": "WR",

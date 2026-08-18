@@ -1,4 +1,604 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+
+
+The Amazing Spider-Man
+
+Portal Hopping
+
+Invisible Woman
+
+Spider-Man Noir
+
+Silvermane
+
+Iron Man, Armored Avenger
+
+Astral Projection
+
+Journey into Mystery
+
+Magik
+
+Blind Justice
+
+Banish to Limbo
+
+Purge the Occult
+
+Spider-Man 2099
+
+Vibranium Shield
+
+Suit Up
+
+Consider
+
+Psychic Knife
+
+Two Steps Ahead
+
+Mystic Arts
+
+Imperius Rex!
+
+Crack the Case
+
+The Maker
+
+Rescue Armor
+
+Shifting Identity
+
+Burning Fear
+
+Take Aim
+
+Elegy
+
+Death Spores
+
+No More
+
+Mister Negative
+
+Mephisto
+
+Knull, King in Black
+
+Dormammu
+
+Trickshot
+
+Fin Fang Foom
+
+Fatal Attractions
+
+Energy Conduit
+
+Fortune Favors the Bold
+
+Life-Model Decoy
+
+High Evolutionary
+
+A Day Unlike Any Other
+
+Hell Cycle
+
+Crowd Favorite
+
+Savage Land Expedition
+
+Seismic Shifting
+
+Into the Cosmos
+
+Origin Story
+
+Kraven's Last Hunt
+
+Clobber
+
+Maestro
+
+Plot Armor
+
+Red Ghost
+
+Black Widow
+
+Havok
+
+Loki, God of Mischief
+
+White Tiger
+
+Blade
+
+Man-Thing
+
+Lock Up
+
+Warpath
+
+Brood Spawning
+
+Bishop
+
+Iron Fist
+
+Juggernaut
+
+Shocker
+
+Gambit
+
+Ka-Zar
+
+Ghost Rider
+
+Sinister Scheme
+
+Spirit of Vengeance
+
+Zabu
+
+Vision
+
+Silk
+
+Jessica Jones
+
+Shadowcat
+
+Carnage
+
+Venom
+
+Wasp
+
+Warlock
+
+Thor, God of Thunder
+
+Peni Parker
+
+Anti-Venom
+
+Edwin Jarvis
+
+Moon Knight, Fist of Khonshu
+
+Shang-Chi
+
+Falcon
+
+Valkyrie
+
+Heimdall, the All-Seeing
+
+Black Bolt
+
+Sentry
+
+Void
+
+Blink
+
+Iceman
+
+Mystique
+
+Psylocke
+
+Cable
+
+Nightcrawler
+
+Mysterio
+
+Elektra
+
+Swarm
+
+Mole Man
+
+Black Cat
+
+Morbius
+
+Crossbones
+
+The Hood
+
+Kingpin
+
+Prowler
+
+Doctor Doom
+
+Omega Red
+
+Annihilus
+
+Hela, Goddess of Death
+
+Quicksilver
+
+Red Guardian
+
+Jubilee
+
+Deadpool
+
+Pyro
+
+Taskmaster
+
+Snowbird
+
+Crystal
+
+Spider-Ham
+
+Absorbing Man
+
+Lizard
+
+Multiple Man
+
+Elsa Bloodstone
+
+Rogue
+
+Gorilla-Man
+
+Abomination
+
+Colossus
+
+Kraven the Hunter
+
+Deathlok
+
+Ultron
+
+Machine Man
+
+Silver Surfer
+
+Casket of Ancient Winters
+
+Crimson Gem of Cyttorak
+
+Darkhold
+
+Eye of Agamotto
+
+Jade Tiger Amulet
+
+Infinity Gems
+
+Black Vortex
+
+Iron Man Armor
+
+Staff of One
+
+Delusions of Grandeur
+
+Emma Frost
+
+Bring to Balance
+
+Wolverine
+
+Cloak and Dagger
+
+Glimpse Infinite Realities
+
+Magneto
+
+Mister Sinister
+
+Cyclops
+
+The Collector
+
+The Incredible Hulk
+
+Daredevil, Man Without Fear
+
+Annihilation Wave
+
+Thanos, the Mad Titan
+
+Scarlet Witch
+
+Electro
+
+Sandman
+
+Sand
+
+Professor X
+
+Winter Soldier
+
+Killmonger
+
+Thing
+
+Nightmare
+
+Khonshu, God of the Moon
+
+Baron Mordo
+
+Ragnarok
+
+Days of Future Past
+
+Preordain
+
+Vigorous Research
+
+Mister Fantastic
+
+Age of Ultron
+
+Human Torch
+
+HERBIE
+
+Academy Training
+
+Ghost-Spider
+
+Start Your Engines!
+
+Moira X
+
+Rictor
+
+The Founding of Krakoa
+
+Absolute Zero
+
+Great Power
+
+Hawkeye (Clint Barton)
+
+Hawkeye (Kate Bishop)
+
+Shadow King's Clutches
+
+Red Skull
+
+Spider-Woman
+
+Doctor Octopus
+
+Vulture
+
+Odin, the All-Father
+
+Captain America
+
+Rocket Raccoon
+
+Beast
+
+Namor the Sub-Mariner
+
+Doctor Strange
+
+Groot
+
+Rewrite Reality
+
+War Machine
+
+Squirrel Girl
+
+Bullseye
+
+Punisher
+
+Fastball Special
+
+Cosmo the Space Dog
+
+Nick Fury
+
+Hulkling
+
+Ant-Man
+
+The Coming of Galactus
+
+Galactus, Devourer of Worlds
+
+SPDR
+
+Angel
+
+All Gods Must Die
+
+Surtur, Lord of Muspelheim
+
+Inferno Titan
+
+Mercenary
+
+Mercenary
+
+Mercenary
+
+Mercenary
+
+Black Panther
+
+Malekith the Accursed
+
+Enchantress
+
+Nico Minoru
+
+Dum Dum Dugan
+
+Blue Marvel
+
+Kushala, Demon Rider
+
+Spirit
+
+Media Persecution
+
+Storm
+
+Jotunheim, Realm of Giants
+
+Earth-616
+
+Annihilus
+
+Gamora, Galaxy's Deadliest
+
+Star-Lord
+
+Fabled Passage
+
+Rootbound Crag
+
+Glacial Fortress
+
+Drowned Catacomb
+
+Dragonskull Summit
+
+Hinterland Harbor
+
+Isolated Chapel
+
+Sulfur Falls
+
+Sunpetal Grove
+
+Woodland Cemetery
+
+Clifftop Retreat
+
+A Living Legend Rises
+
+Friendly Neighborhood
+
+Treasure
+
+Soulsword
+
+Avengers Assemble
+
+Civil War
+
+The Mighty Thor
+
+Hulkbuster Armor
+
+Muspelheim, Realm of Fire
+
+Niffleheim, Realm of the Dead
+
+Nidavellir, Realm of Dwarves
+
+Svartalfheim, Realm of Dark Elves
+
+Heven, Realm of Angels
+
+Asgard, Realm of Gods
+
+Alfheim, Realm of Elves
+
+Vanaheim, Realm of Old Gods
+
+Midgard, Realm of Mortals
+
+Devil
+
+Mockingbird
+
+The Sensational She-Hulk
+
+Hit-Monkey
+
+Ego the Living Planet
+
+Kang the Conqueror
+
+Kang the Conqueror (Rama-Tut)
+
+Kang the Conqueror (Immortus)
+
+Kang the Conqueror (Scarlet Centurion)
+
+(The Maker Rewrites History)
+
+The Runaways
+
+The Runaways
+
+Secret Invasion
+
+Planet Hulk
+
+(Agatha Harkness)
+
+(Morlun, the Inheritor)
+
+Wonder Man
+
+Lizard
+
+Scorpion
+
+Boomerang
+
+Chameleon
+
+Scarlet Scarab, Blade of Taweret
+
+Canyon Slough
+
+Coastal Peak
+
+Rain-Slicked Copse
+
+Fetid Pools
+
+Irrigated Farmland
+
+Glittering Massif
+
+Umbral Expanse
+
+Festering Thicket
+
+Scattered Groves
+
+Sheltered Thicket
+
+The Amazing Spider-Man
+
+The Incredible Hulk
+
+Iron Man, Armored Avenger
+
+Thor, God of Thunder
+
+
+VERSION 7 CHANGELOG
 ====================
 
 The Amazing Spider-Man added.

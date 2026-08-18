@@ -2,7 +2,7 @@
 	[
 		{
 			"name": "The Amazing Spider-Man",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Legendary Creature — Spider Human Hero",
 			"collector_number": "189",
@@ -12,7 +12,7 @@
 		},
 		{
 			"name": "Portal Hopping",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
 			"collector_number": "29",
@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "Invisible Woman",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Human Hero",
 			"collector_number": "17",
@@ -32,7 +32,7 @@
 		},
 		{
 			"name": "Spider-Man Noir",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Legendary Creature — Spider Human Detective",
 			"collector_number": "215",
@@ -42,7 +42,7 @@
 		},
 		{
 			"name": "Silvermane",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact Creature — Cyborg Villain",
 			"collector_number": "240",
@@ -52,7 +52,7 @@
 		},
 		{
 			"name": "Iron Man, Armored Avenger",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{U}{R}",
 			"type": "Legendary Artifact Creature — Human Hero",
 			"collector_number": "205",
@@ -62,7 +62,7 @@
 		},
 		{
 			"name": "Astral Projection",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Instant",
 			"collector_number": "5",
@@ -72,7 +72,7 @@
 		},
 		{
 			"name": "Journey into Mystery",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Enchantment",
 			"collector_number": "18",
@@ -82,7 +82,7 @@
 		},
 		{
 			"name": "Magik",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Legendary Creature — Mutant Wizard Hero",
 			"collector_number": "22",
@@ -92,7 +92,7 @@
 		},
 		{
 			"name": "Blind Justice",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
 			"collector_number": "8",
@@ -102,7 +102,7 @@
 		},
 		{
 			"name": "Banish to Limbo",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
 			"collector_number": "6",
@@ -112,7 +112,7 @@
 		},
 		{
 			"name": "Purge the Occult",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
 			"collector_number": "30",
@@ -122,7 +122,7 @@
 		},
 		{
 			"name": "Spider-Man 2099",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Legendary Creature — Spider Human Hero",
 			"collector_number": "70",
@@ -132,7 +132,7 @@
 		},
 		{
 			"name": "Vibranium Shield",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "37",
@@ -142,7 +142,7 @@
 		},
 		{
 			"name": "Suit Up",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{X}{W}",
 			"type": "Sorcery",
 			"collector_number": "35",
@@ -152,7 +152,7 @@
 		},
 		{
 			"name": "Consider",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Instant",
 			"collector_number": "45",
@@ -162,7 +162,7 @@
 		},
 		{
 			"name": "Psychic Knife",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{U}{U}",
 			"type": "Instant",
 			"collector_number": "64",
@@ -172,7 +172,7 @@
 		},
 		{
 			"name": "Two Steps Ahead",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{X}{U}",
 			"type": "Instant",
 			"collector_number": "72",
@@ -182,7 +182,7 @@
 		},
 		{
 			"name": "Mystic Arts",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
 			"collector_number": "59",
@@ -192,7 +192,7 @@
 		},
 		{
 			"name": "Imperius Rex!",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{X}{U}{U}",
 			"type": "Instant",
 			"collector_number": "51",
@@ -202,7 +202,7 @@
 		},
 		{
 			"name": "Crack the Case",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
 			"collector_number": "46",
@@ -212,7 +212,7 @@
 		},
 		{
 			"name": "The Maker",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Legendary Planeswalker — Richards",
 			"collector_number": "55",
@@ -222,7 +222,7 @@
 		},
 		{
 			"name": "Rescue Armor",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "66",
@@ -232,7 +232,7 @@
 		},
 		{
 			"name": "Shifting Identity",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "69",
@@ -242,7 +242,7 @@
 		},
 		{
 			"name": "Burning Fear",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Instant",
 			"collector_number": "84",
@@ -252,7 +252,7 @@
 		},
 		{
 			"name": "Take Aim",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
 			"collector_number": "113",
@@ -262,7 +262,7 @@
 		},
 		{
 			"name": "Elegy",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Instant",
 			"collector_number": "91",
@@ -272,7 +272,7 @@
 		},
 		{
 			"name": "Death Spores",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
 			"collector_number": "88",
@@ -282,7 +282,7 @@
 		},
 		{
 			"name": "No More",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
 			"collector_number": "104",
@@ -292,7 +292,7 @@
 		},
 		{
 			"name": "Mister Negative",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Creature — Human Villain",
 			"collector_number": "100",
@@ -302,7 +302,7 @@
 		},
 		{
 			"name": "Mephisto",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Legendary Planeswalker — Mephisto",
 			"collector_number": "99",
@@ -312,7 +312,7 @@
 		},
 		{
 			"name": "Knull, King in Black",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Planeswalker — Knull",
 			"collector_number": "97",
@@ -322,7 +322,7 @@
 		},
 		{
 			"name": "Dormammu",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Planeswalker — Dormammu",
 			"collector_number": "90",
@@ -332,7 +332,7 @@
 		},
 		{
 			"name": "Trickshot",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
 			"collector_number": "152",
@@ -342,7 +342,7 @@
 		},
 		{
 			"name": "Fin Fang Foom",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{5}{R}{R}",
 			"type": "Legendary Creature — Alien Dragon",
 			"collector_number": "125",
@@ -352,7 +352,7 @@
 		},
 		{
 			"name": "Fatal Attractions",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "124",
@@ -362,7 +362,7 @@
 		},
 		{
 			"name": "Energy Conduit",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "123",
@@ -372,7 +372,7 @@
 		},
 		{
 			"name": "Fortune Favors the Bold",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
 			"collector_number": "126",
@@ -382,7 +382,7 @@
 		},
 		{
 			"name": "Life-Model Decoy",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Artifact",
 			"collector_number": "137",
@@ -392,7 +392,7 @@
 		},
 		{
 			"name": "High Evolutionary",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Legendary Planeswalker — Evolutionary",
 			"collector_number": "165",
@@ -402,7 +402,7 @@
 		},
 		{
 			"name": "A Day Unlike Any Other",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
 			"collector_number": "120",
@@ -412,7 +412,7 @@
 		},
 		{
 			"name": "Hell Cycle",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Artifact — Vehicle",
 			"collector_number": "130",
@@ -422,7 +422,7 @@
 		},
 		{
 			"name": "Crowd Favorite",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
 			"collector_number": "119",
@@ -432,7 +432,7 @@
 		},
 		{
 			"name": "Savage Land Expedition",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Aura",
 			"collector_number": "179",
@@ -442,7 +442,7 @@
 		},
 		{
 			"name": "Seismic Shifting",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
 			"collector_number": "180",
@@ -452,7 +452,7 @@
 		},
 		{
 			"name": "Into the Cosmos",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
 			"collector_number": "166",
@@ -462,7 +462,7 @@
 		},
 		{
 			"name": "Origin Story",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
 			"collector_number": "173",
@@ -472,7 +472,7 @@
 		},
 		{
 			"name": "Kraven's Last Hunt",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Saga",
 			"collector_number": "169",
@@ -482,7 +482,7 @@
 		},
 		{
 			"name": "Clobber",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
 			"collector_number": "158",
@@ -492,7 +492,7 @@
 		},
 		{
 			"name": "Maestro",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Legendary Planeswalker — Banner",
 			"collector_number": "171",
@@ -502,7 +502,7 @@
 		},
 		{
 			"name": "Plot Armor",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Instant",
 			"collector_number": "174",
@@ -512,7 +512,7 @@
 		},
 		{
 			"name": "Red Ghost",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Legendary Creature — Human Scientist Villain",
 			"collector_number": "175",
@@ -522,7 +522,7 @@
 		},
 		{
 			"name": "Black Widow",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U/B}{U/B}",
 			"type": "Legendary Creature — Human Rogue Hero",
 			"collector_number": "219",
@@ -532,7 +532,7 @@
 		},
 		{
 			"name": "Havok",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Legendary Creature — Mutant Hero",
 			"collector_number": "15",
@@ -542,7 +542,7 @@
 		},
 		{
 			"name": "Loki, God of Mischief",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Legendary Creature — Giant Wizard Villain",
 			"collector_number": "54",
@@ -552,7 +552,7 @@
 		},
 		{
 			"name": "White Tiger",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G/W}{G/W}",
 			"type": "Legendary Creature — Human Hero",
 			"collector_number": "228",
@@ -562,7 +562,7 @@
 		},
 		{
 			"name": "Blade",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W/B}",
 			"type": "Legendary Creature — Human Vampire Hero",
 			"collector_number": "220",
@@ -572,7 +572,7 @@
 		},
 		{
 			"name": "Man-Thing",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{B/G}{B/G}",
 			"type": "Legendary Creature — Plant Horror",
 			"collector_number": "225",
@@ -582,7 +582,7 @@
 		},
 		{
 			"name": "Lock Up",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
 			"collector_number": "21",
@@ -592,7 +592,7 @@
 		},
 		{
 			"name": "Warpath",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Mutant Warrior Hero",
 			"collector_number": "185",
@@ -602,7 +602,7 @@
 		},
 		{
 			"name": "Brood Spawning",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Sorcery",
 			"collector_number": "82",
@@ -612,7 +612,7 @@
 		},
 		{
 			"name": "Bishop",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Mutant Soldier Hero",
 			"collector_number": "117",
@@ -622,7 +622,7 @@
 		},
 		{
 			"name": "Iron Fist",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Warrior Hero",
 			"collector_number": "133",
@@ -632,7 +632,7 @@
 		},
 		{
 			"name": "Juggernaut",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Legendary Creature — Human Juggernaut Villain",
 			"collector_number": "135",
@@ -642,7 +642,7 @@
 		},
 		{
 			"name": "Shocker",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Human Rogue Villain",
 			"collector_number": "148",
@@ -652,7 +652,7 @@
 		},
 		{
 			"name": "Gambit",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Mutant Rogue Hero",
 			"collector_number": "127",
@@ -662,7 +662,7 @@
 		},
 		{
 			"name": "Ka-Zar",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Human Warrior Hero",
 			"collector_number": "167",
@@ -672,7 +672,7 @@
 		},
 		{
 			"name": "Ghost Rider",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Spirit Mercenary Hero",
 			"collector_number": "93",
@@ -682,7 +682,7 @@
 		},
 		{
 			"name": "Sinister Scheme",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Sorcery",
 			"collector_number": "110",
@@ -692,7 +692,7 @@
 		},
 		{
 			"name": "Spirit of Vengeance",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Enchantment",
 			"collector_number": "111",
@@ -702,7 +702,7 @@
 		},
 		{
 			"name": "Zabu",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Legendary Creature — Cat Hero",
 			"collector_number": "186",
@@ -712,7 +712,7 @@
 		},
 		{
 			"name": "Vision",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{5}",
 			"type": "Legendary Artifact Creature — Robot Hero",
 			"collector_number": "243",
@@ -722,7 +722,7 @@
 		},
 		{
 			"name": "Silk",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Legendary Creature — Spider Human Hero",
 			"collector_number": "34",
@@ -732,7 +732,7 @@
 		},
 		{
 			"name": "Jessica Jones",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Human Detective Hero",
 			"collector_number": "52",
@@ -742,7 +742,7 @@
 		},
 		{
 			"name": "Shadowcat",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Mutant Hero",
 			"collector_number": "68",
@@ -752,7 +752,7 @@
 		},
 		{
 			"name": "Carnage",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Symbiote Villain",
 			"collector_number": "85",
@@ -762,7 +762,7 @@
 		},
 		{
 			"name": "Venom",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Creature — Symbiote Villain",
 			"collector_number": "114",
@@ -772,7 +772,7 @@
 		},
 		{
 			"name": "Wasp",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Legendary Creature — Human Hero",
 			"collector_number": "74",
@@ -782,7 +782,7 @@
 		},
 		{
 			"name": "Warlock",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Legendary Artifact Creature — Alien Hero",
 			"collector_number": "244",
@@ -792,7 +792,7 @@
 		},
 		{
 			"name": "Thor, God of Thunder",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Legendary Creature — God Warrior Hero",
 			"collector_number": "217",
@@ -802,7 +802,7 @@
 		},
 		{
 			"name": "Peni Parker",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Legendary Creature — Human Artificer Hero",
 			"collector_number": "28",
@@ -812,7 +812,7 @@
 		},
 		{
 			"name": "Anti-Venom",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Legendary Creature — Symbiote Hero",
 			"collector_number": "4",
@@ -822,7 +822,7 @@
 		},
 		{
 			"name": "Edwin Jarvis",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Human Advisor",
 			"collector_number": "13",
@@ -832,7 +832,7 @@
 		},
 		{
 			"name": "Moon Knight, Fist of Khonshu",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Human Mercenary Hero",
 			"collector_number": "25",
@@ -842,7 +842,7 @@
 		},
 		{
 			"name": "Shang-Chi",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Human Warrior Hero",
 			"collector_number": "33",
@@ -852,7 +852,7 @@
 		},
 		{
 			"name": "Falcon",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Human Hero",
 			"collector_number": "14",
@@ -862,7 +862,7 @@
 		},
 		{
 			"name": "Valkyrie",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Creature — God Warrior Hero",
 			"collector_number": "36",
@@ -872,7 +872,7 @@
 		},
 		{
 			"name": "Heimdall, the All-Seeing",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Legendary Creature — God Warrior Hero",
 			"collector_number": "16",
@@ -882,7 +882,7 @@
 		},
 		{
 			"name": "Black Bolt",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Legendary Creature — Inhuman Noble Hero",
 			"collector_number": "7",
@@ -892,7 +892,7 @@
 		},
 		{
 			"name": "Sentry",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Legendary Creature — Human Hero",
 			"collector_number": "32",
@@ -902,7 +902,7 @@
 		},
 		{
 			"name": "Void",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Legendary Creature — Avatar Villain",
 			"collector_number": "6",
@@ -912,7 +912,7 @@
 		},
 		{
 			"name": "Blink",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Mutant Nomad Hero",
 			"collector_number": "42",
@@ -922,7 +922,7 @@
 		},
 		{
 			"name": "Iceman",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Legendary Creature — Mutant Hero",
 			"collector_number": "50",
@@ -932,7 +932,7 @@
 		},
 		{
 			"name": "Mystique",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Mutant Rogue Villain",
 			"collector_number": "60",
@@ -942,7 +942,7 @@
 		},
 		{
 			"name": "Psylocke",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Legendary Creature — Mutant Ninja Hero",
 			"collector_number": "65",
@@ -952,7 +952,7 @@
 		},
 		{
 			"name": "Cable",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Legendary Creature — Mutant Soldier Hero",
 			"collector_number": "43",
@@ -962,7 +962,7 @@
 		},
 		{
 			"name": "Nightcrawler",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Legendary Creature — Mutant Rogue Hero",
 			"collector_number": "61",
@@ -972,7 +972,7 @@
 		},
 		{
 			"name": "Mysterio",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Legendary Creature — Human Artificer Villain",
 			"collector_number": "58",
@@ -982,7 +982,7 @@
 		},
 		{
 			"name": "Elektra",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Legendary Creature — Human Ninja",
 			"collector_number": "92",
@@ -992,7 +992,7 @@
 		},
 		{
 			"name": "Swarm",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Legendary Creature — Insect Villain",
 			"collector_number": "112",
@@ -1002,7 +1002,7 @@
 		},
 		{
 			"name": "Mole Man",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Legendary Creature — Human Villain",
 			"collector_number": "101",
@@ -1012,7 +1012,7 @@
 		},
 		{
 			"name": "Black Cat",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Human Rogue Villain",
 			"collector_number": "81",
@@ -1022,7 +1022,7 @@
 		},
 		{
 			"name": "Morbius",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{B}{B}",
 			"type": "Legendary Creature — Vampire Villain",
 			"collector_number": "102",
@@ -1032,7 +1032,7 @@
 		},
 		{
 			"name": "Crossbones",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{B}{B}",
 			"type": "Legendary Creature — Human Mercenary Villain",
 			"collector_number": "87",
@@ -1042,7 +1042,7 @@
 		},
 		{
 			"name": "The Hood",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Human Warlock Villain",
 			"collector_number": "95",
@@ -1052,7 +1052,7 @@
 		},
 		{
 			"name": "Kingpin",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Creature — Human Villain",
 			"collector_number": "96",
@@ -1062,7 +1062,7 @@
 		},
 		{
 			"name": "Prowler",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Legendary Creature — Human Rogue Villain",
 			"collector_number": "106",
@@ -1072,7 +1072,7 @@
 		},
 		{
 			"name": "Doctor Doom",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Creature — Human Warlock Villain",
 			"collector_number": "89",
@@ -1082,7 +1082,7 @@
 		},
 		{
 			"name": "Omega Red",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Legendary Creature — Mutant Villain",
 			"collector_number": "105",
@@ -1092,7 +1092,7 @@
 		},
 		{
 			"name": "Annihilus",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{5}{B}{B}",
 			"type": "Legendary Creature — Insect Villain",
 			"collector_number": "78",
@@ -1102,7 +1102,7 @@
 		},
 		{
 			"name": "Hela, Goddess of Death",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{B}{B}{B}",
 			"type": "Legendary Creature — God Villain",
 			"collector_number": "94",
@@ -1112,7 +1112,7 @@
 		},
 		{
 			"name": "Quicksilver",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Legendary Creature — Mutant Hero",
 			"collector_number": "141",
@@ -1122,7 +1122,7 @@
 		},
 		{
 			"name": "Red Guardian",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Legendary Creature — Human Soldier Villain",
 			"collector_number": "142",
@@ -1132,7 +1132,7 @@
 		},
 		{
 			"name": "Jubilee",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Mutant Hero",
 			"collector_number": "134",
@@ -1142,7 +1142,7 @@
 		},
 		{
 			"name": "Deadpool",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Legendary Creature — Mutant Mercenary",
 			"collector_number": "121",
@@ -1152,7 +1152,7 @@
 		},
 		{
 			"name": "Pyro",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Mutant Villain",
 			"collector_number": "140",
@@ -1162,7 +1162,7 @@
 		},
 		{
 			"name": "Taskmaster",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Legendary Creature — Human Mercenary Villain",
 			"collector_number": "151",
@@ -1172,7 +1172,7 @@
 		},
 		{
 			"name": "Snowbird",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Legendary Creature — Human Hero",
 			"collector_number": "181",
@@ -1182,7 +1182,7 @@
 		},
 		{
 			"name": "Crystal",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Legendary Creature — Inhuman Noble Hero",
 			"collector_number": "160",
@@ -1192,7 +1192,7 @@
 		},
 		{
 			"name": "Spider-Ham",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Legendary Creature — Spider Boar Hero",
 			"collector_number": "182",
@@ -1202,7 +1202,7 @@
 		},
 		{
 			"name": "Absorbing Man",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Human Rogue Villain",
 			"collector_number": "155",
@@ -1212,7 +1212,7 @@
 		},
 		{
 			"name": "Lizard",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Lizard Villain",
 			"collector_number": "170",
@@ -1222,7 +1222,7 @@
 		},
 		{
 			"name": "Multiple Man",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{X}{X}{G}{G}",
 			"type": "Legendary Creature — Mutant Rogue Hero",
 			"collector_number": "172",
@@ -1232,7 +1232,7 @@
 		},
 		{
 			"name": "Elsa Bloodstone",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Human Ranger Hero",
 			"collector_number": "161",
@@ -1242,7 +1242,7 @@
 		},
 		{
 			"name": "Rogue",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Legendary Creature — Mutant Rogue Hero",
 			"collector_number": "177",
@@ -1252,7 +1252,7 @@
 		},
 		{
 			"name": "Gorilla-Man",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Legendary Creature — Ape Mercenary Hero",
 			"collector_number": "163",
@@ -1262,7 +1262,7 @@
 		},
 		{
 			"name": "Abomination",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Legendary Creature — Giant Villain",
 			"collector_number": "154",
@@ -1272,7 +1272,7 @@
 		},
 		{
 			"name": "Colossus",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Legendary Creature — Mutant Hero",
 			"collector_number": "159",
@@ -1282,7 +1282,7 @@
 		},
 		{
 			"name": "Kraven the Hunter",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Legendary Creature — Human Warrior Villain",
 			"collector_number": "168",
@@ -1292,7 +1292,7 @@
 		},
 		{
 			"name": "Deathlok",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{X}",
 			"type": "Legendary Artifact Creature — Cyborg Hero",
 			"collector_number": "233",
@@ -1302,7 +1302,7 @@
 		},
 		{
 			"name": "Ultron",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{8}",
 			"type": "Legendary Artifact Creature — Robot Villain",
 			"collector_number": "242",
@@ -1312,7 +1312,7 @@
 		},
 		{
 			"name": "Machine Man",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact Creature — Robot Hero",
 			"collector_number": "239",
@@ -1322,7 +1322,7 @@
 		},
 		{
 			"name": "Silver Surfer",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{5}",
 			"type": "Legendary Creature — Alien Scout",
 			"collector_number": "2",
@@ -1332,7 +1332,7 @@
 		},
 		{
 			"name": "Casket of Ancient Winters",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact",
 			"collector_number": "230",
@@ -1342,7 +1342,7 @@
 		},
 		{
 			"name": "Crimson Gem of Cyttorak",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact",
 			"collector_number": "231",
@@ -1352,7 +1352,7 @@
 		},
 		{
 			"name": "Darkhold",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact",
 			"collector_number": "232",
@@ -1362,7 +1362,7 @@
 		},
 		{
 			"name": "Eye of Agamotto",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact",
 			"collector_number": "234",
@@ -1372,7 +1372,7 @@
 		},
 		{
 			"name": "Jade Tiger Amulet",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact",
 			"collector_number": "238",
@@ -1382,7 +1382,7 @@
 		},
 		{
 			"name": "Infinity Gems",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact",
 			"collector_number": "236",
@@ -1392,7 +1392,7 @@
 		},
 		{
 			"name": "Black Vortex",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{5}",
 			"type": "Legendary Artifact",
 			"collector_number": "229",
@@ -1402,7 +1402,7 @@
 		},
 		{
 			"name": "Iron Man Armor",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "237",
@@ -1412,7 +1412,7 @@
 		},
 		{
 			"name": "Staff of One",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Legendary Artifact",
 			"collector_number": "241",
@@ -1422,7 +1422,7 @@
 		},
 		{
 			"name": "Delusions of Grandeur",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{U}{U}{B}",
 			"type": "Instant",
 			"collector_number": "198",
@@ -1432,7 +1432,7 @@
 		},
 		{
 			"name": "Emma Frost",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{U}{B}",
 			"type": "Legendary Creature — Mutant Villain",
 			"collector_number": "200",
@@ -1442,7 +1442,7 @@
 		},
 		{
 			"name": "Bring to Balance",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Sorcery",
 			"collector_number": "193",
@@ -1452,7 +1452,7 @@
 		},
 		{
 			"name": "Wolverine",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Legendary Creature — Mutant Berserker Hero",
 			"collector_number": "218",
@@ -1462,7 +1462,7 @@
 		},
 		{
 			"name": "Cloak and Dagger",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Legendary Creature — Human Hero",
 			"collector_number": "195",
@@ -1472,7 +1472,7 @@
 		},
 		{
 			"name": "Glimpse Infinite Realities",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Instant",
 			"collector_number": "202",
@@ -1482,7 +1482,7 @@
 		},
 		{
 			"name": "Magneto",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{U}{R}",
 			"type": "Legendary Creature — Mutant Villain",
 			"collector_number": "208",
@@ -1492,7 +1492,7 @@
 		},
 		{
 			"name": "Mister Sinister",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{B}{G}",
 			"type": "Legendary Creature — Mutant Scientist Villain",
 			"collector_number": "209",
@@ -1502,7 +1502,7 @@
 		},
 		{
 			"name": "Cyclops",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Legendary Creature — Mutant Hero",
 			"collector_number": "197",
@@ -1512,7 +1512,7 @@
 		},
 		{
 			"name": "The Collector",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Planeswalker — Tivan",
 			"collector_number": "196",
@@ -1522,7 +1522,7 @@
 		},
 		{
 			"name": "The Incredible Hulk",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{5}{R}{G}",
 			"type": "Legendary Creature — Giant Berserker Hero",
 			"collector_number": "204",
@@ -1532,7 +1532,7 @@
 		},
 		{
 			"name": "Daredevil, Man Without Fear",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Creature — Human Hero",
 			"collector_number": "11",
@@ -1542,7 +1542,7 @@
 		},
 		{
 			"name": "Annihilation Wave",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{X}{B}{B}{G}",
 			"type": "Sorcery",
 			"collector_number": "190",
@@ -1552,7 +1552,7 @@
 		},
 		{
 			"name": "Thanos, the Mad Titan",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2/W}{2/U}{2/B}{2/R}{2/G}",
 			"type": "Legendary Planeswalker — Thanos",
 			"collector_number": "216",
@@ -1562,7 +1562,7 @@
 		},
 		{
 			"name": "Scarlet Witch",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Mutant Wizard Hero",
 			"collector_number": "147",
@@ -1572,7 +1572,7 @@
 		},
 		{
 			"name": "Electro",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Villain",
 			"collector_number": "122",
@@ -1582,7 +1582,7 @@
 		},
 		{
 			"name": "Sandman",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Sand Elemental Villain",
 			"collector_number": "178",
@@ -1592,7 +1592,7 @@
 		},
 		{
 			"name": "Sand",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Sand",
 			"collector_number": "10",
@@ -1602,7 +1602,7 @@
 		},
 		{
 			"name": "Professor X",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Mutant Advisor Hero",
 			"collector_number": "63",
@@ -1612,7 +1612,7 @@
 		},
 		{
 			"name": "Winter Soldier",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{B}{B}",
 			"type": "Legendary Creature — Human Assassin Villain",
 			"collector_number": "116",
@@ -1622,7 +1622,7 @@
 		},
 		{
 			"name": "Killmonger",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Creature — Human Villain",
 			"collector_number": "206",
@@ -1632,7 +1632,7 @@
 		},
 		{
 			"name": "Thing",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Legendary Creature — Human Golem Hero",
 			"collector_number": "184",
@@ -1642,7 +1642,7 @@
 		},
 		{
 			"name": "Nightmare",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{U}{B}",
 			"type": "Legendary Planeswalker — Nightmare",
 			"collector_number": "210",
@@ -1652,7 +1652,7 @@
 		},
 		{
 			"name": "Khonshu, God of the Moon",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Legendary Planeswalker — Khonshu",
 			"collector_number": "19",
@@ -1662,7 +1662,7 @@
 		},
 		{
 			"name": "Baron Mordo",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Human Warlock Villain",
 			"collector_number": "80",
@@ -1672,7 +1672,7 @@
 		},
 		{
 			"name": "Ragnarok",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Sorcery",
 			"collector_number": "31",
@@ -1682,7 +1682,7 @@
 		},
 		{
 			"name": "Days of Future Past",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Enchantment — Saga",
 			"collector_number": "47",
@@ -1692,7 +1692,7 @@
 		},
 		{
 			"name": "Preordain",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
 			"collector_number": "62",
@@ -1702,7 +1702,7 @@
 		},
 		{
 			"name": "Vigorous Research",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "73",
@@ -1712,7 +1712,7 @@
 		},
 		{
 			"name": "Mister Fantastic",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Human Scientist Hero",
 			"collector_number": "56",
@@ -1722,7 +1722,7 @@
 		},
 		{
 			"name": "Age of Ultron",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Enchantment — Saga",
 			"collector_number": "77",
@@ -1732,7 +1732,7 @@
 		},
 		{
 			"name": "Human Torch",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Legendary Creature — Human Hero",
 			"collector_number": "132",
@@ -1742,7 +1742,7 @@
 		},
 		{
 			"name": "HERBIE",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact Creature — Robot Hero",
 			"collector_number": "235",
@@ -1752,7 +1752,7 @@
 		},
 		{
 			"name": "Academy Training",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
 			"collector_number": "156",
@@ -1762,7 +1762,7 @@
 		},
 		{
 			"name": "Ghost-Spider",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R/W}{R/W}",
 			"type": "Legendary Creature — Spider Human Hero",
 			"collector_number": "223",
@@ -1772,7 +1772,7 @@
 		},
 		{
 			"name": "Start Your Engines!",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token",
 			"collector_number": "1",
@@ -1782,7 +1782,7 @@
 		},
 		{
 			"name": "Moira X",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Mutant Hero",
 			"collector_number": "57",
@@ -1792,7 +1792,7 @@
 		},
 		{
 			"name": "Rictor",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Legendary Creature — Mutant Druid Hero",
 			"collector_number": "176",
@@ -1802,7 +1802,7 @@
 		},
 		{
 			"name": "The Founding of Krakoa",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{G}",
 			"type": "Enchantment — Saga",
 			"collector_number": "162",
@@ -1812,7 +1812,7 @@
 		},
 		{
 			"name": "Absolute Zero",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "40",
@@ -1822,7 +1822,7 @@
 		},
 		{
 			"name": "Great Power",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
 			"collector_number": "187",
@@ -1832,7 +1832,7 @@
 		},
 		{
 			"name": "Hawkeye (Clint Barton)",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Legendary Creature — Human Archer Hero",
 			"collector_number": "128",
@@ -1842,7 +1842,7 @@
 		},
 		{
 			"name": "Hawkeye (Kate Bishop)",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Legendary Creature — Human Archer Hero",
 			"collector_number": "129",
@@ -1852,7 +1852,7 @@
 		},
 		{
 			"name": "Shadow King's Clutches",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
 			"collector_number": "109",
@@ -1862,7 +1862,7 @@
 		},
 		{
 			"name": "Red Skull",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Skeleton Soldier Villain",
 			"collector_number": "107",
@@ -1872,7 +1872,7 @@
 		},
 		{
 			"name": "Spider-Woman",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W/U}{W/U}",
 			"type": "Legendary Creature — Spider Human Hero",
 			"collector_number": "227",
@@ -1882,7 +1882,7 @@
 		},
 		{
 			"name": "Doctor Octopus",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{5}{U}{U}{U}",
 			"type": "Legendary Creature — Human Artificer Villain",
 			"collector_number": "48",
@@ -1892,7 +1892,7 @@
 		},
 		{
 			"name": "Vulture",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Legendary Creature — Human Rogue Villain",
 			"collector_number": "115",
@@ -1902,7 +1902,7 @@
 		},
 		{
 			"name": "Odin, the All-Father",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Legendary Creature — Odin",
 			"collector_number": "27",
@@ -1912,7 +1912,7 @@
 		},
 		{
 			"name": "Captain America",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Creature — Human Soldier Hero",
 			"collector_number": "9",
@@ -1922,7 +1922,7 @@
 		},
 		{
 			"name": "Rocket Raccoon",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Raccoon Pirate Hero",
 			"collector_number": "143",
@@ -1932,7 +1932,7 @@
 		},
 		{
 			"name": "Beast",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Creature — Mutant Beast Hero",
 			"collector_number": "192",
@@ -1942,7 +1942,7 @@
 		},
 		{
 			"name": "Namor the Sub-Mariner",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{5}{G/U}{G/U}",
 			"type": "Legendary Creature — Mutant Merfolk Noble",
 			"collector_number": "226",
@@ -1952,7 +1952,7 @@
 		},
 		{
 			"name": "Doctor Strange",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Legendary Creature — Human Wizard Hero",
 			"collector_number": "199",
@@ -1962,7 +1962,7 @@
 		},
 		{
 			"name": "Groot",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Legendary Creature — Treefolk Hero",
 			"collector_number": "164",
@@ -1972,7 +1972,7 @@
 		},
 		{
 			"name": "Rewrite Reality",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Instant",
 			"collector_number": "212",
@@ -1982,7 +1982,7 @@
 		},
 		{
 			"name": "War Machine",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Artifact Creature — Human Hero",
 			"collector_number": "38",
@@ -1992,7 +1992,7 @@
 		},
 		{
 			"name": "Squirrel Girl",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Squirrel Human Hero",
 			"collector_number": "183",
@@ -2002,7 +2002,7 @@
 		},
 		{
 			"name": "Bullseye",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Human Assassin Villain",
 			"collector_number": "83",
@@ -2012,7 +2012,7 @@
 		},
 		{
 			"name": "Punisher",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{B}{R}",
 			"type": "Legendary Creature — Human Mercenary",
 			"collector_number": "211",
@@ -2022,7 +2022,7 @@
 		},
 		{
 			"name": "Fastball Special",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{R}{G}",
 			"type": "Instant",
 			"collector_number": "201",
@@ -2032,7 +2032,7 @@
 		},
 		{
 			"name": "Cosmo the Space Dog",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Dog Hero",
 			"collector_number": "10",
@@ -2042,7 +2042,7 @@
 		},
 		{
 			"name": "Nick Fury",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Legendary Creature — Human Soldier Hero",
 			"collector_number": "26",
@@ -2052,7 +2052,7 @@
 		},
 		{
 			"name": "Hulkling",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{X}{G}{U}",
 			"type": "Legendary Creature — Skrull Kree Hero",
 			"collector_number": "203",
@@ -2062,7 +2062,7 @@
 		},
 		{
 			"name": "Ant-Man",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Legendary Creature — Human Scientist Hero",
 			"collector_number": "41",
@@ -2072,7 +2072,7 @@
 		},
 		{
 			"name": "The Coming of Galactus",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Enchantment — Saga",
 			"collector_number": "86",
@@ -2082,7 +2082,7 @@
 		},
 		{
 			"name": "Galactus, Devourer of Worlds",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{8}",
 			"type": "Legendary Planeswalker — Galactus",
 			"collector_number": "1",
@@ -2092,7 +2092,7 @@
 		},
 		{
 			"name": "SPDR",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Artifact — Vehicle",
 			"collector_number": "11",
@@ -2102,7 +2102,7 @@
 		},
 		{
 			"name": "Angel",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Creature — Mutant Hero",
 			"collector_number": "3",
@@ -2112,7 +2112,7 @@
 		},
 		{
 			"name": "All Gods Must Die",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Sorcery",
 			"collector_number": "188",
@@ -2122,7 +2122,7 @@
 		},
 		{
 			"name": "Surtur, Lord of Muspelheim",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Legendary Planeswalker — Surtur",
 			"collector_number": "150",
@@ -2132,7 +2132,7 @@
 		},
 		{
 			"name": "Inferno Titan",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Giant",
 			"collector_number": "8",
@@ -2142,7 +2142,7 @@
 		},
 		{
 			"name": "Mercenary",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Mercenary",
 			"collector_number": "2",
@@ -2152,7 +2152,7 @@
 		},
 		{
 			"name": "Mercenary",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Mercenary",
 			"collector_number": "3",
@@ -2162,7 +2162,7 @@
 		},
 		{
 			"name": "Mercenary",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Mercenary",
 			"collector_number": "4",
@@ -2172,7 +2172,7 @@
 		},
 		{
 			"name": "Mercenary",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Mercenary",
 			"collector_number": "5",
@@ -2182,7 +2182,7 @@
 		},
 		{
 			"name": "Black Panther",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Legendary Creature — Human Noble Hero",
 			"collector_number": "157",
@@ -2192,7 +2192,7 @@
 		},
 		{
 			"name": "Malekith the Accursed",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Elf Warlock Villain",
 			"collector_number": "138",
@@ -2202,7 +2202,7 @@
 		},
 		{
 			"name": "Enchantress",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — God Wizard Villain",
 			"collector_number": "49",
@@ -2212,7 +2212,7 @@
 		},
 		{
 			"name": "Nico Minoru",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Human Warlock Hero",
 			"collector_number": "103",
@@ -2222,7 +2222,7 @@
 		},
 		{
 			"name": "Dum Dum Dugan",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Human Soldier Hero",
 			"collector_number": "12",
@@ -2232,7 +2232,7 @@
 		},
 		{
 			"name": "Blue Marvel",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{W/U}{W/U}",
 			"type": "Legendary Creature — Human Scientist Hero",
 			"collector_number": "221",
@@ -2242,7 +2242,7 @@
 		},
 		{
 			"name": "Kushala, Demon Rider",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Human Warlock Hero",
 			"collector_number": "136",
@@ -2252,7 +2252,7 @@
 		},
 		{
 			"name": "Spirit",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Spirit",
 			"collector_number": "9",
@@ -2262,7 +2262,7 @@
 		},
 		{
 			"name": "Media Persecution",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
 			"collector_number": "98",
@@ -2272,7 +2272,7 @@
 		},
 		{
 			"name": "Storm",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Legendary Creature — Mutant Hero",
 			"collector_number": "71",
@@ -2282,7 +2282,7 @@
 		},
 		{
 			"name": "Jotunheim, Realm of Giants",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "264",
@@ -2292,7 +2292,7 @@
 		},
 		{
 			"name": "Earth-616",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "252",
@@ -2302,7 +2302,7 @@
 		},
 		{
 			"name": "Annihilus",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Legendary Creature — Insect Villain",
 			"collector_number": "79",
@@ -2312,7 +2312,7 @@
 		},
 		{
 			"name": "Gamora, Galaxy's Deadliest",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{B/R}{B/R}",
 			"type": "Legendary Creature — Alien Assassin Hero",
 			"collector_number": "222",
@@ -2322,7 +2322,7 @@
 		},
 		{
 			"name": "Star-Lord",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Legendary Creature — Human Alien Noble Pirate Hero",
 			"collector_number": "149",
@@ -2332,7 +2332,7 @@
 		},
 		{
 			"name": "Fabled Passage",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "254",
@@ -2342,7 +2342,7 @@
 		},
 		{
 			"name": "Rootbound Crag",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "270",
@@ -2352,7 +2352,7 @@
 		},
 		{
 			"name": "Glacial Fortress",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "258",
@@ -2362,7 +2362,7 @@
 		},
 		{
 			"name": "Drowned Catacomb",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "251",
@@ -2372,7 +2372,7 @@
 		},
 		{
 			"name": "Dragonskull Summit",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "250",
@@ -2382,7 +2382,7 @@
 		},
 		{
 			"name": "Hinterland Harbor",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "261",
@@ -2392,7 +2392,7 @@
 		},
 		{
 			"name": "Isolated Chapel",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "263",
@@ -2402,7 +2402,7 @@
 		},
 		{
 			"name": "Sulfur Falls",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "273",
@@ -2412,7 +2412,7 @@
 		},
 		{
 			"name": "Sunpetal Grove",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "274",
@@ -2422,7 +2422,7 @@
 		},
 		{
 			"name": "Woodland Cemetery",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "278",
@@ -2432,7 +2432,7 @@
 		},
 		{
 			"name": "Clifftop Retreat",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "248",
@@ -2442,7 +2442,7 @@
 		},
 		{
 			"name": "A Living Legend Rises",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment — Saga",
 			"collector_number": "20",
@@ -2452,7 +2452,7 @@
 		},
 		{
 			"name": "Friendly Neighborhood",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "257",
@@ -2462,7 +2462,7 @@
 		},
 		{
 			"name": "Treasure",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
 			"collector_number": "12",
@@ -2472,7 +2472,7 @@
 		},
 		{
 			"name": "Soulsword",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "214",
@@ -2482,7 +2482,7 @@
 		},
 		{
 			"name": "Avengers Assemble",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{G}{W}",
 			"type": "Enchantment",
 			"collector_number": "191",
@@ -2492,7 +2492,7 @@
 		},
 		{
 			"name": "Civil War",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Enchantment",
 			"collector_number": "194",
@@ -2502,7 +2502,7 @@
 		},
 		{
 			"name": "The Mighty Thor",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Legendary Creature — God Warrior Hero",
 			"collector_number": "23",
@@ -2512,7 +2512,7 @@
 		},
 		{
 			"name": "Hulkbuster Armor",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Legendary Artifact Creature — Hero Equipment",
 			"collector_number": "131",
@@ -2522,7 +2522,7 @@
 		},
 		{
 			"name": "Muspelheim, Realm of Fire",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "266",
@@ -2532,7 +2532,7 @@
 		},
 		{
 			"name": "Niffleheim, Realm of the Dead",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "268",
@@ -2542,7 +2542,7 @@
 		},
 		{
 			"name": "Nidavellir, Realm of Dwarves",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "267",
@@ -2552,7 +2552,7 @@
 		},
 		{
 			"name": "Svartalfheim, Realm of Dark Elves",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "275",
@@ -2562,7 +2562,7 @@
 		},
 		{
 			"name": "Heven, Realm of Angels",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "260",
@@ -2572,7 +2572,7 @@
 		},
 		{
 			"name": "Asgard, Realm of Gods",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "246",
@@ -2582,7 +2582,7 @@
 		},
 		{
 			"name": "Alfheim, Realm of Elves",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "245",
@@ -2592,7 +2592,7 @@
 		},
 		{
 			"name": "Vanaheim, Realm of Old Gods",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "277",
@@ -2602,7 +2602,7 @@
 		},
 		{
 			"name": "Midgard, Realm of Mortals",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "265",
@@ -2612,7 +2612,7 @@
 		},
 		{
 			"name": "Devil",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Devil",
 			"collector_number": "7",
@@ -2622,7 +2622,7 @@
 		},
 		{
 			"name": "Mockingbird",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Human Soldier Hero",
 			"collector_number": "24",
@@ -2632,7 +2632,7 @@
 		},
 		{
 			"name": "The Sensational She-Hulk",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{G}{W}",
 			"type": "Legendary Creature — Giant Advisor Hero",
 			"collector_number": "213",
@@ -2642,7 +2642,7 @@
 		},
 		{
 			"name": "Hit-Monkey",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B/G}",
 			"type": "Legendary Creature — Monkey Assassin",
 			"collector_number": "224",
@@ -2652,7 +2652,7 @@
 		},
 		{
 			"name": "Ego the Living Planet",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land — Planet",
 			"collector_number": "253",
@@ -2662,7 +2662,7 @@
 		},
 		{
 			"name": "Kang the Conqueror",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Legendary Planeswalker — Kang",
 			"collector_number": "53",
@@ -2702,7 +2702,7 @@
 		},
 		{
 			"name": "(The Maker Rewrites History)",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Enchantment — Saga",
 			"collector_number": "39",
@@ -2712,7 +2712,7 @@
 		},
 		{
 			"name": "The Runaways",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Legendary Creature — Human Alien Mutant Hero",
 			"collector_number": "145",
@@ -2722,7 +2722,7 @@
 		},
 		{
 			"name": "The Runaways",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Legendary Creature — Human Alien Mutant Hero",
 			"collector_number": "144",
@@ -2732,7 +2732,7 @@
 		},
 		{
 			"name": "Secret Invasion",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Enchantment — Saga",
 			"collector_number": "67",
@@ -2742,7 +2742,7 @@
 		},
 		{
 			"name": "Planet Hulk",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Enchantment — Saga",
 			"collector_number": "139",
@@ -2752,7 +2752,7 @@
 		},
 		{
 			"name": "(Agatha Harkness)",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Legendary Planeswalker — Agatha",
 			"collector_number": "75",
@@ -2762,7 +2762,7 @@
 		},
 		{
 			"name": "(Morlun, the Inheritor)",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Planeswalker — Morlun",
 			"collector_number": "76",
@@ -2772,7 +2772,7 @@
 		},
 		{
 			"name": "Wonder Man",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Legendary Creature — Human Elemental Hero",
 			"collector_number": "153",
@@ -2782,7 +2782,7 @@
 		},
 		{
 			"name": "Lizard",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Legendary Creature — Lizard Human Villain",
 			"collector_number": "207",
@@ -2792,7 +2792,7 @@
 		},
 		{
 			"name": "Scorpion",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Creature — Scorpion Human Villain",
 			"collector_number": "108",
@@ -2802,7 +2802,7 @@
 		},
 		{
 			"name": "Boomerang",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Legendary Creature — Human Rogue Villain",
 			"collector_number": "118",
@@ -2812,7 +2812,7 @@
 		},
 		{
 			"name": "Chameleon",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Legendary Creature — Human Shapeshifter Villain",
 			"collector_number": "44",
@@ -2822,7 +2822,7 @@
 		},
 		{
 			"name": "Scarlet Scarab, Blade of Taweret",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Human Scout Hero",
 			"collector_number": "146",
@@ -2832,7 +2832,7 @@
 		},
 		{
 			"name": "Canyon Slough",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Swamp Mountain",
 			"collector_number": "247",
@@ -2842,7 +2842,7 @@
 		},
 		{
 			"name": "Coastal Peak",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Island Mountain",
 			"collector_number": "249",
@@ -2852,7 +2852,7 @@
 		},
 		{
 			"name": "Rain-Slicked Copse",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Forest Island",
 			"collector_number": "269",
@@ -2862,7 +2862,7 @@
 		},
 		{
 			"name": "Fetid Pools",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Island Swamp",
 			"collector_number": "256",
@@ -2872,7 +2872,7 @@
 		},
 		{
 			"name": "Irrigated Farmland",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Plains Island",
 			"collector_number": "262",
@@ -2882,7 +2882,7 @@
 		},
 		{
 			"name": "Glittering Massif",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain Plains",
 			"collector_number": "259",
@@ -2892,7 +2892,7 @@
 		},
 		{
 			"name": "Umbral Expanse",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp",
 			"collector_number": "276",
@@ -2902,7 +2902,7 @@
 		},
 		{
 			"name": "Festering Thicket",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Swamp Forest",
 			"collector_number": "255",
@@ -2912,7 +2912,7 @@
 		},
 		{
 			"name": "Scattered Groves",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Forest Plains",
 			"collector_number": "271",
@@ -2922,7 +2922,7 @@
 		},
 		{
 			"name": "Sheltered Thicket",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest",
 			"collector_number": "272",
@@ -2972,284 +2972,289 @@
 		}
 	]
 
-[rare(1)]
-[uncommon(3)]
-[common(10)]
-	5 The Amazing Spider-Man
-	5 Portal Hopping
-	5 Invisible Woman
-	5 Spider-Man Noir
-	5 Silvermane
-	5 Iron Man, Armored Avenger
-	5 Astral Projection
-	5 Journey into Mystery
-	5 Magik
-	5 Blind Justice
-	5 Banish to Limbo
-	5 Purge the Occult
-	5 Spider-Man 2099
-	5 Vibranium Shield
-	5 Suit Up
-	5 Consider
-	5 Psychic Knife
-	5 Two Steps Ahead
-	5 Mystic Arts
-	5 Imperius Rex!
-	5 Crack the Case
-	5 The Maker
-	5 Rescue Armor
-	5 Shifting Identity
-	5 Burning Fear
-	5 Take Aim
-	5 Elegy
-	5 Death Spores
-	5 No More
-	5 Mister Negative
-	5 Mephisto
-	5 Knull, King in Black
-	5 Dormammu
-	5 Trickshot
-	5 Fin Fang Foom
-	5 Fatal Attractions
-	5 Energy Conduit
-	5 Fortune Favors the Bold
-	5 Life-Model Decoy
-	5 High Evolutionary
-	5 A Day Unlike Any Other
-	5 Hell Cycle
-	5 Crowd Favorite
-	5 Savage Land Expedition
-	5 Seismic Shifting
-	5 Into the Cosmos
-	5 Origin Story
-	5 Kraven's Last Hunt
-	5 Clobber
-	5 Maestro
-	5 Plot Armor
-	5 Red Ghost
-	5 Black Widow
-	5 Havok
-	5 Loki, God of Mischief
-	5 White Tiger
-	5 Blade
-	5 Man-Thing
-	5 Lock Up
-	5 Warpath
-	5 Brood Spawning
-	5 Bishop
-	5 Iron Fist
-	5 Juggernaut
-	5 Shocker
-	5 Gambit
-	5 Ka-Zar
-	5 Ghost Rider
-	5 Sinister Scheme
-	5 Spirit of Vengeance
-	5 Zabu
-	5 Vision
-	5 Silk
-	5 Jessica Jones
-	5 Shadowcat
-	5 Carnage
-	5 Venom
-	5 Wasp
-	5 Warlock
-	5 Thor, God of Thunder
-	5 Peni Parker
-	5 Anti-Venom
-	5 Edwin Jarvis
-	5 Moon Knight, Fist of Khonshu
-	5 Shang-Chi
-	5 Falcon
-	5 Valkyrie
-	5 Heimdall, the All-Seeing
-	5 Black Bolt
-	5 Sentry
-	5 Blink
-	5 Iceman
-	5 Mystique
-	5 Psylocke
-	5 Cable
-	5 Nightcrawler
-	5 Mysterio
-	5 Elektra
-	5 Swarm
-	5 Mole Man
-	5 Black Cat
-	5 Morbius
-	5 Crossbones
-	5 The Hood
-	5 Kingpin
-	5 Prowler
-	5 Doctor Doom
-	5 Omega Red
-	5 Annihilus
-	5 Hela, Goddess of Death
-	5 Quicksilver
-	5 Red Guardian
-	5 Jubilee
-	5 Deadpool
-	5 Pyro
-	5 Taskmaster
-	5 Snowbird
-	5 Crystal
-	5 Spider-Ham
-	5 Absorbing Man
-	5 Lizard
-	5 Multiple Man
-	5 Elsa Bloodstone
-	5 Rogue
-	5 Gorilla-Man
-	5 Abomination
-	5 Colossus
-	5 Kraven the Hunter
-	5 Deathlok
-	5 Ultron
-	5 Machine Man
-	5 Silver Surfer
-	5 Casket of Ancient Winters
-	5 Crimson Gem of Cyttorak
-	5 Darkhold
-	5 Eye of Agamotto
-	5 Jade Tiger Amulet
-	5 Infinity Gems
-	5 Black Vortex
-	5 Iron Man Armor
-	5 Staff of One
-	5 Delusions of Grandeur
-	5 Emma Frost
-	5 Bring to Balance
-	5 Wolverine
-	5 Cloak and Dagger
-	5 Glimpse Infinite Realities
-	5 Magneto
-	5 Mister Sinister
-	5 Cyclops
-	5 The Collector
-	5 The Incredible Hulk
-	5 Daredevil, Man Without Fear
-	5 Annihilation Wave
-	5 Thanos, the Mad Titan
-	5 Scarlet Witch
-	5 Electro
-	5 Sandman
-	5 Professor X
-	5 Winter Soldier
-	5 Killmonger
-	5 Thing
-	5 Nightmare
-	5 Khonshu, God of the Moon
-	5 Baron Mordo
-	5 Ragnarok
-	5 Days of Future Past
-	5 Preordain
-	5 Vigorous Research
-	5 Mister Fantastic
-	5 Age of Ultron
-	5 Human Torch
-	5 HERBIE
-	5 Academy Training
-	5 Ghost-Spider
-	5 Moira X
-	5 Rictor
-	5 The Founding of Krakoa
-	5 Absolute Zero
-	5 Great Power
-	5 Hawkeye (Clint Barton)
-	5 Hawkeye (Kate Bishop)
-	5 Shadow King's Clutches
-	5 Red Skull
-	5 Spider-Woman
-	5 Doctor Octopus
-	5 Vulture
-	5 Odin, the All-Father
-	5 Captain America
-	5 Rocket Raccoon
-	5 Beast
-	5 Namor the Sub-Mariner
-	5 Doctor Strange
-	5 Groot
-	5 Rewrite Reality
-	5 War Machine
-	5 Squirrel Girl
-	5 Bullseye
-	5 Punisher
-	5 Fastball Special
-	5 Cosmo the Space Dog
-	5 Nick Fury
-	5 Hulkling
-	5 Ant-Man
-	5 The Coming of Galactus
-	5 Galactus, Devourer of Worlds
-	5 Angel
-	5 All Gods Must Die
-	5 Surtur, Lord of Muspelheim
-	5 Black Panther
-	5 Malekith the Accursed
-	5 Enchantress
-	5 Nico Minoru
-	5 Dum Dum Dugan
-	5 Blue Marvel
-	5 Kushala, Demon Rider
-	5 Media Persecution
-	5 Storm
-	5 Jotunheim, Realm of Giants
-	5 Earth-616
-	5 Annihilus
-	5 Gamora, Galaxy's Deadliest
-	5 Star-Lord
-	5 Fabled Passage
-	5 Rootbound Crag
-	5 Glacial Fortress
-	5 Drowned Catacomb
-	5 Dragonskull Summit
-	5 Hinterland Harbor
-	5 Isolated Chapel
-	5 Sulfur Falls
-	5 Sunpetal Grove
-	5 Woodland Cemetery
-	5 Clifftop Retreat
-	5 A Living Legend Rises
-	5 Friendly Neighborhood
-	5 Soulsword
-	5 Avengers Assemble
-	5 Civil War
-	5 The Mighty Thor
-	5 Hulkbuster Armor
-	5 Muspelheim, Realm of Fire
-	5 Niffleheim, Realm of the Dead
-	5 Nidavellir, Realm of Dwarves
-	5 Svartalfheim, Realm of Dark Elves
-	5 Heven, Realm of Angels
-	5 Asgard, Realm of Gods
-	5 Alfheim, Realm of Elves
-	5 Vanaheim, Realm of Old Gods
-	5 Midgard, Realm of Mortals
-	5 Mockingbird
-	5 The Sensational She-Hulk
-	5 Hit-Monkey
-	5 Ego the Living Planet
-	5 Kang the Conqueror
-	5 (The Maker Rewrites History)
-	5 The Runaways
-	5 The Runaways
-	5 Secret Invasion
-	5 Planet Hulk
-	5 (Agatha Harkness)
-	5 (Morlun, the Inheritor)
-	5 Wonder Man
-	5 Lizard
-	5 Scorpion
-	5 Boomerang
-	5 Chameleon
-	5 Scarlet Scarab, Blade of Taweret
-	5 Canyon Slough
-	5 Coastal Peak
-	5 Rain-Slicked Copse
-	5 Fetid Pools
-	5 Irrigated Farmland
-	5 Glittering Massif
-	5 Umbral Expanse
-	5 Festering Thicket
-	5 Scattered Groves
-	5 Sheltered Thicket
+[cube(15)]
+	1 The Amazing Spider-Man
+	1 Portal Hopping
+	1 Invisible Woman
+	1 Spider-Man Noir
+	1 Silvermane
+	1 Iron Man, Armored Avenger
+	1 Astral Projection
+	1 Journey into Mystery
+	1 Magik
+	1 Blind Justice
+	1 Banish to Limbo
+	1 Purge the Occult
+	1 Spider-Man 2099
+	1 Vibranium Shield
+	1 Suit Up
+	1 Consider
+	1 Psychic Knife
+	1 Two Steps Ahead
+	1 Mystic Arts
+	1 Imperius Rex!
+	1 Crack the Case
+	1 The Maker
+	1 Rescue Armor
+	1 Shifting Identity
+	1 Burning Fear
+	1 Take Aim
+	1 Elegy
+	1 Death Spores
+	1 No More
+	1 Mister Negative
+	1 Mephisto
+	1 Knull, King in Black
+	1 Dormammu
+	1 Trickshot
+	1 Fin Fang Foom
+	1 Fatal Attractions
+	1 Energy Conduit
+	1 Fortune Favors the Bold
+	1 Life-Model Decoy
+	1 High Evolutionary
+	1 A Day Unlike Any Other
+	1 Hell Cycle
+	1 Crowd Favorite
+	1 Savage Land Expedition
+	1 Seismic Shifting
+	1 Into the Cosmos
+	1 Origin Story
+	1 Kraven's Last Hunt
+	1 Clobber
+	1 Maestro
+	1 Plot Armor
+	1 Red Ghost
+	1 Black Widow
+	1 Havok
+	1 Loki, God of Mischief
+	1 White Tiger
+	1 Blade
+	1 Man-Thing
+	1 Lock Up
+	1 Warpath
+	1 Brood Spawning
+	1 Bishop
+	1 Iron Fist
+	1 Juggernaut
+	1 Shocker
+	1 Gambit
+	1 Ka-Zar
+	1 Ghost Rider
+	1 Sinister Scheme
+	1 Spirit of Vengeance
+	1 Zabu
+	1 Vision
+	1 Silk
+	1 Jessica Jones
+	1 Shadowcat
+	1 Carnage
+	1 Venom
+	1 Wasp
+	1 Warlock
+	1 Thor, God of Thunder
+	1 Peni Parker
+	1 Anti-Venom
+	1 Edwin Jarvis
+	1 Moon Knight, Fist of Khonshu
+	1 Shang-Chi
+	1 Falcon
+	1 Valkyrie
+	1 Heimdall, the All-Seeing
+	1 Black Bolt
+	1 Sentry
+	1 Blink
+	1 Iceman
+	1 Mystique
+	1 Psylocke
+	1 Cable
+	1 Nightcrawler
+	1 Mysterio
+	1 Elektra
+	1 Swarm
+	1 Mole Man
+	1 Black Cat
+	1 Morbius
+	1 Crossbones
+	1 The Hood
+	1 Kingpin
+	1 Prowler
+	1 Doctor Doom
+	1 Omega Red
+	1 Annihilus
+	1 Hela, Goddess of Death
+	1 Quicksilver
+	1 Red Guardian
+	1 Jubilee
+	1 Deadpool
+	1 Pyro
+	1 Taskmaster
+	1 Snowbird
+	1 Crystal
+	1 Spider-Ham
+	1 Absorbing Man
+	1 Lizard
+	1 Multiple Man
+	1 Elsa Bloodstone
+	1 Rogue
+	1 Gorilla-Man
+	1 Abomination
+	1 Colossus
+	1 Kraven the Hunter
+	1 Deathlok
+	1 Ultron
+	1 Machine Man
+	1 Silver Surfer
+	1 Casket of Ancient Winters
+	1 Crimson Gem of Cyttorak
+	1 Darkhold
+	1 Eye of Agamotto
+	1 Jade Tiger Amulet
+	1 Infinity Gems
+	1 Black Vortex
+	1 Iron Man Armor
+	1 Staff of One
+	1 Delusions of Grandeur
+	1 Emma Frost
+	1 Bring to Balance
+	1 Wolverine
+	1 Cloak and Dagger
+	1 Glimpse Infinite Realities
+	1 Magneto
+	1 Mister Sinister
+	1 Cyclops
+	1 The Collector
+	1 The Incredible Hulk
+	1 Daredevil, Man Without Fear
+	1 Annihilation Wave
+	1 Thanos, the Mad Titan
+	1 Scarlet Witch
+	1 Electro
+	1 Sandman
+	1 Professor X
+	1 Winter Soldier
+	1 Killmonger
+	1 Thing
+	1 Nightmare
+	1 Khonshu, God of the Moon
+	1 Baron Mordo
+	1 Ragnarok
+	1 Days of Future Past
+	1 Preordain
+	1 Vigorous Research
+	1 Mister Fantastic
+	1 Age of Ultron
+	1 Human Torch
+	1 HERBIE
+	1 Academy Training
+	1 Ghost-Spider
+	1 Moira X
+	1 Rictor
+	1 The Founding of Krakoa
+	1 Absolute Zero
+	1 Great Power
+	1 Hawkeye (Clint Barton)
+	1 Hawkeye (Kate Bishop)
+	1 Shadow King's Clutches
+	1 Red Skull
+	1 Spider-Woman
+	1 Doctor Octopus
+	1 Vulture
+	1 Odin, the All-Father
+	1 Captain America
+	1 Rocket Raccoon
+	1 Beast
+	1 Namor the Sub-Mariner
+	1 Doctor Strange
+	1 Groot
+	1 Rewrite Reality
+	1 War Machine
+	1 Squirrel Girl
+	1 Bullseye
+	1 Punisher
+	1 Fastball Special
+	1 Cosmo the Space Dog
+	1 Nick Fury
+	1 Hulkling
+	1 Ant-Man
+	1 The Coming of Galactus
+	1 Galactus, Devourer of Worlds
+	1 Angel
+	1 All Gods Must Die
+	1 Surtur, Lord of Muspelheim
+	1 Black Panther
+	1 Malekith the Accursed
+	1 Enchantress
+	1 Nico Minoru
+	1 Dum Dum Dugan
+	1 Blue Marvel
+	1 Kushala, Demon Rider
+	1 Media Persecution
+	1 Storm
+	1 Jotunheim, Realm of Giants
+	1 Earth-616
+	1 Annihilus
+	1 Gamora, Galaxy's Deadliest
+	1 Star-Lord
+	1 Fabled Passage
+	1 Rootbound Crag
+	1 Glacial Fortress
+	1 Drowned Catacomb
+	1 Dragonskull Summit
+	1 Hinterland Harbor
+	1 Isolated Chapel
+	1 Sulfur Falls
+	1 Sunpetal Grove
+	1 Woodland Cemetery
+	1 Clifftop Retreat
+	1 A Living Legend Rises
+	1 Friendly Neighborhood
+	1 Soulsword
+	1 Avengers Assemble
+	1 Civil War
+	1 The Mighty Thor
+	1 Hulkbuster Armor
+	1 Muspelheim, Realm of Fire
+	1 Niffleheim, Realm of the Dead
+	1 Nidavellir, Realm of Dwarves
+	1 Svartalfheim, Realm of Dark Elves
+	1 Heven, Realm of Angels
+	1 Asgard, Realm of Gods
+	1 Alfheim, Realm of Elves
+	1 Vanaheim, Realm of Old Gods
+	1 Midgard, Realm of Mortals
+	1 Mockingbird
+	1 The Sensational She-Hulk
+	1 Hit-Monkey
+	1 Ego the Living Planet
+	1 Kang the Conqueror
+	1 Kang the Conqueror (Rama-Tut)
+	1 Kang the Conqueror (Immortus)
+	1 Kang the Conqueror (Scarlet Centurion)
+	1 (The Maker Rewrites History)
+	1 The Runaways
+	1 The Runaways
+	1 Secret Invasion
+	1 Planet Hulk
+	1 (Agatha Harkness)
+	1 (Morlun, the Inheritor)
+	1 Wonder Man
+	1 Lizard
+	1 Scorpion
+	1 Boomerang
+	1 Chameleon
+	1 Scarlet Scarab, Blade of Taweret
+	1 Canyon Slough
+	1 Coastal Peak
+	1 Rain-Slicked Copse
+	1 Fetid Pools
+	1 Irrigated Farmland
+	1 Glittering Massif
+	1 Umbral Expanse
+	1 Festering Thicket
+	1 Scattered Groves
+	1 Sheltered Thicket
+	1 The Amazing Spider-Man
+	1 The Incredible Hulk
+	1 Iron Man, Armored Avenger
+	1 Thor, God of Thunder
