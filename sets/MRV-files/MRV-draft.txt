@@ -2939,36 +2939,6 @@
 			"image_uris": {
 				"en": "https://schwa77.github.io/sets/MRV-files/img/293.png"
 			}
-		},
-		{
-			"name": "The Incredible Hulk",
-			"rarity": "special",
-			"mana_cost": "{5}{R}{G}",
-			"type": "Legendary Creature — Giant Berserker Hero",
-			"collector_number": "283",
-			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MRV-files/img/294.png"
-			}
-		},
-		{
-			"name": "Iron Man, Armored Avenger",
-			"rarity": "special",
-			"mana_cost": "{3}{U}{R}",
-			"type": "Legendary Artifact Creature — Human Hero",
-			"collector_number": "284",
-			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MRV-files/img/295.png"
-			}
-		},
-		{
-			"name": "Thor, God of Thunder",
-			"rarity": "special",
-			"mana_cost": "{3}{R}{W}",
-			"type": "Legendary Creature — God Warrior Hero",
-			"collector_number": "285",
-			"image_uris": {
-				"en": "https://schwa77.github.io/sets/MRV-files/img/296.png"
-			}
 		}
 	]
 
@@ -3181,7 +3151,6 @@
 	1 Galactus, Devourer of Worlds
 	1 Angel
 	1 All Gods Must Die
-	1 Surtur, Lord of Muspelheim
 	1 Black Panther
 	1 Malekith the Accursed
 	1 Enchantress
@@ -3228,16 +3197,8 @@
 	1 Hit-Monkey
 	1 Ego the Living Planet
 	1 Kang the Conqueror
-	1 Kang the Conqueror (Rama-Tut)
-	1 Kang the Conqueror (Immortus)
-	1 Kang the Conqueror (Scarlet Centurion)
-	1 (The Maker Rewrites History)
-	1 The Runaways
-	1 The Runaways
 	1 Secret Invasion
 	1 Planet Hulk
-	1 (Agatha Harkness)
-	1 (Morlun, the Inheritor)
 	1 Wonder Man
 	1 Lizard
 	1 Scorpion
@@ -3254,7 +3215,3 @@
 	1 Festering Thicket
 	1 Scattered Groves
 	1 Sheltered Thicket
-	1 The Amazing Spider-Man
-	1 The Incredible Hulk
-	1 Iron Man, Armored Avenger
-	1 Thor, God of Thunder
